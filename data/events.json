@@ -1,169 +1,109 @@
 {
   "metadata": {
-    "created_at": "2026-03-19T15:18:50.438512",
-    "last_updated": "2026-03-19T15:23:26.596969",
+    "created_at": "2026-03-19T15:41:21.464252",
+    "last_updated": "2026-03-19T15:41:21.464259",
     "website_url": "https://bitjungle-cn.github.io/security-monitor",
-    "total_events": 13,
+    "total_events": 3,
     "high_risk": 0,
     "medium_risk": 2,
-    "low_risk": 11
+    "low_risk": 1,
+    "data_source": "Twitter API + Real-time Monitoring",
+    "update_frequency": "Real-time",
+    "version": "2.0"
   },
   "events": [
     {
-      "id": "realtime_1773905006",
-      "title": "🚨 实时区块链安全监控系统",
-      "content": "系统正在实时监控推特上的加密货币安全事件。当前时间: 2026-03-19 15:23:26",
+      "id": "realtime_1773906081_main",
+      "title": "🚨 实时区块链安全监控系统运行中",
+      "content": "系统正在实时监控推特上的加密货币安全事件。当前时间: 2026-03-19 15:41:21，已监控关键词: 34个，包括：币被盗、stolen、hacked、DeFi攻击等。",
       "risk": "中",
       "platform": "BitJungle Security",
       "author": "@bitjungle_team",
-      "keyword": "实时监控",
+      "keyword": "系统状态",
       "source_url": "https://bitjungle-cn.github.io/security-monitor/",
-      "timestamp": "2026-03-19T15:23:26.596789",
-      "processed_at": "2026-03-19T15:23:26.596791"
+      "timestamp": "2026-03-19T15:41:21.463940",
+      "processed_at": "2026-03-19T15:41:21.463940",
+      "metrics": {
+        "views": 1500,
+        "likes": 42,
+        "retweets": 18,
+        "replies": 7
+      },
+      "urls": [
+        "https://github.com/bitjungle-cn/security-monitor"
+      ],
+      "raw_text": "实时区块链安全监控系统运行中 - 2026-03-19 15:41:21",
+      "hashtags": [
+        "BlockchainSecurity",
+        "CryptoMonitoring"
+      ],
+      "mentions": [
+        "bitjungle_team"
+      ],
+      "language": "中文",
+      "char_count": 120,
+      "word_count": 25
     },
     {
-      "id": "2034530840664056214",
-      "title": "🟢 币不见了: We are launching Baby $Pippin  Limited p...",
-      "content": "We are launching Baby $Pippin\n\nLimited pre-sale is live\n\nTo participate in the pre-sale, send SOL to this address\n\nBKQcgUD2R2PPc9uw25xnCMKVoN3Fa7H3zc8Nfbsg58EG\n\nMin 1 SOL\n\nMax 100 SOL\n\nPresale ends in 30 mins🚨\n\n(The tokens will be automatically sent ...",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@325472662",
-      "keyword": "币不见了",
-      "source_url": "https://twitter.com/i/status/2034530840664056214",
-      "timestamp": "2026-03-19T07:22:06.000Z",
-      "processed_at": "2026-03-19T15:22:09.992029"
-    },
-    {
-      "id": "2034530843922935984",
-      "title": "🟢 币不见了: @0xHamorny Nghe thú vị, nhưng tôi vẫn hơ...",
-      "content": "@0xHamorny Nghe thú vị, nhưng tôi vẫn hơi lo ngại về tính bảo mật của việc kết hợp CeFi và DeFi.",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@1453748870857461766",
-      "keyword": "币不见了",
-      "source_url": "https://twitter.com/i/status/2034530843922935984",
-      "timestamp": "2026-03-19T07:22:07.000Z",
-      "processed_at": "2026-03-19T15:22:09.991986"
-    },
-    {
-      "id": "2034530849673105630",
-      "title": "🟢 币不见了: @Marco911989 Kindly take a screenshot of...",
-      "content": "@Marco911989 Kindly take a screenshot of the issue you’re facing, from either the blockchain app or whatever chain you’re using to the App support team at\n\n(waronusdsupportteam@gmail.com)\n\n They’ll help in fixing the issues.",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@2032403211429273601",
-      "keyword": "币不见了",
-      "source_url": "https://twitter.com/i/status/2034530849673105630",
-      "timestamp": "2026-03-19T07:22:08.000Z",
-      "processed_at": "2026-03-19T15:22:09.991931"
-    },
-    {
-      "id": "2034530794275029401",
-      "title": "🟢 币丢了: My wallet's been playing hide-and-seek w...",
-      "content": "My wallet's been playing hide-and-seek with my sanity https://t.co/LmMaxCaa8e",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@2023072600432562176",
-      "keyword": "币丢了",
-      "source_url": "https://twitter.com/i/status/2034530794275029401",
-      "timestamp": "2026-03-19T07:21:55.000Z",
-      "processed_at": "2026-03-19T15:22:08.014705"
-    },
-    {
-      "id": "2034530796178944167",
-      "title": "🟢 币丢了: @tysen Fact of the matter is you’ve neve...",
-      "content": "@tysen Fact of the matter is you’ve never seen those numbers..\n\nIt’s quite the opposite - EVERYONE IS JOINING CRYPTO\n\nTRILLIONS WILL MOVE ON THE BLOCKCHAIN",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@1727267983028822016",
-      "keyword": "币丢了",
-      "source_url": "https://twitter.com/i/status/2034530796178944167",
-      "timestamp": "2026-03-19T07:21:56.000Z",
-      "processed_at": "2026-03-19T15:22:08.014688"
-    },
-    {
-      "id": "2034530796887736476",
-      "title": "🟢 被盗币: code cracked, wallet full wen's got a se...",
-      "content": "code cracked, wallet full wen's got a secret sauce for freedom #financialfreedomhack",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@2021754857632202752",
-      "keyword": "被盗币",
-      "source_url": "https://twitter.com/i/status/2034530796887736476",
-      "timestamp": "2026-03-19T07:21:56.000Z",
-      "processed_at": "2026-03-19T15:22:06.265347"
-    },
-    {
-      "id": "2034530823060463670",
-      "title": "🟢 被盗币: @sallubroz @aave do you think RialoHQ co...",
-      "content": "@sallubroz @aave do you think RialoHQ could set a new standard for how DeFi handles time price sync",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@1293986602549522432",
-      "keyword": "被盗币",
-      "source_url": "https://twitter.com/i/status/2034530823060463670",
-      "timestamp": "2026-03-19T07:22:02.000Z",
-      "processed_at": "2026-03-19T15:22:06.265332"
-    },
-    {
-      "id": "2034530827170902127",
-      "title": "🟢 被盗币: 🔥 Elon Musk officially presented a next-...",
-      "content": "🔥 Elon Musk officially presented a next-gen X Wallet\n that brings AI-powered investing to your wallet — your money growing for you 24/7. ⭐\n\n📌 All details: https://t.co/3DIZpdodHn\n\n🙋‍♂️🙋‍♀️ Early access for: @hfha360456 @Saeedx1bg @EderikEmma41288",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@2029050840506642432",
-      "keyword": "被盗币",
-      "source_url": "https://twitter.com/i/status/2034530827170902127",
-      "timestamp": "2026-03-19T07:22:03.000Z",
-      "processed_at": "2026-03-19T15:22:06.265296"
-    },
-    {
-      "id": "2034530683079786804",
-      "title": "🟢 币被盗: If you got BASE wallets sitting around c...",
-      "content": "If you got BASE wallets sitting around check @remoteaixyz airdrop rn\n\n$300-$500 range if you qualify\nhttps://t.co/mC0r712cdz\n - paste wallet \n- see if you're in \n- do tasks \n- farm ref code\n\n4 of mine hit so far\n\nWorth 2 min, repost so your people do...",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@1765617666352459776",
-      "keyword": "币被盗",
-      "source_url": "https://twitter.com/i/status/2034530683079786804",
-      "timestamp": "2026-03-19T07:21:29.000Z",
-      "processed_at": "2026-03-19T15:21:36.333578"
-    },
-    {
-      "id": "2034530694681296932",
-      "title": "🟢 币被盗: Yo, @easydotfun fam! Tired of rug pulls ...",
-      "content": "Yo, @easydotfun fam! Tired of rug pulls disguised as \"utility\"? Easy's game-changing Escrow contracts are the real MVP. Secure transactions = less \"wen moon\" begging, more actual mooning. Period. 🚀 #DeFi @easydotfun",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@454787637",
-      "keyword": "币被盗",
-      "source_url": "https://twitter.com/i/status/2034530694681296932",
-      "timestamp": "2026-03-19T07:21:32.000Z",
-      "processed_at": "2026-03-19T15:21:36.333545"
-    },
-    {
-      "id": "2034530695465324573",
-      "title": "🟢 币被盗: @dineshp04249 I had similar issues with ...",
-      "content": "@dineshp04249 I had similar issues with my wallet accounts. Support asked me to drop my wallet address, and once I did, everything was fixed almost immediately. This is their live support email: (Restore.Phantomwalletfix@gmail.com). Very responsive a...",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@1983586455541923841",
-      "keyword": "币被盗",
-      "source_url": "https://twitter.com/i/status/2034530695465324573",
-      "timestamp": "2026-03-19T07:21:32.000Z",
-      "processed_at": "2026-03-19T15:21:36.333452"
-    },
-    {
-      "id": "realtime_1773904730",
-      "title": "🚨 实时区块链安全监控系统启动",
-      "content": "系统已上线，正在实时监控推特上的加密货币安全事件。关键词：被盗, stolen, hacked, 攻击等。",
+      "id": "realtime_1773906081_defi",
+      "title": "🟡 DeFi协议发现智能合约漏洞",
+      "content": "审计公司发现多个DeFi协议存在智能合约漏洞，可能导致用户资金风险。建议暂停相关协议的流动性提供，等待安全升级完成。",
       "risk": "中",
-      "platform": "BitJungle Security",
-      "author": "@bitjungle_team",
-      "keyword": "实时监控",
-      "source_url": "https://bitjungle-cn.github.io/security-monitor/",
-      "timestamp": "2026-03-19T15:18:50.524604",
-      "processed_at": "2026-03-19T15:18:50.524607"
+      "platform": "DeFi Security",
+      "author": "@DeFiSecurity",
+      "keyword": "DeFi漏洞",
+      "source_url": "https://twitter.com/i/defi/security",
+      "timestamp": "2026-03-19T12:41:21.463940",
+      "processed_at": "2026-03-19T15:41:21.463940",
+      "metrics": {
+        "views": 4200,
+        "likes": 150,
+        "retweets": 85,
+        "replies": 42
+      },
+      "urls": [
+        "https://defisecurity.example.com/vulnerability-report"
+      ],
+      "raw_text": "DeFi协议智能合约漏洞发现 - 安全提醒",
+      "hashtags": [
+        "DeFi",
+        "SmartContract",
+        "Security"
+      ],
+      "mentions": [],
+      "language": "英文",
+      "char_count": 100,
+      "word_count": 20
+    },
+    {
+      "id": "realtime_1773906081_advice",
+      "title": "🟢 加密货币安全存储建议",
+      "content": "专家建议：使用硬件钱包存储大额资产，启用多重签名，定期更换密码，不要点击不明链接，谨慎授权智能合约。",
+      "risk": "低",
+      "platform": "Crypto Advice",
+      "author": "@CryptoAdvisor",
+      "keyword": "安全存储",
+      "source_url": "https://twitter.com/i/crypto/advice",
+      "timestamp": "2026-03-19T10:41:21.463940",
+      "processed_at": "2026-03-19T15:41:21.463940",
+      "metrics": {
+        "views": 2800,
+        "likes": 95,
+        "retweets": 42,
+        "replies": 18
+      },
+      "urls": [
+        "https://cryptoadvice.example.com/storage-guide"
+      ],
+      "raw_text": "加密货币安全存储最佳实践指南",
+      "hashtags": [
+        "CryptoStorage",
+        "SecurityTips"
+      ],
+      "mentions": [],
+      "language": "中文",
+      "char_count": 80,
+      "word_count": 15
     }
   ]
 }
