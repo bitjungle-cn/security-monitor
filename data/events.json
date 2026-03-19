@@ -1,49 +1,25 @@
 {
   "metadata": {
-    "created_at": "2026-03-19T14:57:40.157065",
-    "last_updated": "2026-03-19T14:57:44.521793",
-    "total_events": 3,
-    "high_risk": 2,
+    "created_at": "2026-03-19T15:18:50.438512",
+    "last_updated": "2026-03-19T15:18:50.524715",
+    "website_url": "https://bitjungle-cn.github.io/security-monitor",
+    "total_events": 1,
+    "high_risk": 0,
     "medium_risk": 1,
-    "low_risk": 0,
-    "website_url": "https://bitjungle-cn.github.io/security-monitor"
+    "low_risk": 0
   },
   "events": [
     {
-      "id": "real_example_1773903464_1",
-      "title": "紧急: 钱包被盗事件报告",
-      "content": "用户报告: 我的加密货币钱包昨晚被盗，损失约2.3 ETH。钱包地址显示资金被转移到未知地址。",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@crypto_user_123",
-      "keyword": "被盗",
-      "source_url": "https://twitter.com/i/status/example",
-      "timestamp": "2026-03-19T14:57:44.521126",
-      "processed_at": "2026-03-19T14:57:44.521158"
-    },
-    {
-      "id": "real_example_1773903464_2",
-      "title": "DeFi协议安全警报",
-      "content": "安全团队发现某DeFi协议存在重入攻击漏洞，建议用户暂时撤出资金。",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@defi_security",
-      "keyword": "hacked",
-      "source_url": "https://twitter.com/i/status/example",
-      "timestamp": "2026-03-19T14:57:44.521178",
-      "processed_at": "2026-03-19T14:57:44.521183"
-    },
-    {
-      "id": "real_example_1773903464_3",
-      "title": "交易所提现异常警告",
-      "content": "监控发现某交易所出现异常大额提现模式，可能涉及安全问题。",
+      "id": "realtime_1773904730",
+      "title": "🚨 实时区块链安全监控系统启动",
+      "content": "系统已上线，正在实时监控推特上的加密货币安全事件。关键词：被盗, stolen, hacked, 攻击等。",
       "risk": "中",
-      "platform": "Twitter",
-      "author": "@exchange_watch",
-      "keyword": "安全",
-      "source_url": "https://twitter.com/i/status/example",
-      "timestamp": "2026-03-19T14:57:44.521193",
-      "processed_at": "2026-03-19T14:57:44.521197"
+      "platform": "BitJungle Security",
+      "author": "@bitjungle_team",
+      "keyword": "实时监控",
+      "source_url": "https://bitjungle-cn.github.io/security-monitor/",
+      "timestamp": "2026-03-19T15:18:50.524604",
+      "processed_at": "2026-03-19T15:18:50.524607"
     }
   ]
 }
