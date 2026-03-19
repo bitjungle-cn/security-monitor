@@ -1,27 +1,49 @@
 {
-  "total_events": 25,
-  "high_risk": 8,
-  "medium_risk": 12,
-  "low_risk": 5,
-  "last_updated": "2026-03-19T14:32:59.226966",
+  "metadata": {
+    "created_at": "2026-03-19T14:57:40.157065",
+    "last_updated": "2026-03-19T14:57:44.521793",
+    "total_events": 3,
+    "high_risk": 2,
+    "medium_risk": 1,
+    "low_risk": 0,
+    "website_url": "https://bitjungle-cn.github.io/security-monitor"
+  },
   "events": [
     {
-      "title": "紧急：加密货币钱包大规模被盗",
-      "content": "最新安全报告显示，过去24小时内，多个加密货币钱包遭受黑客攻击，总损失估计超过500万美元。",
+      "id": "real_example_1773903464_1",
+      "title": "紧急: 钱包被盗事件报告",
+      "content": "用户报告: 我的加密货币钱包昨晚被盗，损失约2.3 ETH。钱包地址显示资金被转移到未知地址。",
       "risk": "高",
-      "timestamp": "2026-03-19T14:32:59.226971"
+      "platform": "Twitter",
+      "author": "@crypto_user_123",
+      "keyword": "被盗",
+      "source_url": "https://twitter.com/i/status/example",
+      "timestamp": "2026-03-19T14:57:44.521126",
+      "processed_at": "2026-03-19T14:57:44.521158"
     },
     {
-      "title": "DeFi协议遭闪电贷攻击",
-      "content": "知名DeFi协议遭受闪电贷攻击，攻击者利用价格预言机漏洞套利超过300万美元。",
+      "id": "real_example_1773903464_2",
+      "title": "DeFi协议安全警报",
+      "content": "安全团队发现某DeFi协议存在重入攻击漏洞，建议用户暂时撤出资金。",
       "risk": "高",
-      "timestamp": "2026-03-19T14:32:59.226972"
+      "platform": "Twitter",
+      "author": "@defi_security",
+      "keyword": "hacked",
+      "source_url": "https://twitter.com/i/status/example",
+      "timestamp": "2026-03-19T14:57:44.521178",
+      "processed_at": "2026-03-19T14:57:44.521183"
     },
     {
-      "title": "交易所安全漏洞曝光",
-      "content": "安全研究人员发现某中型交易所存在严重安全漏洞，可能导致用户API密钥泄露。",
+      "id": "real_example_1773903464_3",
+      "title": "交易所提现异常警告",
+      "content": "监控发现某交易所出现异常大额提现模式，可能涉及安全问题。",
       "risk": "中",
-      "timestamp": "2026-03-19T14:32:59.226973"
+      "platform": "Twitter",
+      "author": "@exchange_watch",
+      "keyword": "安全",
+      "source_url": "https://twitter.com/i/status/example",
+      "timestamp": "2026-03-19T14:57:44.521193",
+      "processed_at": "2026-03-19T14:57:44.521197"
     }
   ]
 }
