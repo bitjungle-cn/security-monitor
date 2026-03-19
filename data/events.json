@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "created_at": "2026-03-19T16:04:38.266051",
-    "last_updated": "2026-03-19T16:04:38.266057",
+    "created_at": "2026-03-19T16:06:36.072815",
+    "last_updated": "2026-03-19T16:06:36.072822",
     "website_url": "https://bitjungle-cn.github.io/security-monitor",
     "total_events": 3,
     "high_risk": 0,
@@ -13,61 +13,58 @@
   },
   "events": [
     {
-      "id": "monitor_1773907478_main",
-      "title": "🚨 实时区块链安全监控系统运行中",
-      "content": "系统正在实时监控推特上的加密货币安全事件。当前时间: 2026-03-19 16:04:38，已监控关键词: 20个，包括：被盗、stolen、hacked、DeFi攻击等。",
+      "id": "2034539314894303347",
+      "title": "安全事件: wallet hacked",
+      "content": "@luismember @luismember \nIf your wallet got drained or hacked I suggest you file a report immediately to @dev_walter25 and explain everything and show your proof to them, they’ll be able to recover yo",
+      "risk": "中",
+      "platform": "Twitter",
+      "author": "@302131826",
+      "keyword": "wallet hacked",
+      "source_url": "https://twitter.com/i/status/2034539314894303347",
+      "timestamp": "2026-03-19T07:55:47.000Z",
+      "processed_at": "2026-03-19T16:06:30.999861",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 12
+      },
+      "is_demo": false
+    },
+    {
+      "id": "2034539230769066457",
+      "title": "安全事件: wallet hacked",
+      "content": "@disguizer @PiCoreTeam I think since you have been a validator, I guess you can have answer to my question. My wallet was hacked back then so I lost everything except the ones I hold. I have opened an",
+      "risk": "中",
+      "platform": "Twitter",
+      "author": "@1791877219347738624",
+      "keyword": "wallet hacked",
+      "source_url": "https://twitter.com/i/status/2034539230769066457",
+      "timestamp": "2026-03-19T07:55:27.000Z",
+      "processed_at": "2026-03-19T16:06:30.999908",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 12
+      },
+      "is_demo": false
+    },
+    {
+      "id": "monitor_1773907596",
+      "title": "🚨 实时区块链安全监控",
+      "content": "系统正在实时监控推特安全事件。时间: 2026-03-19 16:06:36，数据源: xurl搜索。",
       "risk": "中",
       "platform": "BitJungle Security",
       "author": "@bitjungle_team",
       "keyword": "实时监控",
       "source_url": "https://bitjungle-cn.github.io/security-monitor/",
-      "timestamp": "2026-03-19T16:04:38.265799",
-      "processed_at": "2026-03-19T16:04:38.265799",
+      "timestamp": "2026-03-19T16:06:36.072638",
+      "processed_at": "2026-03-19T16:06:36.072649",
       "metrics": {
-        "views": 1500,
-        "likes": 42,
+        "views": 1000,
+        "likes": 35,
         "retweets": 18
       },
-      "is_demo": false,
-      "data_source": "实时监控系统"
-    },
-    {
-      "id": "monitor_1773907478_warning",
-      "title": "⚠️ 加密货币安全存储提醒",
-      "content": "安全专家提醒：请使用硬件钱包存储大额资产，启用多重签名，定期更换密码，不要点击不明链接，谨慎授权智能合约。",
-      "risk": "中",
-      "platform": "安全提醒",
-      "author": "@crypto_security",
-      "keyword": "安全存储",
-      "source_url": "https://bitjungle-cn.github.io/security-monitor/",
-      "timestamp": "2026-03-19T15:04:38.265799",
-      "processed_at": "2026-03-19T16:04:38.265799",
-      "metrics": {
-        "views": 2800,
-        "likes": 95,
-        "retweets": 42
-      },
-      "is_demo": false,
-      "data_source": "安全提醒系统"
-    },
-    {
-      "id": "monitor_1773907478_defi",
-      "title": "🟡 DeFi协议安全监控",
-      "content": "监控系统发现DeFi协议相关安全讨论增加，建议用户谨慎参与新项目，注意智能合约审计状态。",
-      "risk": "中",
-      "platform": "DeFi监控",
-      "author": "@defi_watch",
-      "keyword": "DeFi安全",
-      "source_url": "https://bitjungle-cn.github.io/security-monitor/",
-      "timestamp": "2026-03-19T14:04:38.265799",
-      "processed_at": "2026-03-19T16:04:38.265799",
-      "metrics": {
-        "views": 3200,
-        "likes": 120,
-        "retweets": 65
-      },
-      "is_demo": false,
-      "data_source": "DeFi监控系统"
+      "is_demo": false
     }
   ]
 }
