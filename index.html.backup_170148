@@ -284,13 +284,12 @@
             font-size: 2rem;
             margin-bottom: 15px;
             color: var(--primary);
-            animation: spin 2s ease-in-out infinite;
-        transition: opacity 0.3s;
+            animation: spin 2s linear infinite;
         }
         
         @keyframes spin {
-            0% { transform: none; }
-            100% { transform: rotate(0deg); }
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
         
         @media (max-width: 768px) {
@@ -588,54 +587,6 @@
             }
         `;
         document.head.appendChild(style);
-    
-    // 修复加载动画
-    function fixLoadingAnimation() {
-        const loadingElement = document.querySelector('.loading');
-        const spinnerIcon = document.querySelector('.fa-spinner');
-        
-        if (loadingElement) {
-            // 加载完成后添加隐藏类
-            setTimeout(() => {
-                loadingElement.classList.add('hidden');
-                if (spinnerIcon) {
-                    spinnerIcon.style.animation = 'none';
-                }
-            }, 100);
-        }
-    }
-    
-    // 页面加载完成后修复动画
-    document.addEventListener('DOMContentLoaded', () => {
-        fixLoadingAnimation();
-    });
-    
-    // 管理加载状态
-    let isLoading = true;
-    
-    // 数据加载完成后
-    window.addEventListener('load', () => {
-        setTimeout(() => {
-            isLoading = false;
-            const spinners = document.querySelectorAll('.fa-spinner, .fa-sync-alt');
-            spinners.forEach(spinner => {
-                spinner.style.animation = 'none';
-                spinner.classList.remove('fa-spinner');
-                spinner.classList.add('fa-check-circle');
-                spinner.style.color = '#10b981';
-            });
-        }, 500);
-    });
-    
-    // 如果加载超时，强制停止动画
-    setTimeout(() => {
-        const spinners = document.querySelectorAll('.fa-spinner');
-        spinners.forEach(spinner => {
-            spinner.style.animation = 'none';
-            spinner.textContent = '✓';
-            spinner.style.color = '#10b981';
-        });
-    }, 3000);
     </script>
 </body>
 </html>
