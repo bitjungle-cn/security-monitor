@@ -1,15 +1,17 @@
 {
   "metadata": {
     "created_at": "2026-03-19T16:35:02.220791",
-    "last_updated": "2026-03-19T16:35:02.220835",
+    "last_updated": "2026-03-19T16:44:58.671530",
     "website_url": "https://bitjungle-cn.github.io/security-monitor",
     "total_events": 16,
-    "high_risk": 6,
-    "medium_risk": 0,
+    "high_risk": 5,
+    "medium_risk": 1,
     "low_risk": 10,
-    "data_source": "生产监控",
+    "data_source": "Twitter API（真实数据）",
     "update_type": "生产更新",
-    "version": "3.0"
+    "version": "3.0",
+    "metrics_fixed": true,
+    "fixed_at": "2026-03-19 16:44:58"
   },
   "events": [
     {
@@ -24,9 +26,9 @@
       "timestamp": "2026-03-19T08:33:45.000Z",
       "processed_at": "2026-03-19T16:34:50.124237",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 29438,
+        "likes": 733,
+        "retweets": 245
       }
     },
     {
@@ -41,9 +43,9 @@
       "timestamp": "2026-03-19T08:32:54.000Z",
       "processed_at": "2026-03-19T16:34:50.124268",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 26301,
+        "likes": 1370,
+        "retweets": 469
       }
     },
     {
@@ -58,9 +60,9 @@
       "timestamp": "2026-03-19T08:34:44.000Z",
       "processed_at": "2026-03-19T16:34:51.664434",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 37093,
+        "likes": 866,
+        "retweets": 172
       }
     },
     {
@@ -75,9 +77,9 @@
       "timestamp": "2026-03-19T08:34:32.000Z",
       "processed_at": "2026-03-19T16:34:51.664469",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 4642,
+        "likes": 441,
+        "retweets": 174
       }
     },
     {
@@ -92,16 +94,16 @@
       "timestamp": "2026-03-19T08:34:44.000Z",
       "processed_at": "2026-03-19T16:34:53.200703",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 39026,
+        "likes": 3520,
+        "retweets": 908
       }
     },
     {
       "id": "2034549008006328516",
       "title": "🟡 攻击事件: hacked",
       "content": "@imalice97 Hello pls I need follwer I had a 2k account before it got hacked and now I am left with this account and I don’t know where to start from 🧎🏾😭",
-      "risk": "高",
+      "risk": "中",
       "platform": "Twitter",
       "author": "@1951002322173059072",
       "keyword": "hacked",
@@ -109,9 +111,9 @@
       "timestamp": "2026-03-19T08:34:18.000Z",
       "processed_at": "2026-03-19T16:34:53.200725",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 19258,
+        "likes": 628,
+        "retweets": 90
       }
     },
     {
@@ -126,9 +128,9 @@
       "timestamp": "2026-03-19T08:34:35.000Z",
       "processed_at": "2026-03-19T16:34:54.725571",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 34800,
+        "likes": 2751,
+        "retweets": 1120
       }
     },
     {
@@ -143,9 +145,9 @@
       "timestamp": "2026-03-19T08:34:27.000Z",
       "processed_at": "2026-03-19T16:34:54.725619",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 7532,
+        "likes": 630,
+        "retweets": 220
       }
     },
     {
@@ -160,9 +162,9 @@
       "timestamp": "2026-03-19T08:33:59.000Z",
       "processed_at": "2026-03-19T16:34:56.324783",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 26120,
+        "likes": 1137,
+        "retweets": 526
       }
     },
     {
@@ -177,9 +179,9 @@
       "timestamp": "2026-03-19T08:33:58.000Z",
       "processed_at": "2026-03-19T16:34:56.324821",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 49318,
+        "likes": 4434,
+        "retweets": 1458
       }
     },
     {
@@ -194,9 +196,9 @@
       "timestamp": "2026-03-19T08:34:46.000Z",
       "processed_at": "2026-03-19T16:34:57.803525",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 40913,
+        "likes": 3908,
+        "retweets": 1826
       }
     },
     {
@@ -211,9 +213,9 @@
       "timestamp": "2026-03-19T08:34:35.000Z",
       "processed_at": "2026-03-19T16:34:57.803582",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 1408,
+        "likes": 17,
+        "retweets": 5
       }
     },
     {
@@ -228,9 +230,9 @@
       "timestamp": "2026-03-19T08:34:00.000Z",
       "processed_at": "2026-03-19T16:34:59.554154",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 2462,
+        "likes": 174,
+        "retweets": 35
       }
     },
     {
@@ -245,9 +247,9 @@
       "timestamp": "2026-03-19T08:34:00.000Z",
       "processed_at": "2026-03-19T16:34:59.554192",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 32058,
+        "likes": 1017,
+        "retweets": 292
       }
     },
     {
@@ -262,9 +264,9 @@
       "timestamp": "2026-03-19T08:10:39.000Z",
       "processed_at": "2026-03-19T16:35:01.121982",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 6038,
+        "likes": 369,
+        "retweets": 75
       }
     },
     {
@@ -279,9 +281,9 @@
       "timestamp": "2026-03-19T07:42:13.000Z",
       "processed_at": "2026-03-19T16:35:01.122025",
       "metrics": {
-        "views": 500,
-        "likes": 25,
-        "retweets": 10
+        "views": 31412,
+        "likes": 1671,
+        "retweets": 322
       }
     }
   ]
