@@ -1,52 +1,288 @@
 {
   "metadata": {
-    "created_at": "2026-03-19T16:12:44.304943",
-    "last_updated": "2026-03-19T16:12:44.304952",
+    "created_at": "2026-03-19T16:35:02.220791",
+    "last_updated": "2026-03-19T16:35:02.220835",
     "website_url": "https://bitjungle-cn.github.io/security-monitor",
-    "total_events": 2,
-    "high_risk": 0,
-    "medium_risk": 2,
-    "low_risk": 0,
-    "data_source": "Twitter API (纯真实数据)",
-    "update_type": "数据清理",
-    "version": "2.2"
+    "total_events": 16,
+    "high_risk": 6,
+    "medium_risk": 0,
+    "low_risk": 10,
+    "data_source": "生产监控",
+    "update_type": "生产更新",
+    "version": "3.0"
   },
   "events": [
     {
-      "id": "2034539314894303347",
-      "title": "安全事件: wallet hacked",
-      "content": "@luismember @luismember \nIf your wallet got drained or hacked I suggest you file a report immediately to @dev_walter25 and explain everything and show your proof to them, they’ll be able to recover yo",
-      "risk": "中",
+      "id": "2034548872480182522",
+      "title": "🔴 盗币事件: 被盗",
+      "content": "哔哩哔哩开户 人肉 查身份证 微信解封 外卖记录 查银行卡信息 银行卡身份证信息 抖音查手机号 抖音解封 查资料 舆论处理 查档 黑客 实时定位 抖音号开户 个人信息 盗百度云盘 聊天记录恢复 删负面 查犯罪记 密码找回 qq被盗找回 查出轨 人脸识别 开房记录 👏 😆 🤗 https://t.co/0dBVYOvAkD",
+      "risk": "高",
       "platform": "Twitter",
-      "author": "@302131826",
-      "keyword": "wallet hacked",
-      "source_url": "https://twitter.com/i/status/2034539314894303347",
-      "timestamp": "2026-03-19T07:55:47.000Z",
-      "processed_at": "2026-03-19T16:06:30.999861",
+      "author": "@2026121304471126016",
+      "keyword": "被盗",
+      "source_url": "https://twitter.com/i/status/2034548872480182522",
+      "timestamp": "2026-03-19T08:33:45.000Z",
+      "processed_at": "2026-03-19T16:34:50.124237",
       "metrics": {
         "views": 500,
         "likes": 25,
-        "retweets": 12
-      },
-      "is_demo": false
+        "retweets": 10
+      }
     },
     {
-      "id": "2034539230769066457",
-      "title": "安全事件: wallet hacked",
-      "content": "@disguizer @PiCoreTeam I think since you have been a validator, I guess you can have answer to my question. My wallet was hacked back then so I lost everything except the ones I hold. I have opened an",
-      "risk": "中",
+      "id": "2034548655408206093",
+      "title": "🔴 盗币事件: 被盗",
+      "content": "查微博 查犯罪记 查护照号 查银行流水 查个人轨迹 查小三 打胎记录 查手机号 qq被盗找回 监控手机 查出轨 删贴吧 实时定位 抖音查手机号 微信监控软件 美团外卖地址 手机号定位 删负面 微信解封 微信找人 户口查询 查酒驾信息 王者荣耀开户 修改成绩 找回密码 👍 🔥 👏 💖 https://t.co/6IcIBcdk7G",
+      "risk": "高",
       "platform": "Twitter",
-      "author": "@1791877219347738624",
-      "keyword": "wallet hacked",
-      "source_url": "https://twitter.com/i/status/2034539230769066457",
-      "timestamp": "2026-03-19T07:55:27.000Z",
-      "processed_at": "2026-03-19T16:06:30.999908",
+      "author": "@2026119333467017216",
+      "keyword": "被盗",
+      "source_url": "https://twitter.com/i/status/2034548655408206093",
+      "timestamp": "2026-03-19T08:32:54.000Z",
+      "processed_at": "2026-03-19T16:34:50.124268",
       "metrics": {
         "views": 500,
         "likes": 25,
-        "retweets": 12
-      },
-      "is_demo": false
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549116068352086",
+      "title": "🔴 盗币事件: stolen",
+      "content": "Funny thing Africa believing free trade is real. Oh wait the ruling elite  in Africa benefit then hide their stolen  wealth in off shore accounts and their kids study abroad.",
+      "risk": "高",
+      "platform": "Twitter",
+      "author": "@1892093198383841280",
+      "keyword": "stolen",
+      "source_url": "https://twitter.com/i/status/2034549116068352086",
+      "timestamp": "2026-03-19T08:34:44.000Z",
+      "processed_at": "2026-03-19T16:34:51.664434",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549066210926777",
+      "title": "🔴 盗币事件: stolen",
+      "content": "@AnaKasparian @abierkhatib Dirty skank Jews at there best as always time to build a dome  seize all there stolen assets and send them alll there. Then there will be peace in the world",
+      "risk": "高",
+      "platform": "Twitter",
+      "author": "@1348584804757827584",
+      "keyword": "stolen",
+      "source_url": "https://twitter.com/i/status/2034549066210926777",
+      "timestamp": "2026-03-19T08:34:32.000Z",
+      "processed_at": "2026-03-19T16:34:51.664469",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549118819774888",
+      "title": "🟡 攻击事件: hacked",
+      "content": "@NovaaOryx @UbisoftSupport Seriously you can't do anything if you are waiting for their support system you will just lose your account ,talk to this technical team on TELEGRAM KOCHTECH01 they have bee",
+      "risk": "高",
+      "platform": "Twitter",
+      "author": "@401364246",
+      "keyword": "hacked",
+      "source_url": "https://twitter.com/i/status/2034549118819774888",
+      "timestamp": "2026-03-19T08:34:44.000Z",
+      "processed_at": "2026-03-19T16:34:53.200703",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549008006328516",
+      "title": "🟡 攻击事件: hacked",
+      "content": "@imalice97 Hello pls I need follwer I had a 2k account before it got hacked and now I am left with this account and I don’t know where to start from 🧎🏾😭",
+      "risk": "高",
+      "platform": "Twitter",
+      "author": "@1951002322173059072",
+      "keyword": "hacked",
+      "source_url": "https://twitter.com/i/status/2034549008006328516",
+      "timestamp": "2026-03-19T08:34:18.000Z",
+      "processed_at": "2026-03-19T16:34:53.200725",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549078370209930",
+      "title": "安全事件: 被黑",
+      "content": "@wngzhn166288 @jack26116326 人家发啥关你几把事了死妈猪肉在这叫你妈臭逼我拿你妈大黑逼水洗洗你那个臭逼水 现实压抑疯了吧还他妈男尊女卑找mg 你妈拿黄瓜自慰断在里面了不去救救你妈吗 你爸在大街上被细小狗轮死了知不知道 你在这死妈言论都能发别人凭啥不能发",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@2028786729709359104",
+      "keyword": "被黑",
+      "source_url": "https://twitter.com/i/status/2034549078370209930",
+      "timestamp": "2026-03-19T08:34:35.000Z",
+      "processed_at": "2026-03-19T16:34:54.725571",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549046866792490",
+      "title": "安全事件: 被黑",
+      "content": "破解 银行卡身份证信息 社工库 qq解封 查手机相册 查骗子 打胎记录 查酒驾信息 查手机号 查房产 查档 车辆轨迹 查父母信息 监控手机 手机号定位 微信解封 收款码反查 查开房记录 王者荣耀开户 查老赖 户口查询 查聊天记录 黑客 追回被骗的钱 查银行卡信息 💪 🎊 😆 https://t.co/CNnlQMuP3L",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@2026122709332291584",
+      "keyword": "被黑",
+      "source_url": "https://twitter.com/i/status/2034549046866792490",
+      "timestamp": "2026-03-19T08:34:27.000Z",
+      "processed_at": "2026-03-19T16:34:54.725619",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034548928625193277",
+      "title": "安全事件: 钱包被盗",
+      "content": "🌙  #7DOGE 现价100K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！  \n\n📊 $128→ $2.1K ，#7DOGE 完美捕获！  \n\n CA：0xedd4f7238c6a26ef99822290c6512ae2c80d4444\n\n代币K线查看👇\ngmgn：https://t.co/9tu1bZaQMS\n\nOKX钱包：https://t.co/KI",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@926536579593551873",
+      "keyword": "钱包被盗",
+      "source_url": "https://twitter.com/i/status/2034548928625193277",
+      "timestamp": "2026-03-19T08:33:59.000Z",
+      "processed_at": "2026-03-19T16:34:56.324783",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034548925131088066",
+      "title": "安全事件: 钱包被盗",
+      "content": "🌙  #7DOGE 现价100K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！  \n\n📊 $128→ $2.1K ，#7DOGE 完美捕获！  \n\n CA：0xedd4f7238c6a26ef99822290c6512ae2c80d4444\n\n代币K线查看👇\ngmgn：https://t.co/c1JfGznyv1\n\nOKX钱包：https://t.co/WX",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@105688323",
+      "keyword": "钱包被盗",
+      "source_url": "https://twitter.com/i/status/2034548925131088066",
+      "timestamp": "2026-03-19T08:33:58.000Z",
+      "processed_at": "2026-03-19T16:34:56.324821",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549125614850172",
+      "title": "安全事件: 资金被盗",
+      "content": "@igeekbb 这是全国去绿教极端化，沙化、阿化的行动，任何宗教到中国必须中国化，很多年前绿教在中国已经非常中国化，清真寺建筑好像寺庙，用的大多是中国传统建筑式样，比如福建泉州地区。近二十年被中东那边的资金和内部一些人的影响推动下，大量清真寺变成阿拉伯风格，连教义及日常行为也日趋保守……",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@798769433665683456",
+      "keyword": "资金被盗",
+      "source_url": "https://twitter.com/i/status/2034549125614850172",
+      "timestamp": "2026-03-19T08:34:46.000Z",
+      "processed_at": "2026-03-19T16:34:57.803525",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034549080995881199",
+      "title": "安全事件: 资金被盗",
+      "content": "@JirouOsakabe @w433921 @lilowlp 你非常虚伪，而且无知，对于这种小型工厂，现金流无比重要，你不付货款的行为和杀人犯没有任何区别，工厂会立马倒闭，工人会失去工作并被欠工资，如果你愿意为他们支付工资，并且给这个工厂捐款维持运营，你再说这种大义凛然的话吧。\n对于卑鄙者，就要以牙还牙，这是自保，同样是符合普世道德的正义",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@2015037537862201344",
+      "keyword": "资金被盗",
+      "source_url": "https://twitter.com/i/status/2034549080995881199",
+      "timestamp": "2026-03-19T08:34:35.000Z",
+      "processed_at": "2026-03-19T16:34:57.803582",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034548934090072141",
+      "title": "安全事件: 资产被盗",
+      "content": "地址外卖婚姻婚学历查资产全怎么查WUl9wIK开房记录家户QQ籍酒店查微信聊天记查个人信息录开盒开查抖盗查查人开房记录号音房记收货录医疗姻记打抖音查黑客手机号照片胎查地址记开户手机监控录怎找人么查微流水查定位微信信聊天记查案底🌟 💝 🤩 ✨背景录录",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@2023242655296270336",
+      "keyword": "资产被盗",
+      "source_url": "https://twitter.com/i/status/2034548934090072141",
+      "timestamp": "2026-03-19T08:34:00.000Z",
+      "processed_at": "2026-03-19T16:34:59.554154",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034548934010392580",
+      "title": "安全事件: 资产被盗",
+      "content": "查定位案底查找人开房记录学怎照片么查微查抖音信聊天记开盒查微收外卖货信开户聊💖 👏 😁 🔥 🥰天记录录查微监控信历学历怎么Q婚姻Q查资产查人查抖音查手机号开黑客手背景流酒店开房打胎记录全家记录水查地址机房记录地医疗址盗查户籍个人信息号背FqOv4j景",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@2023242658756603904",
+      "keyword": "资产被盗",
+      "source_url": "https://twitter.com/i/status/2034548934010392580",
+      "timestamp": "2026-03-19T08:34:00.000Z",
+      "processed_at": "2026-03-19T16:34:59.554192",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034543056716964208",
+      "title": "安全事件: 数字货币被盗",
+      "content": "所谓的经济危机，本质上是某些势力在为“数字极权”清场。当所有实体货币消失，当你的每一分钱都被编码在他们掌控的链条上，康波周期将不复存在——因为人类将被永久锁定在“数字中世纪”。",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@1765005574805282816",
+      "keyword": "数字货币被盗",
+      "source_url": "https://twitter.com/i/status/2034543056716964208",
+      "timestamp": "2026-03-19T08:10:39.000Z",
+      "processed_at": "2026-03-19T16:35:01.121982",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
+    },
+    {
+      "id": "2034535901083365636",
+      "title": "安全事件: 数字货币被盗",
+      "content": "郭文贵先生2022年5月13日爆料\n\n比特币、以太币互相勾连，都是同一个爹和妈\n\n全世界只有喜美元（HDO），不会被挤兑破产\n\n因为HDO只和美元、黄金挂钩，不和任何其他数字货币锚定\n\n全世界经济大崩溃的时候，只有喜币、盖特币能活下来\n\n#数字货币 #喜币 #喜联储 #爆料革命 #新中国联邦\n#郭文贵\n#量子农场 https://t.co/ZhD7toiyVa",
+      "risk": "低",
+      "platform": "Twitter",
+      "author": "@791008927",
+      "keyword": "数字货币被盗",
+      "source_url": "https://twitter.com/i/status/2034535901083365636",
+      "timestamp": "2026-03-19T07:42:13.000Z",
+      "processed_at": "2026-03-19T16:35:01.122025",
+      "metrics": {
+        "views": 500,
+        "likes": 25,
+        "retweets": 10
+      }
     }
   ]
 }
