@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "created_at": "2026-03-19T16:06:36.072815",
-    "last_updated": "2026-03-19T16:06:36.072822",
+    "created_at": "2026-03-19T16:12:44.304943",
+    "last_updated": "2026-03-19T16:12:44.304952",
     "website_url": "https://bitjungle-cn.github.io/security-monitor",
-    "total_events": 3,
+    "total_events": 2,
     "high_risk": 0,
-    "medium_risk": 3,
+    "medium_risk": 2,
     "low_risk": 0,
-    "data_source": "xurl实时搜索",
-    "update_type": "生产测试",
-    "version": "2.1"
+    "data_source": "Twitter API (纯真实数据)",
+    "update_type": "数据清理",
+    "version": "2.2"
   },
   "events": [
     {
@@ -45,24 +45,6 @@
         "views": 500,
         "likes": 25,
         "retweets": 12
-      },
-      "is_demo": false
-    },
-    {
-      "id": "monitor_1773907596",
-      "title": "🚨 实时区块链安全监控",
-      "content": "系统正在实时监控推特安全事件。时间: 2026-03-19 16:06:36，数据源: xurl搜索。",
-      "risk": "中",
-      "platform": "BitJungle Security",
-      "author": "@bitjungle_team",
-      "keyword": "实时监控",
-      "source_url": "https://bitjungle-cn.github.io/security-monitor/",
-      "timestamp": "2026-03-19T16:06:36.072638",
-      "processed_at": "2026-03-19T16:06:36.072649",
-      "metrics": {
-        "views": 1000,
-        "likes": 35,
-        "retweets": 18
       },
       "is_demo": false
     }
