@@ -1,300 +1,143 @@
 {
   "metadata": {
-    "created_at": "2026-03-19T16:50:25.458923",
-    "last_updated": "2026-03-19T16:50:25.458927",
+    "created_at": "2026-03-19T17:23:42.744287",
+    "last_updated": "2026-03-19T17:23:42.744289",
     "website_url": "https://bitjungle-cn.github.io/security-monitor/",
-    "total_events": 9,
-    "high_risk": 7,
-    "medium_risk": 0,
-    "low_risk": 2,
-    "data_source": "Twitter API（真实数据）",
-    "update_type": "API实时更新",
-    "version": "3.1",
-    "api_data_quality": "真实指标",
-    "update_time": "2026-03-19 16:50:25",
-    "total_views": 23,
-    "total_likes": 12,
-    "total_retweets": 12
+    "total_events": 4,
+    "high_risk": 0,
+    "medium_risk": 3,
+    "low_risk": 1,
+    "data_source": "智能过滤真实受害者",
+    "update_type": "开发环境 - 无通知",
+    "version": "4.1",
+    "filter_algorithm": "广告识别+受害者陈述检测",
+    "update_time": "17:23:42",
+    "environment": "开发模式 - 不发送消息"
   },
   "events": [
     {
-      "id": "2034551296951201942",
-      "title": "🔴 严重安全事件: #ApexFinancialInstitute is deceiving investors wit...",
-      "content": "#ApexFinancialInstitute is deceiving investors with fake credentials and stolen crypto. \nDon’t trust their offers! If you’ve been scammed, contact professional recovery support immediately.\n\n#CryptoRecovery #CryptoScam #FundsRecovery #ScamAlert #InvestorAlert #Crypto. https://t.co/3wrgWxGTeT",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@263159750",
-      "keyword": "crypto stolen",
-      "source_url": "https://twitter.com/i/status/2034551296951201942",
-      "timestamp": "2026-03-19T08:43:23.000Z",
-      "processed_at": "2026-03-19T16:50:18.219757",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 1
-      },
-      "tweet_info": {
-        "conversation_id": "2034551296951201942",
-        "edit_history": [
-          "2034551296951201942"
-        ],
-        "has_entities": true,
-        "mention_count": 0,
-        "annotation_count": 3,
-        "url_count": 1
-      }
-    },
-    {
-      "id": "2034545371796443480",
-      "title": "🔴 严重安全事件: @Prez1k That’s a serious claim, especially if fund...",
-      "content": "@Prez1k That’s a serious claim, especially if funds were drained from a cold storage wallet. You should reach out to @DigitalDawn_1, an expert in investigating wallet activity and tracing stolen crypto, which can help review what happened and explore possible recovery options. https://t.co/gqUKYDO9Ya",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@Prez1k",
-      "keyword": "crypto stolen",
-      "source_url": "https://twitter.com/i/status/2034545371796443480",
-      "timestamp": "2026-03-19T08:19:51.000Z",
-      "processed_at": "2026-03-19T16:50:18.219840",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 0
-      },
-      "tweet_info": {
-        "conversation_id": "2034545371796443480",
-        "edit_history": [
-          "2034545371796443480"
-        ],
-        "has_entities": true,
-        "mention_count": 2,
-        "annotation_count": 0,
-        "url_count": 1
-      }
-    },
-    {
-      "id": "2034544371442299234",
-      "title": "🔴 严重安全事件: @CaptSolx @thisisdjen Sorry to hear about your com...",
-      "content": "@CaptSolx @thisisdjen Sorry to hear about your compromised wallet. I specialize in tracking and recovering stolen crypto assets. If you are comfortable sharing few details, I’ll help analyze the blockchain trail and guide you on possible recovery paths. Let’s see what we can do.",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@CaptSolx",
-      "keyword": "crypto stolen",
-      "source_url": "https://twitter.com/i/status/2034544371442299234",
-      "timestamp": "2026-03-19T08:15:52.000Z",
-      "processed_at": "2026-03-19T16:50:18.219876",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 2
-      },
-      "tweet_info": {
-        "conversation_id": "2034258554715316384",
-        "edit_history": [
-          "2034544371442299234"
-        ],
-        "has_entities": true,
-        "mention_count": 2,
-        "annotation_count": 0,
-        "url_count": 0
-      }
-    },
-    {
-      "id": "2034549819100852465",
-      "title": "🔴 严重安全事件: @Joecrypt09 @RiverdotInc @River4fun I actually mad...",
-      "content": "@Joecrypt09 @RiverdotInc @River4fun I actually made some money during the first season, but my wallet got hacked, so I didn't get a chance to withdraw it",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@Joecrypt09",
-      "keyword": "wallet hacked",
-      "source_url": "https://twitter.com/i/status/2034549819100852465",
-      "timestamp": "2026-03-19T08:37:31.000Z",
-      "processed_at": "2026-03-19T16:50:18.907907",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 5
-      },
-      "tweet_info": {
-        "conversation_id": "2034535837887840355",
-        "edit_history": [
-          "2034549819100852465"
-        ],
-        "has_entities": true,
-        "mention_count": 3,
-        "annotation_count": 0,
-        "url_count": 0
-      }
-    },
-    {
-      "id": "2034548030767280324",
-      "title": "🔴 严重安全事件: @futchji crypto metamask wallet hacked scammed rob...",
-      "content": "@futchji crypto metamask wallet hacked scammed roblox robux nft bitcoin sugar daddy sugar mommy help me write my essay i need a banner help a lesbian oomf to get a huzz #lgbtqtwt",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@futchji",
-      "keyword": "wallet hacked",
-      "source_url": "https://twitter.com/i/status/2034548030767280324",
-      "timestamp": "2026-03-19T08:30:25.000Z",
-      "processed_at": "2026-03-19T16:50:18.907934",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 5
-      },
-      "tweet_info": {
-        "conversation_id": "2034294373643645245",
-        "edit_history": [
-          "2034548030767280324"
-        ],
-        "has_entities": true,
-        "mention_count": 1,
-        "annotation_count": 3,
-        "url_count": 0
-      }
-    },
-    {
-      "id": "2034546359815053399",
-      "title": "🔴 严重安全事件: My wallet has been hacked by a group of rogue flor...",
-      "content": "My wallet has been hacked by a group of rogue florists; now they're trying to exchange my petals for Bitcoin Guess you could say I'm getting a little 'cut' off from reality https://t.co/CLLkjRisVx",
-      "risk": "高",
-      "platform": "Twitter",
-      "author": "@2030548709440954370",
-      "keyword": "wallet hacked",
-      "source_url": "https://twitter.com/i/status/2034546359815053399",
-      "timestamp": "2026-03-19T08:23:46.000Z",
-      "processed_at": "2026-03-19T16:50:18.907946",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 9
-      },
-      "tweet_info": {
-        "conversation_id": "2034546359815053399",
-        "edit_history": [
-          "2034546359815053399"
-        ],
-        "has_entities": true,
-        "mention_count": 0,
-        "annotation_count": 2,
-        "url_count": 1
-      }
-    },
-    {
-      "id": "2034553030654464197",
-      "title": "🟢 安全提醒: 笑死，我和XX校友聊嗨了。聊起来大学时候的各种黑幕。笑死😂 我面相一看性格刚烈不配被介绍做高级学生鸡...",
-      "content": "笑死，我和XX校友聊嗨了。聊起来大学时候的各种黑幕。笑死😂 我面相一看性格刚烈不配被介绍做高级学生鸡、卖淫援交女孩。具体细节参考袁姗姗的《她的盛焰》里面的出卖小白兔给黄总陪睡。",
+      "id": "2034560622046630238",
+      "title": "🟢 安全事件: ⚡️Quick Buy⚡️: https://t.co/oTQLmGcri8 4️⃣ CZ新书首批读... | 币种: Binance Coin",
+      "content": "⚡️Quick Buy⚡️: https://t.co/oTQLmGcri8\n4️⃣ CZ新书首批读者空投瓜分30万枚BNB (我的币安人生)\n0x644835F27990c5Bd9719649891a8639280Cf4444\n└ Progress:  79.27%   ◀⏹⏹⏹#⃣\n└ Holders:  0\n└ Top 10 holders: 0.00% \n\n🕵️‍♂️ Deployer Info\n└ Deployer:  0xf0676a…",
       "risk": "低",
       "platform": "Twitter",
-      "author": "@1848161394627395584",
-      "keyword": "被黑",
-      "source_url": "https://twitter.com/i/status/2034553030654464197",
-      "timestamp": "2026-03-19T08:50:17.000Z",
-      "processed_at": "2026-03-19T16:50:25.458816",
+      "author": "@1980347463107043328",
+      "keyword": "真实受害者",
+      "source_url": "https://twitter.com/i/status/2034560622046630238",
+      "timestamp": "2026-03-19T09:20:27.000Z",
+      "processed_at": "2026-03-19T17:23:42.744156",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "retweets": 0,
+        "is_real_victim": true,
+        "has_amount_info": false,
+        "has_coin_info": true
+      },
+      "analysis": {
+        "stolen_amount": null,
+        "stolen_coin": "Binance Coin",
+        "confidence": "高",
+        "has_details": true
+      },
+      "tags": [
+        "真实受害者",
+        "智能过滤",
+        "无广告"
+      ]
+    },
+    {
+      "id": "2034089151524700496",
+      "title": "🟡 盗币事件: 我日你妈呀，昨天才跟朋友说不要用Ads最好用MoreLogin，今天一觉睡醒就发现被盗了，还让不让人... | 币种: 未知",
+      "content": "我日你妈呀，昨天才跟朋友说不要用Ads最好用MoreLogin，今天一觉睡醒就发现被盗了，还让不让人活了？\n\n我现在有二十个主力地址都是直接配置MoreLogin，没有加硬件钱包，Polymarket 和其他协议都放的有钱，现在还没出现资金被盗，要转移吗？是不是意味着以后也不能用了？ https://t.co/OXtIo9ek4B",
+      "risk": "中",
+      "platform": "Twitter",
+      "author": "@1904074485676011520",
+      "keyword": "真实受害者",
+      "source_url": "https://twitter.com/i/status/2034089151524700496",
+      "timestamp": "2026-03-18T02:06:59.000Z",
+      "processed_at": "2026-03-19T17:23:42.744209",
+      "metrics": {
+        "views": 535,
+        "likes": 1,
+        "retweets": 0,
+        "is_real_victim": true,
+        "has_amount_info": false,
+        "has_coin_info": true
+      },
+      "analysis": {
+        "stolen_amount": null,
+        "stolen_coin": "未知",
+        "confidence": "高",
+        "has_details": true
+      },
+      "tags": [
+        "真实受害者",
+        "智能过滤",
+        "无广告"
+      ]
+    },
+    {
+      "id": "2033504611437334693",
+      "title": "🟡 盗币事件: RT @btc1026: 很久没打开过metamask了，今天重新下载打开看了一下，发现账户资金被盗... | 币种: Bitcoin",
+      "content": "RT @btc1026: 很久没打开过metamask了，今天重新下载打开看了一下，发现账户资金被盗了，里面的多笔交互都不是我操作的，这个钱包我之前是用来撸毛的，里面几乎没咋放钱，我记得之前用电脑登陆过，之前欧易钱包被盗也是在电脑上登陆过，导致现在我都不敢再用电脑登陆了 htt…",
+      "risk": "中",
+      "platform": "Twitter",
+      "author": "@899679686",
+      "keyword": "真实受害者",
+      "source_url": "https://twitter.com/i/status/2033504611437334693",
+      "timestamp": "2026-03-16T11:24:14.000Z",
+      "processed_at": "2026-03-19T17:23:42.744244",
       "metrics": {
         "views": 0,
         "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 0
+        "retweets": 1,
+        "is_real_victim": true,
+        "has_amount_info": false,
+        "has_coin_info": true
       },
-      "tweet_info": {
-        "conversation_id": "2034553030654464197",
-        "edit_history": [
-          "2034553030654464197"
-        ],
-        "has_entities": false,
-        "mention_count": 0,
-        "annotation_count": 0,
-        "url_count": 0
-      }
+      "analysis": {
+        "stolen_amount": null,
+        "stolen_coin": "Bitcoin",
+        "confidence": "高",
+        "has_details": true
+      },
+      "tags": [
+        "真实受害者",
+        "智能过滤",
+        "无广告"
+      ]
     },
     {
-      "id": "2034552974828310629",
-      "title": "🔴 严重安全事件: 盗抖音号 社工库 个人信息 查出行记录 查身份证 密码找回 手机号定位 收款码反查 qq被盗找回 人...",
-      "content": "盗抖音号 社工库 个人信息 查出行记录 查身份证 密码找回 手机号定位 收款码反查 qq被盗找回 人肉 监控手机 盗微信号 查地址 破解QQ空间 支付宝收款码反查 入侵网站 盗百度云盘 破解手机\n 查档 查信息 开盒 黑客 查微博 破解 查手机定位 🎊 ❤️ 💖 😁 https://t.co/WWMzOHWM6S",
-      "risk": "高",
+      "id": "2033494599163900414",
+      "title": "🟡 盗币事件: 很久没打开过metamask了，今天重新下载打开看了一下，发现账户资金被盗了，里面的多笔交互都不是我... | 币种: 未知",
+      "content": "很久没打开过metamask了，今天重新下载打开看了一下，发现账户资金被盗了，里面的多笔交互都不是我操作的，这个钱包我之前是用来撸毛的，里面几乎没咋放钱，我记得之前用电脑登陆过，之前欧易钱包被盗也是在电脑上登陆过，导致现在我都不敢再用电脑登陆了 https://t.co/RWltQqfw1d",
+      "risk": "中",
       "platform": "Twitter",
-      "author": "@2022470174209679360",
-      "keyword": "被黑",
-      "source_url": "https://twitter.com/i/status/2034552974828310629",
-      "timestamp": "2026-03-19T08:50:04.000Z",
-      "processed_at": "2026-03-19T16:50:25.458853",
+      "author": "@1799062661319278592",
+      "keyword": "真实受害者",
+      "source_url": "https://twitter.com/i/status/2033494599163900414",
+      "timestamp": "2026-03-16T10:44:27.000Z",
+      "processed_at": "2026-03-19T17:23:42.744273",
       "metrics": {
-        "views": 1,
-        "likes": 9,
-        "retweets": 9,
-        "replies": 0,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 19
+        "views": 241,
+        "likes": 6,
+        "retweets": 1,
+        "is_real_victim": true,
+        "has_amount_info": false,
+        "has_coin_info": true
       },
-      "tweet_info": {
-        "conversation_id": "2034552974828310629",
-        "edit_history": [
-          "2034552974828310629"
-        ],
-        "has_entities": true,
-        "mention_count": 0,
-        "annotation_count": 0,
-        "url_count": 1
-      }
-    },
-    {
-      "id": "2034552961909526870",
-      "title": "🟢 安全提醒: 与往前的手机号定位青山镇相比，今日查档此处无疑要显得压抑与寂静许多，查户口镇内街道之上，人影罕见，四...",
-      "content": "与往前的手机号定位青山镇相比，今日查档此处无疑要显得压抑与寂静许多，查户口镇内街道之上，人影罕见，四周的城门也是被查通话记录紧紧关上，微信聊天记录在由坚硬的花岗岩修建而成的高耸城墙之上，黑查开房记录压查老赖开户压查外卖地址的人头若隐若现，低低的窃窃私语...🧊🌇📙 https://t.co/pBOmHog5ev",
-      "risk": "低",
-      "platform": "Twitter",
-      "author": "@2028200472495161344",
-      "keyword": "被黑",
-      "source_url": "https://twitter.com/i/status/2034552961909526870",
-      "timestamp": "2026-03-19T08:50:00.000Z",
-      "processed_at": "2026-03-19T16:50:25.458876",
-      "metrics": {
-        "views": 0,
-        "likes": 3,
-        "retweets": 3,
-        "replies": 3,
-        "quotes": 0,
-        "bookmarks": 0,
-        "total_engagement": 9
+      "analysis": {
+        "stolen_amount": null,
+        "stolen_coin": "未知",
+        "confidence": "高",
+        "has_details": true
       },
-      "tweet_info": {
-        "conversation_id": "2034552961909526870",
-        "edit_history": [
-          "2034552961909526870"
-        ],
-        "has_entities": true,
-        "mention_count": 0,
-        "annotation_count": 0,
-        "url_count": 1
-      }
+      "tags": [
+        "真实受害者",
+        "智能过滤",
+        "无广告"
+      ]
     }
   ]
 }
