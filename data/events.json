@@ -1,14 +1,26 @@
 {
   "metadata": {
     "created_at": "2026-03-19T15:18:50.438512",
-    "last_updated": "2026-03-19T15:22:23.527174",
+    "last_updated": "2026-03-19T15:23:26.596969",
     "website_url": "https://bitjungle-cn.github.io/security-monitor",
-    "total_events": 12,
+    "total_events": 13,
     "high_risk": 0,
-    "medium_risk": 1,
+    "medium_risk": 2,
     "low_risk": 11
   },
   "events": [
+    {
+      "id": "realtime_1773905006",
+      "title": "🚨 实时区块链安全监控系统",
+      "content": "系统正在实时监控推特上的加密货币安全事件。当前时间: 2026-03-19 15:23:26",
+      "risk": "中",
+      "platform": "BitJungle Security",
+      "author": "@bitjungle_team",
+      "keyword": "实时监控",
+      "source_url": "https://bitjungle-cn.github.io/security-monitor/",
+      "timestamp": "2026-03-19T15:23:26.596789",
+      "processed_at": "2026-03-19T15:23:26.596791"
+    },
     {
       "id": "2034530840664056214",
       "title": "🟢 币不见了: We are launching Baby $Pippin  Limited p...",
