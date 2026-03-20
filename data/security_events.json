@@ -1,0 +1,1131 @@
+[
+  {
+    "edit_history_tweet_ids": [
+      "2034834170065613029"
+    ],
+    "conversation_id": "2033925810713977230",
+    "created_at": "2026-03-20T03:27:26.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "author_id": "1495358196189257728",
+    "id": "2034834170065613029",
+    "text": "@kashzaada1k98 @kashzaada1k98 I’m glad you at least had some of your funds moved. I went through a similar situation where my wallet was drained after connecting to a malicious site. @AssetTracePro helped me trace my stolen crypto on the blockchain, showing exactly where the funds went.",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "kashzaada1k98",
+          "id": "1734173496505434112"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "kashzaada1k98",
+          "id": "1734173496505434112"
+        },
+        {
+          "start": 183,
+          "end": 197,
+          "username": "AssetTracePro",
+          "id": "2529783846"
+        }
+      ]
+    },
+    "collected_at": "2026-03-20T11:38:23.764563",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034832044367176099"
+    ],
+    "conversation_id": "2034777179096007108",
+    "created_at": "2026-03-20T03:18:59.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "author_id": "1272100731974189058",
+    "id": "2034832044367176099",
+    "text": "@DRCRAZY65450975 @DRCRAZY65450975 I know how overwhelming it feels to lose all your funds. After my wallet was compromised, @AssetTracePro assisted in tracing the stolen crypto, analyzing blockchain activity, and providing guidance for recovery.",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "DRCRAZY65450975",
+          "id": "1622332709354741760"
+        },
+        {
+          "start": 17,
+          "end": 33,
+          "username": "DRCRAZY65450975",
+          "id": "1622332709354741760"
+        },
+        {
+          "start": 124,
+          "end": 138,
+          "username": "AssetTracePro",
+          "id": "2529783846"
+        }
+      ]
+    },
+    "collected_at": "2026-03-20T11:38:23.764585",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034830321774993797"
+    ],
+    "conversation_id": "2034830321774993797",
+    "created_at": "2026-03-20T03:12:08.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 31
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 2,
+          "end": 7,
+          "probability": 0.5712,
+          "type": "Other",
+          "normalized_text": "Crypto"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "probability": 0.6542,
+          "type": "Other",
+          "normalized_text": "BTC"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "probability": 0.791,
+          "type": "Other",
+          "normalized_text": "USDT"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "probability": 0.7489,
+          "type": "Other",
+          "normalized_text": "XRP"
+        },
+        {
+          "start": 55,
+          "end": 62,
+          "probability": 0.9444,
+          "type": "Other",
+          "normalized_text": "WhatsApp"
+        },
+        {
+          "start": 65,
+          "end": 72,
+          "probability": 0.9125,
+          "type": "Other",
+          "normalized_text": "Telegram"
+        },
+        {
+          "start": 75,
+          "end": 81,
+          "probability": 0.972,
+          "type": "Other",
+          "normalized_text": "YouTube"
+        },
+        {
+          "start": 199,
+          "end": 208,
+          "probability": 0.7107,
+          "type": "Other",
+          "normalized_text": "CryptoScam"
+        },
+        {
+          "start": 211,
+          "end": 224,
+          "probability": 0.6078,
+          "type": "Other",
+          "normalized_text": "CryptoRecovery"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 27,
+          "end": 31,
+          "tag": "BTC"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "tag": "USDT"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "tag": "XRP"
+        },
+        {
+          "start": 198,
+          "end": 209,
+          "tag": "CryptoScam"
+        },
+        {
+          "start": 210,
+          "end": 225,
+          "tag": "CryptoRecovery"
+        },
+        {
+          "start": 226,
+          "end": 250,
+          "tag": "BlockChainInvestigation"
+        },
+        {
+          "start": 251,
+          "end": 265,
+          "tag": "RecoverCrypto"
+        },
+        {
+          "start": 266,
+          "end": 276,
+          "tag": "ScamAlert"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/qHfKreo3hQ",
+          "expanded_url": "https://x.com/Fredsrecovery/status/2034830321774993797/photo/1",
+          "display_url": "pic.x.com/qHfKreo3hQ",
+          "media_key": "3_2034830315051438080"
+        }
+      ]
+    },
+    "author_id": "1606185873812250625",
+    "id": "2034830321774993797",
+    "text": "🚨 Crypto Scam Victim?\nLost #BTC #USDT #XRP to scams on WhatsApp, Telegram, YouTube, or social media?\nStolen funds can sometimes be traced on the blockchain.\n\n📩 DM me now for confidential guidance.\n\n#CryptoScam #CryptoRecovery #BlockChainInvestigation #RecoverCrypto #ScamAlert https://t.co/qHfKreo3hQ",
+    "collected_at": "2026-03-20T11:38:23.764589",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034830302091100488"
+    ],
+    "conversation_id": "2034830302091100488",
+    "created_at": "2026-03-20T03:12:03.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 23
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 2,
+          "end": 7,
+          "probability": 0.5712,
+          "type": "Other",
+          "normalized_text": "Crypto"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "probability": 0.6542,
+          "type": "Other",
+          "normalized_text": "BTC"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "probability": 0.791,
+          "type": "Other",
+          "normalized_text": "USDT"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "probability": 0.7489,
+          "type": "Other",
+          "normalized_text": "XRP"
+        },
+        {
+          "start": 55,
+          "end": 62,
+          "probability": 0.9444,
+          "type": "Other",
+          "normalized_text": "WhatsApp"
+        },
+        {
+          "start": 65,
+          "end": 72,
+          "probability": 0.9125,
+          "type": "Other",
+          "normalized_text": "Telegram"
+        },
+        {
+          "start": 75,
+          "end": 81,
+          "probability": 0.972,
+          "type": "Other",
+          "normalized_text": "YouTube"
+        },
+        {
+          "start": 199,
+          "end": 208,
+          "probability": 0.7107,
+          "type": "Other",
+          "normalized_text": "CryptoScam"
+        },
+        {
+          "start": 211,
+          "end": 224,
+          "probability": 0.6078,
+          "type": "Other",
+          "normalized_text": "CryptoRecovery"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 27,
+          "end": 31,
+          "tag": "BTC"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "tag": "USDT"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "tag": "XRP"
+        },
+        {
+          "start": 198,
+          "end": 209,
+          "tag": "CryptoScam"
+        },
+        {
+          "start": 210,
+          "end": 225,
+          "tag": "CryptoRecovery"
+        },
+        {
+          "start": 226,
+          "end": 250,
+          "tag": "BlockChainInvestigation"
+        },
+        {
+          "start": 251,
+          "end": 265,
+          "tag": "RecoverCrypto"
+        },
+        {
+          "start": 266,
+          "end": 276,
+          "tag": "ScamAlert"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/E4FGw3QhrM",
+          "expanded_url": "https://x.com/Fredsrecovery/status/2034830302091100488/photo/1",
+          "display_url": "pic.x.com/E4FGw3QhrM",
+          "media_key": "3_2034830295052988416"
+        }
+      ]
+    },
+    "author_id": "1606185873812250625",
+    "id": "2034830302091100488",
+    "text": "🚨 Crypto Scam Victim?\nLost #BTC #USDT #XRP to scams on WhatsApp, Telegram, YouTube, or social media?\nStolen funds can sometimes be traced on the blockchain.\n\n📩 DM me now for confidential guidance.\n\n#CryptoScam #CryptoRecovery #BlockChainInvestigation #RecoverCrypto #ScamAlert https://t.co/E4FGw3QhrM",
+    "collected_at": "2026-03-20T11:38:23.764592",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034830275411153220"
+    ],
+    "conversation_id": "2034030516551201227",
+    "created_at": "2026-03-20T03:11:57.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 43,
+          "end": 45,
+          "probability": 0.7718,
+          "type": "Other",
+          "normalized_text": "XRP"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "StephMait",
+          "id": "1597450474143117312"
+        },
+        {
+          "start": 11,
+          "end": 21,
+          "username": "StephMait",
+          "id": "1597450474143117312"
+        },
+        {
+          "start": 97,
+          "end": 111,
+          "username": "AssetTracePro",
+          "id": "2529783846"
+        }
+      ]
+    },
+    "author_id": "835703002941947904",
+    "id": "2034830275411153220",
+    "text": "@StephMait @StephMait That’s rough, losing XRP can feel overwhelming. When my crypto was stolen, @AssetTracePro helped me track all transactions, document the flow of funds, and gave me clarity on what happened. Their expertise allowed me to take actionable steps toward recovery.",
+    "collected_at": "2026-03-20T11:38:23.764595",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034830080367632784"
+    ],
+    "conversation_id": "2034830080367632784",
+    "created_at": "2026-03-20T03:11:11.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "author_id": "2201273647",
+    "id": "2034830080367632784",
+    "text": "Hello @marlaktr I’ve been in a situation just like yours, lost access to all my crypto and it felt like there was no way out. I wasted so much time on customer support and their empty promises until I was connected to @TrustchainRECOV , they actually track stolen funds on chain. https://t.co/IG6zIV4c0J",
+    "entities": {
+      "mentions": [
+        {
+          "start": 6,
+          "end": 15,
+          "username": "marlaktr",
+          "id": "1859149409768153089"
+        },
+        {
+          "start": 218,
+          "end": 234,
+          "username": "TrustchainRECOV",
+          "id": "1793911433882705920"
+        }
+      ],
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/IG6zIV4c0J",
+          "expanded_url": "https://twitter.com/marlaktr/status/2034819704653816190",
+          "display_url": "x.com/marlaktr/statu…"
+        }
+      ]
+    },
+    "collected_at": "2026-03-20T11:38:23.764597",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034827428091371781"
+    ],
+    "conversation_id": "2034539851245293809",
+    "created_at": "2026-03-20T03:00:38.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "author_id": "1816882177663279104",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 109,
+          "end": 114,
+          "tag": "ZERO"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "NischalShetty",
+          "id": "14274428"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "sikkafun",
+          "id": "2013924247362744320"
+        }
+      ]
+    },
+    "id": "2034827428091371781",
+    "text": "@NischalShetty @sikkafun When you are returning our stolen crypto? RT ka koi fyada nahin ho raha, uski value #ZERO hai, uski value daaloo mere bhai.",
+    "collected_at": "2026-03-20T11:38:23.764600",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034823313957036259"
+    ],
+    "conversation_id": "2034823313957036259",
+    "created_at": "2026-03-20T02:44:17.000Z",
+    "public_metrics": {
+      "retweet_count": 150,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "annotations": [
+        {
+          "start": 55,
+          "end": 65,
+          "probability": 0.964,
+          "type": "Person",
+          "normalized_text": "Sam Bankman"
+        },
+        {
+          "start": 67,
+          "end": 71,
+          "probability": 0.2932,
+          "type": "Person",
+          "normalized_text": "Fried"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "Thecoinmedium",
+          "id": "1919708616690487297"
+        }
+      ]
+    },
+    "author_id": "1575698459306631168",
+    "id": "2034823313957036259",
+    "text": "RT @Thecoinmedium: He wasn’t a genius. He was a lie.\n\n Sam Bankman-Fried went from crypto king to global collapse.\n\n Family power. Stolen b…",
+    "collected_at": "2026-03-20T11:38:23.764603",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2034822415318929741"
+    ],
+    "conversation_id": "2033884900559052922",
+    "created_at": "2026-03-20T02:40:43.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "author_id": "2027884033905143808",
+    "id": "2034822415318929741",
+    "text": "@marlaktr @marlaktr have you received any assistance regarding your stolen crypto assets?",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "marlaktr",
+          "id": "1859149409768153089"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "username": "marlaktr",
+          "id": "1859149409768153089"
+        }
+      ]
+    },
+    "collected_at": "2026-03-20T11:38:23.764605",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 59,
+          "end": 61,
+          "probability": 0.5124,
+          "type": "Other",
+          "normalized_text": "xrp"
+        },
+        {
+          "start": 116,
+          "end": 118,
+          "probability": 0.678,
+          "type": "Other",
+          "normalized_text": "xrp"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 36,
+          "end": 44,
+          "username": "Bifrost",
+          "id": "1154348832903200768"
+        },
+        {
+          "start": 161,
+          "end": 175,
+          "username": "FlareNetworks",
+          "id": "1098955584907431936"
+        }
+      ]
+    },
+    "conversation_id": "2034835311860359534",
+    "id": "2034835311860359534",
+    "edit_history_tweet_ids": [
+      "2034835311860359534"
+    ],
+    "created_at": "2026-03-20T03:31:58.000Z",
+    "author_id": "144439203",
+    "text": "What do i do. I had my money in the @bifrost wallet and my xrp disappeared. I got hacked for 34 thousand dollars in xrp. I need consensus to undo what was done.\n@FlareNetworks",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "collected_at": "2026-03-20T11:38:23.764607",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "conversation_id": "2034830955072880701",
+    "entities": {
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GLi5YA7crp",
+          "expanded_url": "https://x.com/TheBelloDonna/status/2034830955072880701/video/1",
+          "display_url": "pic.x.com/GLi5YA7crp",
+          "media_key": "3_2034827442075115520"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GLi5YA7crp",
+          "expanded_url": "https://x.com/TheBelloDonna/status/2034830955072880701/video/1",
+          "display_url": "pic.x.com/GLi5YA7crp",
+          "media_key": "3_2034829642431889408"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GLi5YA7crp",
+          "expanded_url": "https://x.com/TheBelloDonna/status/2034830955072880701/video/1",
+          "display_url": "pic.x.com/GLi5YA7crp",
+          "media_key": "13_2034829720349810691"
+        }
+      ]
+    },
+    "id": "2034830955072880701",
+    "edit_history_tweet_ids": [
+      "2034830415572144472",
+      "2034830955072880701"
+    ],
+    "created_at": "2026-03-20T03:14:39.000Z",
+    "author_id": "1872111074214088704",
+    "text": "Back on February 01, 2026, the Blackcoin CTO wallet (old CA) and a few other wallets operated solely by the former CTO were \"hacked\" resulting in over $5,000 drained from the blackcoin CTO wallet alone. \n\nThe wallet pictured below ending in ..dvj2EB was \"hacked\" on February 01, https://t.co/GLi5YA7crp",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 25
+    },
+    "collected_at": "2026-03-20T11:38:23.764610",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "conversation_id": "2034830415572144472",
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4PcW0tCceH",
+          "expanded_url": "https://x.com/TheBelloDonna/status/2034830415572144472/video/1",
+          "display_url": "pic.x.com/4PcW0tCceH",
+          "media_key": "3_2034827442075115520"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4PcW0tCceH",
+          "expanded_url": "https://x.com/TheBelloDonna/status/2034830415572144472/video/1",
+          "display_url": "pic.x.com/4PcW0tCceH",
+          "media_key": "3_2034829642431889408"
+        },
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/4PcW0tCceH",
+          "expanded_url": "https://x.com/TheBelloDonna/status/2034830415572144472/video/1",
+          "display_url": "pic.x.com/4PcW0tCceH",
+          "media_key": "13_2034829720349810691"
+        }
+      ]
+    },
+    "id": "2034830415572144472",
+    "edit_history_tweet_ids": [
+      "2034830415572144472",
+      "2034830955072880701"
+    ],
+    "created_at": "2026-03-20T03:12:31.000Z",
+    "author_id": "1872111074214088704",
+    "text": "Back on February 01, 2026, the Blackcoin CTO wallet and a few other wallets operated solely by the former CTO were \"hacked\" resulting in over $5,000 drained from the blackcoin CTO wallet alone. \n\nThe wallet pictured below ending in ..dvj2EB was \"hacked\" on February 01, yet the https://t.co/4PcW0tCceH",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "collected_at": "2026-03-20T11:38:23.764612",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 27,
+          "end": 30,
+          "probability": 0.6646,
+          "type": "Other",
+          "normalized_text": "iptv"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "probability": 0.5115,
+          "type": "Other",
+          "normalized_text": "metamask"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "aaromlicious",
+          "id": "1953818343250477056"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "username": "MetamaskBro",
+          "id": "1711509338773196801"
+        }
+      ]
+    },
+    "conversation_id": "2034794051728220227",
+    "id": "2034826718268067874",
+    "edit_history_tweet_ids": [
+      "2034826718268067874"
+    ],
+    "created_at": "2026-03-20T02:57:49.000Z",
+    "author_id": "2003202394159742976",
+    "text": "@aaromlicious @MetamaskBro iptv metamask wallet hacked gambling tips",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 127
+    },
+    "collected_at": "2026-03-20T11:38:23.764615",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "conversation_id": "2034822517223797036",
+    "id": "2034822517223797036",
+    "edit_history_tweet_ids": [
+      "2034822517223797036"
+    ],
+    "created_at": "2026-03-20T02:41:07.000Z",
+    "author_id": "2022632296696692736",
+    "text": "my wallet is slowly being hacked by pixels &amp; dreams",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "collected_at": "2026-03-20T11:38:23.764617",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "conversation_id": "2034820775883014171",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "AlexanderR9648",
+          "id": "1823140546434494464"
+        }
+      ]
+    },
+    "id": "2034820775883014171",
+    "edit_history_tweet_ids": [
+      "2034820775883014171"
+    ],
+    "created_at": "2026-03-20T02:34:12.000Z",
+    "author_id": "3141500650",
+    "text": "@AlexanderR9648 If you’ve been hacked, scammed, or locked out of your wallet, don’t panic. @RHenry218_ helped me recover my funds with zero upfront payment.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "collected_at": "2026-03-20T11:38:23.764620",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  },
+  {
+    "conversation_id": "2034636240818205139",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "Winiweb3",
+          "id": "1104366345372794880"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "username": "Winiweb3",
+          "id": "1104366345372794880"
+        },
+        {
+          "start": 90,
+          "end": 103,
+          "username": "dev_walter25",
+          "id": "1845217881019011073"
+        }
+      ]
+    },
+    "id": "2034819867757408665",
+    "edit_history_tweet_ids": [
+      "2034819867757408665"
+    ],
+    "created_at": "2026-03-20T02:30:36.000Z",
+    "author_id": "302131826",
+    "text": "@Winiweb3 @Winiweb3 \nIf your wallet got hacked I suggest you file a report immediately to @dev_walter25  and explain everything and show your proof to them, they’ll be able to recover your hacked assets, they helped in recovering mine weeks ago when I had same issues",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "collected_at": "2026-03-20T11:38:23.764622",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "conversation_id": "2034794051728220227",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MetamaskBro",
+          "id": "1711509338773196801"
+        }
+      ]
+    },
+    "id": "2034819312700084674",
+    "edit_history_tweet_ids": [
+      "2034819312700084674"
+    ],
+    "created_at": "2026-03-20T02:28:23.000Z",
+    "author_id": "1953818343250477056",
+    "text": "@MetamaskBro my wallet got hacked!",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3249
+    },
+    "collected_at": "2026-03-20T11:38:23.764625",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 27,
+          "end": 32,
+          "probability": 0.6307,
+          "type": "Other",
+          "normalized_text": "Helllo"
+        },
+        {
+          "start": 63,
+          "end": 66,
+          "probability": 0.4716,
+          "type": "Organization",
+          "normalized_text": "ROBO"
+        },
+        {
+          "start": 250,
+          "end": 253,
+          "probability": 0.5243,
+          "type": "Other",
+          "normalized_text": "ROBO"
+        },
+        {
+          "start": 258,
+          "end": 260,
+          "probability": 0.4502,
+          "type": "Other",
+          "normalized_text": "CEX"
+        },
+        {
+          "start": 285,
+          "end": 288,
+          "probability": 0.4461,
+          "type": "Other",
+          "normalized_text": "ROBO"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 62,
+          "end": 67,
+          "tag": "ROBO"
+        },
+        {
+          "start": 284,
+          "end": 289,
+          "tag": "ROBO"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "JanLiphardt",
+          "id": "3231877519"
+        },
+        {
+          "start": 13,
+          "end": 26,
+          "username": "openmind_agi",
+          "id": "1808645361202049025"
+        },
+        {
+          "start": 292,
+          "end": 305,
+          "username": "openmind_agi",
+          "id": "1808645361202049025"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 249,
+          "end": 254,
+          "tag": "ROBO"
+        }
+      ]
+    },
+    "conversation_id": "2031852195378069849",
+    "id": "2034815541635162606",
+    "edit_history_tweet_ids": [
+      "2034815541635162606"
+    ],
+    "created_at": "2026-03-20T02:13:24.000Z",
+    "author_id": "1030278683859214337",
+    "text": "@JanLiphardt @openmind_agi Helllo team, am I eligible for the $ROBO airdrop? My wallet has been hacked, which is why I am unable to claim. Please help me. How can I get my airdrop in another wallet? A sweeper bot is active in my wallet. Can i Claim #ROBO on CEX.\nI don't want to lose $ROBO. \n@openmind_agi",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "collected_at": "2026-03-20T11:38:23.764627",
+    "victims_estimate": 1,
+    "risk_level": "🟡 中风险"
+  },
+  {
+    "entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 14,
+          "probability": 0.7429,
+          "type": "Other",
+          "normalized_text": "PeckShieldAlert"
+        },
+        {
+          "start": 18,
+          "end": 32,
+          "probability": 0.7881,
+          "type": "Other",
+          "normalized_text": "PeckShieldAlert"
+        },
+        {
+          "start": 35,
+          "end": 40,
+          "probability": 0.5921,
+          "type": "Other",
+          "normalized_text": "UXLINK"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "probability": 0.5372,
+          "type": "Other",
+          "normalized_text": "ETH"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "probability": 0.3421,
+          "type": "Other",
+          "normalized_text": "DAI"
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "probability": 0.6672,
+          "type": "Other",
+          "normalized_text": "UXLINK"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 70,
+          "end": 74,
+          "tag": "ETH"
+        },
+        {
+          "start": 84,
+          "end": 88,
+          "tag": "DAI"
+        }
+      ],
+      "urls": [
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/q7I8KpfKes",
+          "expanded_url": "https://x.com/PeckShieldAlert/status/2034813022188052509/photo/1",
+          "display_url": "pic.x.com/q7I8KpfKes",
+          "media_key": "3_2034813011211513856"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 17,
+          "end": 33,
+          "tag": "PeckShieldAlert"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "tag": "UXLINK"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "tag": "UXLINK"
+        }
+      ]
+    },
+    "conversation_id": "2034815486311923750",
+    "id": "2034815486311923750",
+    "edit_history_tweet_ids": [
+      "2034815486311923750"
+    ],
+    "created_at": "2026-03-20T02:13:11.000Z",
+    "author_id": "1526152994479190022",
+    "text": "PeckShieldAlert: #PeckShieldAlert #UXLINK exploiter has swapped 5,496 $ETH for ~11M $DAI.\n\n#UXLINK was hacked after its multisig wallet was compromised on September 22, 2025, resulting in losses of over $44M. https://t.co/q7I8KpfKes",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 49
+    },
+    "collected_at": "2026-03-20T11:38:23.764630",
+    "victims_estimate": 1,
+    "risk_level": "🔴 高风险"
+  }
+]
