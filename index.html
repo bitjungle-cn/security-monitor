@@ -5,222 +5,99 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>区块链安全事件监控 - 待审核</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 20px; line-height: 1.6; color: #333; }
-        .header { background: #2c3e50; color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
-        .tweet-card { border: 1px solid #eee; padding: 15px; margin: 15px 0; border-radius: 12px; transition: transform 0.2s; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
-        .tweet-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .tweet-header { display: flex; justify-content: space-between; margin-bottom: 10px; font-size: 0.9em; color: #666; }
-        .tweet-text { font-size: 1.1em; margin-bottom: 15px; white-space: pre-wrap; }
-        .tweet-metrics { display: flex; gap: 20px; font-size: 0.9em; color: #888; border-top: 1px solid #f5f5f5; padding-top: 10px; }
-        .metric-item { display: flex; align-items: center; gap: 5px; }
-        .tweet-link { display: inline-block; background: #1da1f2; color: white; padding: 5px 15px; border-radius: 20px; text-decoration: none; font-size: 0.9em; margin-top: 10px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 20px; line-height: 1.6; color: #333; background-color: #f8f9fa; }
+        .header { background: #2c3e50; color: white; padding: 25px; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .tweet-card { border: 1px solid #e1e8ed; padding: 20px; margin: 15px 0; border-radius: 12px; transition: all 0.3s ease; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.05); position: relative; overflow: hidden; }
+        .tweet-card:hover { transform: translateY(-3px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); border-color: #1da1f2; }
+        .tweet-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; font-size: 0.85em; color: #657786; }
+        .tweet-text { font-size: 1.1em; margin-bottom: 18px; white-space: pre-wrap; color: #14171a; font-weight: 400; }
+        .tweet-metrics { display: flex; gap: 25px; font-size: 0.9em; color: #657786; border-top: 1px solid #f5f8fa; padding-top: 15px; }
+        .metric-item { display: flex; align-items: center; gap: 6px; }
+        .tweet-link { display: inline-block; background: #1da1f2; color: white; padding: 8px 20px; border-radius: 30px; text-decoration: none; font-size: 0.9em; font-weight: bold; margin-top: 15px; transition: background 0.2s; }
         .tweet-link:hover { background: #1991db; }
-        .tag { padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold; }
-        .tag-security { background: #e74c3c; color: white; }
-        .tag-maybe { background: #f39c12; color: white; }
+        .tag { padding: 4px 12px; border-radius: 20px; font-size: 0.75em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+        .tag-security { background: #fee2e2; color: #dc2626; border: 1px solid #fecaca; }
+        .tag-maybe { background: #fef3c7; color: #d97706; border: 1px solid #fde68a; }
+        #loading { text-align: center; padding: 60px; color: #657786; font-size: 1.2em; }
+        .stats-bar { margin-top: 10px; font-size: 0.9em; opacity: 0.9; }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>🔍 推特安全事件预扫描</h1>
-        <p>最后扫描时间: 2026-03-20 14:07:41</p>
-        <p>共获取 10 条原始推文，等待 OpenClaw 进行最终过滤和发布。</p>
+        <h1>🔍 推特安全事件实时预扫描</h1>
+        <div class="stats-bar">
+            <span id="last-update">最后扫描时间: 加载中...</span> | 
+            <span id="stats">共获取 0 条推文</span>
+        </div>
+        <p style="margin-top: 15px; font-size: 0.95em; opacity: 0.8;">数据来源于 xurl 实时抓取，由 OpenClaw 进行智能过滤。点击下方链接可查看原始推文。</p>
     </div>
 
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034872562745057719 | 2026-03-20T05:59:59.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">这里我们也再三跟粉丝确认过了
-他的钱包是从官网下载的
-所以排除了这个可能性
+    <div id="loading">正在连接数据源，请稍候...</div>
+    <div id="tweet-container"></div>
 
-另外我们通过链上数据来看
-并不存在异常交易转出
-所以可以排除被盗币的可能性</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 3</div>
-            <div class="metric-item">❤️ 点赞: 0</div>
-            <div class="metric-item">🔁 转发: 0</div>
-            <div class="metric-item">💬 回复: 0</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034872562745057719" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034870552922304899 | 2026-03-20T05:52:00.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">一枚三阶魔核，算上价值查信息，不会低于二十开盒万金找人币，不过这些钱查学籍，却个人资料被奥托笑盗号着摇头拒绝了回去，以炼药师公会的财查通话记录力，查婚姻记录支付开户这点费用，只是九牛一毛而已。查手机号码 https://t.co/QukSiyAjiK</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 0</div>
-            <div class="metric-item">❤️ 点赞: 3</div>
-            <div class="metric-item">🔁 转发: 3</div>
-            <div class="metric-item">💬 回复: 3</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034870552922304899" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034869558927139000 | 2026-03-20T05:48:03.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">今天看到 #web3 #币圈 官媒
-发的偷拍 #助记词 盗取 #BTC 新闻
-突然想起来去年我们也帮一个粉丝
-看了个——“BTC被盗事件”
-究竟是怎么一回事呢？
-接下来给大家展开说说：
-#比特币 #BTC #区块链 #安全 #web3‌‌ https://t.co/67p8VuSaUs</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 9</div>
-            <div class="metric-item">❤️ 点赞: 0</div>
-            <div class="metric-item">🔁 转发: 0</div>
-            <div class="metric-item">💬 回复: 4</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034869558927139000" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034851969245061185 | 2026-03-20T04:38:09.000Z</span>
-            <span class="tag tag-security">🔥 潜在安全事件</span>
-        </div>
-        <div class="tweet-text">今日币圈午报，话说那个香港少年股神冷钱包被盗是真的的吗？？ https://t.co/nOn1WbDuds</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 9</div>
-            <div class="metric-item">❤️ 点赞: 1</div>
-            <div class="metric-item">🔁 转发: 0</div>
-            <div class="metric-item">💬 回复: 0</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034851969245061185" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034851784200425982 | 2026-03-20T04:37:25.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">“啧啧…炼查资料药师，不愧是斗气大陆最高贵的职业啊，光查婚姻记录是这黑客件长袍，查档恐怕造价就不会低于十万金币。”爱不释手查个人信息的盗QQ上下翻看着黑色长查开房记录袍，萧炎褪去那件普通聊天记录查信息的粗布外衫，然后将之套在身查女友上，顿时，被黑袍贴着的...👠🤵↖ https://t.co/hzdlwzzh8L</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 11</div>
-            <div class="metric-item">❤️ 点赞: 3</div>
-            <div class="metric-item">🔁 转发: 3</div>
-            <div class="metric-item">💬 回复: 3</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034851784200425982" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034829751429341575 | 2026-03-20T03:09:52.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">🔥 币安新手课堂上线
-🎓 本课主题：通行密钥怎么建
-通行密钥可大幅提升账户防护等级，减少被盗风险。
-另外再次强调，币安注册一定要填写邀请码，注册完成后无法再补
-可享手续费永久8折优惠
-#币安 #加密货币 #BTCUSDT
-专属注册链接https://t.co/jF3s7Y7mX7
- 🧳 https://t.co/mAXSQmtk11</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 5</div>
-            <div class="metric-item">❤️ 点赞: 0</div>
-            <div class="metric-item">🔁 转发: 0</div>
-            <div class="metric-item">💬 回复: 0</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034829751429341575" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034759429019582666 | 2026-03-19T22:30:26.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">在币安App 中打开首页，点击注册按钮开始操作
-选择使用手机号或邮箱进行注册，设置密码来保护账户
-系统会发送验证码到你的手机或邮箱，输入验证码后即可激活账户
-提交身份证、护照等身份认证资料，完成KYC实名认证
-为了提升账户安全，建议你开启手机验证或Google验证器，防止账户被盗 https://t.co/cCjePcL7ev</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 2</div>
-            <div class="metric-item">❤️ 点赞: 3</div>
-            <div class="metric-item">🔁 转发: 3</div>
-            <div class="metric-item">💬 回复: 1</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034759429019582666" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034723002227527721 | 2026-03-19T20:05:41.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">🔥 币安新手课堂上线
-🎓 本课主题：通行密钥怎么建
-通行密钥可大幅提升账户防护等级，减少被盗风险。
-另外再次强调，币安注册一定要填写邀请码，注册完成后无法再补
-‼️ 推荐邀请码 6666F ‼️
-可享手续费永久8折优惠
-#币安 #加密货币 #BTCUSDT https://t.co/s61WpwVErq</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 5</div>
-            <div class="metric-item">❤️ 点赞: 3</div>
-            <div class="metric-item">🔁 转发: 3</div>
-            <div class="metric-item">💬 回复: 1</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034723002227527721" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034714937897914755 | 2026-03-19T19:33:39.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">🔥 玩转币安｜最新版教程
-📘 本期内容：如何创建币安Web3钱包，并进行安全备份
-🛡️ 钱包备份非常重要，可以防止资产丢失或账号被盗
-🔄 教程会持续更新，适合新手和进阶用户参考
-🟡 注册币安并填写8折返佣邀请码：BNB52
-💰 交易手续费长期折扣，越早填写越划算
-#加密货币 #币安人生 #BTC https://t.co/gBdk3sGE63</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 32</div>
-            <div class="metric-item">❤️ 点赞: 3</div>
-            <div class="metric-item">🔁 转发: 3</div>
-            <div class="metric-item">💬 回复: 1</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034714937897914755" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <div class="tweet-card">
-        <div class="tweet-header">
-            <span>ID: 2034692231110771177 | 2026-03-19T18:03:25.000Z</span>
-            <span class="tag tag-maybe">❓ 待审核</span>
-        </div>
-        <div class="tweet-text">避免被盗号和被钓鱼的7个动作
-
-1. 空投、客服和私信加好友，默认先按诈骗处理。
-2. 授权前先看合约权限，能不给无限授权就别给。
-3. 交易所验证码、邮箱验证和设备锁要全部打开。
-4. 大额资产尽量分仓，不要把所有币都堆在一个钱包。
-5. 涉及转账时先小额测试，再做大额操作。
-6.</div>
-        <div class="tweet-metrics">
-            <div class="metric-item">👁️ 浏览: 2</div>
-            <div class="metric-item">❤️ 点赞: 0</div>
-            <div class="metric-item">🔁 转发: 0</div>
-            <div class="metric-item">💬 回复: 0</div>
-        </div>
-        <a href="https://twitter.com/i/web/status/2034692231110771177" target="_blank" class="tweet-link">🔗 查看原始推文</a>
-    </div>
-
-    <footer style="text-align: center; margin-top: 40px; color: #888; font-size: 0.8em;">
-        Powered by OpenClaw & xurl
+    <footer style="text-align: center; margin-top: 50px; padding: 30px; color: #657786; font-size: 0.85em; border-top: 1px solid #e1e8ed;">
+        &copy; 2026 Bit Jungle Security | Powered by 🦞 OpenClaw
     </footer>
+
+    <script>
+        async function loadTweets() {
+            try {
+                // 强制不使用缓存获取最新 JSON
+                const response = await fetch('data/raw_tweets.json?t=' + new Date().getTime());
+                const tweets = await response.json();
+                
+                document.getElementById('loading').style.display = 'none';
+                
+                // 设置时间
+                let lastScanStr = new Date().toLocaleString();
+                if (tweets.length > 0 && tweets[0].collected_at) {
+                    lastScanStr = new Date(tweets[0].collected_at).toLocaleString();
+                }
+                document.getElementById('last-update').innerText = `最后同步时间: ${lastScanStr}`;
+                document.getElementById('stats').innerText = `当前库中共有 ${tweets.length} 条原始记录`;
+                
+                const container = document.getElementById('tweet-container');
+                container.innerHTML = ''; // 清空容器
+
+                tweets.forEach(tweet => {
+                    const metrics = tweet.public_metrics || {};
+                    const card = document.createElement('div');
+                    card.className = 'tweet-card';
+                    
+                    // 简单的安全判定逻辑（前端仅展示）
+                    const securityKeywords = ['币被盗', 'stolen', 'hacked', 'exploit', '钱包被盗', '黑客', 'attack', 'breach'];
+                    const isPotential = securityKeywords.some(kw => tweet.text.toLowerCase().includes(kw));
+                    const tagHtml = isPotential 
+                        ? '<span class="tag tag-security">🔥 潜在风险</span>' 
+                        : '<span class="tag tag-maybe">🔎 待核实</span>';
+
+                    card.innerHTML = `
+                        <div class="tweet-header">
+                            <span>推文 ID: ${tweet.id} | 发布时间: ${tweet.created_at ? new Date(tweet.created_at).toLocaleString() : '未知'}</span>
+                            ${tagHtml}
+                        </div>
+                        <div class="tweet-text">${tweet.text}</div>
+                        <div class="tweet-metrics">
+                            <div class="metric-item">👁️ 浏览: ${metrics.impression_count || 0}</div>
+                            <div class="metric-item">❤️ 点赞: ${metrics.like_count || 0}</div>
+                            <div class="metric-item">🔁 转发: ${metrics.retweet_count || 0}</div>
+                            <div class="metric-item">💬 回复: ${metrics.reply_count || 0}</div>
+                        </div>
+                        <a href="https://twitter.com/i/web/status/${tweet.id}" target="_blank" class="tweet-link">🔗 在 Twitter 上查看详情</a>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error('加载失败:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #dc2626; background: #fee2e2; padding: 20px; border-radius: 8px;">
+                        <strong>⚠️ 数据同步失败</strong><br>
+                        未能读取到 data/raw_tweets.json。请确保采集脚本已成功运行并已推送至 GitHub。
+                    </div>
+                `;
+            }
+        }
+        loadTweets();
+    </script>
 </body>
 </html>
