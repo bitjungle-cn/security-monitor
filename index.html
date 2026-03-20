@@ -3,194 +3,224 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>区块链安全事件监控</title>
+    <title>区块链安全事件监控 - 待审核</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 20px; }
-        .header { background: #f0f0f0; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
-        .event { border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 8px; }
-        .high-risk { border-left: 5px solid #e74c3c; background: #ffeaea; }
-        .medium-risk { border-left: 5px solid #f39c12; background: #fff3cd; }
-        .low-risk { border-left: 5px solid #2ecc71; background: #e8f6ef; }
-        .timestamp { color: #666; font-size: 0.9em; }
-        .stats { display: flex; gap: 20px; margin: 20px 0; }
-        .stat-box { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 20px; line-height: 1.6; color: #333; }
+        .header { background: #2c3e50; color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+        .tweet-card { border: 1px solid #eee; padding: 15px; margin: 15px 0; border-radius: 12px; transition: transform 0.2s; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+        .tweet-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .tweet-header { display: flex; justify-content: space-between; margin-bottom: 10px; font-size: 0.9em; color: #666; }
+        .tweet-text { font-size: 1.1em; margin-bottom: 15px; white-space: pre-wrap; }
+        .tweet-metrics { display: flex; gap: 20px; font-size: 0.9em; color: #888; border-top: 1px solid #f5f5f5; padding-top: 10px; }
+        .metric-item { display: flex; align-items: center; gap: 5px; }
+        .tweet-link { display: inline-block; background: #1da1f2; color: white; padding: 5px 15px; border-radius: 20px; text-decoration: none; font-size: 0.9em; margin-top: 10px; }
+        .tweet-link:hover { background: #1991db; }
+        .tag { padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold; }
+        .tag-security { background: #e74c3c; color: white; }
+        .tag-maybe { background: #f39c12; color: white; }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>🔒 区块链安全事件监控</h1>
-        <p>最后更新: 2026-03-20 12:32:58</p>
-        <p>监控关键词: 币被盗, 钱包被盗, 黑客攻击, 漏洞利用, 钓鱼骗局...</p>
+        <h1>🔍 推特安全事件预扫描</h1>
+        <p>最后扫描时间: 2026-03-20 14:07:41</p>
+        <p>共获取 10 条原始推文，等待 OpenClaw 进行最终过滤和发布。</p>
     </div>
-    
-    <div class="stats">
-        <div class="stat-box">
-            <h3>📊 统计</h3>
-            <p>总事件数: 40</p>
-            <p>高风险: 13</p>
-            <p>中风险: 23</p>
-            <p>低风险: 4</p>
+
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034872562745057719 | 2026-03-20T05:59:59.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
         </div>
+        <div class="tweet-text">这里我们也再三跟粉丝确认过了
+他的钱包是从官网下载的
+所以排除了这个可能性
+
+另外我们通过链上数据来看
+并不存在异常交易转出
+所以可以排除被盗币的可能性</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 3</div>
+            <div class="metric-item">❤️ 点赞: 0</div>
+            <div class="metric-item">🔁 转发: 0</div>
+            <div class="metric-item">💬 回复: 0</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034872562745057719" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event low-risk">
-        <div class="timestamp">2026-03-19T16:31:01.000Z | 🟢 低风险</div>
-        <p><strong>空投工作室几百个钱包的加密资产被盗，是什么原因造成的？如何防止自己的钱包被盗呢？#钱包 #加密货币 #区块链 #crypto #web3  #区块链技术 #智能合约 #dapp开发 https://t.co/1s6lMSghKs</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034668979537780792</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034870552922304899 | 2026-03-20T05:52:00.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">一枚三阶魔核，算上价值查信息，不会低于二十开盒万金找人币，不过这些钱查学籍，却个人资料被奥托笑盗号着摇头拒绝了回去，以炼药师公会的财查通话记录力，查婚姻记录支付开户这点费用，只是九牛一毛而已。查手机号码 https://t.co/QukSiyAjiK</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 0</div>
+            <div class="metric-item">❤️ 点赞: 3</div>
+            <div class="metric-item">🔁 转发: 3</div>
+            <div class="metric-item">💬 回复: 3</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034870552922304899" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T04:11:00.000Z | 🔴 高风险</div>
-        <p><strong>Ever wondered why credible crypto projects keep getting “hacked”?
-
-Sometimes, the project isn’t the target.
-
-The people are.
-
-In this case, developers were targeted on GitHub with a fake $5,000 token ...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034845134106632392</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034869558927139000 | 2026-03-20T05:48:03.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">今天看到 #web3 #币圈 官媒
+发的偷拍 #助记词 盗取 #BTC 新闻
+突然想起来去年我们也帮一个粉丝
+看了个——“BTC被盗事件”
+究竟是怎么一回事呢？
+接下来给大家展开说说：
+#比特币 #BTC #区块链 #安全 #web3‌‌ https://t.co/67p8VuSaUs</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 9</div>
+            <div class="metric-item">❤️ 点赞: 0</div>
+            <div class="metric-item">🔁 转发: 0</div>
+            <div class="metric-item">💬 回复: 4</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034869558927139000" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T04:05:23.000Z | 🟡 中风险</div>
-        <p><strong>If I start tweeting about Crypo and tagging other people, please report all the tweets and accounts associated. I will never be a crypto bro and I'm obviously hacked if that ever happens. they hacked ...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034843722836582712</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034851969245061185 | 2026-03-20T04:38:09.000Z</span>
+            <span class="tag tag-security">🔥 潜在安全事件</span>
+        </div>
+        <div class="tweet-text">今日币圈午报，话说那个香港少年股神冷钱包被盗是真的的吗？？ https://t.co/nOn1WbDuds</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 9</div>
+            <div class="metric-item">❤️ 点赞: 1</div>
+            <div class="metric-item">🔁 转发: 0</div>
+            <div class="metric-item">💬 回复: 0</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034851969245061185" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T04:04:20.000Z | 🟡 中风险</div>
-        <p><strong>they don't make bots like they used to My metamask wallet was hacked, I lost my Instagram account, my Facebook account was hacked my meta wallet, crypto wallet was hacked. I lost my ETH and bitcoin. I...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034843457387135301</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034851784200425982 | 2026-03-20T04:37:25.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">“啧啧…炼查资料药师，不愧是斗气大陆最高贵的职业啊，光查婚姻记录是这黑客件长袍，查档恐怕造价就不会低于十万金币。”爱不释手查个人信息的盗QQ上下翻看着黑色长查开房记录袍，萧炎褪去那件普通聊天记录查信息的粗布外衫，然后将之套在身查女友上，顿时，被黑袍贴着的...👠🤵↖ https://t.co/hzdlwzzh8L</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 11</div>
+            <div class="metric-item">❤️ 点赞: 3</div>
+            <div class="metric-item">🔁 转发: 3</div>
+            <div class="metric-item">💬 回复: 3</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034851784200425982" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T03:59:55.000Z | 🔴 高风险</div>
-        <p><strong>@KarneraMythos @beeixzy metamask wallet hacked crypto wallet drained i lost my seed phrase account recovery</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034842346085654688</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034829751429341575 | 2026-03-20T03:09:52.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">🔥 币安新手课堂上线
+🎓 本课主题：通行密钥怎么建
+通行密钥可大幅提升账户防护等级，减少被盗风险。
+另外再次强调，币安注册一定要填写邀请码，注册完成后无法再补
+可享手续费永久8折优惠
+#币安 #加密货币 #BTCUSDT
+专属注册链接https://t.co/jF3s7Y7mX7
+ 🧳 https://t.co/mAXSQmtk11</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 5</div>
+            <div class="metric-item">❤️ 点赞: 0</div>
+            <div class="metric-item">🔁 转发: 0</div>
+            <div class="metric-item">💬 回复: 0</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034829751429341575" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T03:58:24.000Z | 🔴 高风险</div>
-        <p><strong>@TeamYouTube @TeamYouTube My YouTube channel KIMS Cuddles was hacked and used for crypto scam live streams.
-It now shows “Channel Removed.”
-I’ve submitted the hacked account form and am in touch with ...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034841964290732302</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034759429019582666 | 2026-03-19T22:30:26.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">在币安App 中打开首页，点击注册按钮开始操作
+选择使用手机号或邮箱进行注册，设置密码来保护账户
+系统会发送验证码到你的手机或邮箱，输入验证码后即可激活账户
+提交身份证、护照等身份认证资料，完成KYC实名认证
+为了提升账户安全，建议你开启手机验证或Google验证器，防止账户被盗 https://t.co/cCjePcL7ev</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 2</div>
+            <div class="metric-item">❤️ 点赞: 3</div>
+            <div class="metric-item">🔁 转发: 3</div>
+            <div class="metric-item">💬 回复: 1</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034759429019582666" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T03:40:38.000Z | 🟡 中风险</div>
-        <p><strong>Crypto secrets are safer in my pocket than in a digital vault At least my snacks don't have to worry about being hacked</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034837492663558510</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034723002227527721 | 2026-03-19T20:05:41.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">🔥 币安新手课堂上线
+🎓 本课主题：通行密钥怎么建
+通行密钥可大幅提升账户防护等级，减少被盗风险。
+另外再次强调，币安注册一定要填写邀请码，注册完成后无法再补
+‼️ 推荐邀请码 6666F ‼️
+可享手续费永久8折优惠
+#币安 #加密货币 #BTCUSDT https://t.co/s61WpwVErq</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 5</div>
+            <div class="metric-item">❤️ 点赞: 3</div>
+            <div class="metric-item">🔁 转发: 3</div>
+            <div class="metric-item">💬 回复: 1</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034723002227527721" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T03:29:23.000Z | 🟡 中风险</div>
-        <p><strong>gamers, beware: my wallet's been hacked by crypto guess who's paying for my gaming habit now?</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034834660778504617</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034714937897914755 | 2026-03-19T19:33:39.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">🔥 玩转币安｜最新版教程
+📘 本期内容：如何创建币安Web3钱包，并进行安全备份
+🛡️ 钱包备份非常重要，可以防止资产丢失或账号被盗
+🔄 教程会持续更新，适合新手和进阶用户参考
+🟡 注册币安并填写8折返佣邀请码：BNB52
+💰 交易手续费长期折扣，越早填写越划算
+#加密货币 #币安人生 #BTC https://t.co/gBdk3sGE63</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 32</div>
+            <div class="metric-item">❤️ 点赞: 3</div>
+            <div class="metric-item">🔁 转发: 3</div>
+            <div class="metric-item">💬 回复: 1</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034714937897914755" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T02:57:54.000Z | 🔴 高风险</div>
-        <p><strong>guys pls stop getting hacked on discord i'm tired of seeing the mr beast crypto scam that has the worst english on planet earth</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034826739243770259</p>
+    <div class="tweet-card">
+        <div class="tweet-header">
+            <span>ID: 2034692231110771177 | 2026-03-19T18:03:25.000Z</span>
+            <span class="tag tag-maybe">❓ 待审核</span>
+        </div>
+        <div class="tweet-text">避免被盗号和被钓鱼的7个动作
+
+1. 空投、客服和私信加好友，默认先按诈骗处理。
+2. 授权前先看合约权限，能不给无限授权就别给。
+3. 交易所验证码、邮箱验证和设备锁要全部打开。
+4. 大额资产尽量分仓，不要把所有币都堆在一个钱包。
+5. 涉及转账时先小额测试，再做大额操作。
+6.</div>
+        <div class="tweet-metrics">
+            <div class="metric-item">👁️ 浏览: 2</div>
+            <div class="metric-item">❤️ 点赞: 0</div>
+            <div class="metric-item">🔁 转发: 0</div>
+            <div class="metric-item">💬 回复: 0</div>
+        </div>
+        <a href="https://twitter.com/i/web/status/2034692231110771177" target="_blank" class="tweet-link">🔗 查看原始推文</a>
     </div>
 
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T02:24:06.000Z | 🟡 中风险</div>
-        <p><strong>@Michaeljos92972 Glad to see you back Mike. I had feared that you'd been hacked once i saw that post about crypto. Hope you are doing as well as can be expected at this tough time in your life.</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034818233123918230</p>
-    </div>
-
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T02:11:41.000Z | 🔴 高风险</div>
-        <p><strong>@Michaeljos92972 This is exactly what happened to my friend @ Firecaptain16. Someone hacked his account and sent out crypto scams on his behalf. They even infiltrated our group chat in DM’s. It’s been...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034815110242517278</p>
-    </div>
-
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T04:30:03.000Z | 🔴 高风险</div>
-        <p><strong>🚀 Z Oracle (Hong Kong) Hiring: Vulnerability Research Engineer (Android/iOS)
-🔐 Hunt bugs across Android &amp; iOS (kernel → apps)
-💻 CVE research, exploit dev, reverse engineering (IDA, GDB, Frida), fu...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034849929324105964</p>
-    </div>
-
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T04:27:27.000Z | 🟡 中风险</div>
-        <p><strong>54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security https://t.co/IMU8pthsSx</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034849273490063532</p>
-    </div>
-
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T04:14:43.000Z | 🟡 中风险</div>
-        <p><strong>54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security https://t.co/3eXeePto4T 
-
-A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of ...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034846071629680733</p>
-    </div>
-
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T04:11:58.000Z | 🟡 中风险</div>
-        <p><strong>54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security https://t.co/9gLBAZR4rx via @TheHackersNews</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034845377212420179</p>
-    </div>
-
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T03:49:53.000Z | 🔴 高风险</div>
-        <p><strong>🚨 SHOCKING Cloud Security Breach: #AWS Bedrock Exploit, #Google’s 2B Wiz Deal, and the Rise of #AI-Driven Cyber Warfare
-
--Fact Checker: ✅: 2 ❌: 1 || 2/3
-
-https://t.co/fUt53FWyyz</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034839819583459622</p>
-    </div>
-
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T03:42:20.000Z | 🟡 中风险</div>
-        <p><strong>Non-human identities are the new attack surface. Secure your APIs, bots &amp; workloads before attackers exploit them. We help you implement PAM &amp; secrets security.
-sales@wisemaninfosec.com
- | htt...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034837920457400445</p>
-    </div>
-
-    <div class="event medium-risk">
-        <div class="timestamp">2026-03-20T03:01:39.000Z | 🟡 中风险</div>
-        <p><strong>🔗 54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security
-https://t.co/565dCvxvKT</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034827681175675074</p>
-    </div>
-
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T02:51:07.000Z | 🔴 高风险</div>
-        <p><strong>@anjarfals007 @ForteProtocol bener, dan yang bikin banyak orang kecolongan itu karena security di Web3 sering dianggap urusan belakangan, padahal smart contract exploit aja udah drain miliaran dolar t...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034825030350381345</p>
-    </div>
-
-    <div class="event high-risk">
-        <div class="timestamp">2026-03-20T02:50:25.000Z | 🔴 高风险</div>
-        <p><strong>In a significant on-chain movement, the perpetrator behind the UXLINK exploit has liquidated a staggering $11.8 million worth of Ethereum, raising fresh alarms about the security of decentralized prot...</strong></p>
-        <p>受害者估计: 1人</p>
-        <p>推文ID: 2034824857624436889</p>
-    </div>
-
+    <footer style="text-align: center; margin-top: 40px; color: #888; font-size: 0.8em;">
+        Powered by OpenClaw & xurl
+    </footer>
 </body>
 </html>
