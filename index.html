@@ -68,9 +68,18 @@
                 sortedHistory.forEach(filename => {
                     const option = document.createElement('option');
                     option.value = filename;
-                    // 从文件名提取日期 (tweets_2026-03-23.json -> 2026-03-23)
-                    const dateMatch = filename.match(/tweets_(.+)\.json/);
-                    option.textContent = dateMatch ? dateMatch[1] : filename;
+                    // 从文件名提取日期和时间 (tweets_2026-03-23_15-00.json -> 2026-03-23 15:00)
+                    const dateTimeMatch = filename.match(/tweets_(.+)_(.+)\.json/);
+                    if (dateTimeMatch) {
+                        const date = dateTimeMatch[1];
+                        const time = dateTimeMatch[2].replace('-', ':');
+                        option.textContent = `${date} ${time}`;
+                    } else {
+                        // 兼容旧格式 (tweets_2026-03-23.json)
+                        const dateMatch = filename.match(/tweets_(.+)\.json/);
+                        option.textContent = dateMatch ? dateMatch[1] : filename;
+                    }
+                    
                     if (filename === currentManifest.latest) {
                         option.selected = true;
                         option.textContent += ' (最新)';
