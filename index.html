@@ -42,18 +42,23 @@
     <script>
         async function loadTweets() {
             try {
-                // 强制不使用缓存获取最新 JSON
-                const response = await fetch('data/raw_tweets.json?t=' + new Date().getTime());
+                // 1. 首先获取清单文件，确定最新的数据文件名
+                const manifestResponse = await fetch('data/manifest.json?t=' + new Date().getTime());
+                const manifest = await manifestResponse.json();
+                const latestFile = manifest.latest || 'raw_tweets.json';
+                
+                // 2. 获取最新的推文数据
+                const response = await fetch('data/' + latestFile + '?t=' + new Date().getTime());
                 const tweets = await response.json();
                 
                 document.getElementById('loading').style.display = 'none';
                 
                 // 设置时间
-                let lastScanStr = new Date().toLocaleString();
+                let lastScanStr = manifest.last_updated ? new Date(manifest.last_updated).toLocaleString() : new Date().toLocaleString();
                 if (tweets.length > 0 && tweets[0].collected_at) {
                     lastScanStr = new Date(tweets[0].collected_at).toLocaleString();
                 }
-                document.getElementById('last-update').innerText = `最后同步时间: ${lastScanStr}`;
+                document.getElementById('last-update').innerText = `最后同步时间: ${lastScanStr} (文件: ${latestFile})`;
                 document.getElementById('stats').innerText = `当前库中共有 ${tweets.length} 条原始记录`;
                 
                 const container = document.getElementById('tweet-container');
