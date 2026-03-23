@@ -1,0 +1,52 @@
+{
+  "analysis_time": "2026-03-23T11:16:21.881501",
+  "data_file": "tweets_2026-03-23_11-11.json",
+  "total_tweets": 60,
+  "filtered_tweets": 38,
+  "spam_tweets": 22,
+  "security_breakdown": {
+    "黑客攻击": 22,
+    "诈骗/钓鱼": 12,
+    "漏洞利用": 0,
+    "钱包安全": 0,
+    "DeFi安全": 0,
+    "监管合规": 0
+  },
+  "high_risk_count": 34,
+  "sample_events": {
+    "黑客攻击": [
+      {
+        "id": "2035828838438174759",
+        "text": "【专业资产解冻与找回服务】\n依托跨境司法资源与专业法律/技术团队，为您解决资金被卡、资产丢失难题。\n司法解冻： 涵盖银行卡（微信/支付宝/企微等）、加密货币交易所账户及链上资金解冻。资产找回：*助记词/私钥恢复、硬件钱包解锁、清退类交易所资产找回。被盗追踪：链上及交易所被盗资金溯源与找回 https://t.co/Dpi69k66sZ",
+        "created_at": "2026-03-22T21:19:53.000Z"
+      },
+      {
+        "id": "2035757964813058237",
+        "text": "这个发币的号跟随一看就知道了，这他妈大概率账号被盗，这么卖力的推销。",
+        "created_at": "2026-03-22T16:38:16.000Z"
+      },
+      {
+        "id": "2035749819478929891",
+        "text": "@DtDt666 我如果钱多会买各个发达国家的指数基金，如果买虚拟币我会买比特币etf这些，总感觉自己保管容易被盗 😂",
+        "created_at": "2026-03-22T16:05:54.000Z"
+      }
+    ],
+    "诈骗/钓鱼": [
+      {
+        "id": "2035903487079489807",
+        "text": "关塔那摩监狱在等着你：突发新闻——美国史上最大医疗欺诈案——“淘金行动”揭露146亿美元医疗骗局，324人被起诉  关塔那摩监狱在等着你：324名医生、护士和高管因美国史上最大医疗欺诈案被起诉。“淘金行动”揭露了146亿美元的诈骗、豪宅、加密货币和奢侈品盗窃案，这些钱都是用你的税款买来的。 https://t.co/ht7DJiyspD",
+        "created_at": "2026-03-23T02:16:31.000Z"
+      },
+      {
+        "id": "2035916637535416521",
+        "text": "@TheMrDeuce @patelsjxrp Yea suddenly all at once yall dmbfvcj retailers will realise xrPEE is the biggest rug pull scam for retailers in crypto history.",
+        "created_at": "2026-03-23T03:08:46.000Z"
+      },
+      {
+        "id": "2035916073149862234",
+        "text": "@LukeSuther33435 xrPEE shitcoin HAS ALWAYS BEEN a DORMANT condition except those who hot in during few cents n and they need to pipe down. After that xrPEE HAS ALWAYS BEEN AN ANTI-RETAILERS SCAM. xrPe...",
+        "created_at": "2026-03-23T03:06:31.000Z"
+      }
+    ]
+  }
+}
