@@ -45,7 +45,8 @@
                 // 1. 首先获取清单文件，确定最新的数据文件名
                 const manifestResponse = await fetch('data/manifest.json?t=' + new Date().getTime());
                 const manifest = await manifestResponse.json();
-                const latestFile = manifest.latest || 'raw_tweets.json';
+                const latestFile = manifest.latest;
+                if (!latestFile) throw new Error('No latest file found in manifest');
                 
                 // 2. 获取最新的推文数据
                 const response = await fetch('data/' + latestFile + '?t=' + new Date().getTime());
@@ -97,7 +98,7 @@
                 document.getElementById('loading').innerHTML = `
                     <div style="color: #dc2626; background: #fee2e2; padding: 20px; border-radius: 8px;">
                         <strong>⚠️ 数据同步失败</strong><br>
-                        未能读取到 data/raw_tweets.json。请确保采集脚本已成功运行并已推送至 GitHub。
+                        未能读取到最新的数据文件。请确保采集脚本已成功运行并已推送至 GitHub。
                     </div>
                 `;
             }
