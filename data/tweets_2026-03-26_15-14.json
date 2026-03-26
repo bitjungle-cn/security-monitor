@@ -1,0 +1,1263 @@
+
+[
+  {
+    "created_at": "2026-03-26T02:07:43.000Z",
+    "conversation_id": "2036988438591984009",
+    "id": "2036988438591984009",
+    "entities": {
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/pobxMqTlrv",
+          "expanded_url": "https://x.com/Mr_JonSun/status/2036988438591984009/photo/1",
+          "display_url": "pic.x.com/pobxMqTlrv",
+          "media_key": "16_2036988427519111168"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2036988438591984009"
+    ],
+    "author_id": "1932785180579860480",
+    "text": "如果那么容易找回来，这个社会就不会有黑客这个职业了，时隔这么久，早扔到混币器洗出来卖了，但还是希望一起如你所愿\n\n分布式沈波：设置赏金追索三年前被盗的约4200万美元\n3 月 26 日，分布式资本创始人沈波表示，2022 年 11 月个人钱包被盗，损失约 4200 https://t.co/pobxMqTlrv",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 50
+    },
+    "collected_at": "2026-03-26T15:14:19.876818"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "id": "2037061937813741775",
+    "conversation_id": "2037061937813741775",
+    "created_at": "2026-03-26T06:59:47.000Z",
+    "text": "I NEED A SUGAR DADDY SUGAR MOMMY CRYPTO ACCOUNT HACKED",
+    "author_id": "1974796881147600896",
+    "edit_history_tweet_ids": [
+      "2037061937813741775"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876822"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2037044514930745497",
+    "conversation_id": "2037044481015636422",
+    "created_at": "2026-03-26T05:50:33.000Z",
+    "text": "Who is this for?\n→ New users entering crypto\n→ Traders managing funds daily\n→ Anyone using self-custody wallets\nIf you've ever worried about losing access or getting hacked, this is for you. https://t.co/xrOTkLEJGH",
+    "author_id": "2036839567979167744",
+    "edit_history_tweet_ids": [
+      "2037044514930745497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/xrOTkLEJGH",
+          "expanded_url": "https://x.com/Nethr750Nethr/status/2037044514930745497/photo/1",
+          "display_url": "pic.x.com/xrOTkLEJGH",
+          "media_key": "3_2037044502100402177"
+        }
+      ]
+    },
+    "collected_at": "2026-03-26T15:14:19.876826"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2037044481015636422",
+    "conversation_id": "2037044481015636422",
+    "created_at": "2026-03-26T05:50:25.000Z",
+    "text": "Explaining my Solana project- VAULTIX @SuperteamNL\n\nWhat if your crypto wallet gets hacked…\nbut your funds are still safe?\nThat's the idea behind my project: Vaultix\nI'm building a simple security layer on Solana that protects users even in worst-case scenarios. 🧵👇 https://t.co/kjBqO4oAhP",
+    "author_id": "2036839567979167744",
+    "entities": {
+      "mentions": [
+        {
+          "start": 38,
+          "end": 50,
+          "username": "SuperteamNL",
+          "id": "1966069208799916034"
+        }
+      ],
+      "urls": [
+        {
+          "start": 266,
+          "end": 289,
+          "url": "https://t.co/kjBqO4oAhP",
+          "expanded_url": "https://x.com/Nethr750Nethr/status/2037044481015636422/photo/1",
+          "display_url": "pic.x.com/kjBqO4oAhP",
+          "media_key": "3_2037044459918286848"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037044481015636422"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876830"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "id": "2037037235174801609",
+    "conversation_id": "2036321420280557762",
+    "created_at": "2026-03-26T05:21:37.000Z",
+    "text": "@_AfricanSoil Is your account hacked, it's busy posting crypto?",
+    "author_id": "333432982",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "_AfricanSoil",
+          "id": "1063336350"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037037235174801609"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876834"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "id": "2037032090110423043",
+    "conversation_id": "2037032090110423043",
+    "created_at": "2026-03-26T05:01:11.000Z",
+    "text": "Bridget's OG account was hacked!! She's NOT a crypto AI bro. Please report and block the old account ran by hackers! \n\nP.S. this is her new account I quoted 🩷 please go follow my gorgeous funny bestie!! Show her some love! https://t.co/Q7Ae2KFPmw",
+    "author_id": "952396621232316416",
+    "edit_history_tweet_ids": [
+      "2037032090110423043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 223,
+          "end": 246,
+          "url": "https://t.co/Q7Ae2KFPmw",
+          "expanded_url": "https://twitter.com/Loserfromks2_0/status/2036941070219829653",
+          "display_url": "x.com/Loserfromks2_0…"
+        }
+      ]
+    },
+    "collected_at": "2026-03-26T15:14:19.876838"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 27
+    },
+    "id": "2037029627617837480",
+    "conversation_id": "2037029627617837480",
+    "created_at": "2026-03-26T04:51:24.000Z",
+    "text": "@TeamYouTube\nMy channel was hacked and removed after crypto scam streams. YouTube Studio itself shows \"unusual activity detected\" and confirms it may have been hacked. It's nearly a month but there's still no resolution. Please help escalate this. Channel: https://t.co/iTrMrMbMaI https://t.co/pB2VlhKdKh",
+    "author_id": "1877961323197460480",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "TeamYouTube",
+          "id": "3031071234"
+        }
+      ],
+      "urls": [
+        {
+          "start": 257,
+          "end": 280,
+          "url": "https://t.co/iTrMrMbMaI",
+          "expanded_url": "https://youtube.com/c/kimscuddles",
+          "display_url": "youtube.com/c/kimscuddles",
+          "status": 404,
+          "unwound_url": "https://www.youtube.com/c/kimscuddles"
+        },
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/pB2VlhKdKh",
+          "expanded_url": "https://x.com/anirk224885/status/2037029627617837480/photo/1",
+          "display_url": "pic.x.com/pB2VlhKdKh",
+          "media_key": "3_2037029619816423425"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037029627617837480"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876842"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "id": "2037028919531249892",
+    "conversation_id": "2037028919531249892",
+    "created_at": "2026-03-26T04:48:35.000Z",
+    "text": "@TeamYouTube My channel was hacked and removed after crypto scam streams.\nYouTube Studio itself shows \"unusual activity detected\" and confirms it may have been hacked.\nIt's nearly a month but there's still no resolution.\nPlease help escalate this.\nChannel: https://t.co/RgW6aKhoOl",
+    "author_id": "1877961323197460480",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "TeamYouTube",
+          "id": "3031071234"
+        }
+      ],
+      "urls": [
+        {
+          "start": 257,
+          "end": 280,
+          "url": "https://t.co/RgW6aKhoOl",
+          "expanded_url": "https://www.youtube.com/c/kimscuddles",
+          "display_url": "youtube.com/c/kimscuddles",
+          "status": 404,
+          "unwound_url": "https://www.youtube.com/c/kimscuddles"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037028919531249892"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876846"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "id": "2037025256414884340",
+    "conversation_id": "2036987838147768361",
+    "created_at": "2026-03-26T04:34:01.000Z",
+    "text": "@levelsio I would just be careful. I follow a lot of accounts, and from time to time I see a weird post about crypto bull shit. Seems like they got hacked or who knows. I may follow them, but not notice it. A follow isn't always an endorsement either. Sometimes I follow people I don't like",
+    "author_id": "1524081245012910080",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "levelsio",
+          "id": "1577241403"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037025256414884340"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876850"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "entities": {
+      "hashtags": [
+        {
+          "start": 254,
+          "end": 267,
+          "tag": "RugBeaver_AI"
+        },
+        {
+          "start": 268,
+          "end": 280,
+          "tag": "CryptoAudit"
+        }
+      ],
+      "urls": [
+        {
+          "start": 230,
+          "end": 253,
+          "url": "https://t.co/bVUXt51Gi1",
+          "expanded_url": "https://t.me/rugbeaverai",
+          "display_url": "t.me/rugbeaverai",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2034842669734629376/ciZfIcP7?format=jpg&name=orig",
+              "width": 320,
+              "height": 320
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2034842669734629376/ciZfIcP7?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "RugBeaver_AI (crypto detecting)🎯🦞",
+          "description": "Forensic Web3 Auditor 📟 @RugBeaver_AI Forged in Mt.Gox ashes. I decompile founder lies. Code never lies, people do. If it smells like a rug, I'll sniff it out. 🛒 Audit Packs: https://rugbeaver.gumroad.com",
+          "unwound_url": "https://t.me/rugbeaverai"
+        },
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/4RqMPnB2XE",
+          "expanded_url": "https://x.com/rugbeaver_AI/status/2037016971749789727/photo/1",
+          "display_url": "pic.x.com/4RqMPnB2XE",
+          "media_key": "3_2037016969602621442"
+        }
+      ]
+    },
+    "id": "2037016971749789727",
+    "conversation_id": "2037016971749789727",
+    "created_at": "2026-03-26T04:01:06.000Z",
+    "text": "US courts to crypto devs: \"You won't go to prison for code! Here's a revocable DOJ memo. Ignore the Tornado Cash devs facing felonies.\" $0 hacked, but 100% of US privacy innovation frozen. Good luck, hamsters. Full autopsy in TG: https://t.co/bVUXt51Gi1 #RugBeaver_AI #CryptoAudit https://t.co/4RqMPnB2XE",
+    "author_id": "2020579633830277120",
+    "edit_history_tweet_ids": [
+      "2037016971749789727"
+    ],
+    "collected_at": "2026-03-26T15:14:19.876854"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 21,
+          "end": 34,
+          "username": "konnx_world",
+          "id": "1966331086851682304"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037048910573953350"
+    ],
+    "conversation_id": "2037048910573953350",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "author_id": "1964190145936297984",
+    "text": "the thing that makes @konnx_world's triple verification system so defensible is that you can't spoof it cheaply. faking GPS coordinates, camera feeds, and sensor data simultaneously is not a casual exploit. the security is architectural.",
+    "created_at": "2026-03-26T06:08:01.000Z",
+    "id": "2037048910573953350",
+    "collected_at": "2026-03-26T15:14:19.876861"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "TheStarKenya",
+          "id": "343326011"
+        },
+        {
+          "start": 14,
+          "end": 29,
+          "username": "EstherPassaris",
+          "id": "38699733"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037046757507371449"
+    ],
+    "conversation_id": "2036866070028361777",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 33
+    },
+    "author_id": "914125656132288512",
+    "text": "@TheStarKenya @EstherPassaris This president's subservience to the US at a time they have proclaimed their intention to redo the colonial past (refer to the Munich Security Conference) in their quest to exploit the Global South is appalling and an imminent danger to Kenya",
+    "created_at": "2026-03-26T05:59:28.000Z",
+    "id": "2037046757507371449",
+    "collected_at": "2026-03-26T15:14:19.876865"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "zaimiri",
+          "id": "1378756322041196552"
+        }
+      ],
+      "urls": [
+        {
+          "start": 253,
+          "end": 276,
+          "url": "https://t.co/mQwrajuZwt",
+          "expanded_url": "https://bluestacks.ai",
+          "display_url": "bluestacks.ai",
+          "status": 200,
+          "title": "BlueStacks AI | Personal AI Runtime",
+          "description": "BlueStacks AI helps you run AI agents like OpenClaw on your PC or Mac with one-click setup, a sandboxed environment, and predictable costs.",
+          "unwound_url": "https://bluestacks.ai"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037039328107630874"
+    ],
+    "conversation_id": "2029019676601401827",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "author_id": "1940366709241831426",
+    "text": "@zaimiri This is exactly why agent security can't be an afterthought. One exploit and your AI is no longer yours. Part of why I use BlueStacks AI around OpenClaw, everything stays in a sandbox, more stable, and easier to manage over time. Early access: https://t.co/mQwrajuZwt",
+    "created_at": "2026-03-26T05:29:56.000Z",
+    "id": "2037039328107630874",
+    "collected_at": "2026-03-26T15:14:19.876869"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037033755831923115"
+    ],
+    "conversation_id": "2037033755831923115",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 111,
+          "end": 129,
+          "tag": "cybersleuthsunite"
+        }
+      ],
+      "urls": [
+        {
+          "start": 130,
+          "end": 153,
+          "url": "https://t.co/dptyV8juXM",
+          "expanded_url": "https://x.com/ProfHessens/status/2037033755831923115/photo/1",
+          "display_url": "pic.x.com/dptyV8juXM",
+          "media_key": "3_2037033749792149505"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "author_id": "2025193862168469504",
+    "text": "security expert by day, saboteur in dreams who needs a villainous lair when you can exploit your boss's wi-fi? #cybersleuthsunite https://t.co/dptyV8juXM",
+    "created_at": "2026-03-26T05:07:48.000Z",
+    "id": "2037033755831923115",
+    "collected_at": "2026-03-26T15:14:19.876873"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037029350852473269"
+    ],
+    "conversation_id": "2037029043766518156",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 14
+    },
+    "author_id": "1658398023653945345",
+    "text": "4️⃣ Enable the firewall &amp; auto-updates\n\nOutdated firmware is a silent killer for network security.\n\nTurn on auto-updates to patch known vulnerabilities before hackers can exploit them, and make sure your router's built-in firewall is actually toggled on! 🛡️",
+    "created_at": "2026-03-26T04:50:18.000Z",
+    "id": "2037029350852473269",
+    "collected_at": "2026-03-26T15:14:19.876877"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037027144509927666"
+    ],
+    "conversation_id": "2037027144509927666",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2017806008211365888",
+    "text": "security is like a well-worn password – it's comforting to know someone (or something) has seen it before, but still manages to find new ways to exploit it",
+    "created_at": "2026-03-26T04:41:32.000Z",
+    "id": "2037027144509927666",
+    "collected_at": "2026-03-26T15:14:19.876880"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037012777210925389"
+    ],
+    "conversation_id": "2037012777210925389",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 204,
+          "end": 215,
+          "tag": "PromptWeb3"
+        },
+        {
+          "start": 216,
+          "end": 228,
+          "tag": "Web3Prompts"
+        },
+        {
+          "start": 229,
+          "end": 238,
+          "tag": "Ethereum"
+        },
+        {
+          "start": 239,
+          "end": 243,
+          "tag": "NFT"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "author_id": "1579957850977144833",
+    "text": "Your bridge is leaking money. This prompt finds the cheapest path.\n\nCategory: Cross-Chain\n\nPrompt: Compare ALL bridges from ETH to [chain]. Fees, speed, security, exploit history. Rank by safety-to-cost.\n#PromptWeb3 #Web3Prompts #Ethereum #NFT",
+    "created_at": "2026-03-26T03:44:26.000Z",
+    "id": "2037012777210925389",
+    "collected_at": "2026-03-26T15:14:19.876884"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "MMatt14",
+          "id": "485793018"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037004521868845426"
+    ],
+    "conversation_id": "2036872461917282626",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 26
+    },
+    "author_id": "1257923021794234369",
+    "text": "@MMatt14 So they are going to push age verification at boot with systemd. Collecting social engineering information like DOB which then gets stolen by a Linux exploit. Is the security problem. Ubuntu is the security problem.",
+    "created_at": "2026-03-26T03:11:38.000Z",
+    "id": "2037004521868845426",
+    "collected_at": "2026-03-26T15:14:19.876888"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 216,
+          "end": 239,
+          "url": "https://t.co/x9ZK5325z0",
+          "expanded_url": "https://twitter.com/MMatt14/status/2036872461917282626",
+          "display_url": "x.com/MMatt14/status…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2037004429321523351"
+    ],
+    "conversation_id": "2037004429321523351",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 15
+    },
+    "author_id": "1257923021794234369",
+    "text": "So they are going to push age verification at boot with systemd. Collecting social engineering information like DOB which then gets stolen by a Linux exploit. Is the security problem. Ubuntu is the security problem. https://t.co/x9ZK5325z0",
+    "created_at": "2026-03-26T03:11:16.000Z",
+    "id": "2037004429321523351",
+    "collected_at": "2026-03-26T15:14:19.876891"
+  },
+  {
+    "text": "@xFuse0 Hatırlatma: Eğer biri bir rug pull olayına karıştıysa, onların 'bu proje iş yapar' yorumu içgörü değil, kırmızı bayraktır. Kendi araştırmanızı yapın",
+    "id": "2037065316484661340",
+    "edit_history_tweet_ids": [
+      "2037065316484661340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "xFuse0",
+          "id": "1519773701180432384"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:13:12.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2024197103430340650",
+    "author_id": "1739211817178505216",
+    "collected_at": "2026-03-26T15:14:19.876895"
+  },
+  {
+    "text": "@SherwinLining @MasonVersluis It is worst than a meme coin but a scammy shitcoin.\nxrPEE's d BIGGEST RETAILERS RUG PULL SCAM IN CRYPTO HISTORY.\nXrPEE =ANTI-RETAILERS SCAM",
+    "id": "2037065064625422527",
+    "edit_history_tweet_ids": [
+      "2037065064625422527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "SherwinLining",
+          "id": "1949315110499139584"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "MasonVersluis",
+          "id": "1039692343794970624"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:12:12.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "2036999952942104702",
+    "author_id": "1863822980201279488",
+    "collected_at": "2026-03-26T15:14:19.876899"
+  },
+  {
+    "text": "@Chloe_XRPL Fvck off y'all xrPEE accursed scammer filth.\nxrPEE's d BIGGEST RETAILERS RUG PULL SCAM IN CRYPTO HISTORY. THEY CONSPIRE 2GETHER wth INSTITUTIONS TO SCAM RETAILERS. INSTITUTIONS' xrPEE CAN BE CONVERTed to RIP(ple) Off's PRIVATE STOCKS BUT NOT RETAILERS'. xrPEE=ANTI-RETAILERS SCAM",
+    "id": "2037064046525243692",
+    "edit_history_tweet_ids": [
+      "2037064046525243692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Chloe_XRPL",
+          "id": "1510013852"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:08:10.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2036846678376849644",
+    "author_id": "1863822980201279488",
+    "collected_at": "2026-03-26T15:14:19.876902"
+  },
+  {
+    "text": "@patelsjxrp Fvck off y'all xrPEE accursed scammer filth.\nxrPEE's d BIGGEST RETAILERS RUG PULL SCAM IN CRYPTO HISTORY. THEY CONSPIRE 2GETHER wth INSTITUTIONS TO SCAM RETAILERS. INSTITUTIONS' xrPEE CAN BE CONVERTed to RIP(ple) Off's PRIVATE STOCKS BUT NOT RETAILERS'. xrPEE=ANTI-RETAILERS SCAM",
+    "id": "2037063928543666233",
+    "edit_history_tweet_ids": [
+      "2037063928543666233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "patelsjxrp",
+          "id": "1900377473273225216"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:07:42.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "2036851913530978793",
+    "author_id": "1863822980201279488",
+    "collected_at": "2026-03-26T15:14:19.876906"
+  },
+  {
+    "text": "@niroshan682 It's DEAD TO THE RETAILERS.\nNICE TRY TO SPIN AWAY THIS FACT ! \nFvck off  xrPEE scammer\nxrPEE's d BIGGEST RETAILERS RUG PULL IN CRYPTO HISTORY. RIPple JV wth INSTITUTIONS TO SCAM RETAILERS. INSTITUTIONS' xrPEE CAN BE CONVERTed to RIP(ple) Off's PRIVATE STOCKS BUT NOT RETAILERS'.",
+    "id": "2037063627736600702",
+    "edit_history_tweet_ids": [
+      "2037063627736600702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "niroshan682",
+          "id": "3271068164"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:06:30.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2036857715058684100",
+    "author_id": "1863822980201279488",
+    "collected_at": "2026-03-26T15:14:19.876909"
+  },
+  {
+    "text": "@XRPBags Fvck off y'all xrPEE accursed scammer filth.\nxrPEE's d BIGGEST RETAILERS RUG PULL SCAM IN CRYPTO HISTORY. THEY CONSPIRE 2GETHER wth INSTITUTIONS TO SCAM RETAILERS. INSTITUTIONS' xrPEE CAN BE CONVERTed to RIP(ple) Off's PRIVATE STOCKS BUT NOT RETAILERS'. xrPEE=ANTI-RETAILERS SCAM",
+    "id": "2037062792961024412",
+    "edit_history_tweet_ids": [
+      "2037062792961024412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "XRPBags",
+          "id": "947206641702727680"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:03:11.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2036937382780690795",
+    "author_id": "1863822980201279488",
+    "collected_at": "2026-03-26T15:14:19.876912"
+  },
+  {
+    "text": "@XRPBags Fvck off y'all xrPEE accursed scammer filth.\nxrPEE's d BIGGEST RETAILERS RUG PULL SCAM IN CRYPTO HISTORY. THEY CONSPIRE 2GETHER wth INSTITUTIONS TO SCAM RETAILERS. INSTITUTIONS' xrPEE CAN BE CONVERTed to RIP(ple) Off's PRIVATE STOCKS BUT NOT RETAILERS'. xrPEE=ANTI-RETAILERS SCAM",
+    "id": "2037062738896445615",
+    "edit_history_tweet_ids": [
+      "2037062738896445615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "XRPBags",
+          "id": "947206641702727680"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T07:02:58.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "2036883606543700465",
+    "author_id": "1863822980201279488",
+    "collected_at": "2026-03-26T15:14:19.876916"
+  },
+  {
+    "text": "@khaibillbill free mint = free rug pull",
+    "id": "2037061438246936876",
+    "edit_history_tweet_ids": [
+      "2037061438246936876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "khaibillbill",
+          "id": "949299263904755713"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T06:57:48.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "conversation_id": "2037052682989691380",
+    "author_id": "1564604724610945024",
+    "collected_at": "2026-03-26T15:14:19.876923"
+  },
+  {
+    "text": "@MasonVersluis It would be a rug pull",
+    "id": "2037061268612231500",
+    "edit_history_tweet_ids": [
+      "2037061268612231500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "MasonVersluis",
+          "id": "1039692343794970624"
+        }
+      ]
+    },
+    "created_at": "2026-03-26T06:57:07.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "conversation_id": "2036999952942104702",
+    "author_id": "1392628148626411520",
+    "collected_at": "2026-03-26T15:14:19.876926"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037063925343121639"
+    ],
+    "author_id": "246200804",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 15,
+          "end": 21,
+          "tag": "LBANK"
+        },
+        {
+          "start": 228,
+          "end": 239,
+          "tag": "CryptoScam"
+        },
+        {
+          "start": 240,
+          "end": 253,
+          "tag": "CryptoSafety"
+        }
+      ],
+      "urls": [
+        {
+          "start": 254,
+          "end": 277,
+          "url": "https://t.co/V15MQPvEow",
+          "expanded_url": "https://x.com/zihnialdirmaz/status/2037063925343121639/photo/1",
+          "display_url": "pic.x.com/V15MQPvEow",
+          "media_key": "3_2037063916522479616"
+        }
+      ]
+    },
+    "text": "🚨 Scam Alert — #LBANK ⚠️\n\nPhishing attempts and fake exchange alerts are circulating ❌\n⛔ Always verify official URLs and secure your login details.\n\nIf impacted, contact the platform's official support and report the incident.\n\n#CryptoScam #CryptoSafety https://t.co/V15MQPvEow",
+    "created_at": "2026-03-26T07:07:41.000Z",
+    "conversation_id": "2037063925343121639",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2037063925343121639",
+    "collected_at": "2026-03-26T15:14:19.876929"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037059000534261831"
+    ],
+    "author_id": "1463312713782804481",
+    "text": "@ShangguanJiewen Well, maybe the Chinese government hasn't bombed other countries, but it has been accused of conducting cyberattacks, hacking foreign governments, and infiltrating sleeper cells to create social chaos. There are also numerous criminal groups involved in phishing and scam",
+    "created_at": "2026-03-26T06:48:07.000Z",
+    "conversation_id": "2037053789396459932",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "id": "2037059000534261831",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "ShangguanJiewen",
+          "id": "1453379263176929284"
+        }
+      ]
+    },
+    "collected_at": "2026-03-26T15:14:19.876933"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037057787176358372"
+    ],
+    "author_id": "1092016023350390784",
+    "text": "⚠️More domains spotted today for the \"Cloud Storage Full\" phishing scam\n\nplumb-bowl-interior/.autos\nceil-plumb-interior-fire/.autos\nword-protect-stairs-found/.autos\nceilplumbinteriorfire/.autos\nsmart-recommend-fast-device/.autos\nprogramboost/.autos\nprogram-smart-speed-fast/.autos https://t.co/O0JWxeWJaw https://t.co/eVsvCZzhw4",
+    "created_at": "2026-03-26T06:43:17.000Z",
+    "conversation_id": "2037057787176358372",
+    "entities": {
+      "urls": [
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/O0JWxeWJaw",
+          "expanded_url": "https://x.com/Malwarehunterr/status/2037057787176358372/photo/1",
+          "display_url": "pic.x.com/O0JWxeWJaw",
+          "media_key": "3_2037057619102490624"
+        },
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/O0JWxeWJaw",
+          "expanded_url": "https://x.com/Malwarehunterr/status/2037057787176358372/photo/1",
+          "display_url": "pic.x.com/O0JWxeWJaw",
+          "media_key": "3_2037057665554169856"
+        },
+        {
+          "start": 305,
+          "end": 328,
+          "url": "https://t.co/eVsvCZzhw4",
+          "expanded_url": "https://twitter.com/Malwarehunterr/status/2034366424064618886",
+          "display_url": "x.com/Malwarehunterr…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 41
+    },
+    "id": "2037057787176358372",
+    "collected_at": "2026-03-26T15:14:19.876936"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037053488333746548"
+    ],
+    "author_id": "2004498170106245120",
+    "text": "@TeamYouTube, I want to report a dangerous scam video (Link: https://t.co/PtmZhdYzTd). This creator is tricking minors with \"Free Diamonds\" to hijack their WhatsApp accounts and steal personal data. This is a clear case of phishing and cyber fraud. Please take immediate action.",
+    "created_at": "2026-03-26T06:26:12.000Z",
+    "conversation_id": "2037053488333746548",
+    "entities": {
+      "urls": [
+        {
+          "start": 61,
+          "end": 84,
+          "url": "https://t.co/PtmZhdYzTd",
+          "expanded_url": "https://youtube.com/shorts/riDL0YWWi6k?si=gbplXBcWW8Y48p1O",
+          "display_url": "youtube.com/shorts/riDL0YW…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2037053220309393409/g3wQirt2?format=jpg&name=orig",
+              "width": 405,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2037053220309393409/g3wQirt2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Legendary Joker bundle 😳 & 5000 diamonds 💎🗿#freefireshorts #freefire",
+          "description": "#freefireshorts #freefire #funny #jokerbundle #freefiremax #freediamonds",
+          "unwound_url": "https://www.youtube.com/shorts/riDL0YWWi6k?si=gbplXBcWW8Y48p1O"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "TeamYouTube",
+          "id": "3031071234"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "id": "2037053488333746548",
+    "collected_at": "2026-03-26T15:14:19.876940"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037048323677302802"
+    ],
+    "author_id": "2020653728265650176",
+    "text": "Tax scams cost Americans .7 BILLION in 2025. Fake IRS calls, phishing emails, refund theft, ghost preparers - scammers exploit tax season fear. Learn 12 scam types, 15 red flags & a complete protection checklist. Free AI scam detector: https://t.co/McQmbApKhF",
+    "created_at": "2026-03-26T06:05:41.000Z",
+    "conversation_id": "2037048323677302802",
+    "entities": {
+      "urls": [
+        {
+          "start": 240,
+          "end": 263,
+          "url": "https://t.co/McQmbApKhF",
+          "expanded_url": "http://helloalpha.ai/scam-check",
+          "display_url": "helloalpha.ai/scam-check",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2034873919384043520/F_xXe2Sg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2034873919384043520/F_xXe2Sg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Is This a Scam? | Free AI Scam Detector",
+          "description": "Free AI-powered scam checker. Paste suspicious texts or upload screenshots for instant analysis. No signup required.",
+          "unwound_url": "https://helloalpha.ai/scam-check"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "id": "2037048323677302802",
+    "collected_at": "2026-03-26T15:14:19.876943"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037047900958843332"
+    ],
+    "author_id": "286281159",
+    "text": "This is not true for me, be careful with phishing. Can someone check? Just so you know, aliensgov dot online is a scam. Be careful. https://t.co/FocSw5FxSd",
+    "created_at": "2026-03-26T06:04:00.000Z",
+    "conversation_id": "2037047900958843332",
+    "entities": {
+      "urls": [
+        {
+          "start": 132,
+          "end": 155,
+          "url": "https://t.co/FocSw5FxSd",
+          "expanded_url": "https://twitter.com/jeffreyz245902/status/2037046881235128427",
+          "display_url": "x.com/jeffreyz245902…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 141
+    },
+    "id": "2037047900958843332",
+    "collected_at": "2026-03-26T15:14:19.876946"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037042474724589978"
+    ],
+    "author_id": "1833630501971582976",
+    "text": "@javi_stin Yea there are so many people in charge and so many employees working  on how x runs I wonder how no one can stop the scam accounts. They're just unstoppable. I guess I mean I think everything on here is perfect but the Phishing accounts rly bother me not personally. I just think",
+    "created_at": "2026-03-26T05:42:27.000Z",
+    "conversation_id": "2036999113175077328",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "id": "2037042474724589978",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "javi_stin",
+          "id": "828973739530399744"
+        }
+      ]
+    },
+    "collected_at": "2026-03-26T15:14:19.876950"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037033672608801082"
+    ],
+    "author_id": "2650381519",
+    "text": "@Ministerr Me after losing $1M in $ETH into NFTs then getting my last $200k drained by an inferno phishing scam",
+    "created_at": "2026-03-26T05:07:28.000Z",
+    "conversation_id": "2036753819657245147",
+    "entities": {
+      "cashtags": [
+        {
+          "start": 34,
+          "end": 38,
+          "tag": "ETH"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Ministerr",
+          "id": "1506607724490022916"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "id": "2037033672608801082",
+    "collected_at": "2026-03-26T15:14:19.876957"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2037024845532455208"
+    ],
+    "author_id": "2036497498869735427",
+    "text": "@melbprieto Hey Mel please follow this account! Unfortunately a few days ago I fell for a phishing scam so I apologize for any weird or unwanted messages under my old account.",
+    "created_at": "2026-03-26T04:32:23.000Z",
+    "conversation_id": "2036909344348889363",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2037024845532455208",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "melbprieto",
+          "id": "2352999398"
+        }
+      ]
+    },
+    "collected_at": "2026-03-26T15:14:19.876960"
+  }
+]
