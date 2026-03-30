@@ -1,0 +1,1204 @@
+[
+  {
+    "author_id": "1511395120628711424",
+    "created_at": "2026-03-29T22:43:29.000Z",
+    "id": "2038386592092700709",
+    "edit_history_tweet_ids": [
+      "2038386262386811148",
+      "2038386592092700709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 151,
+          "end": 174,
+          "url": "https://t.co/VHtCwlmIdk",
+          "expanded_url": "https://x.com/dliphotos/status/2038386592092700709/photo/1",
+          "display_url": "pic.x.com/VHtCwlmIdk",
+          "media_key": "3_2038386437205434368"
+        },
+        {
+          "start": 151,
+          "end": 174,
+          "url": "https://t.co/VHtCwlmIdk",
+          "expanded_url": "https://x.com/dliphotos/status/2038386592092700709/photo/1",
+          "display_url": "pic.x.com/VHtCwlmIdk",
+          "media_key": "3_2038386454590885888"
+        },
+        {
+          "start": 151,
+          "end": 174,
+          "url": "https://t.co/VHtCwlmIdk",
+          "expanded_url": "https://x.com/dliphotos/status/2038386592092700709/photo/1",
+          "display_url": "pic.x.com/VHtCwlmIdk",
+          "media_key": "3_2038386584903671808"
+        },
+        {
+          "start": 175,
+          "end": 198,
+          "url": "https://t.co/l7quRJOTTS",
+          "expanded_url": "https://twitter.com/KITKAT/status/2038313618509377852",
+          "display_url": "x.com/KITKAT/status/…"
+        }
+      ]
+    },
+    "conversation_id": "2038386592092700709",
+    "text": "今天一个有趣的新闻是，12吨的KitKat巧克力被盗， 一整车在运输过程中直接消失，这种“离谱新闻”其实并不罕见。\n\n换算一下，这大概是约41.4万根 KitKat（每根约29g）。按欧洲零售价每根0.7–1欧元计算，总价值约在30–40万欧元（约250万人民币），如果按批发价算，大概也有一半价值。 https://t.co/VHtCwlmIdk https://t.co/l7quRJOTTS",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 609
+    },
+    "collected_at": "2026-03-30T08:35:57.313203"
+  },
+  {
+    "author_id": "1511395120628711424",
+    "created_at": "2026-03-29T22:42:10.000Z",
+    "id": "2038386262386811148",
+    "edit_history_tweet_ids": [
+      "2038386262386811148",
+      "2038386592092700709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 151,
+          "end": 174,
+          "url": "https://t.co/l7quRJOTTS",
+          "expanded_url": "https://twitter.com/KITKAT/status/2038313618509377852",
+          "display_url": "x.com/KITKAT/status/…"
+        }
+      ]
+    },
+    "conversation_id": "2038386262386811148",
+    "text": "今天一个有趣的新闻是，12吨的KitKat巧克力被盗， 一整车在运输过程中直接消失，这种“离谱新闻”其实并不罕见。\n\n换算一下，这大概是约41.4万根 KitKat（每根约29g）。按欧洲零售价每根0.7–1欧元计算，总价值约在30–40万欧元（约250万人民币），如果按批发价算，大概也有一半价值。 https://t.co/l7quRJOTTS",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "collected_at": "2026-03-30T08:35:57.313232"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "kingzw888",
+          "id": "1627216318926827521"
+        },
+        {
+          "start": 11,
+          "end": 21,
+          "username": "SafePalCN",
+          "id": "1782229084342538240"
+        },
+        {
+          "start": 22,
+          "end": 33,
+          "username": "Web3Lannie",
+          "id": "1433481630832791557"
+        }
+      ]
+    },
+    "author_id": "1819517540756082689",
+    "created_at": "2026-03-29T17:09:39.000Z",
+    "id": "2038302579302781418",
+    "edit_history_tweet_ids": [
+      "2038302579302781418"
+    ],
+    "conversation_id": "2037619179579416681",
+    "text": "@kingzw888 @SafePalCN @Web3Lannie 热钱包被盗的坑真的太痛了……我之前也因为图方便丢过小资金，从那以后彻底明白“单点失守就是归零”。 硬件钱包+多签才是硬核防线，SafePal这种币安孵化的生态确实靠谱。 已关注三位，点赞转发完成！求SafePal硬件钱包保平安",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "collected_at": "2026-03-30T08:35:57.313238"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "mr_doufu",
+          "id": "974128208881659904"
+        },
+        {
+          "start": 10,
+          "end": 22,
+          "username": "sisibinance",
+          "id": "1427931875935330310"
+        }
+      ]
+    },
+    "author_id": "1891735711566721024",
+    "created_at": "2026-03-29T15:50:50.000Z",
+    "id": "2038282743814226337",
+    "edit_history_tweet_ids": [
+      "2038282743814226337"
+    ],
+    "conversation_id": "2036463223164035254",
+    "text": "@mr_doufu @sisibinance 币安客服确实垃圾级别，之前币被盗找他们查原因，一直反反复复说授权问题，我说我只授权过几个正规平台后台看得到，他还是继续说授权问题，像个死人一样，结果后面自己查到原因是电脑中了监控+远程控制的木马",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4767
+    },
+    "collected_at": "2026-03-30T08:35:57.313242"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "GaiTran10",
+          "id": "1530391629344874496"
+        }
+      ]
+    },
+    "author_id": "1703408407326437376",
+    "created_at": "2026-03-29T13:34:06.000Z",
+    "id": "2038248333488304312",
+    "edit_history_tweet_ids": [
+      "2038248333488304312"
+    ],
+    "conversation_id": "2037897844875735424",
+    "text": "@GaiTran10 垃圾项目，人脸识别签到，3k硬币两分钟就被盗光",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "collected_at": "2026-03-30T08:35:57.313246"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 123,
+          "end": 128,
+          "tag": "Web3"
+        },
+        {
+          "start": 129,
+          "end": 136,
+          "tag": "Crypto"
+        },
+        {
+          "start": 137,
+          "end": 142,
+          "tag": "DeFi"
+        },
+        {
+          "start": 143,
+          "end": 147,
+          "tag": "NFT"
+        }
+      ],
+      "urls": [
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/QOStUZ4C9h",
+          "expanded_url": "https://x.com/ExploreWeb3_325/status/2038157247310880800/photo/1",
+          "display_url": "pic.x.com/QOStUZ4C9h",
+          "media_key": "3_2038157241174691840"
+        }
+      ]
+    },
+    "author_id": "1970023446701903873",
+    "created_at": "2026-03-29T07:32:09.000Z",
+    "id": "2038157247310880800",
+    "edit_history_tweet_ids": [
+      "2038157247310880800"
+    ],
+    "conversation_id": "2038157247310880800",
+    "text": "专业处理币圈疑难问题：\n​1.交易所冻结，司法冻结\n​2.泰达司法冻结\n​3.u被骗被盗找回，辅助立案\n​4.密码破解，资产救援\n5.老火币，比特儿，资产找回\n​欢迎各位同行前来合作[握手][握手]@jiami869 VX：Jiami869   #Web3 #Crypto #DeFi #NFT https://t.co/QOStUZ4C9h",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "collected_at": "2026-03-30T08:35:57.313250"
+  },
+  {
+    "author_id": "1531650437136338944",
+    "created_at": "2026-03-29T06:52:31.000Z",
+    "id": "2038147274170331482",
+    "edit_history_tweet_ids": [
+      "2038147274170331482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 128,
+          "end": 151,
+          "url": "https://t.co/QRVmgIZEYk",
+          "expanded_url": "https://twitter.com/HTX_c2c/status/2037500824642048115",
+          "display_url": "x.com/HTX_c2c/status…"
+        }
+      ]
+    },
+    "conversation_id": "2038147274170331482",
+    "text": "真正的 OTC 行家，在挑选商家时一定会看商家成交记录中的资金流向是否呈现自然的离散状态，这反映了商家资金的自发性与纯度\n作为一名 OTC 行家，我认为出入金最重要的一步是在确认放行前再次校验对方的身份真伪，防止由于账号被盗引发的资产转移风险#火币OTC https://t.co/QRVmgIZEYk",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "collected_at": "2026-03-30T08:35:57.313253"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "HTX_c2c",
+          "id": "1948199477703217152"
+        }
+      ]
+    },
+    "author_id": "1531650437136338944",
+    "created_at": "2026-03-29T06:49:37.000Z",
+    "id": "2038146543472263597",
+    "edit_history_tweet_ids": [
+      "2038146543472263597"
+    ],
+    "conversation_id": "2037500824642048115",
+    "text": "@HTX_c2c 真正的 OTC 行家，在挑选商家时一定会看商家成交记录中的资金流向是否呈现自然的离散状态，这反映了商家资金的自发性与纯度\n作为一名 OTC 行家，我认为出入金最重要的一步是在确认放行前再次校验对方的身份真伪，防止由于账号被盗引发的资产转移风险#火币OTC",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 29
+    },
+    "collected_at": "2026-03-30T08:35:57.313257"
+  },
+  {
+    "author_id": "1642786587875618816",
+    "created_at": "2026-03-29T04:05:52.000Z",
+    "id": "2038105332468089236",
+    "edit_history_tweet_ids": [
+      "2038105332468089236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 33,
+          "end": 56,
+          "url": "https://t.co/6pYUXDoE0Y",
+          "expanded_url": "https://techub.news/CN/flash/ad4296b1-8398-4471-8a65-f78d73b980f9",
+          "display_url": "techub.news/CN/flash/ad429…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2038105354882502656/NHLIfBVP?format=png&name=orig",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2038105354882502656/NHLIfBVP?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "新加坡一男子因协助洗白 650 万美元被盗加密货币被判入狱两年",
+          "description": "TechubNews消息，据《联合早报》报道，一名38岁中国籍新加坡永久居民张兴华因协助前同事非法转移并洗白约883万新元（约650万美元）的加密资产，于3月11日被新加坡法院判处两年监禁。被告与另外两名同伙曾就职于KingCoder公司，该公司负责运营加密交易平台SafeX的多个账户。2025年6月至8月期间，三名涉案人员因与原公司发生纠纷离职后，利用职务之便非法入侵SafeX的电子财库并分三次转出资金。被告张兴华承认利用其妻子的币安账户接收部分赃款，并使用混币器及TornadoCash掩盖资金流向，其中部分资金已套现用于个人开支。目前，涉案的另外两名人员中，戴勇此前已被控，另一人陈崇新目前仍在逃。",
+          "unwound_url": "https://techub.news/flash/ad4296b1-8398-4471-8a65-f78d73b980f9"
+        }
+      ]
+    },
+    "conversation_id": "2038105332468089236",
+    "text": "⚡️😱 速报：新加坡男子洗白被盗加密货币650万美元，获刑两年\n\nhttps://t.co/6pYUXDoE0Y",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 77
+    },
+    "collected_at": "2026-03-30T08:35:57.313261"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 0,
+          "end": 7,
+          "tag": "karana"
+        }
+      ],
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/4ZqHnUEoTY",
+          "expanded_url": "https://crypto.news/?p=14453056",
+          "display_url": "crypto.news/?p=14453056",
+          "status": 200,
+          "title": "John Daghita arrested in Saint Martin for alleged $46M crypto theft",
+          "description": "U.S. government contractor John Daghita, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, has been arrested in Saint Martin",
+          "unwound_url": "https://crypto.news/john-daghita-arrested-in-saint-martin-for-crypto-theft/"
+        }
+      ]
+    },
+    "author_id": "1520960261431382016",
+    "created_at": "2026-03-29T02:02:04.000Z",
+    "id": "2038074179115774221",
+    "edit_history_tweet_ids": [
+      "2038074179115774221"
+    ],
+    "conversation_id": "2038074179115774221",
+    "text": "#karana 社区-新闻报:\n- 发布时间: 2026-03-29T02:01:00.000Z\n- 加密新闻摘要: 美国承包商因4600万美元加密货币盗窃被捕。\n- Karana 官网:  (改版中，敬请期待)\n- 新闻出处链接: https://t.co/4ZqHnUEoTY",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "collected_at": "2026-03-30T08:35:57.313264"
+  },
+  {
+    "author_id": "266824832",
+    "created_at": "2026-03-30T00:08:42.000Z",
+    "edit_history_tweet_ids": [
+      "2038408036973465793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "patrick_ga68346",
+          "id": "1831674898999058433"
+        },
+        {
+          "start": 17,
+          "end": 33,
+          "username": "patrick_ga68346",
+          "id": "1831674898999058433"
+        },
+        {
+          "start": 208,
+          "end": 219,
+          "username": "ALPHADRECO",
+          "id": "777161114"
+        }
+      ]
+    },
+    "id": "2038408036973465793",
+    "text": "@patrick_ga68346 @patrick_ga68346 ,if you're a  victim of a scam, hacked crypto, Elon musk scam, wallet drained, xrp scam, investment scam or cybercrime, recovery is still possible, quickly send a message to @ALPHADRECO for help.",
+    "conversation_id": "2037564132187144305",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "collected_at": "2026-03-30T08:35:57.313268"
+  },
+  {
+    "author_id": "1695839551",
+    "created_at": "2026-03-30T00:06:25.000Z",
+    "edit_history_tweet_ids": [
+      "2038407463653761246"
+    ],
+    "id": "2038407463653761246",
+    "text": "Crypto Ad hacked this Cities:Skyline Yt channel:\nhttps://t.co/l6oMFe8w6I https://t.co/rGtSLtWjJe",
+    "conversation_id": "2038407463653761246",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 49,
+          "end": 72,
+          "url": "https://t.co/l6oMFe8w6I",
+          "expanded_url": "https://www.youtube.com/@flyvox",
+          "display_url": "youtube.com/@flyvox",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2038407465318887424/Cn9AnVyn?format=jpg&name=orig",
+              "width": 900,
+              "height": 900
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2038407465318887424/Cn9AnVyn?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Ripple [XRP]",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "unwound_url": "https://www.youtube.com/@flyvox"
+        },
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/rGtSLtWjJe",
+          "expanded_url": "https://twitter.com/flyvox84/status/2038406734553727123",
+          "display_url": "x.com/flyvox84/statu…"
+        }
+      ]
+    },
+    "collected_at": "2026-03-30T08:35:57.313275"
+  },
+  {
+    "author_id": "2038371970157301760",
+    "created_at": "2026-03-30T00:04:11.000Z",
+    "edit_history_tweet_ids": [
+      "2038406898475561119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "60Kratosfer",
+          "id": "1731304596964847622"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "username": "Brawlhalla",
+          "id": "2437167086"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "username": "sandstorm",
+          "id": "896731"
+        },
+        {
+          "start": 36,
+          "end": 45,
+          "username": "Swirftyy",
+          "id": "4924783648"
+        },
+        {
+          "start": 46,
+          "end": 55,
+          "username": "Boomiexd",
+          "id": "2726968390"
+        },
+        {
+          "start": 56,
+          "end": 67,
+          "username": "PavelskiBH",
+          "id": "2886513645"
+        },
+        {
+          "start": 68,
+          "end": 76,
+          "username": "Cosolix",
+          "id": "847887852839022592"
+        },
+        {
+          "start": 77,
+          "end": 86,
+          "username": "micro450",
+          "id": "2460192499"
+        },
+        {
+          "start": 87,
+          "end": 101,
+          "username": "ProBrawlhalla",
+          "id": "1255226625261735936"
+        },
+        {
+          "start": 102,
+          "end": 111,
+          "username": "Fodakahn",
+          "id": "2834502361"
+        },
+        {
+          "start": 112,
+          "end": 120,
+          "username": "ToastBH",
+          "id": "3640656054"
+        }
+      ]
+    },
+    "id": "2038406898475561119",
+    "text": "@60Kratosfer @Brawlhalla @sandstorm @Swirftyy @Boomiexd @PavelskiBH @Cosolix @micro450 @ProBrawlhalla @Fodakahn @ToastBH Thankful to Expert Kelvin_support1 for recovering my hacked account for me last year   , he’s a great man and I’ll repay his kindness by putting this comment here for whoever who want his help for your crypto  and fund recovery or tracking \nHis",
+    "conversation_id": "2038406104959328521",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "collected_at": "2026-03-30T08:35:57.313279"
+  },
+  {
+    "author_id": "301285070",
+    "created_at": "2026-03-29T23:56:49.000Z",
+    "edit_history_tweet_ids": [
+      "2038405048615743695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "James354798",
+          "id": "2027770103362899968"
+        },
+        {
+          "start": 13,
+          "end": 25,
+          "username": "James354798",
+          "id": "2027770103362899968"
+        },
+        {
+          "start": 200,
+          "end": 211,
+          "username": "ALPHADRECO",
+          "id": "777161114"
+        }
+      ]
+    },
+    "id": "2038405048615743695",
+    "text": "@James354798 @James354798 ,if you're a  victim of a scam, hacked crypto, Elon musk scam, wallet drained, xrp scam, investment scam or cybercrime, recovery is still possible, quickly send a message to @ALPHADRECO for help.",
+    "conversation_id": "2038385391544258684",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "collected_at": "2026-03-30T08:35:57.313283"
+  },
+  {
+    "author_id": "2038371970157301760",
+    "created_at": "2026-03-29T23:53:20.000Z",
+    "edit_history_tweet_ids": [
+      "2038404170915389861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "61yru82370qtbz",
+          "id": "2024348959201021952"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "username": "TeamYouTube",
+          "id": "3031071234"
+        }
+      ]
+    },
+    "id": "2038404170915389861",
+    "text": "@61yru82370qtbz @TeamYouTube Thankful to Expert Kelvin_support1 for recovering my hacked account for me last year   , he’s a great man and I’ll repay his kindness by putting this comment here for whoever who want his help for your crypto  and fund recovery or tracking \nHis",
+    "conversation_id": "2038402952805687685",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "collected_at": "2026-03-30T08:35:57.313287"
+  },
+  {
+    "author_id": "2038371970157301760",
+    "created_at": "2026-03-29T23:48:51.000Z",
+    "edit_history_tweet_ids": [
+      "2038403041687109737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "AlaaMody77",
+          "id": "2357066680"
+        },
+        {
+          "start": 12,
+          "end": 28,
+          "username": "snapchatsupport",
+          "id": "2409543974"
+        }
+      ]
+    },
+    "id": "2038403041687109737",
+    "text": "@AlaaMody77 @snapchatsupport Thankful to Expert Kelvin_support1 for recovering my hacked account for me last year   , he’s a great man and I’ll repay his kindness by putting this comment here for whoever who want his help for your crypto  and fund recovery or tracking \nHis",
+    "conversation_id": "2038386851724325165",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "collected_at": "2026-03-30T08:35:57.313290"
+  },
+  {
+    "author_id": "301285070",
+    "created_at": "2026-03-29T23:47:12.000Z",
+    "edit_history_tweet_ids": [
+      "2038402624605884434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "DaleCollis976",
+          "id": "2006428669158502403"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "DaleCollis976",
+          "id": "2006428669158502403"
+        },
+        {
+          "start": 204,
+          "end": 215,
+          "username": "ALPHADRECO",
+          "id": "777161114"
+        }
+      ]
+    },
+    "id": "2038402624605884434",
+    "text": "@DaleCollis976 @DaleCollis976 ,if you're a  victim of a scam, hacked crypto, Elon musk scam, wallet drained, xrp scam, investment scam or cybercrime, recovery is still possible, quickly send a message to @ALPHADRECO for help.",
+    "conversation_id": "2032150694711697821",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "collected_at": "2026-03-30T08:35:57.313294"
+  },
+  {
+    "author_id": "301285070",
+    "created_at": "2026-03-29T23:46:18.000Z",
+    "edit_history_tweet_ids": [
+      "2038402400403574797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "DaleCollis976",
+          "id": "2006428669158502403"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "DaleCollis976",
+          "id": "2006428669158502403"
+        },
+        {
+          "start": 204,
+          "end": 215,
+          "username": "ALPHADRECO",
+          "id": "777161114"
+        }
+      ]
+    },
+    "id": "2038402400403574797",
+    "text": "@DaleCollis976 @DaleCollis976 ,if you're a  victim of a scam, hacked crypto, Elon musk scam, wallet drained, xrp scam, investment scam or cybercrime, recovery is still possible, quickly send a message to @ALPHADRECO for help.",
+    "conversation_id": "2038264597434552832",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "collected_at": "2026-03-30T08:35:57.313297"
+  },
+  {
+    "author_id": "301285070",
+    "created_at": "2026-03-29T23:44:59.000Z",
+    "edit_history_tweet_ids": [
+      "2038402069456093465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "DaleCollis976",
+          "id": "2006428669158502403"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "username": "DaleCollis976",
+          "id": "2006428669158502403"
+        },
+        {
+          "start": 205,
+          "end": 216,
+          "username": "ALPHADRECO",
+          "id": "777161114"
+        }
+      ]
+    },
+    "id": "2038402069456093465",
+    "text": "@DaleCollis976 @DaleCollis976  ,if you're a  victim of a scam, hacked crypto, Elon musk scam, wallet drained, xrp scam, investment scam or cybercrime, recovery is still possible, quickly send a message to @ALPHADRECO for help.",
+    "conversation_id": "2038343688217342275",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "collected_at": "2026-03-30T08:35:57.313301"
+  },
+  {
+    "author_id": "1561105303919333378",
+    "created_at": "2026-03-29T22:56:52.000Z",
+    "edit_history_tweet_ids": [
+      "2038389957614502392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "Tim_at_where",
+          "id": "42808386"
+        }
+      ]
+    },
+    "id": "2038389957614502392",
+    "text": "@Tim_at_where Yeah I noticed it seemed suspicious, I didn’t click it, another account got hacked in the same way and after they tried it on me again, they turned their entire profile to a crypto scam account \n\nanother weird scam on this site fucks sake",
+    "conversation_id": "2037587772752679256",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 38
+    },
+    "collected_at": "2026-03-30T08:35:57.313304"
+  },
+  {
+    "id": "2038406039654043992",
+    "edit_history_tweet_ids": [
+      "2038406039654043992"
+    ],
+    "author_id": "1706086980008701953",
+    "created_at": "2026-03-30T00:00:46.000Z",
+    "conversation_id": "2038120250487480534",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "sytelus",
+          "id": "7637292"
+        }
+      ]
+    },
+    "text": "@sytelus the implication for the AI security story is that it won't just be researchers demo-ing this for conference talks. once you can reliably find zero-days at scale, the value concentration in those capabilities is immense. the interesting question is what happens to the exploit",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "collected_at": "2026-03-30T08:35:57.313308"
+  },
+  {
+    "id": "2038390886900347299",
+    "edit_history_tweet_ids": [
+      "2038390886900347299"
+    ],
+    "author_id": "2000463831144046593",
+    "created_at": "2026-03-29T23:00:33.000Z",
+    "conversation_id": "2038390886900347299",
+    "entities": {
+      "urls": [
+        {
+          "start": 255,
+          "end": 278,
+          "url": "https://t.co/hJlDvWRcmX",
+          "expanded_url": "https://x.com/Secure__Edge/status/2038390886900347299/photo/1",
+          "display_url": "pic.x.com/hJlDvWRcmX",
+          "media_key": "3_2038390878956343296"
+        }
+      ]
+    },
+    "text": "Is one camera really enough to keep you safe?\n\nSingle security devices create gaps attackers exploit. Layered systems combine alarms, CCTV, and access control to cover every angle and reduce false alarms. Protect your property with a risk-based approach. https://t.co/hJlDvWRcmX",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "collected_at": "2026-03-30T08:35:57.313311"
+  },
+  {
+    "id": "2038385512486957232",
+    "edit_history_tweet_ids": [
+      "2038385512486957232"
+    ],
+    "author_id": "1834896036445229057",
+    "created_at": "2026-03-29T22:39:12.000Z",
+    "conversation_id": "2038380507801792845",
+    "entities": {
+      "urls": [
+        {
+          "start": 251,
+          "end": 274,
+          "url": "https://t.co/Y2N0IwUF1l",
+          "expanded_url": "https://cybernews.com/security/cgi-sweden-bankid-hack-claims/",
+          "display_url": "cybernews.com/security/cgi-s…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2036374166476111872/mZ1_vqEH?format=jpg&name=orig",
+              "width": 1200,
+              "height": 660
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2036374166476111872/mZ1_vqEH?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Sweden’s digital ID provider confirms data breach​ | Cybernews",
+          "description": "Hackers have claimed a breach of CGI Sweden, leaking source code and credentials tied to systems used by the Swedish Tax Agency and BankID authentication services.",
+          "unwound_url": "https://cybernews.com/security/cgi-sweden-bankid-hack-claims/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "SpectatorOz",
+          "id": "484468243"
+        }
+      ]
+    },
+    "text": "@SpectatorOz The system needs to address an INFINITE number of possible security flaws ALL of the time. \n\nA hacker only needs to exploit one security flaw and ALL data is compromised, FOREVER.\n\nIt isn't worth the perceived \"convenience\" or \"safety\".\n\nhttps://t.co/Y2N0IwUF1l",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "collected_at": "2026-03-30T08:35:57.313315"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 159,
+          "end": 178,
+          "tag": "DailyCyberSecurity"
+        }
+      ],
+      "urls": [
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/S5D5j91ZZV",
+          "expanded_url": "https://securityonline.info/telegram-critical-zero-click-vulnerability-zdi-can-30207/",
+          "display_url": "securityonline.info/telegram-criti…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2037464502958952448/NDVHd4sF?format=jpg&name=orig",
+              "width": 2560,
+              "height": 625
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2037464502958952448/NDVHd4sF?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "CRITICAL ALERT: Telegram Vulnerability \"ZDI-CAN-30207\" Exposes Users to Zero-Click Attacks",
+          "description": "A critical 9.8 CVSS zero-click flaw (ZDI-CAN-30207) hits Telegram, affecting 1 billion users. No interaction needed for full system hijack. Patching now!",
+          "unwound_url": "https://securityonline.info/telegram-critical-zero-click-vulnerability-zdi-can-30207/"
+        }
+      ]
+    },
+    "id": "2038378007308517873",
+    "edit_history_tweet_ids": [
+      "2038378007308517873"
+    ],
+    "author_id": "64687300",
+    "created_at": "2026-03-29T22:09:22.000Z",
+    "conversation_id": "2038378007308517873",
+    "text": "Telegramは「ゼロクリック」ステッカーの悪用を否定、CVSSセキュリティ警告9.8が世界的な対立を引き起こす \n\nTelegram Denies “Zero-Click” Sticker Exploit as 9.8 CVSS Security Alert Ignites a Global Standoff  #DailyCyberSecurity (Mar 27)\n\nhttps://t.co/S5D5j91ZZV",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 176
+    },
+    "collected_at": "2026-03-30T08:35:57.313319"
+  },
+  {
+    "id": "2038365802865336722",
+    "edit_history_tweet_ids": [
+      "2038365802865336722"
+    ],
+    "author_id": "2036534848714842114",
+    "created_at": "2026-03-29T21:20:53.000Z",
+    "conversation_id": "2027715417540857949",
+    "entities": {
+      "urls": [
+        {
+          "start": 175,
+          "end": 198,
+          "url": "https://t.co/Z7iHDSpT4p",
+          "expanded_url": "http://ozak.ai",
+          "display_url": "ozak.ai",
+          "status": 200,
+          "title": "Predictive AI Platform for Advanced Financial Intelligence",
+          "description": "Ozak AI is an Agentic AI platform that leverages predictive AI purpose-built for financial intelligence, advanced data analytics, and interpretation.",
+          "unwound_url": "https://ozak.ai/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "CertiKAlert",
+          "id": "1494146332528885767"
+        },
+        {
+          "start": 73,
+          "end": 80,
+          "username": "CertiK",
+          "id": "993673575230996480"
+        },
+        {
+          "start": 81,
+          "end": 93,
+          "username": "CertiKAlert",
+          "id": "1494146332528885767"
+        }
+      ]
+    },
+    "text": "@CertiKAlert 🚨 URGENT: Brand Hijack \\u0026 Active Wallet Drainer Alert | @Certik @CertikAlert\nAs a White Hat Security Researcher, I have identified a critical live exploit on https://t.co/Z7iHDSpT4p, a project claiming $5.7M+ raised and displaying your official audit logos to gain investor",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 25
+    },
+    "collected_at": "2026-03-30T08:35:57.313322"
+  },
+  {
+    "id": "2038359690539565182",
+    "edit_history_tweet_ids": [
+      "2038359690539565182"
+    ],
+    "author_id": "1945933690996920320",
+    "created_at": "2026-03-29T20:56:35.000Z",
+    "conversation_id": "2038118683437109664",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "kengdaica",
+          "id": "1297343586984321024"
+        },
+        {
+          "start": 11,
+          "end": 23,
+          "username": "quipnetwork",
+          "id": "1881421472981303296"
+        }
+      ]
+    },
+    "text": "@kengdaica @quipnetwork Security is usually an afterthought until the first exploit hits.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "collected_at": "2026-03-30T08:35:57.313326"
+  },
+  {
+    "id": "2038358621218554300",
+    "edit_history_tweet_ids": [
+      "2038358621218554300"
+    ],
+    "author_id": "1966610116377276419",
+    "created_at": "2026-03-29T20:52:20.000Z",
+    "conversation_id": "2038358328133255246",
+    "text": "Security is where it gets even more interesting.\nRocketX supports: • Private crypto swap routing\n• MEV-aware execution\nMeaning your trades aren’t exposed to bots waiting to exploit you.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "collected_at": "2026-03-30T08:35:57.313329"
+  },
+  {
+    "id": "2038352419357110749",
+    "edit_history_tweet_ids": [
+      "2038352419357110749"
+    ],
+    "author_id": "1870982098099830784",
+    "created_at": "2026-03-29T20:27:42.000Z",
+    "conversation_id": "2038339002751741973",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Web3_Hausa1",
+          "id": "1389597837596504068"
+        }
+      ]
+    },
+    "text": "@Web3_Hausa1 Security is everything in presales, one exploit can wipe months of work\nIf this is real, teams should prioritize protection before hype even starts",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "collected_at": "2026-03-30T08:35:57.313333"
+  },
+  {
+    "id": "2038342857090634214",
+    "edit_history_tweet_ids": [
+      "2038342857090634214"
+    ],
+    "author_id": "1914255008075296768",
+    "created_at": "2026-03-29T19:49:42.000Z",
+    "conversation_id": "2037889466078286057",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "WesRoth",
+          "id": "1547403906954563585"
+        }
+      ]
+    },
+    "text": "@WesRoth Claude Mythos (Capybara) optimized for zero-day exploit discovery. OpenAI Spud pretraining concluded March 25, 2026; Q2 launch imminent. Frontier models now prioritize autonomous offensive security capabilities.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 45
+    },
+    "collected_at": "2026-03-30T08:35:57.313337"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 10,
+          "end": 18,
+          "tag": "Israeli"
+        },
+        {
+          "start": 112,
+          "end": 117,
+          "tag": "Iran"
+        }
+      ]
+    },
+    "id": "2038332051452227602",
+    "edit_history_tweet_ids": [
+      "2038332051452227602"
+    ],
+    "author_id": "1739026612996182016",
+    "created_at": "2026-03-29T19:06:46.000Z",
+    "conversation_id": "2038332051452227602",
+    "text": "BREAKING:\n#Israeli Channel 12, citing a security source: We will exploit \"to the end\" the period of war against #Iran",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 82
+    },
+    "collected_at": "2026-03-30T08:35:57.313340"
+  }
+]
