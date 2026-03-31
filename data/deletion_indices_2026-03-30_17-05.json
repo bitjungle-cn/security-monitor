@@ -1,0 +1,18 @@
+{
+  "batch_id": "2026-03-30_17-05",
+  "analyzed_count": 10,
+  "deletion_decision": {
+    "spam": [2, 5],
+    "advertisement": [],
+    "irrelevant": [3, 4],
+    "adult_content": []
+  },
+  "indices_to_remove": [2, 3, 4, 5],
+  "analysis_complete_at": "2026-03-30T17:06:00Z",
+  "analysis_reason": {
+    "2": "重复/网络梗，非安全事件",
+    "3": "巧克力被盗新闻，与币圈无关",
+    "4": "同上（重复）",
+    "5": "个人经历分享，非安全事件"
+  }
+}
