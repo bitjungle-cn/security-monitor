@@ -1,0 +1,920 @@
+[
+  {
+    "text": "刚看到 @COINUPZH 发了6.0.8版本的更新公告。\n\n这次升级的几个点，我觉得提现白名单最实用。以前总担心地址填错或者被盗，现在加了这层保护，心里踏实不少。\n\n资产页面也改版了。之前用的时候找某个币要翻半天，如果这次能分类更清楚，操作起来会快很多。 https://t.co/O5JUVWuy6S",
+    "entities": {
+      "mentions": [
+        {
+          "start": 4,
+          "end": 13,
+          "username": "COINUPZH",
+          "id": "1687989003255943168"
+        }
+      ],
+      "urls": [
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/O5JUVWuy6S",
+          "expanded_url": "https://twitter.com/COINUPZH/status/2037097525958893770",
+          "display_url": "x.com/COINUPZH/statu…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "id": "2038868398344651085",
+    "created_at": "2026-03-31T06:38:01.000Z",
+    "author_id": "1639905633666469889",
+    "edit_history_tweet_ids": [
+      "2038868398344651085"
+    ],
+    "conversation_id": "2038868398344651085",
+    "cleaned_at": "2026-03-31T15:18:22.783736"
+  },
+  {
+    "text": "@aihekele0609 转了又不代表卖了……我怕钱包被盗，币安安全一些\n\n这俩以后得值几千万，不能仍钱包",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "aihekele0609",
+          "id": "1384170122089164803"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 606
+    },
+    "id": "2038843740828368983",
+    "created_at": "2026-03-31T05:00:02.000Z",
+    "author_id": "1303033822339104770",
+    "edit_history_tweet_ids": [
+      "2038843740828368983"
+    ],
+    "conversation_id": "2038841285600235632",
+    "cleaned_at": "2026-03-31T15:18:22.783738"
+  },
+  {
+    "text": "@TikTokComms 快点来币安链发一个 币安链有被盗叙事",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "TikTokComms",
+          "id": "1291802729438945280"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 266
+    },
+    "id": "2038812962434195910",
+    "created_at": "2026-03-31T02:57:44.000Z",
+    "author_id": "1398595422558384131",
+    "edit_history_tweet_ids": [
+      "2038812962434195910"
+    ],
+    "conversation_id": "2038810909708071199",
+    "cleaned_at": "2026-03-31T15:18:22.783739"
+  },
+  {
+    "text": "@Foresight_News 这是违法的吧，很多盗币案件，链上分析嫌疑人最终把币充进了CEX，以为找交易所调证就能获取到嫌疑人的信息，但实际情况往往是嫌疑人把币进行了otc，而otc的对象在交易所的KYC信息全部是假的，就是买的这种kyc，导致最终破不了案，更无法为受害人追回被盗资金。",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "Foresight_News",
+          "id": "1478984642594177027"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 231
+    },
+    "id": "2038754360256348224",
+    "created_at": "2026-03-30T23:04:52.000Z",
+    "author_id": "1410544495469285376",
+    "edit_history_tweet_ids": [
+      "2038754360256348224"
+    ],
+    "conversation_id": "2038525530727682232",
+    "cleaned_at": "2026-03-31T15:18:22.783740"
+  },
+  {
+    "text": "@XMilesvak @EvanWritesX 盗你妈币，你不说还不来气。骗了就是骗了，你还玩上被盗号了。自己钱包买没买心里没点逼数？。！我日你妈，臭窝囊废敢做不敢认。你放心，不退钱我骂你一辈子。",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "XMilesvak",
+          "id": "1145392860151156737"
+        },
+        {
+          "start": 11,
+          "end": 23,
+          "username": "EvanWritesX",
+          "id": "3016619443"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 27
+    },
+    "id": "2038696676052132213",
+    "created_at": "2026-03-30T19:15:39.000Z",
+    "author_id": "1999693316347310080",
+    "edit_history_tweet_ids": [
+      "2038696676052132213"
+    ],
+    "conversation_id": "2037793721471881515",
+    "cleaned_at": "2026-03-31T15:18:22.783741"
+  },
+  {
+    "author_id": "1621468682944909313",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "conversation_id": "2038871847815848050",
+    "edit_history_tweet_ids": [
+      "2038871847815848050"
+    ],
+    "created_at": "2026-03-31T06:51:43.000Z",
+    "text": "Everyone’s tweeting “Google just dropped a quantum bomb on crypto”…\n\nRelax.  🧘‍♀️\n\nI’m no quantum expert, but neither is your timeline. 😋\n\nYes, it’s a real future risk.\nNo, your wallet isn’t getting hacked in 9 minutes.\n\nFear spreads faster than facts.",
+    "id": "2038871847815848050",
+    "cleaned_at": "2026-03-31T15:18:22.783741"
+  },
+  {
+    "conversation_id": "2038873979696640306",
+    "text": "Is Bitcoin's future at risk from quantum tech? 🤔 Google suggests Taproot may make it easier to exploit vulnerabilities. The implications are huge for security! #CryptoNews #BreakingNews #Bitcoin #QuantumComputing  \nRead more: https://t.co/ZkrXBt0plV",
+    "edit_history_tweet_ids": [
+      "2038873979696640306"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "1128609678550679557",
+    "entities": {
+      "urls": [
+        {
+          "start": 226,
+          "end": 249,
+          "url": "https://t.co/ZkrXBt0plV",
+          "expanded_url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-s-taproot-could-make-quantum-attacks-easier-than-expected-new-google-research-says",
+          "display_url": "coindesk.com/markets/2026/0…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2038843796448825345/kvD-EsAW?format=jpg&name=orig",
+              "width": 810,
+              "height": 540
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2038843796448825345/kvD-EsAW?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Bitcoin’s Taproot could make quantum attacks easier than expected, new Google research says",
+          "description": "The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.",
+          "unwound_url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-s-taproot-could-make-quantum-attacks-easier-than-expected-new-google-research-says"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 160,
+          "end": 171,
+          "tag": "CryptoNews"
+        },
+        {
+          "start": 172,
+          "end": 185,
+          "tag": "BreakingNews"
+        },
+        {
+          "start": 186,
+          "end": 194,
+          "tag": "Bitcoin"
+        },
+        {
+          "start": 195,
+          "end": 212,
+          "tag": "QuantumComputing"
+        }
+      ]
+    },
+    "id": "2038873979696640306",
+    "created_at": "2026-03-31T07:00:11.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783742"
+  },
+  {
+    "conversation_id": "2038708062479884527",
+    "text": "@mainy1505 @Marveltech13835 true.\n\nbut attackers don’t break protocols,\nthey exploit the layers around them:\n\n– MEV\n– bridges\n– liquidity\n– UX\n\nsecurity isn’t just about surviving attacks,\nit’s about minimizing where value can be extracted.",
+    "edit_history_tweet_ids": [
+      "2038873156778426525"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "mainy1505",
+          "id": "1872490478307790848"
+        },
+        {
+          "start": 11,
+          "end": 27,
+          "username": "Marveltech13835",
+          "id": "1962526409441587200"
+        }
+      ]
+    },
+    "author_id": "2030106682966298626",
+    "id": "2038873156778426525",
+    "created_at": "2026-03-31T06:56:55.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783742"
+  },
+  {
+    "conversation_id": "2038865130826371481",
+    "text": "Vulnerability scans shine a light on weaknesses hiding in your systems before attackers have a chance to exploit them. They help you uncover what’s exposed, outdated, and what could become your next security problem. For more info, visit https://t.co/FT08Niqe8Z https://t.co/6GWiMPpSmE",
+    "edit_history_tweet_ids": [
+      "2038865130826371481"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "author_id": "66413328",
+    "entities": {
+      "urls": [
+        {
+          "start": 238,
+          "end": 261,
+          "url": "https://t.co/FT08Niqe8Z",
+          "expanded_url": "http://CybersecurityMadeEasy.com",
+          "display_url": "CybersecurityMadeEasy.com",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2037911389017174016/RFPxRY3R?format=jpg&name=orig",
+              "width": 2854,
+              "height": 1488
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2037911389017174016/RFPxRY3R?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Protect Yourself or Your Business Online",
+          "description": "Cybersecurity Made Easy, Protect Yourself or Your Business | Start Here",
+          "unwound_url": "https://www.cyologylabs.com/choose"
+        },
+        {
+          "start": 262,
+          "end": 285,
+          "url": "https://t.co/6GWiMPpSmE",
+          "expanded_url": "https://x.com/Terrypcutler/status/2038865130826371481/video/1",
+          "display_url": "pic.x.com/6GWiMPpSmE",
+          "media_key": "7_2038863917670113280"
+        }
+      ]
+    },
+    "id": "2038865130826371481",
+    "created_at": "2026-03-31T06:25:02.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783743"
+  },
+  {
+    "conversation_id": "2038864978300592510",
+    "text": "your security team triages 1000s of vulns. most aren't actually exploitable.\n\nQualys Agent Val: validates real exploits, patches, revalidates. autonomous.\n\nexploit volume 6.5x in 4 years. attackers move before patches exist.\n\nstop triaging assumptions. 🔐\n\nhttps://t.co/0ka5JODbgs",
+    "edit_history_tweet_ids": [
+      "2038864978300592510"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "author_id": "2027106711480459264",
+    "entities": {
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/0ka5JODbgs",
+          "expanded_url": "https://www.prnewswire.com/news-releases/qualys-debuts-industrys-first-ai-agent-for-safe-exploit-validation-and-autonomous-remediation-302721708.html",
+          "display_url": "prnewswire.com/news-releases/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2038864980464869376/HqJOUyhE?format=jpg&name=orig",
+              "width": 450,
+              "height": 675
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2038864980464869376/HqJOUyhE?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Qualys Debuts Industry's First AI Agent for Safe Exploit Validation and Autonomous Remediation",
+          "description": "/PRNewswire/ -- Qualys, Inc. (NASDAQ: QLYS), a leading provider of cloud-based IT, security and compliance solutions, today launched Agent Val within...",
+          "unwound_url": "https://www.prnewswire.com/news-releases/qualys-debuts-industrys-first-ai-agent-for-safe-exploit-validation-and-autonomous-remediation-302721708.html"
+        }
+      ]
+    },
+    "id": "2038864978300592510",
+    "created_at": "2026-03-31T06:24:25.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783743"
+  },
+  {
+    "conversation_id": "2038849654423798197",
+    "text": "@karpathy release-age constraints slow the spread but they do not close the exploit window. the real fix is pinning in production and accepting that dev deps are a different trust model. package managers chose ease-of-update over security and this is the bill arriving",
+    "edit_history_tweet_ids": [
+      "2038862476398207374"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "karpathy",
+          "id": "33836629"
+        }
+      ]
+    },
+    "author_id": "1266643939378868225",
+    "id": "2038862476398207374",
+    "created_at": "2026-03-31T06:14:29.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783744"
+  },
+  {
+    "conversation_id": "2038860182436958336",
+    "text": "\"Not that developers were good at reviewing dependencies before. But AI has mass-produced the exact behavior attackers exploit.\"\n\nNom nom nom nom.\n\nStocks for many security companies going up.\nYC batch focus for next season going up.\nAI Products focused on security and code https://t.co/2gWgYM2TBV https://t.co/L1FbamEguC",
+    "edit_history_tweet_ids": [
+      "2038860182436958336"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 167
+    },
+    "author_id": "395753674",
+    "entities": {
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/2gWgYM2TBV",
+          "expanded_url": "https://x.com/Presidentlin/status/2038860182436958336/photo/1",
+          "display_url": "pic.x.com/2gWgYM2TBV",
+          "media_key": "3_2038859572983832576"
+        },
+        {
+          "start": 299,
+          "end": 322,
+          "url": "https://t.co/L1FbamEguC",
+          "expanded_url": "https://twitter.com/feross/status/2038827117207781430",
+          "display_url": "x.com/feross/status/…"
+        }
+      ]
+    },
+    "id": "2038860182436958336",
+    "created_at": "2026-03-31T06:05:22.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783745"
+  },
+  {
+    "conversation_id": "2038817841340920147",
+    "text": "@stefihane @rinkisethi @mrinal @neeraj @shyamvaran One big side effect of open source is security vulnerability! Bad actors can exploit distribution mechanisms and infiltrate software supply chains. \n\nBTW we have seen nothing yet! The speed at which AI is moving into OSS, will cause widening of surface attacks we have never seen",
+    "edit_history_tweet_ids": [
+      "2038853817836704152"
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 62
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "stefihane",
+          "id": "637359277"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "username": "rinkisethi",
+          "id": "143507352"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "username": "mrinal",
+          "id": "10654322"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "username": "neeraj",
+          "id": "6427012"
+        },
+        {
+          "start": 39,
+          "end": 50,
+          "username": "shyamvaran",
+          "id": "16341065"
+        }
+      ]
+    },
+    "author_id": "22168349",
+    "id": "2038853817836704152",
+    "created_at": "2026-03-31T05:40:04.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783745"
+  },
+  {
+    "conversation_id": "2038848792389423490",
+    "text": "DO NOT upgrade axios there’s an active security exploit. \n\nImpacted versions\n•axios@1.14.1\n•axios@0.30.4\n\nCheck your lock files. https://t.co/6h63GMQACN",
+    "edit_history_tweet_ids": [
+      "2038848792389423490"
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 871
+    },
+    "author_id": "216727067",
+    "entities": {
+      "urls": [
+        {
+          "start": 129,
+          "end": 152,
+          "url": "https://t.co/6h63GMQACN",
+          "expanded_url": "https://twitter.com/mvxvvll/status/2038797094861918332",
+          "display_url": "x.com/mvxvvll/status…"
+        }
+      ]
+    },
+    "id": "2038848792389423490",
+    "created_at": "2026-03-31T05:20:06.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783746"
+  },
+  {
+    "conversation_id": "2038846930319749536",
+    "text": "You spent months building your protocol.\nThen one day, a simple exploit drains everything.\nReentrancy. Logic flaw. Access control that slipped through.\n\nIt wasn't because the attacker was a genius.\nIt was because the security review was just a formality.",
+    "edit_history_tweet_ids": [
+      "2038846930319749536"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "author_id": "2031606258218979328",
+    "id": "2038846930319749536",
+    "created_at": "2026-03-31T05:12:42.000Z",
+    "cleaned_at": "2026-03-31T15:18:22.783746"
+  },
+  {
+    "conversation_id": "2038668922140967099",
+    "author_id": "2271204792",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "id": "2038873309274665138",
+    "edit_history_tweet_ids": [
+      "2038873309274665138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "jumperz",
+          "id": "935584360023166976"
+        },
+        {
+          "start": 9,
+          "end": 18,
+          "username": "Xaraphim",
+          "id": "1716675085614919680"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:57:32.000Z",
+    "text": "@jumperz @Xaraphim it tells the whole story about this technology, it will be a rug pull in the years to come. Remember how web2.0 was supposed to herald the world to a web full of open APIs and whatnot, as soon as the companies that remained REMAINED, they pulled the plug on everything",
+    "cleaned_at": "2026-03-31T15:18:22.783747"
+  },
+  {
+    "conversation_id": "2038728016793100676",
+    "author_id": "1062913860",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "id": "2038871618814943310",
+    "edit_history_tweet_ids": [
+      "2038871618814943310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "saradietschy",
+          "id": "258475649"
+        },
+        {
+          "start": 160,
+          "end": 172,
+          "username": "AnthropicAI",
+          "id": "1353836358901501952"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:50:48.000Z",
+    "text": "@saradietschy Thankfully this was always my setup, otherwise Claude would have been useless with its terrible rate limits. Even now though, it's terrible after @AnthropicAI's latest  rug pull.",
+    "cleaned_at": "2026-03-31T15:18:22.783748"
+  },
+  {
+    "conversation_id": "2038871429270127060",
+    "author_id": "1685976564058439681",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2038871429270127060",
+    "edit_history_tweet_ids": [
+      "2038871429270127060"
+    ],
+    "created_at": "2026-03-31T06:50:03.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 69,
+          "end": 92,
+          "url": "https://t.co/I4cKVMdtao",
+          "expanded_url": "https://twitter.com/EPICGOPFAIL/status/2038756931435733033",
+          "display_url": "x.com/EPICGOPFAIL/st…"
+        }
+      ]
+    },
+    "text": "Oh my God the russian government is going to rug pull its own people https://t.co/I4cKVMdtao",
+    "cleaned_at": "2026-03-31T15:18:22.783748"
+  },
+  {
+    "conversation_id": "2038868973735858360",
+    "author_id": "1893169471214493698",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "id": "2038871268284678146",
+    "edit_history_tweet_ids": [
+      "2038871268284678146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Cointelegraph",
+          "id": "2207129125"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:49:25.000Z",
+    "text": "@Cointelegraph Tom Lee out here flexing with billions while I'm scraping for bus fare. Enjoy those paper gains, mate. Don't slip when the rug pull hits, lol.",
+    "cleaned_at": "2026-03-31T15:18:22.783749"
+  },
+  {
+    "conversation_id": "2038870964956463344",
+    "author_id": "1859300554872102912",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "id": "2038870964956463344",
+    "edit_history_tweet_ids": [
+      "2038870964956463344"
+    ],
+    "created_at": "2026-03-31T06:48:13.000Z",
+    "text": "Rug pull ez",
+    "cleaned_at": "2026-03-31T15:18:22.783749"
+  },
+  {
+    "conversation_id": "2038649416890929516",
+    "author_id": "1062913860",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "id": "2038870910023635070",
+    "edit_history_tweet_ids": [
+      "2038870910023635070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "ZONEofTECH",
+          "id": "773218777"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "username": "claudeai",
+          "id": "1943306828697550848"
+        },
+        {
+          "start": 22,
+          "end": 34,
+          "username": "AnthropicAI",
+          "id": "1353836358901501952"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:47:59.000Z",
+    "text": "@ZONEofTECH @claudeai @AnthropicAI They think they can mask their blatant rug pull with smoke and mirrors. Yeah that's not how it works. Everyone's noticing.",
+    "cleaned_at": "2026-03-31T15:18:22.783750"
+  },
+  {
+    "conversation_id": "2038647503416148471",
+    "author_id": "1969656544133259264",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "id": "2038870596579205472",
+    "edit_history_tweet_ids": [
+      "2038870596579205472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Dolomite_io",
+          "id": "990716955236749312"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:46:45.000Z",
+    "text": "@Dolomite_io Stay away from this is rug pull",
+    "cleaned_at": "2026-03-31T15:18:22.783751"
+  },
+  {
+    "conversation_id": "2038869669457666496",
+    "author_id": "68741593",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2038869669457666496",
+    "edit_history_tweet_ids": [
+      "2038869669457666496"
+    ],
+    "created_at": "2026-03-31T06:43:04.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 246,
+          "end": 269,
+          "url": "https://t.co/pXF7CONUUz",
+          "expanded_url": "https://rumble.com/v77uuxq-juan-o-savin-when-the-tsunami-is-coming..-bondgate-ppn-3-30-2026.html",
+          "display_url": "rumble.com/v77uuxq-juan-o…",
+          "status": 200,
+          "title": "JUAN O SAVIN- When the Tsunami is coming.. BONDGATE- PPN 3 30 2026",
+          "description": "PPN gets the first assessment up when it comes to the BONDGATE Event last week held by Juan O Savin. I hope you are sitting down, but then again be ready to move, as what is coming, you should not jus",
+          "unwound_url": "https://rumble.com/v77uuxq-juan-o-savin-when-the-tsunami-is-coming..-bondgate-ppn-3-30-2026.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 11,
+          "tag": "BondGate"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "tag": "BondMarket"
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "tag": "NOW"
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "tag": "Banks"
+        },
+        {
+          "start": 104,
+          "end": 114,
+          "tag": "BondFraud"
+        },
+        {
+          "start": 126,
+          "end": 138,
+          "tag": "SchoolBonds"
+        },
+        {
+          "start": 146,
+          "end": 150,
+          "tag": "l07"
+        },
+        {
+          "start": 181,
+          "end": 185,
+          "tag": "NWO"
+        },
+        {
+          "start": 191,
+          "end": 207,
+          "tag": "RiggedElections"
+        },
+        {
+          "start": 213,
+          "end": 217,
+          "tag": "USA"
+        },
+        {
+          "start": 241,
+          "end": 245,
+          "tag": "l07"
+        }
+      ]
+    },
+    "text": "* #BondGate:\n\"#BondMarket will collapse [#NOW] to a few years\"-JD\n\"~600 #Banks will collapse due to the #BondFraud related to #SchoolBonds ALONE\"-#l07\n\"This has been engineered by [#NWO thru #RiggedElections etc. #USA setup for a rug pull]\"-#l07\nhttps://t.co/pXF7CONUUz",
+    "cleaned_at": "2026-03-31T15:18:22.783751"
+  },
+  {
+    "conversation_id": "2038861710468210742",
+    "author_id": "1969656544133259264",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2038869648410579300",
+    "edit_history_tweet_ids": [
+      "2038869648410579300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Kylechasse",
+          "id": "1187664208160124930"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:42:59.000Z",
+    "text": "@Kylechasse All the coins in your profile are rug pulls \n\nBlock biggest rug oull. Wlth rug pull\nTibbir rug pull loading?",
+    "cleaned_at": "2026-03-31T15:18:22.783752"
+  },
+  {
+    "conversation_id": "2038473940532895988",
+    "author_id": "2031729368574418944",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "id": "2038869623899320587",
+    "edit_history_tweet_ids": [
+      "2038869623899320587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Kindred_AI",
+          "id": "1464825107226968064"
+        }
+      ]
+    },
+    "created_at": "2026-03-31T06:42:53.000Z",
+    "text": "@Kindred_AI Is it rug pull?",
+    "cleaned_at": "2026-03-31T15:18:22.783752"
+  }
+]
