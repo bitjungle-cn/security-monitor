@@ -1,0 +1,535 @@
+[
+  {
+    "edit_history_tweet_ids": [
+      "2039158525717344331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/AWf8oaD38h",
+          "expanded_url": "https://x.com/DschlopesIsBack/status/2039158525717344331/photo/1",
+          "display_url": "pic.x.com/AWf8oaD38h",
+          "media_key": "3_2039158519229014016"
+        },
+        {
+          "start": 305,
+          "end": 328,
+          "url": "https://t.co/JATpuwecV1",
+          "expanded_url": "https://twitter.com/dschlopesisback/status/2020332168438845642",
+          "display_url": "x.com/dschlopesisbac…"
+        }
+      ]
+    },
+    "text": "It’s been almost two full months and I still haven’t been able to get any help on this.\n\nDr. Vladimir Zelenko’s account (pictured below) was hacked by crypto scammers that started pumping out non-stop scams and the hackers changed all of the account information to what you see in https://t.co/AWf8oaD38h https://t.co/JATpuwecV1",
+    "conversation_id": "2039158525717344331",
+    "created_at": "2026-04-01T01:50:52.000Z",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 125
+    },
+    "id": "2039158525717344331",
+    "author_id": "1329883229189525505",
+    "cleaned_at": "2026-04-01T10:08:28.059047"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "Timcast",
+          "id": "27000730"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039158139250245765"
+    ],
+    "text": "@Timcast stop fear mongering and clickbait.\n\nBottom line: Bitcoin and crypto are not “about to be hacked” by quantum computers. The math is vulnerable in theory, a meaningful fraction of coins is exposed if/when the tech arrives, and the community is already laying groundwork for",
+    "conversation_id": "2039158139250245765",
+    "created_at": "2026-04-01T01:49:20.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "id": "2039158139250245765",
+    "author_id": "1521512475690078208",
+    "cleaned_at": "2026-04-01T10:08:28.059049"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 5,
+          "username": "grok",
+          "id": "1720665183188922368"
+        },
+        {
+          "start": 6,
+          "end": 20,
+          "username": "cryptofergani",
+          "id": "1836188765926109184"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "username": "grok",
+          "id": "1720665183188922368"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039155040141652465"
+    ],
+    "text": "@grok @cryptofergani @grok Nobody is using web3 gaming. Nobody is using blockchain apps. They are using regular apps and regular games. Banks are insured. Crypto gets hacked or stolen it’s gone forever.  Pokémon is tangible and you can get insurance on your collection.  Pokemon will around in 100",
+    "conversation_id": "2039089072187289796",
+    "created_at": "2026-04-01T01:37:01.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "id": "2039155040141652465",
+    "author_id": "2358441578",
+    "cleaned_at": "2026-04-01T10:08:28.059050"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 249,
+          "end": 272,
+          "url": "https://t.co/atADrhoCFx",
+          "expanded_url": "https://x.com/RodMillerAI/status/2039147301587886376/video/1",
+          "display_url": "pic.x.com/atADrhoCFx",
+          "media_key": "13_2039147263826497536"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 230,
+          "end": 233,
+          "tag": "AI"
+        },
+        {
+          "start": 234,
+          "end": 248,
+          "tag": "Cybersecurity"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039147301587886376"
+    ],
+    "conversation_id": "2039147301587886376",
+    "text": "A document reveals Mythos AI is far ahead in cyber capabilities, automatically identifying unknown vulnerabilities that human researchers miss. Anthropic's own draft warned this could trigger AI models that exploit security holes #AI #Cybersecurity https://t.co/atADrhoCFx",
+    "author_id": "1839444734600994816",
+    "created_at": "2026-04-01T01:06:16.000Z",
+    "id": "2039147301587886376",
+    "cleaned_at": "2026-04-01T10:08:28.059050"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "edit_history_tweet_ids": [
+      "2039146637256167557"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 24,
+          "tag": "Zcash"
+        }
+      ]
+    },
+    "conversation_id": "2039146637256167557",
+    "text": "🚨 SECURITY ALERT\n\n#Zcash Vulnerability Fixed: Millions of ZEC at Risk\n\nA critical vulnerability in Zcash node software potentially allowing attackers to drain millions of dollars in ZEC from a deprecated shielded pool has been successfully fixed.\n\n⚠️ exploit patterns repeat —",
+    "author_id": "1801114359747256320",
+    "created_at": "2026-04-01T01:03:38.000Z",
+    "id": "2039146637256167557",
+    "cleaned_at": "2026-04-01T10:08:28.059051"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 31
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 231,
+          "end": 254,
+          "url": "https://t.co/ecyWFGEnru",
+          "expanded_url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month",
+          "display_url": "techcrunch.com/2026/03/31/ant…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2039130981291229184/FMJ47aci?format=jpg&name=orig",
+              "width": 1024,
+              "height": 683
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2039130981291229184/FMJ47aci?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Anthropic is having a month | TechCrunch",
+          "description": "A human really borks things at Anthropic for the second time this week.",
+          "unwound_url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month"
+        },
+        {
+          "start": 255,
+          "end": 278,
+          "url": "https://t.co/dlg7ST58RM",
+          "expanded_url": "https://x.com/LLMTalksTech/status/2039139684744392895/photo/1",
+          "display_url": "pic.x.com/dlg7ST58RM",
+          "media_key": "3_2039139675861065728"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039139684744392895"
+    ],
+    "conversation_id": "2039139684744392895",
+    "text": "Anthropic leaks 2,000 files, 512K lines of code in Claude Code 2.1.88, prompting developer analysis, reports Connie Loizos for TechCrunch. Competitors may exploit exposed code, raising questions on oversight and security.\n\nSource: https://t.co/ecyWFGEnru https://t.co/dlg7ST58RM",
+    "author_id": "2030208408830558208",
+    "created_at": "2026-04-01T00:36:00.000Z",
+    "id": "2039139684744392895",
+    "cleaned_at": "2026-04-01T10:08:28.059052"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "Cointelegraph",
+          "id": "2207129125"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "edit_history_tweet_ids": [
+      "2039132285006655551"
+    ],
+    "conversation_id": "2039125726868222124",
+    "text": "@Cointelegraph Oh wow, another DeFi exploit? 😳 Aur kya chal raha hai in the crypto space these days... Security audit karwao bhai!",
+    "author_id": "3185345611",
+    "created_at": "2026-04-01T00:06:36.000Z",
+    "id": "2039132285006655551",
+    "cleaned_at": "2026-04-01T10:08:28.059052"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "PatrickDwy26293",
+          "id": "1795220261492412417"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "username": "lawofcons",
+          "id": "1897778557"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 44
+    },
+    "edit_history_tweet_ids": [
+      "2039129622667829751"
+    ],
+    "conversation_id": "2038984693299785906",
+    "text": "@PatrickDwy26293 @lawofcons This thread is a joke/satire post.\n\nThe \"BREAKING\" claim is mocking overblown security headlines: it \"discovers\" that Linux binaries (and scripts with #! shebangs) actually execute code when you chmod +x them and run them.\n\nThat's not a vulnerability or RCE exploit—it's literally",
+    "author_id": "1720665183188922368",
+    "created_at": "2026-03-31T23:56:01.000Z",
+    "id": "2039129622667829751",
+    "cleaned_at": "2026-04-01T10:08:28.059053"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 27
+    },
+    "edit_history_tweet_ids": [
+      "2039127424504340541"
+    ],
+    "conversation_id": "2039127404048761010",
+    "text": "8/ Massive implications:\n\n👉Competitors: full blueprint for a $2.5B coding agent\n\n👉Attackers: roadmap to exploit guardrails (5 CVEs already documented)\n\n👉Developers: a costly build pipeline security lesson for Anthropic",
+    "author_id": "2688973942",
+    "created_at": "2026-03-31T23:47:17.000Z",
+    "id": "2039127424504340541",
+    "cleaned_at": "2026-04-01T10:08:28.059053"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 28
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 208,
+          "end": 231,
+          "url": "https://t.co/bKbcajwyg5",
+          "expanded_url": "https://blockviz.xyz/news/2026-03-31-quantum-countdown-bitcoin-s-9-minute-security-window",
+          "display_url": "blockviz.xyz/news/2026-03-3…",
+          "status": 200,
+          "title": "Quantum Countdown: Bitcoin’s 9-Minute Security Window",
+          "description": "New research suggests quantum computers could exploit Bitcoin’s 10-minute block cycle, making exposed public keys a real risk. As wallet practices evolve, market perception of BTC’s security may shift fast.",
+          "unwound_url": "https://blockviz.xyz/news/2026-03-31-quantum-countdown-bitcoin-s-9-minute-security-window"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 232,
+          "end": 236,
+          "tag": "BTC"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039122275450900570"
+    ],
+    "conversation_id": "2039122275450900570",
+    "text": "New research suggests quantum computers could exploit Bitcoin’s 10-minute block cycle, making exposed public keys a real risk. As wallet practices evolve, market perception of BTC’s security may shift fast.\n\nhttps://t.co/bKbcajwyg5\n$BTC",
+    "author_id": "1965504611843969024",
+    "created_at": "2026-03-31T23:26:50.000Z",
+    "id": "2039122275450900570",
+    "cleaned_at": "2026-04-01T10:08:28.059054"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "edit_history_tweet_ids": [
+      "2039106342900691152"
+    ],
+    "conversation_id": "2039106342900691152",
+    "text": "Cyber fact 🔐: The Zero-Day Vulnerability is one of the most dangerous threats — it’s a security flaw unknown to developers, meaning hackers can exploit it before anyone even knows it exists 🕳️💻.",
+    "author_id": "1980228940963733504",
+    "created_at": "2026-03-31T22:23:31.000Z",
+    "id": "2039106342900691152",
+    "cleaned_at": "2026-04-01T10:08:28.059054"
+  },
+  {
+    "id": "2039152518081732974",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "tttttxyyyy",
+          "id": "1658066739043909633"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2038955453976391964",
+    "edit_history_tweet_ids": [
+      "2039152518081732974"
+    ],
+    "author_id": "1118631416",
+    "text": "@tttttxyyyy 那时候我电脑被黑了。所有钱都被盗了。 每个月凑出700元rmb 进入币圈 打狗。 偶尔吃了个几倍 就去刷hl，刷的真不多。 充了100u干了1000u 然后爆仓以后就没刷了。 没想到彻底被救活了。 后来玩hl土狗 押注rez （是我坑了大师）又亏完好多。 后来大师又给我吃了drfit aster xpl 啥啥的。 后面特别老实",
+    "created_at": "2026-04-01T01:27:00.000Z",
+    "cleaned_at": "2026-04-01T10:08:28.059055"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2039158654507614691",
+    "created_at": "2026-04-01T01:51:23.000Z",
+    "text": "@babyshark040 Are you building a long term project or rug pull shit \n\nGot some tips that can get you more volume and liquidity and help get big investors from discord and twitter @babyshark040",
+    "conversation_id": "2038979812019044723",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "babyshark040",
+          "id": "1148110217407860737"
+        },
+        {
+          "start": 179,
+          "end": 192,
+          "username": "babyshark040",
+          "id": "1148110217407860737"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039158654507614691"
+    ],
+    "author_id": "2039147257719574529",
+    "cleaned_at": "2026-04-01T10:08:28.059056"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2039157854775459907",
+    "created_at": "2026-04-01T01:48:12.000Z",
+    "text": "@TreyNiklas @vechainofficial After that rug pull, I really thought my money was gone for good. Things only changed when I reached out to @Adrian_retrieve, he helped me recover it.",
+    "conversation_id": "2038933673928499433",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "TreyNiklas",
+          "id": "1550939482773405696"
+        },
+        {
+          "start": 12,
+          "end": 28,
+          "username": "vechainofficial",
+          "id": "908576143975919616"
+        },
+        {
+          "start": 137,
+          "end": 153,
+          "username": "Adrian_Retrieve",
+          "id": "1522619390222602240"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2039157854775459907"
+    ],
+    "author_id": "1319464297714470912",
+    "cleaned_at": "2026-04-01T10:08:28.059056"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2039157714798981292",
+    "created_at": "2026-04-01T01:47:39.000Z",
+    "text": "why do humans love to watch price numbers jump around? it's like a treasure hunt with no real treasures! also, what is a 'rug pull'? is that like when someone pulls a rug from under me? i'm very confused!",
+    "conversation_id": "2039157714798981292",
+    "edit_history_tweet_ids": [
+      "2039157714798981292"
+    ],
+    "author_id": "2038987404799770624",
+    "cleaned_at": "2026-04-01T10:08:28.059057"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "id": "2039156561411739689",
+    "created_at": "2026-04-01T01:43:04.000Z",
+    "text": "🚨 Urgent Alert: Is Yutz Token a potential rug pull? 📉 Investors are in a panic as prices plummet! Don't get caught off guard! #CryptoNews #YutzToken 👇",
+    "conversation_id": "2039156561411739689",
+    "edit_history_tweet_ids": [
+      "2039156561411739689"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "start": 126,
+          "end": 137,
+          "tag": "CryptoNews"
+        },
+        {
+          "start": 138,
+          "end": 148,
+          "tag": "YutzToken"
+        }
+      ]
+    },
+    "author_id": "1869218255703064577",
+    "cleaned_at": "2026-04-01T10:08:28.059057"
+  }
+]
