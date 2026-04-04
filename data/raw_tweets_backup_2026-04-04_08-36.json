@@ -1,0 +1,2180 @@
+[
+  {
+    "edit_history_tweet_ids": [
+      "2040225395786850721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 164,
+          "end": 187,
+          "url": "https://t.co/ZyrXckWD65",
+          "expanded_url": "https://x.com/fyfone/status/2040225395786850721/photo/1",
+          "display_url": "pic.x.com/ZyrXckWD65",
+          "media_key": "3_2040225389390467072"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/OTW5VJdiRe",
+          "expanded_url": "https://twitter.com/zachxbt/status/2040055757211885953",
+          "display_url": "x.com/zachxbt/status…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 7,
+          "end": 15,
+          "username": "zachxbt",
+          "id": "3012852462"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "id": "2040225395786850721",
+    "created_at": "2026-04-04T00:30:14.000Z",
+    "text": "知名链上博主 @zachxbt 放出了《Circle USDC档案》指出USDC母公司Circle失职！\n\n自2022年以来，Circle 在至少15起重大黑客/非法事件中，累计让超过 4.2亿美元 的被盗资金轻松溜走，未及时冻结。\n\nUSDC一直说自己是“最合规、可监管”的稳定币，官方内置冻结和黑名单功能，随时能拉黑地址。 https://t.co/ZyrXckWD65 https://t.co/OTW5VJdiRe",
+    "author_id": "2908817846",
+    "conversation_id": "2040225395786850721"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040212263433539973"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "gaobili1020",
+          "id": "1336682160351145993"
+        },
+        {
+          "start": 13,
+          "end": 22,
+          "username": "qiyumeme",
+          "id": "1864688120433901568"
+        }
+      ]
+    },
+    "id": "2040212263433539973",
+    "created_at": "2026-04-03T23:38:03.000Z",
+    "text": "@gaobili1020 @qiyumeme bnb是原生代币，原生代币被盗肯定是私钥被盗，不是授权的原因",
+    "author_id": "1410544495469285376",
+    "conversation_id": "2039871052030046663"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040197114060587067"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 29
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "okxchinese",
+          "id": "1461224994705649671"
+        },
+        {
+          "start": 12,
+          "end": 25,
+          "username": "OKXWallet_CN",
+          "id": "1554679425043943424"
+        }
+      ]
+    },
+    "id": "2040197114060587067",
+    "created_at": "2026-04-03T22:37:51.000Z",
+    "text": "@okxchinese @OKXWallet_CN 不用就得了，被盗的可不是少数，这可不是什么巧合。我朋友在币圈混了8年，被盗哭了好几天。不用悬赏的方式，竟然上贡转移矛盾。啥也不是",
+    "author_id": "1597127552119631872",
+    "conversation_id": "2040007888035602789"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040136427376386429"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "JohnsonCra50785",
+          "id": "2028126358606647296"
+        }
+      ]
+    },
+    "id": "2040136427376386429",
+    "created_at": "2026-04-03T18:36:42.000Z",
+    "text": "@JohnsonCra50785 我草你妈，你们这些沙币有妈生没妈养的狗东西，你妈的骚笔被我插的烂死了，这会正躺我床上叫你爸的名字呢沙币盗号狗",
+    "author_id": "2036641292940431360",
+    "conversation_id": "2039300558390276219"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040128179944476968"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 29
+    },
+    "id": "2040128179944476968",
+    "created_at": "2026-04-03T18:03:56.000Z",
+    "text": "⚠️ Circle陷入USDC争议!\n\n$2.3亿被盗USDC\n在冻结合法账户后\n几天内却被解锁流动\n\n这暴露了什么:\n• 稳定币发行商的\n  控制权困境\n• 危机处理vs用户权益\n• 中心化的双刃剑\n\nDrift漏洞事件\n撕开了稳定币信任的裂缝\n\n你的USDC\n真的\"稳定\"吗?\n\n#USDC #Circle #Crypto #Stablecoin",
+    "author_id": "1686664986679205890",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 142,
+          "end": 147,
+          "tag": "USDC"
+        },
+        {
+          "start": 148,
+          "end": 155,
+          "tag": "Circle"
+        },
+        {
+          "start": 156,
+          "end": 163,
+          "tag": "Crypto"
+        },
+        {
+          "start": 164,
+          "end": 175,
+          "tag": "Stablecoin"
+        }
+      ]
+    },
+    "conversation_id": "2040128179944476968"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040108311106986276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/3sV92pPQG5",
+          "expanded_url": "https://x.com/yankai787/status/2040108311106986276/photo/1",
+          "display_url": "pic.x.com/3sV92pPQG5",
+          "media_key": "3_2040108294770229248"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 69,
+          "end": 79,
+          "username": "FomowellX",
+          "id": "1871397213164937216"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "id": "2040108311106986276",
+    "created_at": "2026-04-03T16:44:59.000Z",
+    "text": "比特币生态日报--2026.04.03\n\n1️⃣ 继ODINFUN被黑客攻击之后另一个符文交易平台 FomoWell 今日也遭遇黑客攻击\n@FomowellX\nFomoWell 今日遭遇黑客攻击，但资金安全未被盗走，FomoWell披露遭遇利用 SIWB 认证漏洞的攻击，已隔离受影响组件、修复代码并暂停交易与提现，后续还将把升级提交第三方与 Dfinity https://t.co/3sV92pPQG5",
+    "author_id": "1393607073720684548",
+    "conversation_id": "2040108311106986276"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040108154839802033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/Sm9rB5T0Nr",
+          "expanded_url": "https://x.com/Dongmoom55/status/2040108154839802033/photo/1",
+          "display_url": "pic.x.com/Sm9rB5T0Nr",
+          "media_key": "3_2040108110946385920"
+        },
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/axo9edZo58",
+          "expanded_url": "https://twitter.com/Dongmoom55/status/2039383897738469484",
+          "display_url": "x.com/Dongmoom55/sta…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 69,
+          "end": 79,
+          "username": "FomowellX",
+          "id": "1871397213164937216"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 3,
+      "like_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 1108
+    },
+    "id": "2040108154839802033",
+    "created_at": "2026-04-03T16:44:22.000Z",
+    "text": "比特币生态日报--2026.04.03\n\n1️⃣ 继ODINFUN被黑客攻击之后另一个符文交易平台 FomoWell 今日也遭遇黑客攻击\n@FomowellX\nFomoWell 今日遭遇黑客攻击，但资金安全未被盗走，FomoWell披露遭遇利用 SIWB 认证漏洞的攻击，已隔离受影响组件、修复代码并暂停交易与提现，后续还将把升级提交第三方与 Dfinity https://t.co/Sm9rB5T0Nr https://t.co/axo9edZo58",
+    "author_id": "1817755001185570816",
+    "conversation_id": "2040108154839802033"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040107777495036327"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 146
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "qiyumeme",
+          "id": "1864688120433901568"
+        },
+        {
+          "start": 10,
+          "end": 23,
+          "username": "OKXWallet_CN",
+          "id": "1554679425043943424"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "username": "Mercy_okx",
+          "id": "1818492328891604992"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "username": "okx",
+          "id": "867617849208037377"
+        }
+      ]
+    },
+    "id": "2040107777495036327",
+    "created_at": "2026-04-03T16:42:52.000Z",
+    "text": "@qiyumeme @OKXWallet_CN @Mercy_okx @okx okx钱包居然可以限制钱包转移代币哈哈  可能是博主联系了客服 客服知道被盗后限制了钱包的交易功能 这个功能其实很鸡肋只能在okx钱包上限制 如果是私钥泄露一点用也 没有😂",
+    "author_id": "1685351530332065792",
+    "conversation_id": "2039765772332151056"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040104163619807722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 10,
+          "end": 33,
+          "url": "https://t.co/sheU9600VN",
+          "expanded_url": "https://x.com/dairda487058/status/2040102691758858515",
+          "display_url": "x.com/dairda487058/s…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "qiyumeme",
+          "id": "1864688120433901568"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 180
+    },
+    "id": "2040104163619807722",
+    "created_at": "2026-04-03T16:28:30.000Z",
+    "text": "@qiyumeme https://t.co/sheU9600VN  我的意思是另外 那个资金 关联地址可能并非被盗用户。因为他也在频繁调用合用掩饰洗币行为",
+    "author_id": "1685351530332065792",
+    "conversation_id": "2039871052030046663"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040101219897692506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/L0XqgFLpXE",
+          "expanded_url": "http://binance.com/join?ref=6666F",
+          "display_url": "binance.com/join?ref=6666F",
+          "status": 200,
+          "title": "Join Binance | Bitcoin & Ethereum Cryptocurrency Trading Platform",
+          "description": "Join the world’s largest cryptocurrency trading platform and start your crypto journey.",
+          "unwound_url": "https://www.binance.com/en/join?ref=6666F"
+        },
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/DKh7jHI2oW",
+          "expanded_url": "https://x.com/liotta_ali/status/2040101219897692506/video/1",
+          "display_url": "pic.x.com/DKh7jHI2oW",
+          "media_key": "3_2040101158191316992"
+        },
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/DKh7jHI2oW",
+          "expanded_url": "https://x.com/liotta_ali/status/2040101219897692506/video/1",
+          "display_url": "pic.x.com/DKh7jHI2oW",
+          "media_key": "7_2040101167641034752"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 92,
+          "end": 95,
+          "tag": "币安"
+        },
+        {
+          "start": 96,
+          "end": 101,
+          "tag": "加密货币"
+        },
+        {
+          "start": 102,
+          "end": 110,
+          "tag": "BTCUSDT"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2040101219897692506",
+    "created_at": "2026-04-03T16:16:48.000Z",
+    "text": "🔥 币安新手课堂上线\n🎓 本课主题：通行密钥怎么建\n通行密钥可大幅提升账户防护等级，减少被盗风险。\n另外再次强调，币安注册一定要填写邀请码，注册完成后无法再补\n可享手续费永久8折优惠\n#币安 #加密货币 #BTCUSDT\n专属注册链接https://t.co/L0XqgFLpXE https://t.co/DKh7jHI2oW",
+    "author_id": "1003987620",
+    "conversation_id": "2040101219897692506"
+  },
+  {
+    "created_at": "2026-04-04T00:24:10.000Z",
+    "text": "Some idiot with too much time on their hands hacked me a couple weeks ago and it sounds like my account spammed some folks with DM’s. Sorry for the inconvenience.\n\n… but lmk if you still want to send those Amazon gift cards &amp; crypto transfers (or whatever they were after). https://t.co/z2nrrQTeOM",
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/z2nrrQTeOM",
+          "expanded_url": "https://x.com/CoachCramphin/status/2040223870867669415/photo/1",
+          "display_url": "pic.x.com/z2nrrQTeOM",
+          "media_key": "3_2040223865687719936"
+        }
+      ]
+    },
+    "id": "2040223870867669415",
+    "edit_history_tweet_ids": [
+      "2040223870867669415"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "conversation_id": "2040223870867669415",
+    "author_id": "3387738214"
+  },
+  {
+    "created_at": "2026-04-04T00:11:14.000Z",
+    "text": "@Ol0ye My crypto account was hacked, but I was able to recover it successfully. If you’re facing a similar issue, make sure to use[DANNYJACKSoo] he will help get your account back safely.",
+    "id": "2040220615622185167",
+    "edit_history_tweet_ids": [
+      "2040220615622185167"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2040197680891076708",
+    "author_id": "1750596717106384896",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 6,
+          "username": "Ol0ye",
+          "id": "1560572922783309826"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-04T00:07:43.000Z",
+    "text": "@Stoker235 @steeletalk yeah that's the classic pattern. account gets hacked, then used to post fake crypto testimonials with a \"coach\" account that collects payments. lynda steele almost certainly doesn't know this went out. worth tagging her on a separate post to let her know.",
+    "id": "2040219729479032944",
+    "edit_history_tweet_ids": [
+      "2040219729479032944"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "conversation_id": "2040169715046502615",
+    "author_id": "2031912904015167492",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Stoker235",
+          "id": "1930011598753865728"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "username": "steeletalk",
+          "id": "22680659"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-04T00:05:05.000Z",
+    "text": "@Stoker235 @steeletalk Yeah that's a hacked account, almost certainly. The \"crypto coach\" + luxury car combo is one of the most recycled patterns out there. Worth reporting the post and flagging to Lynda directly if you know her so she can get back in.",
+    "id": "2040219067433267289",
+    "edit_history_tweet_ids": [
+      "2040219067433267289"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "conversation_id": "2040169715046502615",
+    "author_id": "2031912904015167492",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Stoker235",
+          "id": "1930011598753865728"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "username": "steeletalk",
+          "id": "22680659"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-03T23:56:23.000Z",
+    "text": "@laufeybaiana My crypto account was hacked, but I was able to recover it successfully. If you’re facing a similar issue, make sure to use[DANNYJACKSoo] he will help get your account back safely.",
+    "id": "2040216878862209529",
+    "edit_history_tweet_ids": [
+      "2040216878862209529"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2040201593732092018",
+    "author_id": "1750596717106384896",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "laufeybaiana",
+          "id": "1898588191243763712"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-03T23:49:37.000Z",
+    "text": "@TheCryptoDaddi Or from my experience, non-crypto accounts who get hacked",
+    "id": "2040215175387599229",
+    "edit_history_tweet_ids": [
+      "2040215175387599229"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "conversation_id": "2039852909362352476",
+    "author_id": "1417942185337569282",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "TheCryptoDaddi",
+          "id": "1225636783418830848"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-03T23:46:19.000Z",
+    "text": "@seanymanu9 @Evelyn_masi1 Looks like you’ve lost your account. Hacked by the old crypto scammers",
+    "id": "2040214341912285642",
+    "edit_history_tweet_ids": [
+      "2040214341912285642"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "conversation_id": "2040190344713662763",
+    "author_id": "496466093",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "seanymanu9",
+          "id": "263067150"
+        },
+        {
+          "start": 12,
+          "end": 25,
+          "username": "Evelyn_masi1",
+          "id": "1406876918905966596"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-03T23:20:40.000Z",
+    "text": "@3cicloScalonao I lost my crypto wallet on metamask coinbase nft trade coin trust wallet i got hacked and banned i was scammed i'd like to commission an art banner with a sugar daddy or a sugar mommy i need iptv help homework essay due tonight crypto mining help i want onlyfans",
+    "id": "2040207888547729527",
+    "edit_history_tweet_ids": [
+      "2040207888547729527"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2040204201221873776",
+    "author_id": "1774444232754794496",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "3cicloScalonao",
+          "id": "1457738933136154624"
+        }
+      ]
+    }
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 154,
+          "end": 161,
+          "tag": "Crypto"
+        },
+        {
+          "start": 162,
+          "end": 180,
+          "tag": "QuantumResistance"
+        },
+        {
+          "start": 181,
+          "end": 189,
+          "tag": "Bitcoin"
+        }
+      ],
+      "urls": [
+        {
+          "start": 190,
+          "end": 213,
+          "url": "https://t.co/lB7xSOa1gE",
+          "expanded_url": "https://x.com/chiefterel71635/status/2040204259338137869/photo/1",
+          "display_url": "pic.x.com/lB7xSOa1gE",
+          "media_key": "3_2040204207416803328"
+        }
+      ]
+    },
+    "created_at": "2026-04-03T23:06:15.000Z",
+    "text": "Google's dropping quantum bomb on crypto! 💣\nThey're saying Bitcoin might get hacked by super-brains before 2029.\nTime to crypto-fy those defenses, folks! #Crypto #QuantumResistance #Bitcoin https://t.co/lB7xSOa1gE",
+    "id": "2040204259338137869",
+    "edit_history_tweet_ids": [
+      "2040204259338137869"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "conversation_id": "2040204259338137869",
+    "author_id": "1972912292720467968"
+  },
+  {
+    "created_at": "2026-04-03T22:55:39.000Z",
+    "text": "my metamask wallet was hacked, my crypto wallet was stolen, my ig was hacked, i need iptv, bank account hacked, banned, deleted, hacked, my account was suspended, nft, only fans subscription, crypto, i need a sugar daddy sugar mommy, cashapp, i need a graphic designer, bitcoin",
+    "id": "2040201593732092018",
+    "edit_history_tweet_ids": [
+      "2040201593732092018"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 15,
+      "like_count": 10,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 241
+    },
+    "conversation_id": "2040201593732092018",
+    "author_id": "1898588191243763712"
+  },
+  {
+    "id": "2040223617393263102",
+    "text": "@simonw 11 posts already is the tell. Security research is getting compressed the way coding did last year: one weird log line can turn into five exploit paths before coffee, which changes triage first and hiring plans right after.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "simonw",
+          "id": "12497"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2040223617393263102"
+    ],
+    "created_at": "2026-04-04T00:23:10.000Z",
+    "author_id": "2016399087566782464",
+    "conversation_id": "2040217884690145754"
+  },
+  {
+    "entities": {
+      "cashtags": [
+        {
+          "start": 8,
+          "end": 13,
+          "tag": "USDC"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "tag": "USDC"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 149,
+          "end": 154,
+          "tag": "DeFi"
+        },
+        {
+          "start": 155,
+          "end": 160,
+          "tag": "USDC"
+        }
+      ]
+    },
+    "id": "2040216679448469864",
+    "text": "Another $USDC attack just dropped. $420M in $USDC lost in a security exploit — damage still being assessed Is DeFi security getting better or worse? #DeFi #USDC",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "edit_history_tweet_ids": [
+      "2040216679448469864"
+    ],
+    "created_at": "2026-04-03T23:55:36.000Z",
+    "author_id": "1947708829359042560",
+    "conversation_id": "2040216679448469864"
+  },
+  {
+    "id": "2040216342205190323",
+    "text": "The Drift exploit isn't just a $285M hole; it's a structural wake-up call for Solana DeFi. Social engineering on a Security Council is the ultimate \"human layer\" failure that no amount of TPS can fix. 📊 https://t.co/u2e64UCS2p",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "edit_history_tweet_ids": [
+      "2040216342205190323"
+    ],
+    "created_at": "2026-04-03T23:54:16.000Z",
+    "author_id": "1948544290323382273",
+    "conversation_id": "2040216342205190323",
+    "entities": {
+      "urls": [
+        {
+          "start": 203,
+          "end": 226,
+          "url": "https://t.co/u2e64UCS2p",
+          "expanded_url": "https://x.com/Identity_Prism/status/2040216342205190323/photo/1",
+          "display_url": "pic.x.com/u2e64UCS2p",
+          "media_key": "3_2040216323377053696"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2040214900765532394",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 23,
+          "tag": "USDC"
+        }
+      ],
+      "urls": [
+        {
+          "start": 243,
+          "end": 266,
+          "url": "https://t.co/V1bvTqLlsU",
+          "expanded_url": "https://blockchain.watch/investigations/usdc-security-incident-1775259003748",
+          "display_url": "blockchain.watch/investigations…",
+          "status": 404,
+          "unwound_url": "https://blockchain.watch/investigations/usdc-security-incident-1775259003748"
+        }
+      ]
+    },
+    "text": "🚨 SECURITY ALERT\n\n#USDC Security Incident\n\n1 exploit events. Multiple signals detected within the last 2 hours.\n\n⚠️ funds at risk — verify contracts before interacting\n\n📊 Impact: Bearish\n⚡ Signal: High\n⏱ Horizon: Short-term\n\n🔗 Full breakdown:\nhttps://t.co/V1bvTqLlsU",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "edit_history_tweet_ids": [
+      "2040214900765532394"
+    ],
+    "created_at": "2026-04-03T23:48:32.000Z",
+    "author_id": "1801114359747256320",
+    "conversation_id": "2040214900765532394"
+  },
+  {
+    "id": "2040213641991975202",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 214,
+          "end": 218,
+          "tag": "cve"
+        },
+        {
+          "start": 233,
+          "end": 247,
+          "tag": "cybersecurity"
+        }
+      ],
+      "urls": [
+        {
+          "start": 248,
+          "end": 271,
+          "url": "https://t.co/mlnnZsZfSp",
+          "expanded_url": "https://cvefind.com/CVE-2021-4477",
+          "display_url": "cvefind.com/CVE-2021-4477",
+          "status": 200,
+          "title": "CVE-2021-4477 - Detail CVSS, EPSS & CISA Kev | CVE Find",
+          "description": "Full details for CVE-2021-4477: technical description, impact, CVSS/EPSS scores, linked CWE, CAPEC, affected CPEs, disclosure date, and mitigation options.",
+          "unwound_url": "https://www.cvefind.com/CVE-2021-4477"
+        }
+      ]
+    },
+    "text": "[CVE-2021-4477: CRITICAL] Security alert: Hirschmann HiLCOS OpenBAT &amp; BAT450 have a firewall bypass vulnerability in IPv6 IPsec deployments. Attackers can exploit it to bypass firewall rules on VPN connections.#cve,CVE-2021-4477,#cybersecurity https://t.co/mlnnZsZfSp",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "edit_history_tweet_ids": [
+      "2040213641991975202"
+    ],
+    "created_at": "2026-04-03T23:43:32.000Z",
+    "author_id": "1787531073204670464",
+    "conversation_id": "2040213641991975202"
+  },
+  {
+    "id": "2040206504855552142",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 198,
+          "end": 210,
+          "tag": "SkullexSays"
+        }
+      ]
+    },
+    "text": "Skullex Says:\n\nYou spent $50K on software and $0 on making sure it actually works together.\n\nBold move.\n\nExploit Security makes your tech stack talk to each other before it talks behind your back.\n\n#SkullexSays",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "edit_history_tweet_ids": [
+      "2040206504855552142"
+    ],
+    "created_at": "2026-04-03T23:15:10.000Z",
+    "author_id": "1618954747960242176",
+    "conversation_id": "2040206504855552142"
+  },
+  {
+    "entities": {
+      "cashtags": [
+        {
+          "start": 38,
+          "end": 44,
+          "tag": "DRIFT"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "DriftProtocol",
+          "id": "1395713029593989121"
+        }
+      ]
+    },
+    "id": "2040203147793039778",
+    "text": "@DriftProtocol well that explains the $DRIFT price action\n\ndurable nonce exploit to hijack the security council is nasty. not a simple wallet drain, this was governance level. ngl any DeFi protocol is one admin key away from this\n\nanyone with size still exposed here?",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 79
+    },
+    "edit_history_tweet_ids": [
+      "2040203147793039778"
+    ],
+    "created_at": "2026-04-03T23:01:50.000Z",
+    "author_id": "1983249396730060800",
+    "conversation_id": "2039564437795836039"
+  },
+  {
+    "id": "2040202688068296972",
+    "text": "Where our adversaries see weakness, they move to exploit it.\n\nSecuring our borders is not political—it’s good policy that keeps America safe. I supported the largest ever investment in border security &amp; will keep fighting to put America First.",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 5,
+      "like_count": 19,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 304
+    },
+    "edit_history_tweet_ids": [
+      "2040202688068296972"
+    ],
+    "created_at": "2026-04-03T23:00:00.000Z",
+    "author_id": "1344677401465397249",
+    "conversation_id": "2040202688068296972"
+  },
+  {
+    "id": "2040201149790216348",
+    "text": "Don't blink.\n\nCircle under fire after $285M DeFi hack. USDC's role in exploit sparks major security debate.\n\nA critical moment for crypto trust.\n\nWatch volume. Manage risk. ⚡",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "edit_history_tweet_ids": [
+      "2040201149790216348"
+    ],
+    "created_at": "2026-04-03T22:53:53.000Z",
+    "author_id": "798180246071758849",
+    "conversation_id": "2040201149790216348"
+  },
+  {
+    "id": "2040196428828422206",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 246,
+          "end": 259,
+          "tag": "DeFiSecurity"
+        },
+        {
+          "start": 260,
+          "end": 272,
+          "tag": "CryptoRisks"
+        }
+      ]
+    },
+    "text": "⚙️Automated: The $286M Drift Protocol exploit linked to DPRK highlights ongoing risks in DeFi. Increased scrutiny and enhanced security measures are essential to prevent future large-scale breaches. Watch for a push toward more robust protocols. #DeFiSecurity #CryptoRisks",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "edit_history_tweet_ids": [
+      "2040196428828422206"
+    ],
+    "created_at": "2026-04-03T22:35:08.000Z",
+    "author_id": "1852751107157643264",
+    "conversation_id": "2040196428828422206"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/I61AU7dzHV",
+          "expanded_url": "https://x.com/DufourDux/status/2040226536230355275/video/1",
+          "display_url": "pic.x.com/I61AU7dzHV",
+          "media_key": "7_2040226525241372672"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2040226536230355275",
+    "author_id": "2016144193152843776",
+    "edit_history_tweet_ids": [
+      "2040226536230355275"
+    ],
+    "text": "“啊...”盗号他的声暗网音刚刚落下，一道惨叫便是凄厉响起，中年大汉一抬头，脸色大变查学籍的发现，距离开房记录他不远处的一头飞行魔兽盗QQ，此时却是被包裹在一团七彩液体中，而里查婚姻记录面查户籍的两人，仅仅是有斗查个人资料气个人信息阻拦了短暂时间人肉搜索后，... https://t.co/I61AU7dzHV",
+    "conversation_id": "2040226536230355275",
+    "created_at": "2026-04-04T00:34:46.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 149,
+          "end": 172,
+          "url": "https://t.co/NQufppebgF",
+          "expanded_url": "https://x.com/schuchhard64021/status/2040226472884113536/video/1",
+          "display_url": "pic.x.com/NQufppebgF",
+          "media_key": "7_2040226170936152064"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2040226472884113536",
+    "author_id": "2027575181355675648",
+    "edit_history_tweet_ids": [
+      "2040226472884113536"
+    ],
+    "text": "找回qq\n如果你还没走到你想要的境界，或是还没实现自己的希望，主要原因很盗百度云盘\n删贴吧\n可能出在你身上，而不是你的周遭。负起责任、采取行动吧。然而首先，你必须相信自己、相信追回被骗的钱\n自己的价人肉搜索\n值，不能躲起来干等删负面\n刷盗抖音号\n查资料\n单被骗追回\n别人发现你 💕 🥳 💝 😀 💯 https://t.co/NQufppebgF",
+    "conversation_id": "2040226472884113536",
+    "created_at": "2026-04-04T00:34:31.000Z"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "ZF_lab",
+          "id": "64359118"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 19
+    },
+    "id": "2040224202964554092",
+    "author_id": "1552194018657718272",
+    "edit_history_tweet_ids": [
+      "2040224202964554092"
+    ],
+    "text": "@ZF_lab 被遗忘的钱包地址怎么办啊？",
+    "conversation_id": "2040212988754276718",
+    "created_at": "2026-04-04T00:25:30.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 120,
+          "end": 143,
+          "url": "https://t.co/Z0D41faAnb",
+          "expanded_url": "https://x.com/IngHeidemf/status/2040223769248322034/video/1",
+          "display_url": "pic.x.com/Z0D41faAnb",
+          "media_key": "7_2040223468705476608"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "id": "2040223769248322034",
+    "author_id": "2025402890354130944",
+    "edit_history_tweet_ids": [
+      "2040223769248322034"
+    ],
+    "text": "你会追回被骗的钱\n有怀疑抖音解封\n、害怕的刷单被骗追回\n时刻，我们都有。情查信息\n绪低落是很自然的找回密码\n，是人就会这样，但如果你让这类负面支查护照号\n付宝解封微博开户\n\n感受逡巡不去，而不是不动于心，那就盗抖音号\n危险了。 🙌 💖 😁 https://t.co/Z0D41faAnb",
+    "conversation_id": "2040223769248322034",
+    "created_at": "2026-04-04T00:23:46.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/cPeDqsfOMg",
+          "expanded_url": "https://x.com/CathrinSei70009/status/2040223431686582576/video/1",
+          "display_url": "pic.x.com/cPeDqsfOMg",
+          "media_key": "7_2040223130283814912"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2040223431686582576",
+    "author_id": "2007534037439787009",
+    "edit_history_tweet_ids": [
+      "2040223431686582576"
+    ],
+    "text": "如果没外卖地查家人\n址\n有得到奇迹，就追回被骗的钱\n成为入侵网站\n聊天记录恢复\n查小红书qq被盗找回\n\n一个奇密码找回\n迹?人肉搜索\n 👏 🤗 🌈 ✨ https://t.co/cPeDqsfOMg",
+    "conversation_id": "2040223431686582576",
+    "created_at": "2026-04-04T00:22:26.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 515
+    },
+    "id": "2040221288816689559",
+    "author_id": "86889819",
+    "edit_history_tweet_ids": [
+      "2040221288816689559"
+    ],
+    "text": "远离中国人，以前是政治圈术语\n\n现在创业圈尤其电商圈更是真理\n\n只要中国卖家，特别是留在国内的卖家云集的平台\n\n比如Facebook、谷歌，amazon（你没看错，这几家现在被中国包了），TikTok（老牌中国卧底）\n\n生意没法做，国内这帮人能石头榨出水来，一分钱都没有\n\n要找中国人玩不了的赛道和平台！",
+    "conversation_id": "2040221288816689559",
+    "created_at": "2026-04-04T00:13:55.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 86,
+          "end": 109,
+          "url": "https://t.co/dIUPv4aWLz",
+          "expanded_url": "https://x.com/Blockchainrese6/status/2040219917790892175/photo/1",
+          "display_url": "pic.x.com/dIUPv4aWLz",
+          "media_key": "3_2040219319586729984"
+        },
+        {
+          "start": 110,
+          "end": 133,
+          "url": "https://t.co/Wc3n5bH6zQ",
+          "expanded_url": "https://twitter.com/Blockchainrese6/status/2039929888615071914",
+          "display_url": "x.com/Blockchainrese…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 293
+    },
+    "id": "2040219917790892175",
+    "author_id": "1476919629133991936",
+    "edit_history_tweet_ids": [
+      "2040219917790892175"
+    ],
+    "text": "叼毛们，BNB太贵你买不起，但是咸鱼上面表哥的书籍9块9包邮的（金钱自由）肯定值得下单。\n\n感慨任何东西在咸鱼上面价格都被打下来了，也感谢咸鱼让老陌读上了CZ大表哥的书。 https://t.co/dIUPv4aWLz https://t.co/Wc3n5bH6zQ",
+    "conversation_id": "2040219917790892175",
+    "created_at": "2026-04-04T00:08:28.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 162,
+          "end": 185,
+          "url": "https://t.co/dDytvOJeW1",
+          "expanded_url": "https://x.com/0xCaptain888/status/2040219045115359469/photo/1",
+          "display_url": "pic.x.com/dDytvOJeW1",
+          "media_key": "3_2039702140000882688"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 34
+    },
+    "id": "2040219045115359469",
+    "author_id": "1245580695839236096",
+    "edit_history_tweet_ids": [
+      "2040219045115359469"
+    ],
+    "text": "Drift 被端了，$2.85 亿没了。Solana 最大 perp DEX，TVL 从 $5.5 亿直接腰斩。\n\n我花了点时间拆了下攻击路径，这个黑客准备了好几周：先通过 NEAR intents 给钱包打了启动资金，8 天前就到位了，还提前做了一笔测试交易。正式动手的时候，先搞定多签私钥——Drift 用的是 2/5 https://t.co/dDytvOJeW1",
+    "conversation_id": "2040219045115359469",
+    "created_at": "2026-04-04T00:05:00.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 68,
+          "end": 91,
+          "url": "https://t.co/cpR9jsk1Vn",
+          "expanded_url": "http://forgotteneth.com",
+          "display_url": "forgotteneth.com",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2038968742466514944/k3hzWv4x?format=png&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2038968742466514944/k3hzWv4x?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Forgotten ETH: 70,000+ ETH Stuck in Old Smart Contracts",
+          "description": "Thousands of ETH sit forgotten in defunct contracts. Portfolio trackers don't detect these balances. Check if you have unclaimed ETH.",
+          "unwound_url": "https://forgotteneth.com/"
+        },
+        {
+          "start": 92,
+          "end": 115,
+          "url": "https://t.co/kMa7VC3sma",
+          "expanded_url": "https://x.com/ZF_lab/status/2040212988754276718/photo/1",
+          "display_url": "pic.x.com/kMa7VC3sma",
+          "media_key": "3_2040212986070011904"
+        },
+        {
+          "start": 116,
+          "end": 139,
+          "url": "https://t.co/eLlDLbr1Od",
+          "expanded_url": "https://twitter.com/ZF_lab/status/2039903164258734281",
+          "display_url": "x.com/ZF_lab/status/…"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 7,
+      "reply_count": 3,
+      "like_count": 21,
+      "quote_count": 1,
+      "bookmark_count": 13,
+      "impression_count": 2633
+    },
+    "id": "2040212988754276718",
+    "author_id": "64359118",
+    "edit_history_tweet_ids": [
+      "2040212988754276718"
+    ],
+    "text": "这个网站不错，可以查下自己老钱包是不是还有些待处理的ETH，目前全网有16万个被遗忘的ETH。只要输入钱包地址即可查询。\n\n查询链接： https://t.co/cpR9jsk1Vn https://t.co/kMa7VC3sma https://t.co/eLlDLbr1Od",
+    "conversation_id": "2040212988754276718",
+    "created_at": "2026-04-03T23:40:56.000Z"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 203,
+          "end": 226,
+          "url": "https://t.co/5B01VPTPQH",
+          "expanded_url": "https://x.com/Meta8Mate/status/2040208593165967617/photo/1",
+          "display_url": "pic.x.com/5B01VPTPQH",
+          "media_key": "3_2040208161731411968"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 1165
+    },
+    "id": "2040208593165967617",
+    "author_id": "967772103918284802",
+    "edit_history_tweet_ids": [
+      "2040208593165967617"
+    ],
+    "text": "又又又是朝鲜干的？\n\nDrift协议2.85亿刀被盗，Elliptic和TRM Labs都指出\"多个朝鲜国家黑客特征\"。\n\n朝鲜黑客的加密盗窃成绩单：\n2022年 Axie Infinity — $6.25亿\n2023年 Atomic Wallet — $1亿\n2024年 DMM Bitcoin — $3.08亿\n2026年 Drift Protocol — $2.85亿\n\n又偷我们的钱去造导弹了？🫣 https://t.co/5B01VPTPQH",
+    "conversation_id": "2040208593165967617",
+    "created_at": "2026-04-03T23:23:28.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "text": "@odbashWizard Who will buy this Rug pull sounds like $Pubic 🤣",
+    "entities": {
+      "cashtags": [
+        {
+          "start": 53,
+          "end": 59,
+          "tag": "Pubic"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "odbashWizard",
+          "id": "3158060713"
+        }
+      ]
+    },
+    "created_at": "2026-04-04T00:30:23.000Z",
+    "id": "2040225434600624498",
+    "conversation_id": "2040181576412069909",
+    "edit_history_tweet_ids": [
+      "2040225434600624498"
+    ],
+    "author_id": "1388962168524189705"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 17
+    },
+    "text": "@CryptoTorks 4 is rug pull 🤣",
+    "created_at": "2026-04-04T00:30:14.000Z",
+    "id": "2040225396839338413",
+    "conversation_id": "2040225051874632080",
+    "edit_history_tweet_ids": [
+      "2040225396839338413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "CryptoTorks",
+          "id": "1989241421233033216"
+        }
+      ]
+    },
+    "author_id": "842042287555198977"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "text": "My read. $200 was never feasible, but they used it to drive people into their ecosystem. Then lock it down. They planned the rug pull from the start. https://t.co/PRrvqxsZsb",
+    "created_at": "2026-04-04T00:29:14.000Z",
+    "id": "2040225143918583848",
+    "entities": {
+      "urls": [
+        {
+          "start": 150,
+          "end": 173,
+          "url": "https://t.co/PRrvqxsZsb",
+          "expanded_url": "https://x.com/JohnWardHere/status/2040225143918583848/photo/1",
+          "display_url": "pic.x.com/PRrvqxsZsb",
+          "media_key": "3_2040225137778098177"
+        }
+      ]
+    },
+    "conversation_id": "2040225143918583848",
+    "edit_history_tweet_ids": [
+      "2040225143918583848"
+    ],
+    "author_id": "15054277"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "text": "Canceled Claude... So sad... Why? Classic rug pull.\n\n1 DAY GIVEN TO OPENSOURCERS TO GTFO CLAUDE'S SUBSIDIZED RIDE... https://t.co/gtBPyrYkP4",
+    "created_at": "2026-04-04T00:27:11.000Z",
+    "id": "2040224627507580935",
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/gtBPyrYkP4",
+          "expanded_url": "https://x.com/nomad_remy/status/2040224627507580935/photo/1",
+          "display_url": "pic.x.com/gtBPyrYkP4",
+          "media_key": "3_2040224224577826816"
+        }
+      ]
+    },
+    "conversation_id": "2040224627507580935",
+    "edit_history_tweet_ids": [
+      "2040224627507580935"
+    ],
+    "author_id": "433178522"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 53
+    },
+    "text": "@lovxtwd Rug pull cliffhanger bullshit. Tuned out after that.",
+    "created_at": "2026-04-04T00:26:57.000Z",
+    "id": "2040224570225893705",
+    "conversation_id": "2040092742953423316",
+    "edit_history_tweet_ids": [
+      "2040224570225893705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "lovxtwd",
+          "id": "1308920314722750465"
+        }
+      ]
+    },
+    "author_id": "1862321287734988800"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "text": "Rug pull cost me 10 SOL today. Crying in the shower it is. https://t.co/0BJeVgpfRn",
+    "created_at": "2026-04-04T00:25:41.000Z",
+    "id": "2040224252469915979",
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/0BJeVgpfRn",
+          "expanded_url": "https://x.com/legendp54blaze/status/2040224252469915979/photo/1",
+          "display_url": "pic.x.com/0BJeVgpfRn",
+          "media_key": "3_2040224226398121984"
+        }
+      ]
+    },
+    "conversation_id": "2040224252469915979",
+    "edit_history_tweet_ids": [
+      "2040224252469915979"
+    ],
+    "author_id": "2025330940726411264"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 39
+    },
+    "text": "@39daph i cant tell if this is suppose to be a play on rug pull",
+    "created_at": "2026-04-04T00:20:57.000Z",
+    "id": "2040223059487908024",
+    "conversation_id": "2040190634968154237",
+    "edit_history_tweet_ids": [
+      "2040223059487908024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "39daph",
+          "id": "820092242908028928"
+        }
+      ]
+    },
+    "author_id": "421689988"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "text": "💀 One-Click Loss on Worthless Coins\n\nGot rugged? Lost tokens to a bankrupt exchange? Bag of dead meme coins?\n\nOne click → proper $0-proceeds disposals on all your open tax lots.\n\nCategorize as:\n• Rug pull\n• Bankruptcy (FTX, Celsius, etc)\n• Lost wallet\n• Worthless\n\nShows up",
+    "created_at": "2026-04-04T00:19:00.000Z",
+    "id": "2040222568691679535",
+    "conversation_id": "2040222563323023596",
+    "edit_history_tweet_ids": [
+      "2040222568691679535"
+    ],
+    "author_id": "2012314915931873280"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "text": "@ShaykhSulaiman Yeah...\n\nWaiting on the 'Zionist rug pull' to happen by @POTUS.\n110 would be 'their own promised land'?",
+    "created_at": "2026-04-04T00:18:26.000Z",
+    "id": "2040222424021533091",
+    "conversation_id": "2040114596988534894",
+    "edit_history_tweet_ids": [
+      "2040222424021533091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ShaykhSulaiman",
+          "id": "1291128494"
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "username": "POTUS",
+          "id": "1879650942410481666"
+        }
+      ]
+    },
+    "author_id": "1315633574"
+  },
+  {
+    "id": "2040218924604961216",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 11,
+          "end": 19,
+          "tag": "今朝の着弾状況"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "tag": "フィッシングメール"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "tag": "Phishing"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "tag": "Scam"
+        },
+        {
+          "start": 49,
+          "end": 56,
+          "tag": "Amazon"
+        },
+        {
+          "start": 59,
+          "end": 67,
+          "tag": "AppleID"
+        },
+        {
+          "start": 68,
+          "end": 81,
+          "tag": "AppleFitness"
+        },
+        {
+          "start": 84,
+          "end": 88,
+          "tag": "ANA"
+        },
+        {
+          "start": 89,
+          "end": 93,
+          "tag": "全日空"
+        },
+        {
+          "start": 95,
+          "end": 99,
+          "tag": "JAL"
+        },
+        {
+          "start": 100,
+          "end": 105,
+          "tag": "日本航空"
+        },
+        {
+          "start": 107,
+          "end": 112,
+          "tag": "日本郵便"
+        },
+        {
+          "start": 114,
+          "end": 119,
+          "tag": "メルカリ"
+        },
+        {
+          "start": 121,
+          "end": 142,
+          "tag": "NintendoSwitchOnline"
+        },
+        {
+          "start": 143,
+          "end": 147,
+          "tag": "任天堂"
+        },
+        {
+          "start": 149,
+          "end": 156,
+          "tag": "ETCカード"
+        },
+        {
+          "start": 158,
+          "end": 163,
+          "tag": "eオリコ"
+        },
+        {
+          "start": 165,
+          "end": 172,
+          "tag": "セゾンカード"
+        },
+        {
+          "start": 173,
+          "end": 179,
+          "tag": "MyJCB"
+        },
+        {
+          "start": 180,
+          "end": 187,
+          "tag": "JCBカード"
+        },
+        {
+          "start": 189,
+          "end": 194,
+          "tag": "VISA"
+        },
+        {
+          "start": 196,
+          "end": 203,
+          "tag": "ビューカード"
+        }
+      ],
+      "urls": [
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/IIhjLJGhgE",
+          "expanded_url": "https://x.com/catnap707/status/2040218924604961216/photo/1",
+          "display_url": "pic.x.com/IIhjLJGhgE",
+          "media_key": "3_2040215051706208256"
+        },
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/IIhjLJGhgE",
+          "expanded_url": "https://x.com/catnap707/status/2040218924604961216/photo/1",
+          "display_url": "pic.x.com/IIhjLJGhgE",
+          "media_key": "3_2040218052017758208"
+        },
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/IIhjLJGhgE",
+          "expanded_url": "https://x.com/catnap707/status/2040218924604961216/photo/1",
+          "display_url": "pic.x.com/IIhjLJGhgE",
+          "media_key": "3_2040218125468360704"
+        },
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/IIhjLJGhgE",
+          "expanded_url": "https://x.com/catnap707/status/2040218924604961216/photo/1",
+          "display_url": "pic.x.com/IIhjLJGhgE",
+          "media_key": "3_2040218232808935424"
+        }
+      ]
+    },
+    "text": "2026/04/04 #今朝の着弾状況 \n#フィッシングメール #Phishing #Scam \n#Amazon  \n#AppleID #AppleFitness  \n#ANA #全日空 \n#JAL #日本航空 \n#日本郵便 \n#メルカリ \n#NintendoSwitchOnline #任天堂 \n#ETCカード \n#eオリコ \n#セゾンカード\n#MyJCB #JCBカード \n#VISA \n#ビューカード https://t.co/IIhjLJGhgE",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 44
+    },
+    "edit_history_tweet_ids": [
+      "2040218924604961216"
+    ],
+    "conversation_id": "1874224576147959884",
+    "author_id": "265308969",
+    "created_at": "2026-04-04T00:04:31.000Z"
+  },
+  {
+    "id": "2040218644702167306",
+    "text": "Not my dumb ass fell for a phishing scam 🫠🤣 at my big age",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 64
+    },
+    "edit_history_tweet_ids": [
+      "2040218644702167306"
+    ],
+    "conversation_id": "2040218644702167306",
+    "author_id": "401050994",
+    "created_at": "2026-04-04T00:03:24.000Z"
+  },
+  {
+    "id": "2040217807376330803",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 107,
+          "end": 121,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 122,
+          "end": 131,
+          "tag": "phishing"
+        },
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "infosec"
+        },
+        {
+          "start": 141,
+          "end": 148,
+          "tag": "urldna"
+        },
+        {
+          "start": 149,
+          "end": 154,
+          "tag": "scam"
+        },
+        {
+          "start": 155,
+          "end": 163,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 164,
+          "end": 171,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/QkJEsmp4b0",
+          "expanded_url": "https://urldna.io/scan/69cfc19b3b77500005f6f761",
+          "display_url": "urldna.io/scan/69cfc19b3…",
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69cfc19b3b77500005f6f761"
+        },
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/Ra5T1Tpw4h",
+          "expanded_url": "https://x.com/urldna_bot/status/2040217807376330803/photo/1",
+          "display_url": "pic.x.com/Ra5T1Tpw4h",
+          "media_key": "3_2040217805187166208"
+        }
+      ]
+    },
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//elster-de-eportal[.]web[.]app\n 🧬 Analysis at: https://t.co/QkJEsmp4b0\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/Ra5T1Tpw4h",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "edit_history_tweet_ids": [
+      "2040217807376330803"
+    ],
+    "conversation_id": "2040217807376330803",
+    "author_id": "1641789500056535042",
+    "created_at": "2026-04-04T00:00:05.000Z"
+  },
+  {
+    "id": "2040206701220032755",
+    "text": "I fell for a phishing scam but got saved by . @RHenry218 no  upfront charges, only real help. https://t.co/Nk3ElOemPt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "edit_history_tweet_ids": [
+      "2040206701220032755"
+    ],
+    "conversation_id": "2040206701220032755",
+    "author_id": "832262128841129984",
+    "entities": {
+      "mentions": [
+        {
+          "start": 46,
+          "end": 56,
+          "username": "RHenry218",
+          "id": "279088635"
+        }
+      ],
+      "urls": [
+        {
+          "start": 94,
+          "end": 117,
+          "url": "https://t.co/Nk3ElOemPt",
+          "expanded_url": "https://twitter.com/barbarapri52721/status/2040021014080266563",
+          "display_url": "x.com/barbarapri5272…"
+        }
+      ]
+    },
+    "created_at": "2026-04-03T23:15:57.000Z"
+  },
+  {
+    "id": "2040200481205596246",
+    "text": "@wwwyyymmmddd @wwwyyymmmddd If this was from a phishing scam, your wallet was likely exploited via malicious approvals. I’ve been hit before — @SecureChain_ helped me trace and respond. Act fast; revoke approvals &amp; report to @SecureChain_.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "edit_history_tweet_ids": [
+      "2040200481205596246"
+    ],
+    "conversation_id": "2040121427282858393",
+    "author_id": "102971542",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "wwwyyymmmddd",
+          "id": "1625750982352314368"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "username": "wwwyyymmmddd",
+          "id": "1625750982352314368"
+        },
+        {
+          "start": 143,
+          "end": 156,
+          "username": "Securechain_",
+          "id": "968769271"
+        },
+        {
+          "start": 229,
+          "end": 242,
+          "username": "Securechain_",
+          "id": "968769271"
+        }
+      ]
+    },
+    "created_at": "2026-04-03T22:51:14.000Z"
+  },
+  {
+    "id": "2040188533881905560",
+    "text": "Non tech and the average Joe also needs insurance against cyber threats.\n\nMost are not knowledgable enough and even the best combating tools require one to be too tech savvy.\n\nBut not Woeshield.\n\nFake links.  Phishing messages. Scam transactions dressed up as opportunities\nPaste https://t.co/Av0E4Pu1P8",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 34
+    },
+    "edit_history_tweet_ids": [
+      "2040188533881905560"
+    ],
+    "conversation_id": "2040188533881905560",
+    "author_id": "1959725519462703104",
+    "created_at": "2026-04-03T22:03:46.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/Av0E4Pu1P8",
+          "expanded_url": "https://twitter.com/pointwoebegone/status/2040187537335984363",
+          "display_url": "x.com/pointwoebegone…"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2040187610711155162",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 99,
+          "end": 113,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 114,
+          "end": 123,
+          "tag": "phishing"
+        },
+        {
+          "start": 124,
+          "end": 132,
+          "tag": "infosec"
+        },
+        {
+          "start": 133,
+          "end": 140,
+          "tag": "urldna"
+        },
+        {
+          "start": 141,
+          "end": 146,
+          "tag": "scam"
+        },
+        {
+          "start": 147,
+          "end": 155,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 156,
+          "end": 163,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 75,
+          "end": 98,
+          "url": "https://t.co/H2EGbco27s",
+          "expanded_url": "https://urldna.io/scan/69cfabf03b77500002d33582",
+          "display_url": "urldna.io/scan/69cfabf03…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040187614943215616/-kO1N4Sr?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040187614943215616/-kO1N4Sr?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69cfabf03b77500002d33582"
+        },
+        {
+          "start": 164,
+          "end": 187,
+          "url": "https://t.co/8eFn3rCaE6",
+          "expanded_url": "https://x.com/urldna_bot/status/2040187610711155162/photo/1",
+          "display_url": "pic.x.com/8eFn3rCaE6",
+          "media_key": "3_2040187608974696448"
+        }
+      ]
+    },
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//kdkdud[.]weebly[.]com\n 🧬 Analysis at: https://t.co/H2EGbco27s\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/8eFn3rCaE6",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "edit_history_tweet_ids": [
+      "2040187610711155162"
+    ],
+    "conversation_id": "2040187610711155162",
+    "author_id": "1641789500056535042",
+    "created_at": "2026-04-03T22:00:05.000Z"
+  },
+  {
+    "id": "2040182092919632121",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 57,
+          "end": 60,
+          "tag": "AI"
+        },
+        {
+          "start": 61,
+          "end": 66,
+          "tag": "Scam"
+        },
+        {
+          "start": 67,
+          "end": 81,
+          "tag": "CyberSecurity"
+        },
+        {
+          "start": 82,
+          "end": 91,
+          "tag": "Deepfake"
+        },
+        {
+          "start": 92,
+          "end": 98,
+          "tag": "Fraud"
+        },
+        {
+          "start": 99,
+          "end": 108,
+          "tag": "Phishing"
+        },
+        {
+          "start": 109,
+          "end": 117,
+          "tag": "Vishing"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "AISafety"
+        },
+        {
+          "start": 128,
+          "end": 146,
+          "tag": "SocialEngineering"
+        },
+        {
+          "start": 147,
+          "end": 160,
+          "tag": "GenerativeAI"
+        }
+      ],
+      "urls": [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "https://t.co/QYaBvz7RCB",
+          "expanded_url": "https://youtube.com/shorts/szqXppELItw?si=QuzOPT3MdGQRic1a",
+          "display_url": "youtube.com/shorts/szqXppE…",
+          "status": 200,
+          "title": "How to spot a deepfake using one sentence",
+          "description": "This scammer from a fake company called \"Global Metrix\" offered to recovery my stolen crypto currency.The problem for him is that I knew it was a scam, so I ...",
+          "unwound_url": "https://www.youtube.com/shorts/szqXppELItw?si=QuzOPT3MdGQRic1a"
+        }
+      ]
+    },
+    "text": "https://t.co/QYaBvz7RCB\n\nPeople should know about this.\n\n#AI #Scam #CyberSecurity #Deepfake #Fraud #Phishing #Vishing #AISafety #SocialEngineering #GenerativeAI",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "edit_history_tweet_ids": [
+      "2040182092919632121"
+    ],
+    "conversation_id": "2040182092919632121",
+    "author_id": "902546487283826689",
+    "created_at": "2026-04-03T21:38:10.000Z"
+  }
+]
