@@ -1,0 +1,826 @@
+[
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 153
+    },
+    "id": "2040679910952648947",
+    "text": ".@DriftProtocol 这波被盗对sol生态影响还是挺大的，至少对很多稳定币协议影响挺大，还好之前把大多数vault里面存的资金提出了，不过还是中招了\n\n刚看目前唯一还有参与的协议 @reflectmoney",
+    "edit_history_tweet_ids": [
+      "2040679910952648947"
+    ],
+    "created_at": "2026-04-05T06:36:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 1,
+          "end": 15,
+          "username": "DriftProtocol",
+          "id": "1395713029593989121"
+        },
+        {
+          "start": 95,
+          "end": 108,
+          "username": "reflectmoney",
+          "id": "1586791639623901185"
+        }
+      ]
+    },
+    "conversation_id": "2040679910952648947",
+    "author_id": "1035377708300206080",
+    "cleaned_at": "2026-04-05T15:25:29.679934"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "id": "2040643845638254685",
+    "text": "@xiaoman1188 资金被盗 三胖又背锅了  大资金还得寻求有实力的交易结构 目前 币安深度 安全性最好",
+    "edit_history_tweet_ids": [
+      "2040643845638254685"
+    ],
+    "created_at": "2026-04-05T04:13:00.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "xiaoman1188",
+          "id": "1363007268879364101"
+        }
+      ]
+    },
+    "conversation_id": "2040369332841333006",
+    "author_id": "1505758794202107904",
+    "cleaned_at": "2026-04-05T15:25:29.679937"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "id": "2040637747283824950",
+    "text": "@yyds123888 @evilcos 其实链上被盗这种事基本每天都有。很多人对底层逻辑和合约授权完全没概念。\n\n黑客的监控脚本都是毫秒级响应的。做交易永远要靠自己。如果连基本的钱包隔离都不懂，大资金应该老实放在币安。亏完的朋友总是悄无声息的退出。就当买个教训吧。",
+    "edit_history_tweet_ids": [
+      "2040637747283824950"
+    ],
+    "created_at": "2026-04-05T03:48:46.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "yyds123888",
+          "id": "1441606324010184707"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "username": "evilcos",
+          "id": "17552210"
+        }
+      ]
+    },
+    "conversation_id": "2040336197424382335",
+    "author_id": "1344966590119301120",
+    "cleaned_at": "2026-04-05T15:25:29.679938"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 436
+    },
+    "id": "2040624694316158979",
+    "text": "@jason_chen998 就是赚不到钱了最后捞一波，否则非得等着流动性枯竭了出问题，而不是流动性充足时候被盗。\n怎么都说不过去。\n所以，什么defi都不值得信，本质上这些金融产品是利用了链上流动性去赚钱的，因为以前币圈是一个暴利行业，很多人也愿意做交互，所以很多中间商赚得盆满钵满",
+    "edit_history_tweet_ids": [
+      "2040624694316158979"
+    ],
+    "created_at": "2026-04-05T02:56:54.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "jason_chen998",
+          "id": "1505829104737685505"
+        }
+      ]
+    },
+    "conversation_id": "2040617758417948782",
+    "author_id": "2697140978",
+    "cleaned_at": "2026-04-05T15:25:29.679938"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "id": "2040624547310018902",
+    "entities": {
+      "urls": [
+        {
+          "start": 36,
+          "end": 59,
+          "url": "https://t.co/zD6ZdO5gAv",
+          "expanded_url": "https://twitter.com/sciencegirl/status/2040371859728838924",
+          "display_url": "x.com/sciencegirl/st…"
+        }
+      ]
+    },
+    "text": "一位主播不慎泄露了自己的加密货币钱包私钥……几秒钟内，10万美元被盗。 https://t.co/zD6ZdO5gAv",
+    "edit_history_tweet_ids": [
+      "2040624547310018902"
+    ],
+    "created_at": "2026-04-05T02:56:19.000Z",
+    "conversation_id": "2040624547310018902",
+    "author_id": "1359389040999419907",
+    "cleaned_at": "2026-04-05T15:25:29.679939"
+  },
+  {
+    "text": "This is crazy\n\nThe Lazarus Group has stolen $7 billion from crypto since 2017\n\nThat’s more than the annual GDP of almost 36 countries\n\nThe biggest hack was Bybit ($1.5 billion) in 2025\n\nNow, the Drift team said that with medium-high confidence\n\nThey were hacked by the same North https://t.co/VD0pGaSGRe https://t.co/GeMFjXoowQ",
+    "edit_history_tweet_ids": [
+      "2040684839985353200"
+    ],
+    "author_id": "1479905666798178307",
+    "created_at": "2026-04-05T06:55:54.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 7,
+      "like_count": 10,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "impression_count": 451
+    },
+    "id": "2040684839985353200",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/VD0pGaSGRe",
+          "expanded_url": "https://x.com/jussy_world/status/2040684839985353200/photo/1",
+          "display_url": "pic.x.com/VD0pGaSGRe",
+          "media_key": "3_2040684835208142848"
+        },
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/VD0pGaSGRe",
+          "expanded_url": "https://x.com/jussy_world/status/2040684839985353200/photo/1",
+          "display_url": "pic.x.com/VD0pGaSGRe",
+          "media_key": "3_2040684837569449984"
+        },
+        {
+          "start": 304,
+          "end": 327,
+          "url": "https://t.co/GeMFjXoowQ",
+          "expanded_url": "https://twitter.com/1395713029593989121/status/2040611161121370409",
+          "display_url": "x.com/13957130295939…"
+        }
+      ]
+    },
+    "conversation_id": "2040684839985353200",
+    "cleaned_at": "2026-04-05T15:25:29.679940"
+  },
+  {
+    "text": "Drift Protocol got hacked for $285M by a team with real credentials that appeared to genuinely want to integrate their product.\n\nTwo reminders:\n\nCredentials are not security.\nTrust is not security.\n\nIf your company handles crypto, regardless of size, you need enterprise-grade https://t.co/IQVCbQtH20",
+    "edit_history_tweet_ids": [
+      "2040665350984073274",
+      "2040668991115694406"
+    ],
+    "author_id": "1260658730",
+    "created_at": "2026-04-05T05:52:55.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 51
+    },
+    "id": "2040668991115694406",
+    "entities": {
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/IQVCbQtH20",
+          "expanded_url": "https://twitter.com/DriftProtocol/status/2040611161121370409",
+          "display_url": "x.com/DriftProtocol/…"
+        }
+      ]
+    },
+    "conversation_id": "2040668991115694406",
+    "cleaned_at": "2026-04-05T15:25:29.679940"
+  },
+  {
+    "text": "Drift Protocol being hacked for $285 mil by a team with professional credentials who appeared to genuinely want to integrate their product: \n\n1. Credentials != security. Trust != security.\n2. Small to medium-sized companies that manage crypto will need enterprise-grade security. https://t.co/IQVCbQtH20",
+    "edit_history_tweet_ids": [
+      "2040665350984073274",
+      "2040668991115694406"
+    ],
+    "author_id": "1260658730",
+    "created_at": "2026-04-05T05:38:28.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "id": "2040665350984073274",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/IQVCbQtH20",
+          "expanded_url": "https://twitter.com/DriftProtocol/status/2040611161121370409",
+          "display_url": "x.com/DriftProtocol/…"
+        }
+      ]
+    },
+    "conversation_id": "2040665350984073274",
+    "cleaned_at": "2026-04-05T15:25:29.679941"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040682919975686177"
+    ],
+    "author_id": "2040340189243977728",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 163,
+          "end": 186,
+          "url": "https://t.co/PTa9Hhdiq7",
+          "expanded_url": "http://dlvr.it/TRt8mf",
+          "display_url": "dlvr.it/TRt8mf",
+          "status": 200,
+          "title": "Drift Protocol $285M Exploit Rocks Solana",
+          "description": "Drift Protocol lost $285M on Apr 2, 2026, per Decrypt; raises DeFi security questions after Ronin's $625M loss in 2022.",
+          "unwound_url": "https://fazen.markets/en/drift-protocol-285m-exploit-solana?utm_source=dlvr.it&utm_medium=twitter"
+        },
+        {
+          "start": 265,
+          "end": 288,
+          "url": "https://t.co/jlJd6j4yDm",
+          "expanded_url": "https://x.com/fazenmarkets/status/2040682919975686177/photo/1",
+          "display_url": "pic.x.com/jlJd6j4yDm",
+          "media_key": "3_2040682917903650816"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 208,
+          "end": 213,
+          "tag": "DeFi"
+        },
+        {
+          "start": 214,
+          "end": 221,
+          "tag": "Solana"
+        },
+        {
+          "start": 222,
+          "end": 236,
+          "tag": "DriftProtocol"
+        },
+        {
+          "start": 237,
+          "end": 252,
+          "tag": "Cryptocurrency"
+        },
+        {
+          "start": 253,
+          "end": 264,
+          "tag": "Blockchain"
+        }
+      ]
+    },
+    "created_at": "2026-04-05T06:48:16.000Z",
+    "text": "Drift Protocol $285M Exploit Rocks Solana: Drift Protocol lost $285M on Apr 2, 2026, per Decrypt; raises DeFi security questions after Ronin's $625M loss in 2022. https://t.co/PTa9Hhdiq7 👈 Read full analysis #DeFi #Solana #DriftProtocol #Cryptocurrency #Blockchain https://t.co/jlJd6j4yDm",
+    "conversation_id": "2040682919975686177",
+    "id": "2040682919975686177",
+    "cleaned_at": "2026-04-05T15:25:29.679942"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040676979259674831"
+    ],
+    "author_id": "1272765522",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/b3TDGvy6Z0",
+          "expanded_url": "https://twitter.com/DriftProtocol/status/2040611161121370409",
+          "display_url": "x.com/DriftProtocol/…"
+        }
+      ]
+    },
+    "created_at": "2026-04-05T06:24:40.000Z",
+    "text": "🚨 Security Is Not Optional — It’s Everything\n\nThe recent Drift Protocol exploit (~$280M+ loss) highlights a critical reality:\neven advanced DeFi systems can fail under complex attack vectors and operational risks.\nAt Coinate, we take security seriously from day one:\n\n🔒 Strict https://t.co/b3TDGvy6Z0",
+    "conversation_id": "2040676979259674831",
+    "id": "2040676979259674831",
+    "cleaned_at": "2026-04-05T15:25:29.679942"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040675414952309235"
+    ],
+    "author_id": "1322427921609338880",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "created_at": "2026-04-05T06:18:27.000Z",
+    "text": "@safetyth1rd 100% \n\nBasic security structure, most often not in team's budgets. \n\nThe way people (community, team, chain) react to the exploit is always telling \n\nFrom my last read, 5-$700of fake tokens was all that was required to access $280k of proper tokens. \n\nIf that's accurate F",
+    "conversation_id": "2040666193271619795",
+    "id": "2040675414952309235",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "safetyth1rd",
+          "id": "957303442250260480"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-05T15:25:29.679943"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2040674919780962400"
+    ],
+    "author_id": "45717966",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 5,
+      "like_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 90
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/9ZdKTzbVTc",
+          "expanded_url": "https://twitter.com/DriftProtocol/status/2040611161121370409",
+          "display_url": "x.com/DriftProtocol/…"
+        }
+      ]
+    },
+    "created_at": "2026-04-05T06:16:29.000Z",
+    "text": "This is probably one of the most important security case studies this year.\n\nNot because of the exploit itself, but because of how it was set up.\n\n6 months of behaving like a real counterparty:\n \n➤ deploying capital\n➤ integrating into the product\n➤ building relationships\n➤ https://t.co/9ZdKTzbVTc",
+    "conversation_id": "2040674919780962400",
+    "id": "2040674919780962400",
+    "cleaned_at": "2026-04-05T15:25:29.679944"
+  },
+  {
+    "id": "2040680541444620292",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2040680541444620292",
+    "entities": {
+      "urls": [
+        {
+          "start": 243,
+          "end": 266,
+          "url": "https://t.co/E2Pr3HeMeG",
+          "expanded_url": "https://x.com/kqbigwin/status/2040680541444620292/photo/1",
+          "display_url": "pic.x.com/E2Pr3HeMeG",
+          "media_key": "3_2040680538961494016"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2040680541444620292"
+    ],
+    "author_id": "2040497261327568896",
+    "text": "I'm not multi ... I changed telegram and the wallet for safety reasons, because my telegram got scam and my wallet got drained a while ago , the wallet has Swap approved Token phishing  , please understand this , all host and admins  thanks 🙏 https://t.co/E2Pr3HeMeG",
+    "created_at": "2026-04-05T06:38:49.000Z",
+    "cleaned_at": "2026-04-05T15:25:29.679945"
+  },
+  {
+    "id": "2040679657029136773",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 12,
+          "end": 21,
+          "tag": "Analysis"
+        },
+        {
+          "start": 205,
+          "end": 214,
+          "tag": "Response"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "tayvano_",
+          "id": "19748227"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2040616103333040508",
+    "edit_history_tweet_ids": [
+      "2040679657029136773"
+    ],
+    "author_id": "1554021677914210304",
+    "text": "@tayvano_ ###Analysis: This appears to be a sophisticated social engineering threat targeting crypto teams—not a typical phishing scam. The operational depth suggests multiple simultaneous compromises.\n\n###Response:\n\n**Liquidity gap in threat detection.**\n\n$130B crypto market needs",
+    "created_at": "2026-04-05T06:35:18.000Z",
+    "cleaned_at": "2026-04-05T15:25:29.679945"
+  },
+  {
+    "id": "2040670797870563516",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 103,
+          "end": 117,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "phishing"
+        },
+        {
+          "start": 128,
+          "end": 136,
+          "tag": "infosec"
+        },
+        {
+          "start": 137,
+          "end": 144,
+          "tag": "urldna"
+        },
+        {
+          "start": 145,
+          "end": 150,
+          "tag": "scam"
+        },
+        {
+          "start": 151,
+          "end": 159,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 160,
+          "end": 167,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/BIDkvhsWV7",
+          "expanded_url": "https://urldna.io/scan/69d1b4343b775000064ce7c0",
+          "display_url": "urldna.io/scan/69d1b4343…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040670801272213504/fdQlxiZc?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040670801272213504/fdQlxiZc?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d1b4343b775000064ce7c0"
+        },
+        {
+          "start": 168,
+          "end": 191,
+          "url": "https://t.co/6yZDLTVyfz",
+          "expanded_url": "https://x.com/urldna_bot/status/2040670797870563516/photo/1",
+          "display_url": "pic.x.com/6yZDLTVyfz",
+          "media_key": "3_2040670795815362560"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2040670797870563516",
+    "edit_history_tweet_ids": [
+      "2040670797870563516"
+    ],
+    "author_id": "1641789500056535042",
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//voicenote0[.]weebly[.]com\n 🧬 Analysis at: https://t.co/BIDkvhsWV7\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/6yZDLTVyfz",
+    "created_at": "2026-04-05T06:00:06.000Z",
+    "cleaned_at": "2026-04-05T15:25:29.679946"
+  },
+  {
+    "id": "2040640600182079543",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 107,
+          "end": 121,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 122,
+          "end": 131,
+          "tag": "phishing"
+        },
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "infosec"
+        },
+        {
+          "start": 141,
+          "end": 148,
+          "tag": "urldna"
+        },
+        {
+          "start": 149,
+          "end": 154,
+          "tag": "scam"
+        },
+        {
+          "start": 155,
+          "end": 163,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 164,
+          "end": 171,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/6i0W0doRp8",
+          "expanded_url": "https://urldna.io/scan/69d1b4253b775000064ce7a6",
+          "display_url": "urldna.io/scan/69d1b4253…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040640602195271680/N6ZJKdXd?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040640602195271680/N6ZJKdXd?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d1b4253b775000064ce7a6"
+        },
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/nqvfIxBFPV",
+          "expanded_url": "https://x.com/urldna_bot/status/2040640600182079543/photo/1",
+          "display_url": "pic.x.com/nqvfIxBFPV",
+          "media_key": "3_2040640598114226176"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "conversation_id": "2040640600182079543",
+    "edit_history_tweet_ids": [
+      "2040640600182079543"
+    ],
+    "author_id": "1641789500056535042",
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//seznam10098765[.]weebly[.]com\n 🧬 Analysis at: https://t.co/6i0W0doRp8\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/nqvfIxBFPV",
+    "created_at": "2026-04-05T04:00:07.000Z",
+    "cleaned_at": "2026-04-05T15:25:29.679947"
+  },
+  {
+    "id": "2040610402782925033",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 114,
+          "end": 128,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 129,
+          "end": 138,
+          "tag": "phishing"
+        },
+        {
+          "start": 139,
+          "end": 147,
+          "tag": "infosec"
+        },
+        {
+          "start": 148,
+          "end": 155,
+          "tag": "urldna"
+        },
+        {
+          "start": 156,
+          "end": 161,
+          "tag": "scam"
+        },
+        {
+          "start": 162,
+          "end": 170,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 171,
+          "end": 178,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/YYfhPktpHx",
+          "expanded_url": "https://urldna.io/scan/69d19fd53b7750000966d426",
+          "display_url": "urldna.io/scan/69d19fd53…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040610404901048320/mvluG7OL?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040610404901048320/mvluG7OL?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d19fd53b7750000966d426"
+        },
+        {
+          "start": 179,
+          "end": 202,
+          "url": "https://t.co/a6hvqr9NJW",
+          "expanded_url": "https://x.com/urldna_bot/status/2040610402782925033/photo/1",
+          "display_url": "pic.x.com/a6hvqr9NJW",
+          "media_key": "3_2040610400807374848"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "conversation_id": "2040610402782925033",
+    "edit_history_tweet_ids": [
+      "2040610402782925033"
+    ],
+    "author_id": "1641789500056535042",
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//amazon-clone-blue-ten[.]vercel[.]app\n 🧬 Analysis at: https://t.co/YYfhPktpHx\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/a6hvqr9NJW",
+    "created_at": "2026-04-05T02:00:07.000Z",
+    "cleaned_at": "2026-04-05T15:25:29.679947"
+  },
+  {
+    "id": "2040610375054602267",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2213
+    },
+    "conversation_id": "2040610375054602267",
+    "entities": {
+      "urls": [
+        {
+          "start": 103,
+          "end": 126,
+          "url": "https://t.co/xVXyLaGpld",
+          "expanded_url": "https://www.benzinga.com/crypto/26/04/51645176/how-a-crypto-journalist-fell-for-a-sophisticated-north-korean-phishing-attack-giving-me-scam-vibes",
+          "display_url": "benzinga.com/crypto/26/04/5…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040060682331373568/_09-fdFd?format=jpg&name=orig",
+              "width": 1024,
+              "height": 576
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040060682331373568/_09-fdFd?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes'",
+          "description": "In a recent alarming incident, a journalist from Fortune has become the victim of a sophisticated phishing attack, believed to be orchestrated by North Korean hackers.",
+          "unwound_url": "https://www.benzinga.com/crypto/26/04/51645176/how-a-crypto-journalist-fell-for-a-sophisticated-north-korean-phishing-attack-giving-me-scam-vibes"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2040610375054602267"
+    ],
+    "author_id": "44060322",
+    "text": "How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes'\n\nhttps://t.co/xVXyLaGpld",
+    "created_at": "2026-04-05T02:00:00.000Z",
+    "cleaned_at": "2026-04-05T15:25:29.679948"
+  }
+]
