@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "2041409870306693425",
+    "edit_history_tweet_ids": [
+      "2041409870306693425"
+    ],
+    "author_id": "1648638975735894017",
+    "conversation_id": "2041409870306693425",
+    "created_at": "2026-04-07T06:56:55.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 95,
+          "end": 118,
+          "url": "https://t.co/B9Ckjlh5v3",
+          "expanded_url": "https://x.com/qiao62436/status/2041409870306693425/video/1",
+          "display_url": "pic.x.com/B9Ckjlh5v3",
+          "media_key": "13_2041409654086045696"
+        }
+      ]
+    },
+    "text": "反弹越来越弱！比特币正在进入熊市后半段，链上获利了结越来越密集，比特币要进入慢跌模式？Drift被盗，sol暴跌，熊市空它就对了，哪里还能再进场？｜比特币btc行情分析 ｜ sol行情分析 https://t.co/B9Ckjlh5v3",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227187"
+  },
+  {
+    "id": "2041384744886395059",
+    "edit_history_tweet_ids": [
+      "2041384744886395059"
+    ],
+    "author_id": "1596779472304250883",
+    "conversation_id": "2041384744886395059",
+    "created_at": "2026-04-07T05:17:04.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/6u0FQl2go7",
+          "expanded_url": "https://x.com/penn798/status/2041384744886395059/photo/1",
+          "display_url": "pic.x.com/6u0FQl2go7",
+          "media_key": "3_2041384733259767808"
+        },
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/6u0FQl2go7",
+          "expanded_url": "https://x.com/penn798/status/2041384744886395059/photo/1",
+          "display_url": "pic.x.com/6u0FQl2go7",
+          "media_key": "3_2041384733255630848"
+        },
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/zeSat3zkNS",
+          "expanded_url": "https://twitter.com/penn798/status/2041353289980428634",
+          "display_url": "x.com/penn798/status…"
+        }
+      ]
+    },
+    "text": "史上最大加密货币盗窃案：Bybit 被黑 15 亿美元以太坊\n\n据多家媒体报道，此次攻击疑似与朝鲜支持的黑客组织 Lazarus Group（拉撒路集团） 有关。\n\nLazarus Group 是一个神秘的黑客集体，自 2010 https://t.co/6u0FQl2go7 https://t.co/zeSat3zkNS",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 84
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227189"
+  },
+  {
+    "entities": {
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 5,
+          "tag": "U"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "tag": "USDG"
+        }
+      ],
+      "urls": [
+        {
+          "start": 98,
+          "end": 121,
+          "url": "https://t.co/MJ9Sr8IP9t",
+          "expanded_url": "https://x.com/0xhonor/status/2041373351537770539/photo/1",
+          "display_url": "pic.x.com/MJ9Sr8IP9t",
+          "media_key": "3_2041372441545777152"
+        }
+      ]
+    },
+    "id": "2041373351537770539",
+    "edit_history_tweet_ids": [
+      "2041373351537770539"
+    ],
+    "author_id": "1021656533086560256",
+    "conversation_id": "2041373351537770539",
+    "created_at": "2026-04-07T04:31:48.000Z",
+    "text": "币安 $U 理财结束了，出了1000u 生活费\n转okx 买了10000 $USDG 吃4%利息\nusd1好像也要结束了，还有别的搞吗\nsol链上存的被盗，项目方看来是不会赔，熊市远离链上存钱！ https://t.co/MJ9Sr8IP9t",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 40
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227190"
+  },
+  {
+    "id": "2041355965413622055",
+    "edit_history_tweet_ids": [
+      "2041355965413622055"
+    ],
+    "author_id": "2666508841",
+    "conversation_id": "2041355965413622055",
+    "created_at": "2026-04-07T03:22:43.000Z",
+    "text": "汇旺老板被抓，最担心的是用户资料上交吧。很多盗币也都进入汇旺去洗了。",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4413
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227191"
+  },
+  {
+    "id": "2041354309284323553",
+    "edit_history_tweet_ids": [
+      "2041354309284323553"
+    ],
+    "author_id": "1459290729126105089",
+    "conversation_id": "2041326617121984771",
+    "created_at": "2026-04-07T03:16:08.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "MengLayer",
+          "id": "1393129082477453315"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "username": "buidlpad",
+          "id": "1853220749730824192"
+        }
+      ]
+    },
+    "text": "@MengLayer @buidlpad 自己钱包丢了每人赔，放币安被盗他们陪🥹",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 39
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227191"
+  },
+  {
+    "id": "2041244379629994054",
+    "edit_history_tweet_ids": [
+      "2041244379629994054"
+    ],
+    "author_id": "1268175209837654017",
+    "conversation_id": "2041230644043251750",
+    "created_at": "2026-04-06T19:59:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "xiaoqingye1",
+          "id": "1496896846790336518"
+        },
+        {
+          "start": 13,
+          "end": 22,
+          "username": "__Inty__",
+          "id": "1027764083565711360"
+        }
+      ]
+    },
+    "text": "@xiaoqingye1 @__Inty__ 绝对不幼稚，朝鲜官方的黑客组织大量通过面试应聘或者发布招聘信息试图进入加密货币公司，然后盗币，去年bybit被盗14亿美元eth原因就是它使用的钱包服务很混进了朝鲜黑客",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 50
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227192"
+  },
+  {
+    "created_at": "2026-04-07T06:07:24.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/i6QrPfewz8",
+          "expanded_url": "https://x.com/Biikiefacti/status/2041397408349753471/photo/1",
+          "display_url": "pic.x.com/i6QrPfewz8",
+          "media_key": "3_2041397388372250625"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 82,
+          "end": 89,
+          "username": "arkham",
+          "id": "1123403704323805184"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 180,
+          "end": 187,
+          "tag": "arkham"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "edit_history_tweet_ids": [
+      "2041397408349753471"
+    ],
+    "conversation_id": "2041397408349753471",
+    "text": "I dreamed that a crypto company got hacked of $8.5M And the crypto company accuse @arkham of posting their company hodl-ing addy in public. At the end of the whole  dream scenario #arkham drop off the crypto space.\n\n Don't play with my dream ( work with intelligent and smart 🫡). https://t.co/i6QrPfewz8",
+    "id": "2041397408349753471",
+    "author_id": "1901523447210987520",
+    "cleaned_at": "2026-04-07T15:26:58.227192"
+  },
+  {
+    "created_at": "2026-04-07T03:59:15.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "edit_history_tweet_ids": [
+      "2041365158216552742"
+    ],
+    "conversation_id": "2041365158216552742",
+    "text": "______ 👀\n\n- SEC Crypto Safe Harbor Almost \n    Ready\n\n- Metaplanet + Strategy Bought \n   $735M BTC in One Week\n\n- North Korea Hacked Drift \n   Protocol for $285M\n\n- JPMorgan Deployed JPM Coin on      \n   Base Network\n\n- Circle Minted $3.25B USDC on     \n   Solana in 7 Days",
+    "id": "2041365158216552742",
+    "author_id": "2035965573973319680",
+    "cleaned_at": "2026-04-07T15:26:58.227193"
+  },
+  {
+    "created_at": "2026-04-07T03:19:10.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 13047
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "investorMM",
+          "id": "1171221685715886080"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041355074325393837"
+    ],
+    "conversation_id": "2041310307914838458",
+    "text": "@investorMM Bro didn’t get hacked… he literally did a live tutorial on “How to donate your crypto to strangers” 🤡😂😂😂😂🤡",
+    "id": "2041355074325393837",
+    "author_id": "1780973292523786240",
+    "cleaned_at": "2026-04-07T15:26:58.227193"
+  },
+  {
+    "created_at": "2026-04-07T02:42:05.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 288,
+          "end": 311,
+          "url": "https://t.co/tAaaCWFjjf",
+          "expanded_url": "https://x.com/CocoBunniALT/status/2041345739335553163/photo/1",
+          "display_url": "pic.x.com/tAaaCWFjjf",
+          "media_key": "3_2041345737037111296"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "libsoftiktok",
+          "id": "1326229737551912960"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "username": "cass_nguyen_",
+          "id": "408168342"
+        },
+        {
+          "start": 28,
+          "end": 42,
+          "username": "remotelywrite",
+          "id": "1460266628688474116"
+        },
+        {
+          "start": 95,
+          "end": 105,
+          "username": "CocoBunni",
+          "id": "21441652"
+        },
+        {
+          "start": 271,
+          "end": 279,
+          "username": "premium",
+          "id": "1399766153053061121"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 12,
+      "like_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "impression_count": 67
+    },
+    "edit_history_tweet_ids": [
+      "2041345739335553163"
+    ],
+    "conversation_id": "2041273966518546699",
+    "text": "@libsoftiktok @cass_nguyen_ @remotelywrite Same happened to me September, 2025.  My X account (@cocobunni) is now posting as me about crypto wallet tracers since they hacked my account.  I hope Patricia has better luck with support.  X support seems nonexistent even for @premium  users. https://t.co/tAaaCWFjjf",
+    "id": "2041345739335553163",
+    "author_id": "1964732418738597888",
+    "cleaned_at": "2026-04-07T15:26:58.227194"
+  },
+  {
+    "id": "2041412304676221325",
+    "author_id": "335552767",
+    "created_at": "2026-04-07T07:06:35.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "conversation_id": "2041412304676221325",
+    "edit_history_tweet_ids": [
+      "2041412304676221325"
+    ],
+    "text": "🚨 #Breaking\n\nDrift Protocol reveals a massive $280M exploit wasn’t random - it was the result of months of deliberate preparation by attackers.\n\nThis highlights how sophisticated and patient threat actors have become in DeFi. Stay cautious. 🔐\n\n#Crypto #DeFi #Security",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 11,
+          "tag": "Breaking"
+        },
+        {
+          "start": 244,
+          "end": 251,
+          "tag": "Crypto"
+        },
+        {
+          "start": 252,
+          "end": 257,
+          "tag": "DeFi"
+        },
+        {
+          "start": 258,
+          "end": 267,
+          "tag": "Security"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227195"
+  },
+  {
+    "id": "2041405809255383330",
+    "author_id": "2041274792381149184",
+    "created_at": "2026-04-07T06:40:47.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 245,
+          "end": 268,
+          "url": "https://t.co/cZNBFBnIu1",
+          "expanded_url": "https://x.com/blanche10971/status/2041405809255383330/photo/1",
+          "display_url": "pic.x.com/cZNBFBnIu1",
+          "media_key": "3_2041405798379581440"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2041405666993008951",
+    "edit_history_tweet_ids": [
+      "2041405809255383330"
+    ],
+    "text": "6. Security Track Record + Infrastructure Maturity\n\nOne exploit can kill your entire cap table and reputation.\n\nWinners have years of uptime, formal verification, bug bounties that actually pay, and insurance primitives that de-risk user funds. https://t.co/cZNBFBnIu1",
+    "cleaned_at": "2026-04-07T15:26:58.227195"
+  },
+  {
+    "id": "2041385110680076340",
+    "author_id": "1830461274485874690",
+    "created_at": "2026-04-07T05:18:32.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/GsRD4Dx4aM",
+          "expanded_url": "https://x.com/Intelliroot_01/status/2041385110680076340/photo/1",
+          "display_url": "pic.x.com/GsRD4Dx4aM",
+          "media_key": "3_2041385084058841088"
+        },
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/GsRD4Dx4aM",
+          "expanded_url": "https://x.com/Intelliroot_01/status/2041385110680076340/photo/1",
+          "display_url": "pic.x.com/GsRD4Dx4aM",
+          "media_key": "3_2041385084142637056"
+        },
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/GsRD4Dx4aM",
+          "expanded_url": "https://x.com/Intelliroot_01/status/2041385110680076340/photo/1",
+          "display_url": "pic.x.com/GsRD4Dx4aM",
+          "media_key": "3_2041385084092321792"
+        },
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/GsRD4Dx4aM",
+          "expanded_url": "https://x.com/Intelliroot_01/status/2041385110680076340/photo/1",
+          "display_url": "pic.x.com/GsRD4Dx4aM",
+          "media_key": "3_2041385084155310081"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 212,
+          "end": 226,
+          "tag": "CyberSecurity"
+        },
+        {
+          "start": 227,
+          "end": 233,
+          "tag": "BYOVD"
+        },
+        {
+          "start": 234,
+          "end": 251,
+          "tag": "EndpointSecurity"
+        },
+        {
+          "start": 252,
+          "end": 262,
+          "tag": "ZeroTrust"
+        },
+        {
+          "start": 263,
+          "end": 273,
+          "tag": "HumanRisk"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2041385110680076340",
+    "edit_history_tweet_ids": [
+      "2041385110680076340"
+    ],
+    "text": "Not every attack breaks your defenses.\n\nSome use them.\n\nBYOVD attacks exploit trust —\nloading legitimate drivers to disable security from inside.\nIf your security trusts by default,\nyou’ve already lost control.\n\n#CyberSecurity #BYOVD #EndpointSecurity #ZeroTrust #HumanRisk https://t.co/GsRD4Dx4aM",
+    "cleaned_at": "2026-04-07T15:26:58.227196"
+  },
+  {
+    "id": "2041376473798324357",
+    "author_id": "75883265",
+    "created_at": "2026-04-07T04:44:12.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 96,
+          "end": 119,
+          "url": "https://t.co/AHc7QkYGdB",
+          "expanded_url": "https://ift.tt/Ylt6izu",
+          "display_url": "ift.tt/Ylt6izu",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041359996366278656/msqSAZE9?format=jpg&name=orig",
+              "width": 1024,
+              "height": 768
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041359996366278656/msqSAZE9?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Researcher Released Windows Defender 0-Day Exploit Code, Allowing Attackers to Gain Full Access",
+          "description": "A security researcher operating under the alias Chaotic Eclipse (@ChaoticEclipse0) has publicly dropped a working zero-day local privilege escalation (LPE) exploit for Windows, dubbed BlueHammer, along with full proof-of-concept (PoC) source code on GitHub. The disclosure was confirmed by vulnerability researcher Will Dormann, who noted that the exploit works and that Microsoft’s own security response process may have directly […]",
+          "unwound_url": "https://cybersecuritynews.com/windows-defender-0-day-exploit/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 186,
+          "end": 202,
+          "username": "ChaoticEclipse0",
+          "id": "1141758206726803456"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "conversation_id": "2041376473798324357",
+    "edit_history_tweet_ids": [
+      "2041376473798324357"
+    ],
+    "text": "Researcher Released Windows Defender 0-Day Exploit Code, Allowing Attackers to Gain Full Access https://t.co/AHc7QkYGdB \nA security researcher operating under the alias Chaotic Eclipse (@ChaoticEclipse0) has publicly dropped a working zero-day local privilege escalation (LPE) e…",
+    "cleaned_at": "2026-04-07T15:26:58.227196"
+  },
+  {
+    "id": "2041367980232282617",
+    "author_id": "1610487406230396929",
+    "created_at": "2026-04-07T04:10:27.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "conversation_id": "2041367964524638329",
+    "edit_history_tweet_ids": [
+      "2041367980232282617"
+    ],
+    "text": "➤ 4. Major Security Concern (Critical) \n\n→ A large DeFi-related exploit/hack shook market confidence\n→ Losses estimated in hundreds of millions (unconfirmed exact figures vary)\n→ Attack involved long-term planning + social engineering elements",
+    "cleaned_at": "2026-04-07T15:26:58.227197"
+  },
+  {
+    "id": "2041365389578240311",
+    "author_id": "1803490762526507008",
+    "created_at": "2026-04-07T04:00:10.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/RSdKYqiu8Y",
+          "expanded_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3NVX3Y3bDY0UlFCdnFQbG9iMXFiY1huNXZtRG5nalBfSU00QlFmaXI0SUtHYi00aFprS2YxcXJrWFFlSGRtMlVoak9aNEtuQ1hCZUxyalZJak1zOWJjeWJRYjZuZW5lV1VNVkhyMFRUYkNXTk01MmJGaUZ1RFNEelh6c2hSV1JEVVE2TzhuTmRfR01WNW9HamgtbnA5c1gycXlQaUREWEN4QVV5SGJIRVNfQzU3MnhTTDdFcFprUGFwRlRXLURz?oc=5",
+          "display_url": "news.google.com/rss/articles/C…",
+          "unwound_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3NVX3Y3bDY0UlFCdnFQbG9iMXFiY1huNXZtRG5nalBfSU00QlFmaXI0SUtHYi00aFprS2YxcXJrWFFlSGRtMlVoak9aNEtuQ1hCZUxyalZJak1zOWJjeWJRYjZuZW5lV1VNVkhyMFRUYkNXTk01MmJGaUZ1RFNEelh6c2hSV1JEVVE2TzhuTmRfR01WNW9HamgtbnA5c1gycXlQaUREWEN4QVV5SGJIRVNfQzU3MnhTTDdFcFprUGFwRlRXLURz?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 165,
+          "end": 173,
+          "tag": "Trading"
+        },
+        {
+          "start": 174,
+          "end": 181,
+          "tag": "Stocks"
+        },
+        {
+          "start": 182,
+          "end": 190,
+          "tag": "Futures"
+        },
+        {
+          "start": 191,
+          "end": 196,
+          "tag": "Gold"
+        },
+        {
+          "start": 197,
+          "end": 204,
+          "tag": "Silver"
+        },
+        {
+          "start": 205,
+          "end": 213,
+          "tag": "Bitcoin"
+        },
+        {
+          "start": 214,
+          "end": 221,
+          "tag": "Crypto"
+        },
+        {
+          "start": 222,
+          "end": 230,
+          "tag": "Markets"
+        },
+        {
+          "start": 231,
+          "end": 242,
+          "tag": "GuruOnSite"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2041365389578240311",
+    "edit_history_tweet_ids": [
+      "2041365389578240311"
+    ],
+    "text": "Solana Ecosystem Launches Comprehensive Security Initiative Following Major DeFi Exploit - AD HOC NEWS…\nhttps://t.co/RSdKYqiu8Y\n\nLeave us a like and a follow!!! ;)\n\n#Trading #Stocks #Futures #Gold #Silver #Bitcoin #Crypto #Markets #GuruOnSite",
+    "cleaned_at": "2026-04-07T15:26:58.227197"
+  },
+  {
+    "id": "2041365214575165564",
+    "author_id": "69675499",
+    "created_at": "2026-04-07T03:59:28.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "0xErbil",
+          "id": "116993373"
+        },
+        {
+          "start": 9,
+          "end": 20,
+          "username": "SolanaFndn",
+          "id": "1407411848446611459"
+        }
+      ]
+    },
+    "conversation_id": "2041298527100252478",
+    "edit_history_tweet_ids": [
+      "2041365214575165564"
+    ],
+    "text": "@0xErbil @SolanaFndn This matters more than people realize. in DeFi the protocols are all composable which means one exploit cascades through every protocol that integrates with the vulnerable one. \n\nSecurity can't be an afterthought when your contract is a dependency for 30 other protocols.",
+    "cleaned_at": "2026-04-07T15:26:58.227198"
+  },
+  {
+    "id": "2041362389644283906",
+    "author_id": "1647959399707574276",
+    "created_at": "2026-04-07T03:48:15.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/vm6I6vr8No",
+          "expanded_url": "https://cryptosnewss.com/circles-quantum-security-move-comes-as-defi-attacks-exploit-system-flaws/?utm_source=snapi",
+          "display_url": "cryptosnewss.com/circles-quantu…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041362400826314752/Y207_v9R?format=jpg&name=orig",
+              "width": 1200,
+              "height": 700
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041362400826314752/Y207_v9R?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Circle’s Quantum Security Move Comes As DeFi Attacks Exploit System Flaws -",
+          "description": "DeFi security faces $169M losses in Q1 as Circle advances quantum protection, highlighting a shift between immediate risks and future crypto threats.",
+          "unwound_url": "https://cryptosnewss.com/circles-quantum-security-move-comes-as-defi-attacks-exploit-system-flaws/?utm_source=snapi"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "conversation_id": "2041362350712697336",
+    "edit_history_tweet_ids": [
+      "2041362389644283906"
+    ],
+    "text": "【Circle's Quantum Security Move Comes as DeFi Attacks Exploit System Flaws】\n\nhttps://t.co/vm6I6vr8No",
+    "cleaned_at": "2026-04-07T15:26:58.227198"
+  },
+  {
+    "text": "It's live and free:\n\nhttps://t.co/UnHkg5jQJL\n\nNo signup. Works on Solana, Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche, Optimism.\n\n89 checks in 5 seconds. Try it with any token.\n\nIf it saves you from one rug pull, it was worth building.",
+    "conversation_id": "2041410060429967791",
+    "created_at": "2026-04-07T07:06:04.000Z",
+    "author_id": "2041404054706761728",
+    "edit_history_tweet_ids": [
+      "2041412175042904142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 21,
+          "end": 44,
+          "url": "https://t.co/UnHkg5jQJL",
+          "expanded_url": "http://chainlens.fi",
+          "display_url": "chainlens.fi",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040727258088771584/SqBncXgA?format=jpg&name=orig",
+              "width": 1168,
+              "height": 784
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040727258088771584/SqBncXgA?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "ChainLens — 89-Point Token Analysis",
+          "description": "Free crypto token safety scanner. Detect sell restrictions, fake volume, supply concentration. No signup needed.",
+          "unwound_url": "https://chainlens.fi/"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "id": "2041412175042904142",
+    "cleaned_at": "2026-04-07T15:26:58.227199"
+  },
+  {
+    "created_at": "2026-04-07T06:04:39.000Z",
+    "conversation_id": "2041396719687270750",
+    "edit_history_tweet_ids": [
+      "2041396719687270750"
+    ],
+    "text": "I'm not multi ... I changed telegram and the wallet for safety reasons, because my telegram got scam and my wallet got drained a while ago , the wallet has Swap approved Token phishing  , please understand this , all host and admins  thanks 🙏",
+    "id": "2041396719687270750",
+    "author_id": "2041357570137280512",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227199"
+  },
+  {
+    "created_at": "2026-04-07T06:00:07.000Z",
+    "conversation_id": "2041395577686995003",
+    "entities": {
+      "urls": [
+        {
+          "start": 130,
+          "end": 153,
+          "url": "https://t.co/AAcLNNwVN8",
+          "expanded_url": "https://urldna.io/scan/69d473363b77500006fc2049",
+          "display_url": "urldna.io/scan/69d473363…",
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d473363b77500006fc2049"
+        },
+        {
+          "start": 219,
+          "end": 242,
+          "url": "https://t.co/ttTyaCqx6f",
+          "expanded_url": "https://x.com/urldna_bot/status/2041395577686995003/photo/1",
+          "display_url": "pic.x.com/ttTyaCqx6f",
+          "media_key": "3_2041395576013516800"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 154,
+          "end": 168,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 169,
+          "end": 178,
+          "tag": "phishing"
+        },
+        {
+          "start": 179,
+          "end": 187,
+          "tag": "infosec"
+        },
+        {
+          "start": 188,
+          "end": 195,
+          "tag": "urldna"
+        },
+        {
+          "start": 196,
+          "end": 201,
+          "tag": "scam"
+        },
+        {
+          "start": 202,
+          "end": 210,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 211,
+          "end": 218,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041395577686995003"
+    ],
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//aqpouloqik766[.]wpenginepowered[.]com/wp-admin/includes/RZ54Z2/LSK98U2[.]htm\n 🧬 Analysis at: https://t.co/AAcLNNwVN8\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/ttTyaCqx6f",
+    "id": "2041395577686995003",
+    "author_id": "1641789500056535042",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227200"
+  },
+  {
+    "created_at": "2026-04-07T05:50:11.000Z",
+    "conversation_id": "2041393078536429868",
+    "entities": {
+      "urls": [
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/2SyrVyEzw8",
+          "expanded_url": "https://antiscamnews.com/the-civil-guard-warns-of-a-new-scam-if-you-receive-this-message-on-your-mobile-do-not-open-it/",
+          "display_url": "antiscamnews.com/the-civil-guar…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041393127974674432/Y6fXoVut?format=png&name=orig",
+              "width": 808,
+              "height": 632
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041393127974674432/Y6fXoVut?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "The Civil Guard warns of a new scam: if you receive this message on your mobile, do not open it. - AntiScam News",
+          "description": "Police are warning of a new phishing campaign impersonating the Ministry of Health to steal personal and banking information. The […]",
+          "unwound_url": "https://antiscamnews.com/the-civil-guard-warns-of-a-new-scam-if-you-receive-this-message-on-your-mobile-do-not-open-it/"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 164,
+          "end": 169,
+          "tag": "Scam"
+        },
+        {
+          "start": 170,
+          "end": 179,
+          "tag": "Phishing"
+        },
+        {
+          "start": 180,
+          "end": 189,
+          "tag": "Smishing"
+        },
+        {
+          "start": 190,
+          "end": 204,
+          "tag": "DontFallForIt"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041393078536429868"
+    ],
+    "text": "⚠️ The Civil Guard is warning of a new SMS scam impersonating the Ministry of Health.\n\nIf you receive this message, do not click on it.\n\n👉 https://t.co/2SyrVyEzw8\n\n#Scam #Phishing #Smishing #DontFallForIt",
+    "id": "2041393078536429868",
+    "author_id": "2016067805213282304",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227200"
+  },
+  {
+    "created_at": "2026-04-07T05:37:26.000Z",
+    "conversation_id": "2041389870422372745",
+    "entities": {
+      "urls": [
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/kPfL2X6k6i",
+          "expanded_url": "https://x.com/cogninodetechno/status/2041389870422372745/photo/1",
+          "display_url": "pic.x.com/kPfL2X6k6i",
+          "media_key": "3_2041389649386684416"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 141,
+          "end": 155,
+          "tag": "CyberSecurity"
+        },
+        {
+          "start": 156,
+          "end": 168,
+          "tag": "InstaSafety"
+        },
+        {
+          "start": 169,
+          "end": 179,
+          "tag": "ScamAlert"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041389870422372745"
+    ],
+    "text": "Is your Instagram safe?\nAvoid phishing links &amp; scam DMs!\n Don’t click unknown links\n Beware of fake logins\n\n Stay safe. Follow for tips!\n#CyberSecurity #InstaSafety #ScamAlert https://t.co/kPfL2X6k6i",
+    "id": "2041389870422372745",
+    "author_id": "1979848339182239744",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227201"
+  },
+  {
+    "created_at": "2026-04-07T05:28:17.000Z",
+    "conversation_id": "2041387567900402060",
+    "entities": {
+      "urls": [
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/bHGkUAhHLt",
+          "expanded_url": "https://stackumbrella.in/viral-video/s-the-umairi-pakistani-viral-mms-part-2-really-coming-out-find-out-the-truth-otherwise-you-could-face-serious-consequences/",
+          "display_url": "stackumbrella.in/viral-video/s-…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041387572614795264/jsf5IBQY?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041387572614795264/jsf5IBQY?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "क्या सच में आ रहा है Umairi Pakistani Viral MMS Part 2? सच जानिए वरना हो सकता है बड़ा नुकसान",
+          "description": "सोशल मीडिया पर आजकल एक नया हंगामा मचा हुआ है। हर तरफ Umairi Pakistani Viral MMS Part 2 को लेकर",
+          "unwound_url": "https://stackumbrella.in/viral-video/s-the-umairi-pakistani-viral-mms-part-2-really-coming-out-find-out-the-truth-otherwise-you-could-face-serious-consequences/"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 143,
+          "tag": "viralvídeo"
+        },
+        {
+          "start": 145,
+          "end": 149,
+          "tag": "MMS"
+        },
+        {
+          "start": 237,
+          "end": 251,
+          "tag": "UmairiMMSPart"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041387567900402060"
+    ],
+    "text": "क्या Umairi MMS Part 2 सच में लीक हुआ है? जानिए पूरी सच्चाई, fake links और phishing scams से बचने के जरूरी tips।\nUmairi MMS Part 2, #viralvídeo  #MMS truth, Fake MMS link, Viral video scam, Cyber security alert\n\nhttps://t.co/bHGkUAhHLt\n\n#UmairiMMSPart",
+    "id": "2041387567900402060",
+    "author_id": "862613861509115904",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 80
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227202"
+  },
+  {
+    "created_at": "2026-04-07T05:22:58.000Z",
+    "conversation_id": "2041205884429414578",
+    "edit_history_tweet_ids": [
+      "2041386226888876422"
+    ],
+    "text": "@itsAsgherAli ⚠️ SCAM ALERT!\nThis is not Google. Commenting “Gemini ” gets you a DM with a phishing link that steals your Google account.\nDo not engage. Report it!",
+    "id": "2041386226888876422",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "itsAsgherAli",
+          "id": "1727290647026286592"
+        }
+      ]
+    },
+    "author_id": "221834351",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227202"
+  },
+  {
+    "created_at": "2026-04-07T05:17:38.000Z",
+    "conversation_id": "2041329800909070477",
+    "edit_history_tweet_ids": [
+      "2041384887475687624"
+    ],
+    "text": "@tec_safwan @setu_ai_expert ⚠️ SCAM ALERT!\nThis is not Google. Commenting “Send” gets you a DM with a phishing link that steals your Google account.\nDo not engage. Report it!",
+    "id": "2041384887475687624",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "tec_safwan",
+          "id": "2020894476848558080"
+        },
+        {
+          "start": 12,
+          "end": 27,
+          "username": "setu_ai_expert",
+          "id": "1915481787620614144"
+        }
+      ]
+    },
+    "author_id": "221834351",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "cleaned_at": "2026-04-07T15:26:58.227203"
+  }
+]
