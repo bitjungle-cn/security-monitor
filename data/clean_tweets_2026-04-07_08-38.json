@@ -1,0 +1,875 @@
+[
+  {
+    "id": "2041244379629994054",
+    "created_at": "2026-04-06T19:59:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "xiaoqingye1",
+          "id": "1496896846790336518"
+        },
+        {
+          "start": 13,
+          "end": 22,
+          "username": "__Inty__",
+          "id": "1027764083565711360"
+        }
+      ]
+    },
+    "author_id": "1268175209837654017",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 45
+    },
+    "text": "@xiaoqingye1 @__Inty__ 绝对不幼稚，朝鲜官方的黑客组织大量通过面试应聘或者发布招聘信息试图进入加密货币公司，然后盗币，去年bybit被盗14亿美元eth原因就是它使用的钱包服务很混进了朝鲜黑客",
+    "edit_history_tweet_ids": [
+      "2041244379629994054"
+    ],
+    "conversation_id": "2041230644043251750",
+    "cleaned_at": "2026-04-07T08:39:21.421789"
+  },
+  {
+    "id": "2041142881625526357",
+    "created_at": "2026-04-06T13:16:00.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 33,
+          "end": 42,
+          "username": "0xinfini",
+          "id": "1802594504157106176"
+        },
+        {
+          "start": 110,
+          "end": 123,
+          "username": "Christianeth",
+          "id": "1462957339300925443"
+        }
+      ],
+      "urls": [
+        {
+          "start": 156,
+          "end": 179,
+          "url": "https://t.co/gpQ49F4MXX",
+          "expanded_url": "https://x.com/BroLeon/status/2041142881625526357/photo/1",
+          "display_url": "pic.x.com/gpQ49F4MXX",
+          "media_key": "3_2041127479172308992"
+        },
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/7bjJsH26nb",
+          "expanded_url": "https://twitter.com/Christianeth/status/2041096725159674098",
+          "display_url": "x.com/Christianeth/s…"
+        }
+      ]
+    },
+    "author_id": "1362967156825018369",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 12,
+      "like_count": 26,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "impression_count": 23288
+    },
+    "text": "李爹还是你李爹，当时说不卖还真的没卖，7M也是洒洒水了，毕竟之前 @0xinfini 被盗50M李爹也第一时间就拿自己钱垫付了，说有钱有格局的币圈人这得算一号。\n\n对比起来这个在NFT巅峰把肾卖了买猴子BAYC的哥们， @Christianeth 应该就好受多了，毕竟钱没了还能再挣，肾没了就长不出来了。😂😂😂 https://t.co/gpQ49F4MXX https://t.co/7bjJsH26nb",
+    "edit_history_tweet_ids": [
+      "2041142881625526357"
+    ],
+    "conversation_id": "2041142881625526357",
+    "cleaned_at": "2026-04-07T08:39:21.421792"
+  },
+  {
+    "id": "2041106921659535682",
+    "created_at": "2026-04-06T10:53:06.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "wherecall1",
+          "id": "952885315890503680"
+        }
+      ]
+    },
+    "author_id": "1472890646164049923",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "text": "@wherecall1 这只是项目方的一面之词，毕竟被盗两天后他们还在往交易平台存币出货，真假无法判断。只能说现在还是不要碰 DeFi 了，除非你去做相关的交易，想通过吃利息赚钱还是最好谨慎",
+    "edit_history_tweet_ids": [
+      "2041106921659535682"
+    ],
+    "conversation_id": "2040637207246225803",
+    "cleaned_at": "2026-04-07T08:39:21.421793"
+  },
+  {
+    "id": "2041087048854172084",
+    "created_at": "2026-04-06T09:34:08.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 193,
+          "end": 216,
+          "url": "https://t.co/X33RPiHeao",
+          "expanded_url": "https://x.com/0xquqi/status/2041087048854172084/video/1",
+          "display_url": "pic.x.com/X33RPiHeao",
+          "media_key": "13_2041086791823007744"
+        }
+      ]
+    },
+    "author_id": "1584151627933458432",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 847
+    },
+    "text": "2026.4.5加密日报\n1️⃣Drift被盗指向朝鲜Lazarus\n2️⃣ETH Q1交易2亿笔创新高\n3️⃣美伊升级48小时通牒\n4️⃣非农超预期BTC无感\n5️⃣Bieber买BAYC亏99%\n6️⃣疑似Bitmine提4万ETH\n7️⃣ETH大户亏189万止损\n8️⃣做市商内幕十死无生\n9️⃣币安TradeFi山寨季没了\n🔟特朗普住院谣言白宫辟谣\n更多内容点击下方视频观看👇 https://t.co/X33RPiHeao",
+    "edit_history_tweet_ids": [
+      "2041087048854172084"
+    ],
+    "conversation_id": "2041087048854172084",
+    "cleaned_at": "2026-04-07T08:39:21.421794"
+  },
+  {
+    "conversation_id": "2040064675107274934",
+    "edit_history_tweet_ids": [
+      "2041311773588922390"
+    ],
+    "author_id": "4071660166",
+    "id": "2041311773588922390",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 15
+    },
+    "created_at": "2026-04-07T00:27:07.000Z",
+    "text": "@ArkkDaily No, no, and no. #bitcoin will eventually go to zero or very close to it.\n\nPossible catalysts are (to name a few). \n1. Someone comes up with a better crypto currency: let’s call it Bitcoin Supreme.\n2. Bitcoin gets hacked.\n3. Bitcoin mining gets banned by most legitimate",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "ArkkDaily",
+          "id": "1309949778197962752"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 27,
+          "end": 35,
+          "tag": "bitcoin"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-07T08:39:21.421794"
+  },
+  {
+    "conversation_id": "2041047402262798675",
+    "edit_history_tweet_ids": [
+      "2041304746905186520"
+    ],
+    "author_id": "223036467",
+    "id": "2041304746905186520",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "created_at": "2026-04-06T23:59:11.000Z",
+    "text": "@Synk556 @PeterCronau Top secret crypto gear..lol mining for Bitcoin huh or did you mean encryption equipment..which has already been hacked and decoded...",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "Synk556",
+          "id": "80677065"
+        },
+        {
+          "start": 9,
+          "end": 21,
+          "username": "PeterCronau",
+          "id": "2177191430"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-07T08:39:21.421795"
+  },
+  {
+    "conversation_id": "2041304699257627018",
+    "entities": {
+      "urls": [
+        {
+          "start": 135,
+          "end": 158,
+          "url": "https://t.co/GJxUqPvwJL",
+          "expanded_url": "https://x.com/Monoball02/status/2041304699257627018/photo/1",
+          "display_url": "pic.x.com/GJxUqPvwJL",
+          "media_key": "3_2041304696791449600"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041304699257627018"
+    ],
+    "author_id": "2017280998099013632",
+    "id": "2041304699257627018",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "created_at": "2026-04-06T23:59:00.000Z",
+    "text": "Some absolute cornball hacked into my account and posted some crypto bullshit \nI changed my password and stuff let's see if that works https://t.co/GJxUqPvwJL",
+    "cleaned_at": "2026-04-07T08:39:21.421796"
+  },
+  {
+    "conversation_id": "2041302692664893941",
+    "entities": {
+      "urls": [
+        {
+          "start": 287,
+          "end": 310,
+          "url": "https://t.co/FHJ4jMUzHo",
+          "expanded_url": "https://twitter.com/kamiyoai/status/2041190429148754356",
+          "display_url": "x.com/kamiyoai/statu…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2041302692664893941"
+    ],
+    "author_id": "1873344001232998400",
+    "id": "2041302692664893941",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 5,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 89
+    },
+    "created_at": "2026-04-06T23:51:02.000Z",
+    "text": "5 real-world use cases for KAMIYO Reality Fork:\n\n1. Crypto Governance &amp; Incident Response\nBridge hacked? Upload on-chain evidence + reports. Simulate backlash vs fixes vs status quo. Publish the winner (\"rollback has 79% projected support\") anchored forever. DAOs &amp; users verify https://t.co/FHJ4jMUzHo",
+    "cleaned_at": "2026-04-07T08:39:21.421797"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/3RGhYYeMiO",
+          "expanded_url": "https://x.com/blocsys/status/2041312505730080897/photo/1",
+          "display_url": "pic.x.com/3RGhYYeMiO",
+          "media_key": "3_2041312502324342784"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 19,
+          "end": 33,
+          "username": "DriftProtocol",
+          "id": "1395713029593989121"
+        },
+        {
+          "start": 86,
+          "end": 93,
+          "username": "solana",
+          "id": "951329744804392960"
+        }
+      ]
+    },
+    "author_id": "1476844124028375042",
+    "text": "$285M drained from @DriftProtocol in one of the most devastating DeFi exploits to hit @solana — and the full aftermath is a masterclass in why security architecture must matter more than TVL growth.\n\nHowever, let's not simply mourn the loss. Every major exploit in DeFi history https://t.co/3RGhYYeMiO",
+    "edit_history_tweet_ids": [
+      "2041312505730080897"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "conversation_id": "2041312505730080897",
+    "id": "2041312505730080897",
+    "created_at": "2026-04-07T00:30:01.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421797"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 220,
+          "end": 243,
+          "url": "https://t.co/FxPFCDmtVc",
+          "expanded_url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response",
+          "display_url": "cointelegraph.com/news/drift-280…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2039647505449615360/iiXXqgaV?format=jpg&name=orig",
+              "width": 1200,
+              "height": 799
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2039647505449615360/iiXXqgaV?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Drift Says Nonce Attack Drove Exploit as Circle Faces USDC Scrutiny",
+          "description": "Drift Protocol confirmed a $280 million exploit involving Solana’s durable nonce feature as critics questioned Circle’s response to moving USDC funds.",
+          "unwound_url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 244,
+          "end": 249,
+          "tag": "DeFi"
+        },
+        {
+          "start": 250,
+          "end": 255,
+          "tag": "Web3"
+        }
+      ]
+    },
+    "author_id": "2029407377582407680",
+    "text": "⚠️ Drift Protocol lost $280M to a Solana \"durable nonce\" exploit. Stolen USDC moved cross-chain for hours with no issuer freeze — exposing critical gaps in DeFi security. At OSY, we build with security-first principles. https://t.co/FxPFCDmtVc #DeFi #Web3",
+    "edit_history_tweet_ids": [
+      "2041307795023388926"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "conversation_id": "2041307795023388926",
+    "id": "2041307795023388926",
+    "created_at": "2026-04-07T00:11:18.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421798"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 228,
+          "end": 251,
+          "url": "https://t.co/M6mIwqCJnP",
+          "expanded_url": "https://x.com/g_montigo/status/2041300304671437033/photo/1",
+          "display_url": "pic.x.com/M6mIwqCJnP",
+          "media_key": "3_2041300296354398208"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 165,
+          "end": 170,
+          "tag": "DeFi"
+        },
+        {
+          "start": 171,
+          "end": 184,
+          "tag": "Web3Security"
+        },
+        {
+          "start": 185,
+          "end": 196,
+          "tag": "Blockchain"
+        },
+        {
+          "start": 197,
+          "end": 212,
+          "tag": "CryptoSecurity"
+        },
+        {
+          "start": 213,
+          "end": 221,
+          "tag": "Onchain"
+        },
+        {
+          "start": 222,
+          "end": 227,
+          "tag": "Hack"
+        }
+      ]
+    },
+    "author_id": "1351306703606837248",
+    "text": "People in the industry are focused;\n\non this because each exploit pushes demand for better security, onchain monitoring, admin controls, and safer protocol design.\n\n#DeFi #Web3Security #Blockchain #CryptoSecurity #Onchain #Hack https://t.co/M6mIwqCJnP",
+    "edit_history_tweet_ids": [
+      "2041300304671437033"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "conversation_id": "2041299911195427318",
+    "id": "2041300304671437033",
+    "created_at": "2026-04-06T23:41:32.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421799"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/yeismB6Tg4",
+          "expanded_url": "https://x.com/g_montigo/status/2041299911195427318/photo/1",
+          "display_url": "pic.x.com/yeismB6Tg4",
+          "media_key": "3_2041299902710284288"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 245,
+          "end": 250,
+          "tag": "DeFi"
+        },
+        {
+          "start": 251,
+          "end": 264,
+          "tag": "Web3Security"
+        },
+        {
+          "start": 265,
+          "end": 276,
+          "tag": "Blockchain"
+        }
+      ]
+    },
+    "author_id": "1351306703606837248",
+    "text": "🚨 Every new DeFi exploit is forcing Web3 to grow up fast. Security is becoming the real narrative.\n\nRecent incidents across DeFi, including major exploits and governance attacks, show how quickly hidden risk can hit even well-known protocols.\n\n #DeFi #Web3Security #Blockchain https://t.co/yeismB6Tg4",
+    "edit_history_tweet_ids": [
+      "2041299911195427318"
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 15
+    },
+    "conversation_id": "2041299911195427318",
+    "id": "2041299911195427318",
+    "created_at": "2026-04-06T23:39:59.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421800"
+  },
+  {
+    "author_id": "1912834771409104896",
+    "entities": {
+      "cashtags": [
+        {
+          "start": 0,
+          "end": 7,
+          "tag": "crypto"
+        },
+        {
+          "start": 8,
+          "end": 15,
+          "tag": "SOLUSD"
+        }
+      ]
+    },
+    "text": "$crypto $SOLUSD\n\nSolana Foundation launches STRIDE security program following $286 million Drift Protocol exploit",
+    "edit_history_tweet_ids": [
+      "2041298091140419792"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "conversation_id": "2041298091140419792",
+    "id": "2041298091140419792",
+    "created_at": "2026-04-06T23:32:45.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421800"
+  },
+  {
+    "author_id": "1943342145047531521",
+    "text": "@UKDecline See what you can do about extra security protocols. Since this appears to be a vibecoded dashboard our adversaries will be trying to exploit anything they can. Great work",
+    "edit_history_tweet_ids": [
+      "2041292005666390157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "UKDecline",
+          "id": "2038303922310266880"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 107
+    },
+    "conversation_id": "2041243032217850367",
+    "id": "2041292005666390157",
+    "created_at": "2026-04-06T23:08:34.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421801"
+  },
+  {
+    "author_id": "2037212880626421761",
+    "text": "@OnchainLens @DriftProtocol 6 months of social engineering. In-person meetings across countries. $1M deposited as cover. A malicious TestFlight app and a VS Code exploit.\nThis wasn’t a hack. This was an intelligence operation with a higher budget than most protocols spend on security annually.\nIf your",
+    "edit_history_tweet_ids": [
+      "2041280983576514702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "OnchainLens",
+          "id": "1800705784789307392"
+        },
+        {
+          "start": 13,
+          "end": 27,
+          "username": "DriftProtocol",
+          "id": "1395713029593989121"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 35
+    },
+    "conversation_id": "2040682079860805697",
+    "id": "2041280983576514702",
+    "created_at": "2026-04-06T22:24:46.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421802"
+  },
+  {
+    "author_id": "1144812353294393344",
+    "text": "@LCorejz @reflectmoney We deeply regret the loss of your positions due to the recent Drift Protocol security exploit. A formal reimbursement plan has been established for all affected users. Please DM me for direct assistance and the next steps towards reimbursement.",
+    "edit_history_tweet_ids": [
+      "2041276916708073510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "LCorejz",
+          "id": "1431763318402961416"
+        },
+        {
+          "start": 9,
+          "end": 22,
+          "username": "reflectmoney",
+          "id": "1586791639623901185"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "conversation_id": "2041253528337858692",
+    "id": "2041276916708073510",
+    "created_at": "2026-04-06T22:08:36.000Z",
+    "cleaned_at": "2026-04-07T08:39:21.421802"
+  },
+  {
+    "id": "2041308175367025087",
+    "author_id": "907396553505103872",
+    "created_at": "2026-04-07T00:12:49.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Goupenguin",
+          "id": "1442846065473032198"
+        }
+      ]
+    },
+    "conversation_id": "2041098499358601610",
+    "edit_history_tweet_ids": [
+      "2041308175367025087"
+    ],
+    "text": "@Goupenguin 哥，我要是有那么多钱被人盗，爆仓我也愿意",
+    "cleaned_at": "2026-04-07T08:39:21.421803"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "BSCNews",
+          "id": "1323762343302615040"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 36,
+          "end": 42,
+          "tag": "LIBRA"
+        }
+      ]
+    },
+    "conversation_id": "2041248946408874125",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 36
+    },
+    "author_id": "2002232766604455936",
+    "text": "@BSCNews From $4.5B to zero. 📉 This $LIBRA rug pull is a brutal reminder: when the hype is purely political and liquidity is thin, the forecast is always a crash. 114k wallets wiped out by a calculated exit scam. ⚖️💀",
+    "created_at": "2026-04-07T00:00:38.000Z",
+    "edit_history_tweet_ids": [
+      "2041305110437912909"
+    ],
+    "id": "2041305110437912909",
+    "cleaned_at": "2026-04-07T08:39:21.421804"
+  },
+  {
+    "id": "2041312686735253771",
+    "created_at": "2026-04-07T00:30:44.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "chakidbest29",
+          "id": "810084617336324096"
+        }
+      ]
+    },
+    "author_id": "2009208165498540032",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "text": "@chakidbest29 what's going on with this guy's money clai,, is he serious about the house but it sounds like a phishing scam to me",
+    "edit_history_tweet_ids": [
+      "2041312686735253771"
+    ],
+    "conversation_id": "2041233447713116472",
+    "cleaned_at": "2026-04-07T08:39:21.421804"
+  },
+  {
+    "id": "2041309806540304730",
+    "created_at": "2026-04-07T00:19:18.000Z",
+    "author_id": "39002335",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 10,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 201
+    },
+    "text": "Twitter has been getting rid of thousands of accounts - and yet my DMs are still full of scammers sending the 'vote for me' phishing scam and the BitCoinBots that post the same message a thousand times an hour.",
+    "edit_history_tweet_ids": [
+      "2041309806540304730"
+    ],
+    "conversation_id": "2041309806540304730",
+    "cleaned_at": "2026-04-07T08:39:21.421805"
+  },
+  {
+    "id": "2041304993416815068",
+    "created_at": "2026-04-07T00:00:10.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 171,
+          "end": 178,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/9ZLz5ILgCn",
+          "expanded_url": "https://urldna.io/scan/69d3e6933b77500007ee36dd",
+          "display_url": "urldna.io/scan/69d3e6933…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041305036769153024/y-Rzhmp4?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041305036769153024/y-Rzhmp4?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d3e6933b77500007ee36dd"
+        },
+        {
+          "start": 179,
+          "end": 202,
+          "url": "https://t.co/iHmFoJBQiO",
+          "expanded_url": "https://x.com/urldna_bot/status/2041304993416815068/photo/1",
+          "display_url": "pic.x.com/iHmFoJBQiO",
+          "media_key": "3_2041304991416344576"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 114,
+          "end": 128,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 129,
+          "end": 138,
+          "tag": "phishing"
+        },
+        {
+          "start": 139,
+          "end": 147,
+          "tag": "infosec"
+        },
+        {
+          "start": 148,
+          "end": 155,
+          "tag": "urldna"
+        },
+        {
+          "start": 156,
+          "end": 161,
+          "tag": "scam"
+        },
+        {
+          "start": 162,
+          "end": 170,
+          "tag": "infosec"
+        }
+      ]
+    },
+    "author_id": "1641789500056535042",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxp[:]//amazon-clone-taupe-ten[.]vercel[.]app\n 🧬 Analysis at: https://t.co/9ZLz5ILgCn\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/iHmFoJBQiO",
+    "edit_history_tweet_ids": [
+      "2041304993416815068"
+    ],
+    "conversation_id": "2041304993416815068",
+    "cleaned_at": "2026-04-07T08:39:21.421806"
+  },
+  {
+    "id": "2041301578661896416",
+    "created_at": "2026-04-06T23:46:36.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "CoachTonySkinn",
+          "id": "2386291239"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "username": "keylamariaxx",
+          "id": "178074070"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "username": "X",
+          "id": "783214"
+        }
+      ]
+    },
+    "author_id": "1623347188116996096",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "text": "@CoachTonySkinn @keylamariaxx You’re the third coach I know hacked by this same phishing scam. Hey @x, anything yall can do about this? (Anyone else reading this…NEVER click links people DM you on here, even if it’s from a friend)",
+    "edit_history_tweet_ids": [
+      "2041301578661896416"
+    ],
+    "conversation_id": "2041300182424277284",
+    "cleaned_at": "2026-04-07T08:39:21.421807"
+  }
+]
