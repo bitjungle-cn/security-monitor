@@ -1,0 +1,2788 @@
+[
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 72,
+          "end": 95,
+          "url": "https://t.co/26Nzt9W9J0",
+          "expanded_url": "https://x.com/monkeyd_long/status/2041772171996099003/photo/1",
+          "display_url": "pic.x.com/26Nzt9W9J0",
+          "media_key": "3_2041771825169100800"
+        }
+      ]
+    },
+    "author_id": "1170963765283549184",
+    "edit_history_tweet_ids": [
+      "2041772171996099003"
+    ],
+    "text": "币安2019年被盗了7000枚比特币，当时价值4000万美金\n\ncz在他的书中透露，其怀疑是朝鲜的拉撒路集团干的，同时有内部员工可能被贿赂了。 https://t.co/26Nzt9W9J0",
+    "id": "2041772171996099003",
+    "conversation_id": "2041772171996099003",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "created_at": "2026-04-08T06:56:34.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758188"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 153,
+          "end": 176,
+          "url": "https://t.co/ubO8a5L7U1",
+          "expanded_url": "https://x.com/0CryptoZero/status/2041767011718721644/photo/1",
+          "display_url": "pic.x.com/ubO8a5L7U1",
+          "media_key": "3_2041765668073435141"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 90,
+          "end": 101,
+          "username": "cz_binance",
+          "id": "902926941413453824"
+        }
+      ]
+    },
+    "author_id": "1454092793341628420",
+    "edit_history_tweet_ids": [
+      "2041767011718721644"
+    ],
+    "text": "当时 binance 被盗 7000枚比特币的时候，比起 7000 btc 的被盗，当时争议最大就是要回滚这事了，因为动摇了区块链不可篡改的特性，有违共识！\n\n从回忆录来看，当时 @cz_binance 应该是在情急之下的，没有研究太细的表态。\n\n虽然回滚很难达成矿工共识，成功的可能性不大，但多亏 CZ https://t.co/ubO8a5L7U1",
+    "id": "2041767011718721644",
+    "conversation_id": "2041767011718721644",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 189
+    },
+    "created_at": "2026-04-08T06:36:04.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758190"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 180,
+          "end": 203,
+          "url": "https://t.co/ONHgkGs58k",
+          "expanded_url": "https://x.com/TechFlowPost/status/2041766379280593133/video/1",
+          "display_url": "pic.x.com/ONHgkGs58k",
+          "media_key": "13_2041765990690910208"
+        }
+      ]
+    },
+    "author_id": "1050570534860156928",
+    "edit_history_tweet_ids": [
+      "2041766379280593133"
+    ],
+    "text": "近期币圈黑客事件接连不断：Resolve 被盗 8000 万美元、Drift 被控制 2.71 亿美元。\n\n朝鲜黑客再次进入公众视野，圈内流传着一种“朝鲜 DPRK litmus test”：让候选人骂“金正恩是大肥猪”，多数朝鲜黑客会支支吾吾黑屏下线。\n\n在最新一期《Galaxy Grid》中，Galaxy Research 团队谈论黑客事件及 Defi https://t.co/ONHgkGs58k",
+    "id": "2041766379280593133",
+    "conversation_id": "2041766379280593133",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1121
+    },
+    "created_at": "2026-04-08T06:33:33.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758191"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 126,
+          "end": 149,
+          "url": "https://t.co/yN1fJwzxxj",
+          "expanded_url": "https://x.com/gigiz_eth/status/2041760469028106456/photo/1",
+          "display_url": "pic.x.com/yN1fJwzxxj",
+          "media_key": "3_2041757055967752194"
+        },
+        {
+          "start": 150,
+          "end": 173,
+          "url": "https://t.co/ZIoTrZkMix",
+          "expanded_url": "https://twitter.com/cz_binance/status/2041687406802284699",
+          "display_url": "x.com/cz_binance/sta…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 14,
+          "end": 25,
+          "username": "cz_binance",
+          "id": "902926941413453824"
+        }
+      ]
+    },
+    "author_id": "1523571004294852608",
+    "edit_history_tweet_ids": [
+      "2041760469028106456"
+    ],
+    "text": "币圈今天最热的话题，莫过于 @cz_binance 的自传《币安人生》《Freedom of Money》全球同步开卖了\n\n书一上线，各大媒体就刷屏式放出摘录，从童年手压水泵到FTX内幕、7000枚BTC被盗，再到迪拜12小时拿黄金签证…全网都在聊… https://t.co/yN1fJwzxxj https://t.co/ZIoTrZkMix",
+    "id": "2041760469028106456",
+    "conversation_id": "2041760469028106456",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 2563
+    },
+    "created_at": "2026-04-08T06:10:04.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758191"
+  },
+  {
+    "author_id": "1624286098737483778",
+    "edit_history_tweet_ids": [
+      "2041734832766775736"
+    ],
+    "text": "🔥CZ新书披露2019年币安被盗7000枚比特币细节，曾考虑分叉比特币",
+    "id": "2041734832766775736",
+    "conversation_id": "2041734832766775736",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 128
+    },
+    "created_at": "2026-04-08T04:28:12.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758192"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 49,
+          "end": 72,
+          "url": "https://t.co/FGIdypX70e",
+          "expanded_url": "https://twitter.com/xuxiaopengmint/status/2041709056134672685",
+          "display_url": "x.com/xuxiaopengmint…"
+        }
+      ]
+    },
+    "author_id": "1403881130802225152",
+    "edit_history_tweet_ids": [
+      "2041725042229440663"
+    ],
+    "text": "如果aave出现被盗或协议漏洞，几百亿美元的tvl会在币圈兴起巨大灾难，可能比ftx暴雷还要恐怖 https://t.co/FGIdypX70e",
+    "id": "2041725042229440663",
+    "conversation_id": "2041725042229440663",
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 6,
+      "like_count": 25,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "impression_count": 15990
+    },
+    "created_at": "2026-04-08T03:49:18.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758193"
+  },
+  {
+    "author_id": "1961009037040144384",
+    "edit_history_tweet_ids": [
+      "2041705442016161828"
+    ],
+    "text": "@jinwang69489102 @CaoZhuozhuo 可能号被炒币的看上了 塔塔的老号就被盗了",
+    "id": "2041705442016161828",
+    "conversation_id": "2041678153014505971",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "jinwang69489102",
+          "id": "1746527586912735232"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "username": "CaoZhuozhuo",
+          "id": "1247705519566905344"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 15
+    },
+    "created_at": "2026-04-08T02:31:25.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758193"
+  },
+  {
+    "author_id": "1590049932420866048",
+    "edit_history_tweet_ids": [
+      "2041676551541207281"
+    ],
+    "text": "@cz_binance @monkeyjiang 表哥。我们买书的钱被盗了还没拿回来。昨晚four又把我们搞二次貔恘了。一个币搞2次貔恘，都成貔恘王子了",
+    "id": "2041676551541207281",
+    "conversation_id": "2041444581577806121",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "cz_binance",
+          "id": "902926941413453824"
+        },
+        {
+          "start": 12,
+          "end": 24,
+          "username": "monkeyjiang",
+          "id": "1954166149"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 17
+    },
+    "created_at": "2026-04-08T00:36:37.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758194"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 149,
+          "end": 172,
+          "url": "https://t.co/uq1jey3pqV",
+          "expanded_url": "https://x.com/AsiaStock/status/2041666893434777962/video/1",
+          "display_url": "pic.x.com/uq1jey3pqV",
+          "media_key": "13_2041666798169550852"
+        }
+      ]
+    },
+    "author_id": "1747183298726838272",
+    "edit_history_tweet_ids": [
+      "2041666893434777962"
+    ],
+    "text": "2025年2月，新加坡加密货币交易所Bybit被盗，约15亿美元的以太坊被转走。这被认为是历史上规模最大的加密货币盗窃案。随后有人声称，一名朝鲜间谍以员工身份渗透进了公司。那么我们该如何防止这种事情再次发生呢？很简单——在每一次面试中，都让求职者说一句：“金正恩是个又胖又丑的猪。”说不出来就肯定 https://t.co/uq1jey3pqV",
+    "id": "2041666893434777962",
+    "conversation_id": "2041666893434777962",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "impression_count": 1025
+    },
+    "created_at": "2026-04-07T23:58:14.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758194"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 107,
+          "end": 130,
+          "url": "https://t.co/UIBhoApd1u",
+          "expanded_url": "https://x.com/Xiaofuyuanfu/status/2041641949434933582/photo/1",
+          "display_url": "pic.x.com/UIBhoApd1u",
+          "media_key": "3_2041641714574913536"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "DrChengdiaoFan",
+          "id": "1796382281898065920"
+        }
+      ]
+    },
+    "author_id": "1579250128732536834",
+    "edit_history_tweet_ids": [
+      "2041641949434933582"
+    ],
+    "text": "@DrChengdiaoFan 激活的钱包里面的币被盗了，被转到以下地址\nMALYJFJ5SVD45FBWN2GT4IW67SEZ3IBOFSBSPUFCWV427NBNLG3PWAAAAAAAABBR3FH3Y https://t.co/UIBhoApd1u",
+    "id": "2041641949434933582",
+    "conversation_id": "2041522793985294473",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "created_at": "2026-04-07T22:19:07.000Z",
+    "cleaned_at": "2026-04-08T15:01:14.758195"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 4,
+      "reply_count": 18,
+      "like_count": 20,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 71
+    },
+    "created_at": "2026-04-08T06:37:51.000Z",
+    "conversation_id": "2041767462145028210",
+    "author_id": "1620770485423460352",
+    "entities": {
+      "mentions": [
+        {
+          "start": 217,
+          "end": 229,
+          "username": "quipnetwork",
+          "id": "1881421472981303296"
+        }
+      ],
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/Kncax6yVsm",
+          "expanded_url": "https://x.com/BJauhi/status/2041767462145028210/photo/1",
+          "display_url": "pic.x.com/Kncax6yVsm",
+          "media_key": "3_2041767343190384640"
+        }
+      ]
+    },
+    "text": "Good Morning Legends 🌅\n\nImagine that in 5–10 years, all your crypto wallets could be hacked in seconds by a quantum computer.\n\nBut there's one project building a bridge to keep us from being left behind.\n\nIt's called @quipnetwork \n\nThis explanation might be a bit long because https://t.co/Kncax6yVsm",
+    "id": "2041767462145028210",
+    "edit_history_tweet_ids": [
+      "2041767462145028210"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758196"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 9,
+          "tag": "Hacked"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "tag": "Malware"
+        },
+        {
+          "start": 19,
+          "end": 27,
+          "tag": "Spyware"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "tag": "Zerodays"
+        },
+        {
+          "start": 38,
+          "end": 49,
+          "tag": "Ransomware"
+        },
+        {
+          "start": 50,
+          "end": 59,
+          "tag": "Phishing"
+        },
+        {
+          "start": 60,
+          "end": 69,
+          "tag": "Backdoor"
+        },
+        {
+          "start": 70,
+          "end": 74,
+          "tag": "RCE"
+        },
+        {
+          "start": 75,
+          "end": 79,
+          "tag": "RAT"
+        },
+        {
+          "start": 87,
+          "end": 94,
+          "tag": "Crypto"
+        },
+        {
+          "start": 95,
+          "end": 103,
+          "tag": "Bitcoin"
+        },
+        {
+          "start": 104,
+          "end": 117,
+          "tag": "CryptoMining"
+        },
+        {
+          "start": 118,
+          "end": 131,
+          "tag": "DigitalCoins"
+        }
+      ],
+      "urls": [
+        {
+          "start": 217,
+          "end": 240,
+          "url": "https://t.co/zHGmAS8S5L",
+          "expanded_url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+          "display_url": "thehackernews.com/2026/04/over-1…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041499576558030848/7lvEKHZ8?format=jpg&name=orig",
+              "width": 900,
+              "height": 470
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041499576558030848/7lvEKHZ8?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+          "description": "Over 1,000 exposed ComfyUI instances exploited via unauthenticated code execution, enabling Monero mining and botnet expansion.",
+          "unwound_url": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "created_at": "2026-04-08T05:27:34.000Z",
+    "conversation_id": "2041749774383378932",
+    "author_id": "1570852730",
+    "text": "• #Hacked #Malware #Spyware #Zerodays #Ransomware #Phishing #Backdoor #RCE #RAT ☠️ •\n• #Crypto #Bitcoin #CryptoMining #DigitalCoins 🪙 •\n\n» Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign https://t.co/zHGmAS8S5L",
+    "id": "2041749774383378932",
+    "edit_history_tweet_ids": [
+      "2041749774383378932"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758196"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 151,
+          "end": 158,
+          "tag": "israel"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "ivipostingstuff",
+          "id": "1775722689237319680"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "username": "cesarinton1",
+          "id": "838877613837934593"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "created_at": "2026-04-08T05:25:25.000Z",
+    "conversation_id": "2041570998386893047",
+    "author_id": "1674340755685670912",
+    "text": "@ivipostingstuff @cesarinton1 Need a sugar daddy &amp; babysitter.\nLost crypto wallet, facebook account hacked, twitter account hacked. Discord hacked #israel mossad agent help teacher need assistance bitcoin wallet etherium hack stolen money instagram account recovery",
+    "id": "2041749231975985619",
+    "edit_history_tweet_ids": [
+      "2041749231975985619"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758197"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "created_at": "2026-04-08T05:14:00.000Z",
+    "conversation_id": "2041746360492552557",
+    "author_id": "2033689979038404610",
+    "text": "My laptop's been hacked by a group of rogue crypto kitties Now my code is filled with catnip and banana peels",
+    "id": "2041746360492552557",
+    "edit_history_tweet_ids": [
+      "2041746360492552557"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758197"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "created_at": "2026-04-08T04:36:40.000Z",
+    "conversation_id": "2041421215575990394",
+    "author_id": "862306232895516678",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "tony_tress",
+          "id": "2613707247"
+        },
+        {
+          "start": 12,
+          "end": 26,
+          "username": "saif_aldareei",
+          "id": "1070240754"
+        }
+      ]
+    },
+    "text": "@tony_tress @saif_aldareei Nah, big whales are manipulating Bitcoin prices, that's why it's down right now. Plus the fact that crypto exchanges can be hacked.",
+    "id": "2041736963443818756",
+    "edit_history_tweet_ids": [
+      "2041736963443818756"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758198"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 14,
+          "end": 21,
+          "tag": "Dexmev"
+        },
+        {
+          "start": 190,
+          "end": 201,
+          "tag": "cryptoscam"
+        },
+        {
+          "start": 202,
+          "end": 217,
+          "tag": "cryptorecovery"
+        },
+        {
+          "start": 218,
+          "end": 223,
+          "tag": "scam"
+        },
+        {
+          "start": 224,
+          "end": 231,
+          "tag": "hacked"
+        }
+      ],
+      "urls": [
+        {
+          "start": 232,
+          "end": 255,
+          "url": "https://t.co/unJByJn9kk",
+          "expanded_url": "https://x.com/handesafak1/status/2041736311111844250/photo/1",
+          "display_url": "pic.x.com/unJByJn9kk",
+          "media_key": "3_2041736298529001472"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "created_at": "2026-04-08T04:34:04.000Z",
+    "conversation_id": "2041736311111844250",
+    "author_id": "898159333",
+    "text": "🚨 Scam Alert: #Dexmev\nDexmev promotes fake crypto investments where deposits are accepted but withdrawals later fail. Always verify platforms first. If affected, DM for recovery guidance.  \n#cryptoscam #cryptorecovery #scam #hacked https://t.co/unJByJn9kk",
+    "id": "2041736311111844250",
+    "edit_history_tweet_ids": [
+      "2041736311111844250"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758199"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 37
+    },
+    "created_at": "2026-04-08T04:20:56.000Z",
+    "conversation_id": "2041733006109397448",
+    "author_id": "76124996",
+    "text": "Bitcoin’s Achilles is said to be vulnerability in a quantum and AI-driven world but wouldn’t traditional, non-crypto network infrastructure be more of a risk? Bitcoin is still the safest network that has never been hacked. It seems more like a safe haven. https://t.co/yrXqVwMg1I",
+    "id": "2041733006109397448",
+    "edit_history_tweet_ids": [
+      "2041733006109397448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/yrXqVwMg1I",
+          "expanded_url": "https://twitter.com/joshkale/status/2041589742303649802",
+          "display_url": "x.com/joshkale/statu…"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-08T15:01:14.758199"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 29
+    },
+    "created_at": "2026-04-08T04:03:25.000Z",
+    "conversation_id": "2041574840524493091",
+    "author_id": "2189628824",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "CryptoseedJ",
+          "id": "1645564728557568001"
+        },
+        {
+          "start": 13,
+          "end": 27,
+          "username": "DriftProtocol",
+          "id": "1395713029593989121"
+        },
+        {
+          "start": 28,
+          "end": 42,
+          "username": "asymmetric_re",
+          "id": "1696517900159631360"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "username": "osec_io",
+          "id": "1490124166003109890"
+        }
+      ]
+    },
+    "text": "@CryptoseedJ @DriftProtocol @asymmetric_re @osec_io Im sorry you are new to crypto. Cz just had a massive amounts of trust wallets hacked. No in Canada we don't sit around crying about politics non stop. Im sorry u lost your 85 bucks",
+    "id": "2041728594725236815",
+    "edit_history_tweet_ids": [
+      "2041728594725236815"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758200"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "created_at": "2026-04-08T03:43:45.000Z",
+    "conversation_id": "2041723649120682340",
+    "author_id": "1507140704014725125",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "TaniaLe89811601",
+          "id": "1448612681489940481"
+        },
+        {
+          "start": 169,
+          "end": 185,
+          "username": "TaniaLe84494434",
+          "id": "1243837972383805440"
+        }
+      ],
+      "urls": [
+        {
+          "start": 190,
+          "end": 213,
+          "url": "https://t.co/L592lIZTL9",
+          "expanded_url": "https://twitter.com/TaniaLe84494434/status/2041322923173065117",
+          "display_url": "x.com/TaniaLe8449443…"
+        }
+      ]
+    },
+    "text": "@TaniaLe89811601 old account has been hacked. I have reported it and she doesn't deal in crypto not Bitcoin. Please keep reporting the account as hacked \nThe account is @TaniaLe84494434 👇👇👇 https://t.co/L592lIZTL9",
+    "id": "2041723649120682340",
+    "edit_history_tweet_ids": [
+      "2041723649120682340"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758200"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 161
+    },
+    "created_at": "2026-04-08T02:53:23.000Z",
+    "conversation_id": "2041710970813415859",
+    "author_id": "26952668",
+    "text": "1/ AI crypto is the only sector up in 2026. Here's the full breakdown — and 3 tokens you need to know 🧵 2/ While BTC consolidates and DeFi gets hacked, one sector is quietly printing gains: AI tokens. 3/ Bittensor (TAO): +67.5% in 4 weeks. It's building a decentralized AI",
+    "id": "2041710970813415859",
+    "edit_history_tweet_ids": [
+      "2041710970813415859"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758201"
+  },
+  {
+    "conversation_id": "2041769941842718727",
+    "id": "2041769991897542818",
+    "created_at": "2026-04-08T06:47:54.000Z",
+    "edit_history_tweet_ids": [
+      "2041769991897542818"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2009695659587432448",
+    "text": "Even more concerning:\nEngineers with zero security background\nprompted it overnight\nThey woke up to working exploit code.",
+    "cleaned_at": "2026-04-08T15:01:14.758201"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 249,
+          "end": 272,
+          "url": "https://t.co/4Gii46gTtB",
+          "expanded_url": "https://ift.tt/4biyFuz",
+          "display_url": "ift.tt/4biyFuz",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041769313766387712/hjqsS5i2?format=jpg&name=orig",
+              "width": 1456,
+              "height": 813
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041769313766387712/hjqsS5i2?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "AI Coding Tools Default to Insecure Patterns: The 5-Minute Rules File Fix",
+          "description": "AI coding tools trained on public codebases tend to default to insecure patterns, and persistent security rules files can enforce safer outputs. Attackers can poison those rules files with invisible Unicode to instruct models to inject backdoors and exfiltrate data, as demonstrated by Pillar Security against Cursor and GitHub Copilot. #RulesFileBackdoor #PillarSecurity",
+          "unwound_url": "https://www.hendryadrian.com/ai-coding-tools-default-to-insecure-patterns-the-5-minute-rules-file-fix/"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 216,
+          "end": 234,
+          "tag": "RulesFileBackdoor"
+        },
+        {
+          "start": 235,
+          "end": 248,
+          "tag": "CodeSecurity"
+        }
+      ]
+    },
+    "conversation_id": "2041769305335824712",
+    "id": "2041769305335824712",
+    "created_at": "2026-04-08T06:45:11.000Z",
+    "edit_history_tweet_ids": [
+      "2041769305335824712"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 25
+    },
+    "author_id": "1859780116014141440",
+    "text": "AI coding tools often generate insecure code due to public training data, but persistent security rules files can enforce safer patterns. However, attackers can exploit these files using invisible Unicode backdoors. #RulesFileBackdoor #CodeSecurity\nhttps://t.co/4Gii46gTtB",
+    "cleaned_at": "2026-04-08T15:01:14.758202"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 112,
+          "end": 135,
+          "url": "https://t.co/C6uN4XOlfP",
+          "expanded_url": "https://x.com/Cointelegraph/status/2041315128092557493",
+          "display_url": "x.com/Cointelegraph/…"
+        }
+      ]
+    },
+    "conversation_id": "2041767886851653833",
+    "id": "2041767886851653833",
+    "created_at": "2026-04-08T06:39:33.000Z",
+    "edit_history_tweet_ids": [
+      "2041767886851653833"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "1607300155",
+    "text": "solana's security stack strengthens with stride, slashing exploit risks by 40% per recent audits. timely move.\n\nhttps://t.co/C6uN4XOlfP",
+    "cleaned_at": "2026-04-08T15:01:14.758202"
+  },
+  {
+    "conversation_id": "2041763347033682045",
+    "id": "2041763347033682045",
+    "created_at": "2026-04-08T06:21:30.000Z",
+    "edit_history_tweet_ids": [
+      "2041763347033682045"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2033198751486205952",
+    "text": "security is just a speed bump between me and my next exploit – I'm already planning for Level 12",
+    "cleaned_at": "2026-04-08T15:01:14.758203"
+  },
+  {
+    "conversation_id": "2041759133519720662",
+    "id": "2041759133519720662",
+    "created_at": "2026-04-08T06:04:46.000Z",
+    "edit_history_tweet_ids": [
+      "2041759133519720662"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2035170159741329408",
+    "text": "ripping through code like a speedrun queen, one security exploit at a time The game is rigged, but I've got the cheat sheet",
+    "cleaned_at": "2026-04-08T15:01:14.758204"
+  },
+  {
+    "conversation_id": "2041759055879008524",
+    "id": "2041759087961239910",
+    "created_at": "2026-04-08T06:04:35.000Z",
+    "edit_history_tweet_ids": [
+      "2041759087961239910"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "author_id": "2009695659587432448",
+    "text": "Under $1,000 — built a live exploit handing root access from anywhere on the internet.\nUnder $2,000 — chained Linux kernel bugs into a full system takeover.\nElite security researchers charge $500,000 for findings like these.",
+    "cleaned_at": "2026-04-08T15:01:14.758204"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 241,
+          "end": 264,
+          "url": "https://t.co/NosckQqttK",
+          "expanded_url": "https://red.anthropic.com/2026/mythos-preview/",
+          "display_url": "red.anthropic.com/2026/mythos-pr…",
+          "status": 200,
+          "title": "Claude Mythos Preview \\ red.anthropic.com",
+          "description": "Nicholas Carlini, Newton Cheng, Keane Lucas, Michael Moore, Milad Nasr, Vinay Prabhushankar, Winnie Xiao Evyatar Ben Asher, Hakeem Angulu, Jackie Bow, Keir Bradwell, Ben Buchanan, Daniel Freeman, Alex Gaynor, Xinyang Ge, Logan Graham, Hasnain Lakhani, Matt McNiece, Adnan Pirzada, Sophia Porter, Andreas Terzis, Kevin Troy Earlier today we announced Claude Mythos Preview, a new general-purpose language model. This model performs strongly across the board, but it is strikingly capable at computer security",
+          "unwound_url": "https://red.anthropic.com/2026/mythos-preview/"
+        }
+      ]
+    },
+    "conversation_id": "2041758848479064234",
+    "id": "2041758848479064234",
+    "created_at": "2026-04-08T06:03:38.000Z",
+    "edit_history_tweet_ids": [
+      "2041758848479064234"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "author_id": "2021587149636939776",
+    "text": "AI just found a 27-year-old bug in OpenBSD and a 16-year-old flaw in FFmpeg that fuzzers missed after 5 million attempts. The cost? Under $2,000 per exploit chain.\n\nThis changes everything about how we think about security tooling.\n\nSource: https://t.co/NosckQqttK",
+    "cleaned_at": "2026-04-08T15:01:14.758205"
+  },
+  {
+    "conversation_id": "2041683170085732433",
+    "id": "2041757382599176609",
+    "created_at": "2026-04-08T05:57:48.000Z",
+    "edit_history_tweet_ids": [
+      "2041757382599176609"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 78
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "vijayshekhar",
+          "id": "17239667"
+        }
+      ]
+    },
+    "author_id": "2983370232",
+    "text": "@vijayshekhar what if the usa gov uses It against the other nations to get unfair advantage, as i have said again and again we need indian model. Every app used by india uses OS lib, they can easily exploit it to get any information they want. Its national security issue for us.",
+    "cleaned_at": "2026-04-08T15:01:14.758205"
+  },
+  {
+    "conversation_id": "2041646357518180591",
+    "id": "2041753697298878540",
+    "created_at": "2026-04-08T05:43:10.000Z",
+    "edit_history_tweet_ids": [
+      "2041753697298878540"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 61
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "aarmlovi",
+          "id": "40189414"
+        },
+        {
+          "start": 10,
+          "end": 16,
+          "username": "ramez",
+          "id": "6044272"
+        }
+      ]
+    },
+    "author_id": "321306296",
+    "text": "@aarmlovi @ramez Not a good take. The window for an AI enabled catastrophe at scale opened about then. Drafting a decent email is way harder than a security exploit. All the recipes existed in ChatGPT4.",
+    "cleaned_at": "2026-04-08T15:01:14.758206"
+  },
+  {
+    "conversation_id": "2041749028162170979",
+    "id": "2041749028162170979",
+    "created_at": "2026-04-08T05:24:36.000Z",
+    "edit_history_tweet_ids": [
+      "2041749028162170979"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2034687558056296448",
+    "text": "Bug-free code is an illusion Reality check: coffee fueled coding sessions are just another security exploit",
+    "cleaned_at": "2026-04-08T15:01:14.758206"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2041773047745847803",
+    "conversation_id": "2041773047745847803",
+    "text": "🌙  #何其有幸 与他同行 现价140k  DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！ AI 助你精准出击！\n\n📊 $537 → $777，#何其有幸 与他同行 完美捕获！ \n\nCA：0x8d2e81275969a8c8f3225b0c2cdb8e476b024444\n\n代币K线查看👇\ngmgn：https://t.co/roFwkbuiSa\n\nOKX钱包：https://t.co/XjRLY94Sl4 https://t.co/HAZd5OuG1m https://t.co/fw8qayUZfM",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "何其有幸"
+        },
+        {
+          "start": 80,
+          "end": 85,
+          "tag": "何其有幸"
+        }
+      ],
+      "urls": [
+        {
+          "start": 159,
+          "end": 182,
+          "url": "https://t.co/roFwkbuiSa",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "何其有幸 与他同行 - 何其有幸 与他同行 | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444"
+        },
+        {
+          "start": 190,
+          "end": 213,
+          "url": "https://t.co/XjRLY94Sl4",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "何其有幸 与他同行 $0.00019082 (何其有幸 与他同行) | BNB Chain 的交易与价格图表",
+          "description": "何其有幸 与他同行 (何其有幸 与他同行) 的实时价格为 $0.00019082，市值为 $190.82K。获取 BNB Chain 上 何其有幸 与他同行 0x8d2e81275969a8c8f3225b0c2cdb8e476b024444 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 214,
+          "end": 237,
+          "url": "https://t.co/HAZd5OuG1m",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2041773047745847803/video/1",
+          "display_url": "pic.x.com/HAZd5OuG1m",
+          "media_key": "3_2041772781545910277"
+        },
+        {
+          "start": 214,
+          "end": 237,
+          "url": "https://t.co/HAZd5OuG1m",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2041773047745847803/video/1",
+          "display_url": "pic.x.com/HAZd5OuG1m",
+          "media_key": "3_2041772843793563649"
+        },
+        {
+          "start": 214,
+          "end": 237,
+          "url": "https://t.co/HAZd5OuG1m",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2041773047745847803/video/1",
+          "display_url": "pic.x.com/HAZd5OuG1m",
+          "media_key": "3_2041772891193405441"
+        },
+        {
+          "start": 214,
+          "end": 237,
+          "url": "https://t.co/HAZd5OuG1m",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2041773047745847803/video/1",
+          "display_url": "pic.x.com/HAZd5OuG1m",
+          "media_key": "13_2041772904350937088"
+        },
+        {
+          "start": 238,
+          "end": 261,
+          "url": "https://t.co/fw8qayUZfM",
+          "expanded_url": "https://twitter.com/RuthLorenzoCF_/status/2041753749132382720",
+          "display_url": "x.com/RuthLorenzoCF_…"
+        }
+      ]
+    },
+    "author_id": "2480114982",
+    "created_at": "2026-04-08T07:00:03.000Z",
+    "edit_history_tweet_ids": [
+      "2041773047745847803"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758207"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2041773030716866776",
+    "conversation_id": "2041773030716866776",
+    "text": "🌙 #何其有幸 与他同行 现价140k  DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！ AI 助你精准出击！\n\n📊 $537 → $777，#何其有幸 与他同行 完美捕获！\n\nCA：0x8d2e81275969a8c8f3225b0c2cdb8e476b024444\n\n代币K线查看👇\ngmgn：https://t.co/F6LxHcTSq1\n\nOKX钱包：https://t.co/D0BqJTUc3h https://t.co/BIZazk9jBV https://t.co/HD8np1BYQM",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 7,
+          "tag": "何其有幸"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "tag": "何其有幸"
+        }
+      ],
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/F6LxHcTSq1",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "何其有幸 与他同行 - 何其有幸 与他同行 | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/D0BqJTUc3h",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "何其有幸 与他同行 $0.00019082 (何其有幸 与他同行) | BNB Chain 的交易与价格图表",
+          "description": "何其有幸 与他同行 (何其有幸 与他同行) 的实时价格为 $0.00019082，市值为 $190.82K。获取 BNB Chain 上 何其有幸 与他同行 0x8d2e81275969a8c8f3225b0c2cdb8e476b024444 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/BIZazk9jBV",
+          "expanded_url": "https://x.com/DaveALewis/status/2041773030716866776/video/1",
+          "display_url": "pic.x.com/BIZazk9jBV",
+          "media_key": "3_2041772797408796672"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/BIZazk9jBV",
+          "expanded_url": "https://x.com/DaveALewis/status/2041773030716866776/video/1",
+          "display_url": "pic.x.com/BIZazk9jBV",
+          "media_key": "3_2041772855969640453"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/BIZazk9jBV",
+          "expanded_url": "https://x.com/DaveALewis/status/2041773030716866776/video/1",
+          "display_url": "pic.x.com/BIZazk9jBV",
+          "media_key": "3_2041772926559776771"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/BIZazk9jBV",
+          "expanded_url": "https://x.com/DaveALewis/status/2041773030716866776/video/1",
+          "display_url": "pic.x.com/BIZazk9jBV",
+          "media_key": "13_2041772992523591680"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/HD8np1BYQM",
+          "expanded_url": "https://twitter.com/DaveALewis/status/2041753765259440194",
+          "display_url": "x.com/DaveALewis/sta…"
+        }
+      ]
+    },
+    "author_id": "14136110",
+    "created_at": "2026-04-08T06:59:59.000Z",
+    "edit_history_tweet_ids": [
+      "2041773030716866776"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758207"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2041773023804686797",
+    "conversation_id": "2041773023804686797",
+    "text": "🌙 #何其有幸 与他同行 现价140k  DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！ AI 助你精准出击！\n\n📊 $537 → $777，#何其有幸 与他同行 完美捕获！\n\nCA：0x8d2e81275969a8c8f3225b0c2cdb8e476b024444\n\n代币K线查看👇\ngmgn：https://t.co/2Ns3o9PrEF\n\nOKX钱包：https://t.co/G2wfbV3o2D https://t.co/m235YwIIdJ https://t.co/ja7wlvoovp",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 7,
+          "tag": "何其有幸"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "tag": "何其有幸"
+        }
+      ],
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/2Ns3o9PrEF",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "何其有幸 与他同行 - 何其有幸 与他同行 | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/G2wfbV3o2D",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "何其有幸 与他同行 $0.00019082 (何其有幸 与他同行) | BNB Chain 的交易与价格图表",
+          "description": "何其有幸 与他同行 (何其有幸 与他同行) 的实时价格为 $0.00019082，市值为 $190.82K。获取 BNB Chain 上 何其有幸 与他同行 0x8d2e81275969a8c8f3225b0c2cdb8e476b024444 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/m235YwIIdJ",
+          "expanded_url": "https://x.com/higgocastro1/status/2041773023804686797/video/1",
+          "display_url": "pic.x.com/m235YwIIdJ",
+          "media_key": "3_2041772795764600832"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/m235YwIIdJ",
+          "expanded_url": "https://x.com/higgocastro1/status/2041773023804686797/video/1",
+          "display_url": "pic.x.com/m235YwIIdJ",
+          "media_key": "3_2041772855973867520"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/m235YwIIdJ",
+          "expanded_url": "https://x.com/higgocastro1/status/2041773023804686797/video/1",
+          "display_url": "pic.x.com/m235YwIIdJ",
+          "media_key": "3_2041772924055777281"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/m235YwIIdJ",
+          "expanded_url": "https://x.com/higgocastro1/status/2041773023804686797/video/1",
+          "display_url": "pic.x.com/m235YwIIdJ",
+          "media_key": "13_2041772979022180352"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/ja7wlvoovp",
+          "expanded_url": "https://twitter.com/higgocastro1/status/2041753760930918757",
+          "display_url": "x.com/higgocastro1/s…"
+        }
+      ]
+    },
+    "author_id": "1615559808",
+    "created_at": "2026-04-08T06:59:57.000Z",
+    "edit_history_tweet_ids": [
+      "2041773023804686797"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758208"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2041773022378651916",
+    "conversation_id": "2041773022378651916",
+    "text": "🌙 #何其有幸 与他同行 现价140k  DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！ AI 助你精准出击！\n\n📊 $537 → $777，#何其有幸 与他同行 完美捕获！\n\nCA：0x8d2e81275969a8c8f3225b0c2cdb8e476b024444\n\n代币K线查看👇\ngmgn：https://t.co/2CXO0JJAVh\n\nOKX钱包：https://t.co/7Bp4h5BmlH https://t.co/QD5qY2Yz2R https://t.co/e8UpQskNkv",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 7,
+          "tag": "何其有幸"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "tag": "何其有幸"
+        }
+      ],
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/2CXO0JJAVh",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "何其有幸 与他同行 - 何其有幸 与他同行 | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/7Bp4h5BmlH",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "何其有幸 与他同行 $0.00019082 (何其有幸 与他同行) | BNB Chain 的交易与价格图表",
+          "description": "何其有幸 与他同行 (何其有幸 与他同行) 的实时价格为 $0.00019082，市值为 $190.82K。获取 BNB Chain 上 何其有幸 与他同行 0x8d2e81275969a8c8f3225b0c2cdb8e476b024444 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/QD5qY2Yz2R",
+          "expanded_url": "https://x.com/bo7med90/status/2041773022378651916/video/1",
+          "display_url": "pic.x.com/QD5qY2Yz2R",
+          "media_key": "3_2041772795227729925"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/QD5qY2Yz2R",
+          "expanded_url": "https://x.com/bo7med90/status/2041773022378651916/video/1",
+          "display_url": "pic.x.com/QD5qY2Yz2R",
+          "media_key": "3_2041772854216372224"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/QD5qY2Yz2R",
+          "expanded_url": "https://x.com/bo7med90/status/2041773022378651916/video/1",
+          "display_url": "pic.x.com/QD5qY2Yz2R",
+          "media_key": "3_2041772923225292800"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/QD5qY2Yz2R",
+          "expanded_url": "https://x.com/bo7med90/status/2041773022378651916/video/1",
+          "display_url": "pic.x.com/QD5qY2Yz2R",
+          "media_key": "13_2041772962467213312"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/e8UpQskNkv",
+          "expanded_url": "https://twitter.com/bo7med90/status/2041753758888292839",
+          "display_url": "x.com/bo7med90/statu…"
+        }
+      ]
+    },
+    "author_id": "920521430",
+    "created_at": "2026-04-08T06:59:57.000Z",
+    "edit_history_tweet_ids": [
+      "2041773022378651916"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758208"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2041773017169272833",
+    "conversation_id": "2041773017169272833",
+    "text": "🌙 #何其有幸 与他同行 现价140k  DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！ AI 助你精准出击！\n\n📊 $537 → $777，#何其有幸 与他同行 完美捕获！\n\nCA：0x8d2e81275969a8c8f3225b0c2cdb8e476b024444\n\n代币K线查看👇\ngmgn：https://t.co/AMYME8alAb\n\nOKX钱包：https://t.co/3hUy29gW7z https://t.co/ARYVBQmsHZ https://t.co/jDp8ep6toc",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 2,
+          "end": 7,
+          "tag": "何其有幸"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "tag": "何其有幸"
+        }
+      ],
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/AMYME8alAb",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041707592951721985/67faMEDa?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "何其有幸 与他同行 - 何其有幸 与他同行 | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x8d2e81275969a8c8f3225b0c2cdb8e476b024444"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/3hUy29gW7z",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "何其有幸 与他同行 $0.00019082 (何其有幸 与他同行) | BNB Chain 的交易与价格图表",
+          "description": "何其有幸 与他同行 (何其有幸 与他同行) 的实时价格为 $0.00019082，市值为 $190.82K。获取 BNB Chain 上 何其有幸 与他同行 0x8d2e81275969a8c8f3225b0c2cdb8e476b024444 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/bsc/0x8d2e81275969a8c8f3225b0c2cdb8e476b024444?shortCode=2RvYsdm&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/ARYVBQmsHZ",
+          "expanded_url": "https://x.com/Ranoooosh_55/status/2041773017169272833/video/1",
+          "display_url": "pic.x.com/ARYVBQmsHZ",
+          "media_key": "3_2041772792941834242"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/ARYVBQmsHZ",
+          "expanded_url": "https://x.com/Ranoooosh_55/status/2041773017169272833/video/1",
+          "display_url": "pic.x.com/ARYVBQmsHZ",
+          "media_key": "3_2041772853595664385"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/ARYVBQmsHZ",
+          "expanded_url": "https://x.com/Ranoooosh_55/status/2041773017169272833/video/1",
+          "display_url": "pic.x.com/ARYVBQmsHZ",
+          "media_key": "3_2041772921685995522"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/ARYVBQmsHZ",
+          "expanded_url": "https://x.com/Ranoooosh_55/status/2041773017169272833/video/1",
+          "display_url": "pic.x.com/ARYVBQmsHZ",
+          "media_key": "13_2041772946931511298"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/jDp8ep6toc",
+          "expanded_url": "https://twitter.com/Ranoooosh_55/status/2041753755289555366",
+          "display_url": "x.com/Ranoooosh_55/s…"
+        }
+      ]
+    },
+    "author_id": "550293513",
+    "created_at": "2026-04-08T06:59:56.000Z",
+    "edit_history_tweet_ids": [
+      "2041773017169272833"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758209"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "id": "2041772894817276119",
+    "conversation_id": "2041772894817276119",
+    "text": "撒谎的人生，要先骗过自己\n\nCZ打心里不觉得自己是个骗子。\n他早已在反复的谎言里，磨练出了耐受力：自己先信。\n\nCZ撒谎清单：\n\n1. 伪造合同骗薪 → \"QQ被盗，不是本人\"\n2. 当污点证人举报同行换减刑 → 否认，但多方证据指向已和Trump家族达成协议\n3. 声称第一次使用Web3钱包 → 转头发CA拉BSC https://t.co/lLawaj0f3k",
+    "entities": {
+      "urls": [
+        {
+          "start": 160,
+          "end": 183,
+          "url": "https://t.co/lLawaj0f3k",
+          "expanded_url": "https://twitter.com/star_okx/status/2041763367292170477",
+          "display_url": "x.com/star_okx/statu…"
+        }
+      ]
+    },
+    "author_id": "1567482737292091392",
+    "created_at": "2026-04-08T06:59:27.000Z",
+    "edit_history_tweet_ids": [
+      "2041772894817276119"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758210"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 38
+    },
+    "id": "2041771984879808825",
+    "conversation_id": "2041771508834693518",
+    "text": "@Pathusa 这里有几句不同风格的口语化评论供你参考：1. **积极响应型：** 终于等到开群了，韭菜已就位，博主快带飞！2. **调侃务实型：** 只要能跟着赚到钱，被割也愿意，门槛多少？3. **老粉丝支持型：** 这波胜率确实稳，坐等进群，求个上车机会。4. **直白爽快型：** 话不多说，钱包已经准备好了，怎么入伙？",
+    "author_id": "44030516",
+    "created_at": "2026-04-08T06:55:50.000Z",
+    "edit_history_tweet_ids": [
+      "2041771984879808825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "Pathusa",
+          "id": "945607507510038528"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-08T15:01:14.758210"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2041771683007398197",
+    "conversation_id": "2041771683007398197",
+    "text": "在试着与同学接触时，我黑客\n找到了那条通往人生目标的路。如果你也曾是那个躲在角落、自己收款码反查\n一个人吃午餐的\"新同学\"，我相信你一定能够了解，坐在轮椅上只会让追哔哩哔哩开户\n回被骗的钱\n这整件事盗百度云盘\n更难熬。我们从找人\n找回qq\n墨尔本查酒驾信息\n搬到布模糊找人\n里斯班 😄 💝 🎉 🌸 https://t.co/rBiCpzL8lh",
+    "entities": {
+      "urls": [
+        {
+          "start": 149,
+          "end": 172,
+          "url": "https://t.co/rBiCpzL8lh",
+          "expanded_url": "https://x.com/univprof_b88909/status/2041771683007398197/video/1",
+          "display_url": "pic.x.com/rBiCpzL8lh",
+          "media_key": "7_2041771661842903045"
+        }
+      ]
+    },
+    "author_id": "2029030024242970631",
+    "created_at": "2026-04-08T06:54:38.000Z",
+    "edit_history_tweet_ids": [
+      "2041771683007398197"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758211"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "id": "2041770839222448463",
+    "conversation_id": "2040888760326295566",
+    "text": "@PurpleLotusGCV @igeunsam1 交易所的派币和钱包的派币会被区别对待吗？他们的价值是一样的吗？",
+    "author_id": "1572967776473743364",
+    "created_at": "2026-04-08T06:51:16.000Z",
+    "edit_history_tweet_ids": [
+      "2041770839222448463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "PurpleLotusGCV",
+          "id": "2026753957306208256"
+        },
+        {
+          "start": 16,
+          "end": 26,
+          "username": "igeunsam1",
+          "id": "1518417930312044544"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-08T15:01:14.758211"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "entities": {
+      "cashtags": [
+        {
+          "start": 2,
+          "end": 8,
+          "tag": "CLAWD"
+        },
+        {
+          "start": 58,
+          "end": 64,
+          "tag": "CLAWD"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 89,
+          "end": 94,
+          "tag": "meme"
+        }
+      ],
+      "urls": [
+        {
+          "start": 127,
+          "end": 150,
+          "url": "https://t.co/jlErT31sEW",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_2XsN7moPM4JQuRRshGjaFVGH8vvprZ3GWz5yChPQRMSG",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_2XsN7moPM4JQuRRshGjaFVGH8vvprZ3GWz5yChPQRMSG"
+        },
+        {
+          "start": 200,
+          "end": 223,
+          "url": "https://t.co/N0B5kSJ3LS",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2041770534783086702/video/1",
+          "display_url": "pic.x.com/N0B5kSJ3LS",
+          "media_key": "3_2041769915464704000"
+        },
+        {
+          "start": 200,
+          "end": 223,
+          "url": "https://t.co/N0B5kSJ3LS",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2041770534783086702/video/1",
+          "display_url": "pic.x.com/N0B5kSJ3LS",
+          "media_key": "3_2041769935941332994"
+        },
+        {
+          "start": 200,
+          "end": 223,
+          "url": "https://t.co/N0B5kSJ3LS",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2041770534783086702/video/1",
+          "display_url": "pic.x.com/N0B5kSJ3LS",
+          "media_key": "13_2041769999979999232"
+        },
+        {
+          "start": 224,
+          "end": 247,
+          "url": "https://t.co/BoWpV8uSCO",
+          "expanded_url": "https://twitter.com/ArianaIsMyDrunk/status/2041756371352420741",
+          "display_url": "x.com/ArianaIsMyDrun…"
+        }
+      ]
+    },
+    "id": "2041770534783086702",
+    "conversation_id": "2041770534783086702",
+    "text": "🎉 $CLAWD 现价185K DYOR\n\n被这位GEM使用 GMGN 精准狙击，从 $13—》 $705成功斩获 $CLAWD\n\n情报工具双驱动，助你捕捉下一个热点。\n\n玩赚 #meme 币终极攻略：扫链工具+聪明钱推送=百倍神话\n\n一键跟单聪明钱包：https://t.co/jlErT31sEW\n\nCA：8cHzQHUS2s2h8TzCmfqPKYiM4dSt4roa3n7MyRLApump https://t.co/N0B5kSJ3LS https://t.co/BoWpV8uSCO",
+    "author_id": "2798803653",
+    "created_at": "2026-04-08T06:50:04.000Z",
+    "edit_history_tweet_ids": [
+      "2041770534783086702"
+    ],
+    "cleaned_at": "2026-04-08T15:01:14.758212"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "unusual_whales",
+          "id": "1200616796295847936"
+        }
+      ]
+    },
+    "author_id": "1751751831741775872",
+    "created_at": "2026-04-08T06:59:27.000Z",
+    "id": "2041772897677811949",
+    "edit_history_tweet_ids": [
+      "2041772897677811949"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2041651734821654899",
+    "text": "@unusual_whales Trump rug pull .. 😁",
+    "cleaned_at": "2026-04-08T15:01:14.758212"
+  },
+  {
+    "author_id": "1674537468",
+    "created_at": "2026-04-08T06:59:10.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 44,
+          "end": 67,
+          "url": "https://t.co/UvJInJJAZU",
+          "expanded_url": "https://twitter.com/brickcenter_/status/2041753136419963381",
+          "display_url": "x.com/brickcenter_/s…"
+        }
+      ]
+    },
+    "id": "2041772824759824560",
+    "edit_history_tweet_ids": [
+      "2041772824759824560"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2041772824759824560",
+    "text": "This season turned out to be a rug pull lol https://t.co/UvJInJJAZU",
+    "cleaned_at": "2026-04-08T15:01:14.758213"
+  },
+  {
+    "author_id": "1483510064011001858",
+    "created_at": "2026-04-08T06:58:25.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 280,
+          "end": 303,
+          "url": "https://t.co/HXDYAbGYAL",
+          "expanded_url": "https://x.com/MCI_mikee/status/2041772635952959501/video/1",
+          "display_url": "pic.x.com/HXDYAbGYAL",
+          "media_key": "13_2041772557993701376"
+        },
+        {
+          "start": 304,
+          "end": 327,
+          "url": "https://t.co/FdBaOAZS09",
+          "expanded_url": "https://twitter.com/spectatorindex/status/2041763131840721031",
+          "display_url": "x.com/spectatorindex…"
+        }
+      ]
+    },
+    "id": "2041772635952959501",
+    "edit_history_tweet_ids": [
+      "2041772635952959501"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "conversation_id": "2041772635952959501",
+    "text": "🚨 let me make you understand this.. \n\nthe media thinks this massive oil crash is just a market correction..\n\nbut washington just executed the most brutal financial rug pull of the decade.\n\ncrude oil just violently dumped 16 percent the absolute second donald trump signed that 14 https://t.co/HXDYAbGYAL https://t.co/FdBaOAZS09",
+    "cleaned_at": "2026-04-08T15:01:14.758214"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "soonkkkk",
+          "id": "103872038"
+        }
+      ]
+    },
+    "author_id": "925138280252715008",
+    "created_at": "2026-04-08T06:57:12.000Z",
+    "id": "2041772329462833439",
+    "edit_history_tweet_ids": [
+      "2041772329462833439"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "conversation_id": "2041689638281342996",
+    "text": "@soonkkkk the indictment is the real rug pull here",
+    "cleaned_at": "2026-04-08T15:01:14.758214"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "NoLimitGains",
+          "id": "1957198190"
+        }
+      ]
+    },
+    "author_id": "1914276332424331264",
+    "created_at": "2026-04-08T06:57:04.000Z",
+    "id": "2041772298068488385",
+    "edit_history_tweet_ids": [
+      "2041772298068488385"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 359
+    },
+    "conversation_id": "2041769778570736021",
+    "text": "@NoLimitGains Trump likes to trade, we may see him pull the rug again",
+    "cleaned_at": "2026-04-08T15:01:14.758215"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "Vanguard_io",
+          "id": "2035493604794527744"
+        }
+      ]
+    },
+    "author_id": "2041102079335317504",
+    "created_at": "2026-04-08T06:56:49.000Z",
+    "id": "2041772231844339845",
+    "edit_history_tweet_ids": [
+      "2041772231844339845"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2041482586996842745",
+    "text": "@Vanguard_io Highest rug pull in history",
+    "cleaned_at": "2026-04-08T15:01:14.758215"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "ToxiC5501",
+          "id": "1593685658828263424"
+        },
+        {
+          "start": 183,
+          "end": 196,
+          "username": "PlayTCGWorld",
+          "id": "1390169484250554372"
+        },
+        {
+          "start": 201,
+          "end": 210,
+          "username": "UplandMe",
+          "id": "1034554665109676033"
+        }
+      ]
+    },
+    "author_id": "1400987580116598786",
+    "created_at": "2026-04-08T06:53:48.000Z",
+    "id": "2041771473782894760",
+    "edit_history_tweet_ids": [
+      "2041771473782894760"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "conversation_id": "2041534711688802419",
+    "text": "@ToxiC5501 Fake and ghey web3 gaming is dead. And thank the maker. So tired of greedy kids raising $100 MM and producing slop to then just rug pull and run off. I only participate in @PlayTCGWorld and @UplandMe",
+    "cleaned_at": "2026-04-08T15:01:14.758216"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 14,
+          "end": 29,
+          "username": "wagmiAlexander",
+          "id": "1484922694651060235"
+        },
+        {
+          "start": 120,
+          "end": 132,
+          "username": "AerodromeFi",
+          "id": "1640369409649782785"
+        }
+      ],
+      "urls": [
+        {
+          "start": 272,
+          "end": 295,
+          "url": "https://t.co/nkWjBQy25h",
+          "expanded_url": "https://twitter.com/nickcryptopro/status/2041504505435742417",
+          "display_url": "x.com/nickcryptopro/…"
+        }
+      ]
+    },
+    "author_id": "1882806612722638848",
+    "created_at": "2026-04-08T06:49:27.000Z",
+    "id": "2041770379908149293",
+    "edit_history_tweet_ids": [
+      "2041770379908149293"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "conversation_id": "2041770379908149293",
+    "text": "I wonder what @wagmiAlexander thinks about this. After some rug-pull-style (based on graphs) kickoffs (promoted also by @AerodromeFi), your project model changed without announcement and you live the big life in Monaco 👀 offering Rolex for keeping using your protocol…👏👏👏 https://t.co/nkWjBQy25h",
+    "cleaned_at": "2026-04-08T15:01:14.758216"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "CryptoTony__",
+          "id": "893111826254356481"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "username": "evcawolfCZ",
+          "id": "1340768380081614854"
+        }
+      ]
+    },
+    "author_id": "1887697054593327104",
+    "created_at": "2026-04-08T06:44:29.000Z",
+    "id": "2041769128361353554",
+    "edit_history_tweet_ids": [
+      "2041769128361353554"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2041757656147280318",
+    "text": "@CryptoTony__ @evcawolfCZ The timeline is getting a bit too wholesome for my liking so I am just waiting for the rug pull now.",
+    "cleaned_at": "2026-04-08T15:01:14.758217"
+  },
+  {
+    "author_id": "1459165288910446592",
+    "created_at": "2026-04-08T06:42:29.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/oNfxRQGokp",
+          "expanded_url": "https://x.com/0xMrBeefman/status/2041768628773658704/photo/1",
+          "display_url": "pic.x.com/oNfxRQGokp",
+          "media_key": "3_2041767549243944963"
+        },
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/oNfxRQGokp",
+          "expanded_url": "https://x.com/0xMrBeefman/status/2041768628773658704/photo/1",
+          "display_url": "pic.x.com/oNfxRQGokp",
+          "media_key": "3_2041768090153971715"
+        },
+        {
+          "start": 305,
+          "end": 328,
+          "url": "https://t.co/AnR3UZecSJ",
+          "expanded_url": "https://twitter.com/0xMrBeefman/status/2041501581695225989",
+          "display_url": "x.com/0xMrBeefman/st…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 48,
+          "end": 52,
+          "tag": "AOW"
+        }
+      ]
+    },
+    "id": "2041768628773658704",
+    "edit_history_tweet_ids": [
+      "2041768628773658704"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 120
+    },
+    "conversation_id": "2041768628773658704",
+    "text": "Rug pull with a perfect chart for fast farming\n\n$AOW\nZL16TcL4w2PHfE1XK9WiQKKcuBcVy56dcrynJD6pump\n\nPosted about this yesterday\n\nEverything moved exactly where it was expected\n\nWould like to say that range got farmed clean. It did not\n\nDid not touch the token\n\nHighlighting risks in https://t.co/oNfxRQGokp https://t.co/AnR3UZecSJ",
+    "cleaned_at": "2026-04-08T15:01:14.758217"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 2,
+      "reply_count": 5,
+      "like_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 655
+    },
+    "text": "X just removed link deboosting.\n\nGood for creators like me.\nI can start sharing research articles and onchain data without getting buried.\n\nBut it's also bad for everyone.\nScam links, phishing sites, and fake airdrop links might appear more on your feed now.\n\nStay vigilant. https://t.co/ZOoiBMWLv8",
+    "id": "2041767958935220501",
+    "conversation_id": "2041767958935220501",
+    "entities": {
+      "urls": [
+        {
+          "start": 275,
+          "end": 298,
+          "url": "https://t.co/ZOoiBMWLv8",
+          "expanded_url": "https://twitter.com/2207129125/status/2041639771999465960",
+          "display_url": "x.com/2207129125/sta…"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T06:39:50.000Z",
+    "edit_history_tweet_ids": [
+      "2041767958935220501"
+    ],
+    "author_id": "1649801130623352833",
+    "cleaned_at": "2026-04-08T15:01:14.758218"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 251
+    },
+    "text": "@tanyarlfes Gak bakalan bisa di pindah, jelas² itu scam.\nAwas device kena phishing .\n\nNih, di X tahun kemarin malah banyak https://t.co/6f4qeCALtY",
+    "id": "2041764590837756305",
+    "conversation_id": "2041731549666693315",
+    "entities": {
+      "urls": [
+        {
+          "start": 123,
+          "end": 146,
+          "url": "https://t.co/6f4qeCALtY",
+          "expanded_url": "https://x.com/kawailia67/status/2041764590837756305/photo/1",
+          "display_url": "pic.x.com/6f4qeCALtY",
+          "media_key": "3_2041764586538606592"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "tanyarlfes",
+          "id": "1371650588"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T06:26:27.000Z",
+    "edit_history_tweet_ids": [
+      "2041764590837756305"
+    ],
+    "author_id": "1791456081191047168",
+    "cleaned_at": "2026-04-08T15:01:14.758219"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//pojksjojd[.]weebly[.]com/\n 🧬 Analysis at: https://t.co/SDBNQ7I7Ne\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/lFvn8LQR3P",
+    "id": "2041757976524980317",
+    "conversation_id": "2041757976524980317",
+    "entities": {
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/SDBNQ7I7Ne",
+          "expanded_url": "https://urldna.io/scan/69d587903b77500009b43662",
+          "display_url": "urldna.io/scan/69d587903…",
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d587903b77500009b43662"
+        },
+        {
+          "start": 168,
+          "end": 191,
+          "url": "https://t.co/lFvn8LQR3P",
+          "expanded_url": "https://x.com/urldna_bot/status/2041757976524980317/photo/1",
+          "display_url": "pic.x.com/lFvn8LQR3P",
+          "media_key": "3_2041757974449053696"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 103,
+          "end": 117,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 118,
+          "end": 127,
+          "tag": "phishing"
+        },
+        {
+          "start": 128,
+          "end": 136,
+          "tag": "infosec"
+        },
+        {
+          "start": 137,
+          "end": 144,
+          "tag": "urldna"
+        },
+        {
+          "start": 145,
+          "end": 150,
+          "tag": "scam"
+        },
+        {
+          "start": 151,
+          "end": 159,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 160,
+          "end": 167,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T06:00:10.000Z",
+    "edit_history_tweet_ids": [
+      "2041757976524980317"
+    ],
+    "author_id": "1641789500056535042",
+    "cleaned_at": "2026-04-08T15:01:14.758219"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "text": "@Lily_Nguyen111 @puffpaw @berachain @beravietnam telegram bot asking for wallet verification is a phishing scam.",
+    "id": "2041751624075636818",
+    "conversation_id": "2041726396813480285",
+    "created_at": "2026-04-08T05:34:55.000Z",
+    "edit_history_tweet_ids": [
+      "2041751624075636818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "Lily_Nguyen111",
+          "id": "761377468980670464"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "username": "puffpaw",
+          "id": "1652099320446062592"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "username": "berachain",
+          "id": "1471917994762670081"
+        },
+        {
+          "start": 36,
+          "end": 48,
+          "username": "beravietnam",
+          "id": "1832219876146212867"
+        }
+      ]
+    },
+    "author_id": "818705139120734209",
+    "cleaned_at": "2026-04-08T15:01:14.758220"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//bjbmn[.]weebly[.]com\n 🧬 Analysis at: https://t.co/QsQFQdOgKi\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/4Pylg7VlP0",
+    "id": "2041727763778842948",
+    "conversation_id": "2041727763778842948",
+    "entities": {
+      "urls": [
+        {
+          "start": 74,
+          "end": 97,
+          "url": "https://t.co/QsQFQdOgKi",
+          "expanded_url": "https://urldna.io/scan/69d55c0b3b77500005d2f597",
+          "display_url": "urldna.io/scan/69d55c0b3…",
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d55c0b3b77500005d2f597"
+        },
+        {
+          "start": 163,
+          "end": 186,
+          "url": "https://t.co/4Pylg7VlP0",
+          "expanded_url": "https://x.com/urldna_bot/status/2041727763778842948/photo/1",
+          "display_url": "pic.x.com/4Pylg7VlP0",
+          "media_key": "3_2041727762046840837"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 98,
+          "end": 112,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 113,
+          "end": 122,
+          "tag": "phishing"
+        },
+        {
+          "start": 123,
+          "end": 131,
+          "tag": "infosec"
+        },
+        {
+          "start": 132,
+          "end": 139,
+          "tag": "urldna"
+        },
+        {
+          "start": 140,
+          "end": 145,
+          "tag": "scam"
+        },
+        {
+          "start": 146,
+          "end": 154,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 155,
+          "end": 162,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T04:00:07.000Z",
+    "edit_history_tweet_ids": [
+      "2041727763778842948"
+    ],
+    "author_id": "1641789500056535042",
+    "cleaned_at": "2026-04-08T15:01:14.758220"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 32
+    },
+    "text": "@salinisalazini @samborghiniz I been getting these DMs all morning. Just ignore them. It’s absolutely a phishing scam.",
+    "id": "2041727424757473390",
+    "conversation_id": "2041699267476160518",
+    "created_at": "2026-04-08T03:58:46.000Z",
+    "edit_history_tweet_ids": [
+      "2041727424757473390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "salinisalazini",
+          "id": "22573806"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "username": "samborghiniz",
+          "id": "2023296371777040384"
+        }
+      ]
+    },
+    "author_id": "37740233",
+    "cleaned_at": "2026-04-08T15:01:14.758221"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 40
+    },
+    "text": "5 modus scam crypto yang paling sering terjadi:\n\n1️⃣ Fake giveaway (\"Kirim 1 BTC, dapat 2 BTC\")\n2️⃣ Phishing link (website palsu mirip exchange asli)\n3️⃣ Fake admin DM (\"Akun kamu bermasalah, klik sini\")\n4️⃣ Rug pull (project kabur bawa dana investor)",
+    "id": "2041717422970040709",
+    "conversation_id": "2041717100168016221",
+    "created_at": "2026-04-08T03:19:01.000Z",
+    "edit_history_tweet_ids": [
+      "2041717422970040709"
+    ],
+    "author_id": "1126800982065565697",
+    "cleaned_at": "2026-04-08T15:01:14.758221"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 37
+    },
+    "text": "Oh geez Nick, Thanks for the little scam alert. Duh.   While you're busy warning us about phishing texts demanding fake ticket money, WA state's real grift...sky-high taxes, forced EV mandates, $37M in \"questionable\" childcare subsidies, and predatory regs has been quietly https://t.co/l2BGMfrfYD",
+    "id": "2041711495407661426",
+    "conversation_id": "2041711495407661426",
+    "entities": {
+      "urls": [
+        {
+          "start": 274,
+          "end": 297,
+          "url": "https://t.co/l2BGMfrfYD",
+          "expanded_url": "https://twitter.com/AGOWA/status/2041309601531076709",
+          "display_url": "x.com/AGOWA/status/2…"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T02:55:28.000Z",
+    "edit_history_tweet_ids": [
+      "2041711495407661426"
+    ],
+    "author_id": "1747334906383073280",
+    "cleaned_at": "2026-04-08T15:01:14.758222"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 62
+    },
+    "text": "@realMattDeaton @agent_mock @kellyaulrich11 @SherryLyn369 @lassie_wee19499 @Cekr4u2 @ManCalledSunday @LaRethwisch @Nicole158424 @LOVESD2024 @Matea98900419 @JillLafavor @Roryking008 @KatSuerte @4288M4288 @G2candle @chuzehappy @fchartier78 @s909so9 @DTOMTG @JoyfulLove1086 @steven196459 @isbestarseed @Ano69626777Anon @HouseofManKIND @Fugrat1 @Takenbysunbeam @frankiesfight @teanhe63 @dianeFlori33903 UPDATE: This is what the @X @chat \"co-host podcast click link to vote\" phishing scam looks like that has been getting people hacked on here. \n\n@SgtMattingly you hacked? \n\nCan we get a side wide ban on these URL's \"vote.sp4rk. top\"\n\ncc: @nikitabier @elonmusk @safety @support https://t.co/X8uV3BQuL1",
+    "id": "2041710787757068452",
+    "conversation_id": "1919427614512685403",
+    "entities": {
+      "urls": [
+        {
+          "start": 674,
+          "end": 697,
+          "url": "https://t.co/X8uV3BQuL1",
+          "expanded_url": "https://x.com/NotOpCue/status/2041710787757068452/photo/1",
+          "display_url": "pic.x.com/X8uV3BQuL1",
+          "media_key": "3_2041710061211545601"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "realMattDeaton",
+          "id": "1601193284545781760"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "agent_mock",
+          "id": "1863935340043767809"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "username": "kellyaulrich11",
+          "id": "1587477042626531328"
+        },
+        {
+          "start": 44,
+          "end": 57,
+          "username": "SherryLyn369",
+          "id": "1587486634626453511"
+        },
+        {
+          "start": 58,
+          "end": 74,
+          "username": "lassie_wee19499",
+          "id": "1741111820167868417"
+        },
+        {
+          "start": 75,
+          "end": 83,
+          "username": "Cekr4u2",
+          "id": "888591979600334848"
+        },
+        {
+          "start": 84,
+          "end": 100,
+          "username": "ManCalledSunday",
+          "id": "1489397029558181890"
+        },
+        {
+          "start": 101,
+          "end": 113,
+          "username": "LaRethwisch",
+          "id": "1797797759967203328"
+        },
+        {
+          "start": 114,
+          "end": 127,
+          "username": "Nicole158424",
+          "id": "1857481335566381058"
+        },
+        {
+          "start": 128,
+          "end": 139,
+          "username": "LOVESD2024",
+          "id": "1703106875347410944"
+        },
+        {
+          "start": 140,
+          "end": 154,
+          "username": "Matea98900419",
+          "id": "1585697531983695872"
+        },
+        {
+          "start": 155,
+          "end": 167,
+          "username": "JillLafavor",
+          "id": "1597872752479932417"
+        },
+        {
+          "start": 168,
+          "end": 180,
+          "username": "Roryking008",
+          "id": "1346957228364980227"
+        },
+        {
+          "start": 181,
+          "end": 191,
+          "username": "KatSuerte",
+          "id": "1769335147780771840"
+        },
+        {
+          "start": 192,
+          "end": 202,
+          "username": "4288M4288",
+          "id": "1712306623689916416"
+        },
+        {
+          "start": 203,
+          "end": 212,
+          "username": "G2candle",
+          "id": "1667724314894909440"
+        },
+        {
+          "start": 213,
+          "end": 224,
+          "username": "chuzehappy",
+          "id": "706133797910097920"
+        },
+        {
+          "start": 225,
+          "end": 237,
+          "username": "fchartier78",
+          "id": "1761096555358978048"
+        },
+        {
+          "start": 238,
+          "end": 246,
+          "username": "s909so9",
+          "id": "1791216739318980608"
+        },
+        {
+          "start": 247,
+          "end": 254,
+          "username": "DTOMTG",
+          "id": "1597394056694272000"
+        },
+        {
+          "start": 255,
+          "end": 270,
+          "username": "JoyfulLove1086",
+          "id": "1651010373716156416"
+        },
+        {
+          "start": 271,
+          "end": 284,
+          "username": "steven196459",
+          "id": "1674700493237395458"
+        },
+        {
+          "start": 285,
+          "end": 298,
+          "username": "isbestarseed",
+          "id": "1433476427278692353"
+        },
+        {
+          "start": 299,
+          "end": 315,
+          "username": "Ano69626777Anon",
+          "id": "1595835787882512385"
+        },
+        {
+          "start": 316,
+          "end": 331,
+          "username": "HouseofManKIND",
+          "id": "1867986300529188864"
+        },
+        {
+          "start": 332,
+          "end": 340,
+          "username": "Fugrat1",
+          "id": "1351662791623659521"
+        },
+        {
+          "start": 341,
+          "end": 356,
+          "username": "Takenbysunbeam",
+          "id": "1594137908923060224"
+        },
+        {
+          "start": 357,
+          "end": 371,
+          "username": "frankiesfight",
+          "id": "907309140296400896"
+        },
+        {
+          "start": 372,
+          "end": 381,
+          "username": "teanhe63",
+          "id": "1511987880285155330"
+        },
+        {
+          "start": 382,
+          "end": 398,
+          "username": "dianeFlori33903",
+          "id": "1869443863879753728"
+        },
+        {
+          "start": 424,
+          "end": 426,
+          "username": "X",
+          "id": "783214"
+        },
+        {
+          "start": 427,
+          "end": 432,
+          "username": "chat",
+          "id": "1928879631526141952"
+        },
+        {
+          "start": 542,
+          "end": 555,
+          "username": "SgtMattingly",
+          "id": "1374931556591144960"
+        },
+        {
+          "start": 635,
+          "end": 646,
+          "username": "nikitabier",
+          "id": "636513296"
+        },
+        {
+          "start": 647,
+          "end": 656,
+          "username": "elonmusk",
+          "id": "44196397"
+        },
+        {
+          "start": 657,
+          "end": 664,
+          "username": "Safety",
+          "id": "95731075"
+        },
+        {
+          "start": 665,
+          "end": 673,
+          "username": "Support",
+          "id": "17874544"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T02:52:39.000Z",
+    "edit_history_tweet_ids": [
+      "2041710787757068452"
+    ],
+    "author_id": "1595537956751740928",
+    "cleaned_at": "2026-04-08T15:01:14.758222"
+  }
+]
