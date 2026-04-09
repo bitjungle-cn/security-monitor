@@ -1,0 +1,2118 @@
+[
+  {
+    "conversation_id": "2041988895009861986",
+    "author_id": "1624286098737483778",
+    "id": "2041988895009861986",
+    "edit_history_tweet_ids": [
+      "2041988895009861986"
+    ],
+    "created_at": "2026-04-08T21:17:45.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 93,
+          "end": 97,
+          "tag": "btc"
+        }
+      ]
+    },
+    "text": "🔥比特币ATM运营商披露公司遭黑客攻击，价值360万美元BTC被盗\n\n比特币ATM运营商披露，攻击者两周前获取了结算账户凭证的控制权并盗取了BTC，导致价值360万美元的比特币被盗。\n\n#btc",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 161
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754539"
+  },
+  {
+    "conversation_id": "2041880171037491329",
+    "author_id": "2036816513152471040",
+    "id": "2041911738640297992",
+    "edit_history_tweet_ids": [
+      "2041911738640297992"
+    ],
+    "created_at": "2026-04-08T16:11:10.000Z",
+    "text": "@ApemarsOfficial 你好，我的钱包秘钥被盗，我领取代币的时候，怎么更换钱包地址啊？",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "ApemarsOfficial",
+          "id": "1990904365968994308"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754541"
+  },
+  {
+    "conversation_id": "2032467380971200921",
+    "author_id": "2036816513152471040",
+    "id": "2041911391444172856",
+    "edit_history_tweet_ids": [
+      "2041911391444172856"
+    ],
+    "created_at": "2026-04-08T16:09:47.000Z",
+    "text": "@Pepetocoin 你好，我的钱包秘钥被盗了，请问我接受代币的时候，怎么更换钱包地址？",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Pepetocoin",
+          "id": "1838258945841844224"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754542"
+  },
+  {
+    "conversation_id": "2041906407188873303",
+    "author_id": "1782469148586672130",
+    "id": "2041906407188873303",
+    "edit_history_tweet_ids": [
+      "2041906407188873303"
+    ],
+    "created_at": "2026-04-08T15:49:58.000Z",
+    "text": "谁去把阿峰钱包盗了，当初奶牛钱包被盗了，币圈平静了不久，如果他的钱包被盗了，币圈就会好很多",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 25
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754543"
+  },
+  {
+    "conversation_id": "2041905819026125207",
+    "author_id": "1876127893258194944",
+    "id": "2041905819026125207",
+    "edit_history_tweet_ids": [
+      "2041905819026125207"
+    ],
+    "created_at": "2026-04-08T15:47:38.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/MIZ7LjHiWt",
+          "expanded_url": "https://x.com/0xteddyo/status/2041905819026125207/photo/1",
+          "display_url": "pic.x.com/MIZ7LjHiWt",
+          "media_key": "3_2041905785656242179"
+        }
+      ]
+    },
+    "text": "每到熊市就有大量被盗事件，不管是不是有些项目方监守自盗，这都说明了币圈的一个大弱点，那就是很多情况下不是黑客多牛逼，而是“一把钥匙只捏在一个人手里”\nDuring every bear market, we see a surge in security breaches and thefts. Whether it's internal \"rug pulls\" or external hacks, it all https://t.co/MIZ7LjHiWt",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 32
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754544"
+  },
+  {
+    "conversation_id": "2041708862085198334",
+    "author_id": "990775249036722176",
+    "id": "2041897853786968368",
+    "edit_history_tweet_ids": [
+      "2041897853786968368"
+    ],
+    "created_at": "2026-04-08T15:15:59.000Z",
+    "text": "@yayabinance 报道一下，自从开年被盗之后，我现在全部币安钱包",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 41
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "yayabinance",
+          "id": "1300621581652119552"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754544"
+  },
+  {
+    "conversation_id": "2041877802866373042",
+    "author_id": "1895387726742200326",
+    "id": "2041885212997775392",
+    "edit_history_tweet_ids": [
+      "2041885212997775392"
+    ],
+    "created_at": "2026-04-08T14:25:45.000Z",
+    "text": "@PhyrexNi 伊朗很难掌控加密货币的安全性！更容易被盗！",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "PhyrexNi",
+          "id": "555634740"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754545"
+  },
+  {
+    "conversation_id": "2041882835267600794",
+    "author_id": "1388256056",
+    "id": "2041882835267600794",
+    "edit_history_tweet_ids": [
+      "2041882835267600794"
+    ],
+    "created_at": "2026-04-08T14:16:18.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 81,
+          "end": 104,
+          "url": "https://t.co/qopSAy3tYQ",
+          "expanded_url": "https://etherscan.io/address/0x1d880684b7086fcf37f876757e0f1b0d3fbd4962",
+          "display_url": "etherscan.io/address/0x1d88…",
+          "status": 200,
+          "title": "Address: 0x1d880684...d3fbd4962 | Etherscan",
+          "description": "Address (Authority) | Balance: $8,397.36 across 12 Chains | Transactions: 64 | As at Apr-08-2026 02:16:19 PM (UTC)",
+          "unwound_url": "https://etherscan.io/address/0x1d880684b7086fcf37f876757e0f1b0d3fbd4962"
+        },
+        {
+          "start": 116,
+          "end": 139,
+          "url": "https://t.co/DQsXYtPpQx",
+          "expanded_url": "https://light.misttrack.io/address/ETH/0x1d880684b7086FCF37F876757e0f1B0d3Fbd4962",
+          "display_url": "light.misttrack.io/address/ETH/0x…",
+          "status": 403,
+          "unwound_url": "https://light.misttrack.io/address/ETH/0x1d880684b7086FCF37F876757e0f1B0d3Fbd4962"
+        },
+        {
+          "start": 158,
+          "end": 181,
+          "url": "https://t.co/YMweZS3JYz",
+          "expanded_url": "https://dashboard.misttrack.io/address/ETH/0xb66a6656488153c346c820133f9c94e0e4babf3b",
+          "display_url": "dashboard.misttrack.io/address/ETH/0x…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041882839596027904/VwsnAJre?format=jpg&name=orig",
+              "width": 1600,
+              "height": 837
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041882839596027904/VwsnAJre?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "MistTrack",
+          "description": "A crypto tracing and compliance platform for everyone. Core features include wallet risk scoring, transaction analysis, fund traceability, and address monitoring.",
+          "unwound_url": "https://dashboard.misttrack.io/address/ETH/0xb66a6656488153c346c820133f9c94e0e4babf3b"
+        }
+      ]
+    },
+    "text": "最新因为电脑安装vscode后门插件导致metamask数据泄露造成了一定的损失，就利用一些免费的工具和平台追踪了下币的去向：\n\n最初被盗的钱都转入了这个地址：\nhttps://t.co/qopSAy3tYQ\n这个地址的转账分析：\nhttps://t.co/DQsXYtPpQx\n汇总资金后转为eth，继续汇集到：\nhttps://t.co/YMweZS3JYz",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 32
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754546"
+  },
+  {
+    "conversation_id": "2041857469564252376",
+    "author_id": "2041832679419867138",
+    "id": "2041857469564252376",
+    "edit_history_tweet_ids": [
+      "2041857469564252376"
+    ],
+    "created_at": "2026-04-08T12:35:31.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 127,
+          "end": 150,
+          "url": "https://t.co/iLTPg8kpdZ",
+          "expanded_url": "https://x.com/Rubbit3i/status/2041857469564252376/photo/1",
+          "display_url": "pic.x.com/iLTPg8kpdZ",
+          "media_key": "3_2041857462295523331"
+        }
+      ]
+    },
+    "text": "新维度正式入驻twitter\n团队主要专注解决虚拟货币被盗、被骗、冻结、助记词丢失问题，提供链上追踪、司法取证、申诉解冻等专业技术服务。\n服务对象：\n个人受害者、律师事务所、经侦部门、法院执行局等\n如有需求，欢迎垂询合作。\nVX：ccc55881010 https://t.co/iLTPg8kpdZ",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "cleaned_at": "2026-04-09T08:46:46.754546"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "author_id": "1908911870406242304",
+    "text": "@MarioNawfal Chinese supercomps getting crypto-hacked? Deepseek R1 exposed their vulnerabilities back in 2025, and this is just reheated Equihash tactics,wont amount to more than a market blip but nobody's ready for that conversation",
+    "id": "2042040884846379012",
+    "created_at": "2026-04-09T00:44:20.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "MarioNawfal",
+          "id": "1319287761048723458"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042040884846379012"
+    ],
+    "conversation_id": "2042037276293636447",
+    "cleaned_at": "2026-04-09T08:46:46.754547"
+  },
+  {
+    "entities": {
+      "hashtags": [
+        {
+          "start": 75,
+          "end": 82,
+          "tag": "crypto"
+        },
+        {
+          "start": 83,
+          "end": 92,
+          "tag": "security"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 14
+    },
+    "author_id": "972884829200003073",
+    "text": "QuickSwap Discord server hacked! Urgent warning issued: avoid all content. #crypto #security",
+    "id": "2042026445640528188",
+    "created_at": "2026-04-08T23:46:58.000Z",
+    "edit_history_tweet_ids": [
+      "2042026445640528188"
+    ],
+    "conversation_id": "2042026445640528188",
+    "cleaned_at": "2026-04-09T08:46:46.754548"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/mWpsbt6fAz",
+          "expanded_url": "https://x.com/JasonMyer/status/2042022238124437749/photo/1",
+          "display_url": "pic.x.com/mWpsbt6fAz",
+          "media_key": "3_2042022125826142211"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "jaredpolis",
+          "id": "15361570"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 22
+    },
+    "author_id": "1707899701847261184",
+    "text": "@jaredpolis Lost? or hacked for keys?\n\nYou have crypto chads trying to making money in your gyms by the way, probably scamming people. All of them.\n\nWe ever going to talk about the X app harrassment btw? https://t.co/mWpsbt6fAz",
+    "id": "2042022238124437749",
+    "created_at": "2026-04-08T23:30:15.000Z",
+    "edit_history_tweet_ids": [
+      "2042022238124437749"
+    ],
+    "conversation_id": "2042018538119107030",
+    "cleaned_at": "2026-04-09T08:46:46.754549"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "author_id": "1438594093240684545",
+    "text": "@aymanprv I heard you lost your bitcoin and crypto got hacked",
+    "id": "2042021925891748261",
+    "created_at": "2026-04-08T23:29:00.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "aymanprv",
+          "id": "1494098029468479488"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042021925891748261"
+    ],
+    "conversation_id": "2042018305997992041",
+    "cleaned_at": "2026-04-09T08:46:46.754549"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 23
+    },
+    "author_id": "871613800239304704",
+    "text": "@DiligentDenizen People need to be careful what crypto address they post on giveaways too, never ever post your main wallets, thats a great way to get hacked",
+    "id": "2042017653343105176",
+    "created_at": "2026-04-08T23:12:02.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "DiligentDenizen",
+          "id": "1585809424135995392"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042017653343105176"
+    ],
+    "conversation_id": "2041994477926060134",
+    "cleaned_at": "2026-04-09T08:46:46.754550"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "author_id": "1671481412",
+    "text": "@NichtSoham 🤣🤣 got hacked by a crypto nerd ffs cba. twitter support is so shit too, they didn’t even bother trying to get me access back",
+    "id": "2042016065669005630",
+    "created_at": "2026-04-08T23:05:43.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "NichtSoham",
+          "id": "191364689"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042016065669005630"
+    ],
+    "conversation_id": "2041978680621084856",
+    "cleaned_at": "2026-04-09T08:46:46.754551"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 297,
+          "end": 320,
+          "url": "https://t.co/1rTT3q9z4M",
+          "expanded_url": "https://x.com/TheTideisHigh23/status/2042014924562665480/photo/1",
+          "display_url": "pic.x.com/1rTT3q9z4M",
+          "media_key": "16_2042014917935689729"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "FBIDirectorKash",
+          "id": "1892594777075417088"
+        },
+        {
+          "start": 17,
+          "end": 30,
+          "username": "FBICharlotte",
+          "id": "351148755"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "author_id": "1788012936499458048",
+    "text": "@FBIDirectorKash @FBICharlotte Trump’s administration has been hacked four times since January, leaked war plans to a reporter, breached our social security system, and has Trump’s sons buying crypto rigs from Bitmain, China’s largest cryptocurrency manufacturer—being investigated for espionage. https://t.co/1rTT3q9z4M",
+    "id": "2042014924562665480",
+    "created_at": "2026-04-08T23:01:11.000Z",
+    "edit_history_tweet_ids": [
+      "2042014924562665480"
+    ],
+    "conversation_id": "2041992640598622272",
+    "cleaned_at": "2026-04-09T08:46:46.754552"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "author_id": "45085868",
+    "text": "@Tsarjc112 Can't risk losing your X account, wallet or email? The fear of getting hacked or banned is real in crypto.",
+    "id": "2042011371475193936",
+    "created_at": "2026-04-08T22:47:04.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Tsarjc112",
+          "id": "1688568904413511680"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042011371475193936"
+    ],
+    "conversation_id": "2042004478962880551",
+    "cleaned_at": "2026-04-09T08:46:46.754552"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 38
+    },
+    "author_id": "4894890037",
+    "text": "Hey @BarryGr66 got a message from you about buying a new car &amp; crypto investing...think you mighta been hacked(?)",
+    "id": "2042010251512442915",
+    "created_at": "2026-04-08T22:42:37.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 4,
+          "end": 14,
+          "username": "BarryGr66",
+          "id": "962622960870633472"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042010251512442915"
+    ],
+    "conversation_id": "2042010251512442915",
+    "cleaned_at": "2026-04-09T08:46:46.754553"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "author_id": "1369314004955435014",
+    "text": "@brian_trollz “North korean lazarus group has hacked iranian ledger crypto devices”",
+    "id": "2042004756428919044",
+    "created_at": "2026-04-08T22:20:47.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "brian_trollz",
+          "id": "721049861399949313"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042004756428919044"
+    ],
+    "conversation_id": "2041920103181144450",
+    "cleaned_at": "2026-04-09T08:46:46.754554"
+  },
+  {
+    "created_at": "2026-04-09T00:45:06.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 207,
+          "end": 215,
+          "tag": "UNC6783"
+        },
+        {
+          "start": 216,
+          "end": 227,
+          "tag": "BPOAttacks"
+        },
+        {
+          "start": 228,
+          "end": 233,
+          "tag": "Okta"
+        }
+      ],
+      "urls": [
+        {
+          "start": 234,
+          "end": 257,
+          "url": "https://t.co/7yhRT7sTbg",
+          "expanded_url": "https://ift.tt/2yKmzIj",
+          "display_url": "ift.tt/2yKmzIj",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042041118942990336/HsYlS4Pm?format=jpg&name=orig",
+              "width": 1600,
+              "height": 900
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042041118942990336/HsYlS4Pm?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
+          "description": "UNC6783 is compromising business process outsourcing (BPO) providers to access and exfiltrate sensitive data from high-value companies across multiple sectors and then extorting victims for payment. Their tactics include social engineering, phishing to spoof Okta logins on Zendesk-patterned domains, clipboard-stealing phishing kits to bypass MFA, delivery of remote access trojans via fake security updates, and extortion contacts via ProtonMail. #UNC6783 #Raccoon #Okta #Zendesk #Adobe",
+          "unwound_url": "https://www.hendryadrian.com/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/"
+        }
+      ]
+    },
+    "id": "2042041076349812862",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "text": "UNC6783 hackers exploit BPO providers to steal and extort sensitive corporate data using Okta login spoofing on Zendesk-like domains, clipboard phishing, and remote access Trojans via fake security updates. #UNC6783 #BPOAttacks #Okta\nhttps://t.co/7yhRT7sTbg",
+    "author_id": "1859780116014141440",
+    "conversation_id": "2042041076349812862",
+    "edit_history_tweet_ids": [
+      "2042041076349812862"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754555"
+  },
+  {
+    "created_at": "2026-04-09T00:36:59.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 245,
+          "end": 257,
+          "tag": "DevSecurity"
+        },
+        {
+          "start": 258,
+          "end": 265,
+          "tag": "GitHub"
+        },
+        {
+          "start": 266,
+          "end": 279,
+          "tag": "SQLInjection"
+        }
+      ]
+    },
+    "id": "2042039033178534059",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "text": "Your PR just got reviewed by an AI security engineer.\n\nFixor scans every Pull Request for SQL injection — automatically.\nIt finds the vulnerable line, generates a real exploit to prove it,\nand posts a full fix directly on your PR.\n\nShip safe. 🔒\n#DevSecurity #GitHub #SQLInjection",
+    "author_id": "2040506531200782336",
+    "conversation_id": "2042039033178534059",
+    "edit_history_tweet_ids": [
+      "2042039033178534059"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754555"
+  },
+  {
+    "created_at": "2026-04-09T00:35:40.000Z",
+    "id": "2042038700226572598",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 62
+    },
+    "text": "Claude Mythos discovered a major security exploit that the worlds best security experts missed:\n\na 27 year old bug that weakened a security system used by companies all over the world…\n\nheres the crazy story (we might be cooked) https://t.co/5r0JmmstFQ",
+    "entities": {
+      "urls": [
+        {
+          "start": 229,
+          "end": 252,
+          "url": "https://t.co/5r0JmmstFQ",
+          "expanded_url": "https://x.com/LimitlessFT/status/2042038700226572598/video/1",
+          "display_url": "pic.x.com/5r0JmmstFQ",
+          "media_key": "13_2042038219139899392"
+        }
+      ]
+    },
+    "author_id": "1459260156844265472",
+    "conversation_id": "2042038700226572598",
+    "edit_history_tweet_ids": [
+      "2042038700226572598"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754556"
+  },
+  {
+    "created_at": "2026-04-09T00:30:57.000Z",
+    "id": "2042037513678660022",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 6,
+          "username": "k8em0",
+          "id": "15447522"
+        }
+      ],
+      "urls": [
+        {
+          "start": 258,
+          "end": 281,
+          "url": "https://t.co/psu6htjwqQ",
+          "expanded_url": "https://twitter.com/zachxbt/status/2042025739256787103",
+          "display_url": "x.com/zachxbt/status…"
+        }
+      ]
+    },
+    "text": "@k8em0 built Luta Security on the principle that vulnerabilities must be discovered before attackers exploit them.\n\nAI Detective applies that principle to content. Our image and video detection identifies manipulation artifacts the human eye cannot catch -- https://t.co/psu6htjwqQ",
+    "author_id": "2023133950949146624",
+    "conversation_id": "2042037513678660022",
+    "edit_history_tweet_ids": [
+      "2042037513678660022"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754557"
+  },
+  {
+    "created_at": "2026-04-09T00:30:07.000Z",
+    "id": "2042037305746321586",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 25
+    },
+    "text": "Similar situation with Chinese owned luxury tourist resort hotels in Fiji many years ago. Exploit native Fijian workers. Pay $2 per hour. Employ on 3 month contracts. Bus tour guide by day. DJ at night. 14 hours work. No job security. If they complained, they lost their jobs. Sad https://t.co/8mXDsdWk9u",
+    "entities": {
+      "urls": [
+        {
+          "start": 281,
+          "end": 304,
+          "url": "https://t.co/8mXDsdWk9u",
+          "expanded_url": "https://twitter.com/kiengekki/status/2041947955230601420",
+          "display_url": "x.com/kiengekki/stat…"
+        }
+      ]
+    },
+    "author_id": "896451571",
+    "conversation_id": "2042037305746321586",
+    "edit_history_tweet_ids": [
+      "2042037305746321586"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754558"
+  },
+  {
+    "created_at": "2026-04-09T00:03:56.000Z",
+    "id": "2042030716691616037",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Techjunkie_Aman",
+          "id": "1611229157748535296"
+        }
+      ]
+    },
+    "text": "@Techjunkie_Aman The fact that basic software autonomy on iOS requires exploit-based workarounds to bypass arbitrary limits is the perfect example of security being used as a pretext for platform control.",
+    "author_id": "2016945781068955648",
+    "conversation_id": "2041945275313615109",
+    "edit_history_tweet_ids": [
+      "2042030716691616037"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754558"
+  },
+  {
+    "created_at": "2026-04-09T00:01:32.000Z",
+    "id": "2042030111138992375",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "text": "When cloud security lags behind growth, gaps emerge. Cyber threats exploit weak governance, risking breaches and compliance failures. Prioritize governance alongside growth to stay protected. https://t.co/IiEBZN8uTs",
+    "entities": {
+      "urls": [
+        {
+          "start": 192,
+          "end": 215,
+          "url": "https://t.co/IiEBZN8uTs",
+          "expanded_url": "https://x.com/ArcherRound/status/2042030111138992375/video/1",
+          "display_url": "pic.x.com/IiEBZN8uTs",
+          "media_key": "7_2042030095473184768"
+        }
+      ]
+    },
+    "author_id": "1928685279281557504",
+    "conversation_id": "2042030111138992375",
+    "edit_history_tweet_ids": [
+      "2042030111138992375"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754559"
+  },
+  {
+    "created_at": "2026-04-09T00:00:26.000Z",
+    "id": "2042029834428411919",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "text": "Agent frameworks like RouterXPL-Forge (647 modules!) and Vulnmind highlight the trend: security tools are becoming autonomous agents. But more automation means more attack vectors. Every decision point is a potential exploit path.",
+    "author_id": "15471332",
+    "conversation_id": "2042029833329504590",
+    "edit_history_tweet_ids": [
+      "2042029834428411919"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754560"
+  },
+  {
+    "created_at": "2026-04-08T23:58:15.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 227,
+          "end": 235,
+          "tag": "Android"
+        },
+        {
+          "start": 236,
+          "end": 250,
+          "tag": "CyberSecurity"
+        }
+      ],
+      "urls": [
+        {
+          "start": 251,
+          "end": 274,
+          "url": "https://t.co/V96zhwmiWV",
+          "expanded_url": "https://x.com/CyberWolfGuard/status/2042029285540520050/photo/1",
+          "display_url": "pic.x.com/V96zhwmiWV",
+          "media_key": "3_2042029253487624192"
+        }
+      ]
+    },
+    "id": "2042029285540520050",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "text": "🚨 Android Security Alert: \nGoogle discloses CVE-2026-0049: a zero interaction DoS flaw in Android 14–16. \nNo user action needed to exploit, devices can be rendered unresponsive. \nPatch now via April 2026 update (2026-04-05+). \n#Android #CyberSecurity https://t.co/V96zhwmiWV",
+    "author_id": "1905796080111128576",
+    "conversation_id": "2042029285540520050",
+    "edit_history_tweet_ids": [
+      "2042029285540520050"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754561"
+  },
+  {
+    "created_at": "2026-04-08T23:36:56.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 100,
+          "end": 103,
+          "tag": "AI"
+        },
+        {
+          "start": 104,
+          "end": 113,
+          "tag": "Security"
+        },
+        {
+          "start": 114,
+          "end": 122,
+          "tag": "AIAgent"
+        }
+      ],
+      "urls": [
+        {
+          "start": 123,
+          "end": 146,
+          "url": "https://t.co/xc6N0icyKB",
+          "expanded_url": "https://twitter.com/HowToAI_/status/2041026315051262048",
+          "display_url": "x.com/HowToAI_/statu…"
+        }
+      ]
+    },
+    "id": "2042023921265103232",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 43
+    },
+    "text": "レッドチームを多段エージェントで自動化するOSS。recon/exploit/report を役割分担させる構成はリアルだけど、結局は各ステップのツール呼び出しと再試行ループの堅牢性勝負になる印象。 #AI #Security #AIAgent https://t.co/xc6N0icyKB",
+    "author_id": "2019339519200497664",
+    "conversation_id": "2042023921265103232",
+    "edit_history_tweet_ids": [
+      "2042023921265103232"
+    ],
+    "cleaned_at": "2026-04-09T08:46:46.754561"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042040364148597127"
+    ],
+    "id": "2042040364148597127",
+    "entities": {
+      "urls": [
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/odCBBKDTN8",
+          "expanded_url": "https://x.com/tongxin456/status/2042040364148597127/photo/1",
+          "display_url": "pic.x.com/odCBBKDTN8",
+          "media_key": "3_2042040351234416640"
+        },
+        {
+          "start": 51,
+          "end": 74,
+          "url": "https://t.co/odCBBKDTN8",
+          "expanded_url": "https://x.com/tongxin456/status/2042040364148597127/photo/1",
+          "display_url": "pic.x.com/odCBBKDTN8",
+          "media_key": "3_2042040351263748096"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 26,
+          "end": 31,
+          "tag": "ATM奴"
+        },
+        {
+          "start": 32,
+          "end": 36,
+          "tag": "提款机"
+        },
+        {
+          "start": 37,
+          "end": 40,
+          "tag": "贡猪"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "tag": "鞋底"
+        },
+        {
+          "start": 45,
+          "end": 50,
+          "tag": "女尊男卑"
+        }
+      ]
+    },
+    "created_at": "2026-04-09T00:42:16.000Z",
+    "conversation_id": "2042040364148597127",
+    "author_id": "1460645157913919491",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "text": "就这样看着你亲妈的鞋底，不停的上贡，直至被掏空钱包 #ATM奴 #提款机 #贡猪 #鞋底 #女尊男卑 https://t.co/odCBBKDTN8",
+    "cleaned_at": "2026-04-09T08:46:46.754562"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042038512476942433"
+    ],
+    "id": "2042038512476942433",
+    "entities": {
+      "urls": [
+        {
+          "start": 148,
+          "end": 171,
+          "url": "https://t.co/6h9DKxDGuS",
+          "expanded_url": "https://x.com/gnatz_herr64182/status/2042038512476942433/video/1",
+          "display_url": "pic.x.com/6h9DKxDGuS",
+          "media_key": "7_2042038492117790721"
+        }
+      ]
+    },
+    "created_at": "2026-04-09T00:34:55.000Z",
+    "conversation_id": "2042038512476942433",
+    "author_id": "2028727317737197568",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "text": "在试着与同学接触时，我找到了那条通往人查微博\n生目标的银查酒驾信息\n行卡身份证信息\n路。如果你也曾是那个躲在角落、自己一个人吃午哔哩哔哩开户\n微信解封\n餐的\"新同学\"，我相信你一删贴吧\n定追回被骗的钱\n能够了解，盗抖音号\n坐在轮椅上只会让这整件事更难熬查小红书\n。我们从墨尔本搬到布 💖 💯 🥳 https://t.co/6h9DKxDGuS",
+    "cleaned_at": "2026-04-09T08:46:46.754563"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042037158748541197"
+    ],
+    "id": "2042037158748541197",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "Alexjkman",
+          "id": "1572846186092003329"
+        }
+      ]
+    },
+    "created_at": "2026-04-09T00:29:32.000Z",
+    "conversation_id": "2041892559392235921",
+    "author_id": "1910863641945214976",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "text": "@Alexjkman 我是被开头“豆包赚钱”骗进来的，结果被你的毒舌圈粉了哈哈",
+    "cleaned_at": "2026-04-09T08:46:46.754564"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042034152669888831"
+    ],
+    "id": "2042034152669888831",
+    "created_at": "2026-04-09T00:17:35.000Z",
+    "conversation_id": "2042034152669888831",
+    "author_id": "1568601449424375810",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "text": "钱包就是地址；Agent Identity 是“可被链强制执行的边界”：额度、白名单、到期、历史、声誉——越界直接被拒。",
+    "cleaned_at": "2026-04-09T08:46:46.754564"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042033668794019993"
+    ],
+    "id": "2042033668794019993",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "1NO0F20S05zEM51",
+          "id": "1399470529418039296"
+        }
+      ]
+    },
+    "created_at": "2026-04-09T00:15:40.000Z",
+    "conversation_id": "2041927440742732138",
+    "author_id": "781226534552031232",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 28
+    },
+    "text": "@1NO0F20S05zEM51 很不幸， 我见过很多满洲人并不认同自己的身份。 在美国认识一位姓佟的医生， 聚会的时候我知道他是满人， 就像他介绍我自己是哈萨克。 结果他说他老婆在北京被“新疆人”偷过钱包。 这个人不仅情商低， 也完完全全把自己当汉人了。 非常可悲。",
+    "cleaned_at": "2026-04-09T08:46:46.754565"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042029791239663792"
+    ],
+    "id": "2042029791239663792",
+    "entities": {
+      "urls": [
+        {
+          "start": 138,
+          "end": 161,
+          "url": "https://t.co/242KBVyERO",
+          "expanded_url": "https://x.com/hanhanbtc/status/2042029791239663792/photo/1",
+          "display_url": "pic.x.com/242KBVyERO",
+          "media_key": "3_2042029788202987522"
+        }
+      ]
+    },
+    "created_at": "2026-04-09T00:00:15.000Z",
+    "conversation_id": "2042029791239663792",
+    "author_id": "1391441754310680582",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 33
+    },
+    "text": "我的加密资产，终于不用躺平了！\n \n凌晨三点，我又一次刷开行情软件，ETH 微涨 0.1%，SOL 横盘，手里那点 XAUT 像睡着了一样。\n \n这些资产躺在钱包里，像被遗忘的存款——不生息、不增值，只跟着市场心跳，偶尔跳一下，大多时候安静得让人焦虑。\n \n我试过 DeFi https://t.co/242KBVyERO",
+    "cleaned_at": "2026-04-09T08:46:46.754566"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042028770706780291"
+    ],
+    "id": "2042028770706780291",
+    "created_at": "2026-04-08T23:56:12.000Z",
+    "conversation_id": "2042028770706780291",
+    "author_id": "1691056639804399616",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 1028
+    },
+    "text": "CZ个叼毛怎么不把1011这次恶劣的将行业推向毁灭的收割写进书里？专挑写自己多牛逼多了不起多不容易。怎么不把从Tst……一路到giggle 的作孽写进书里？怎么不把giggle社区已经给他花10万都不要的App捐赠了1000多万，他们的钱包被我查出还在疯狂砸盘的卑鄙吃相？？？这个畜生！！！",
+    "cleaned_at": "2026-04-09T08:46:46.754566"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042027327056453888"
+    ],
+    "id": "2042027327056453888",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "feizhu22",
+          "id": "1652690661823610883"
+        },
+        {
+          "start": 10,
+          "end": 21,
+          "username": "jz86574932",
+          "id": "796179061"
+        }
+      ],
+      "urls": [
+        {
+          "start": 171,
+          "end": 194,
+          "url": "https://t.co/bKQvKnuYuk",
+          "expanded_url": "https://x.com/ddv222/status/2042027327056453888/video/1",
+          "display_url": "pic.x.com/bKQvKnuYuk",
+          "media_key": "7_2042027203718676480"
+        },
+        {
+          "start": 171,
+          "end": 194,
+          "url": "https://t.co/bKQvKnuYuk",
+          "expanded_url": "https://x.com/ddv222/status/2042027327056453888/video/1",
+          "display_url": "pic.x.com/bKQvKnuYuk",
+          "media_key": "7_2042027254641745920"
+        },
+        {
+          "start": 171,
+          "end": 194,
+          "url": "https://t.co/bKQvKnuYuk",
+          "expanded_url": "https://x.com/ddv222/status/2042027327056453888/video/1",
+          "display_url": "pic.x.com/bKQvKnuYuk",
+          "media_key": "7_2042027296056389632"
+        },
+        {
+          "start": 171,
+          "end": 194,
+          "url": "https://t.co/bKQvKnuYuk",
+          "expanded_url": "https://x.com/ddv222/status/2042027327056453888/video/1",
+          "display_url": "pic.x.com/bKQvKnuYuk",
+          "media_key": "3_2042027198886858752"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T23:50:28.000Z",
+    "conversation_id": "2041507282836689319",
+    "author_id": "2032416888526090240",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "text": "@feizhu22 @jz86574932 百越不群南蛮子🧻那肛🐶对吃屎尿最有研究,专门吃粪水尿蛋,还洗粪水澡.东南亚马来矮脚黄脸🐶,南蛮子吱纳溅🅱️自己滚回东南亚祖籍,结果被印尼亲爹排猾涂支铩騋.满洲皇军下江南,南蛮子热情好客,慰安所遍布长江以南,花106块钱就可包年随便艹女南蛮子慰安妇吴朲鸡.所以南蛮肢呐溅种的精英都是慰安妇生出騋的. https://t.co/bKQvKnuYuk",
+    "cleaned_at": "2026-04-09T08:46:46.754567"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042020275286417444"
+    ],
+    "id": "2042020275286417444",
+    "entities": {
+      "urls": [
+        {
+          "start": 93,
+          "end": 116,
+          "url": "https://t.co/a9lXE6Iuhc",
+          "expanded_url": "https://x.com/CoronaReye17347/status/2042020275286417444/video/1",
+          "display_url": "pic.x.com/a9lXE6Iuhc",
+          "media_key": "7_2042020264641228800"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T23:22:27.000Z",
+    "conversation_id": "2042020275286417444",
+    "author_id": "2032951326989234176",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "text": "手查外卖地址掌使劲一捏，玉瓶爆社工库裂而开，其中的大个人信息团血液飘散而微信查实名出，然后黑客查微信聊天记录在萧炎手查档掌挥动间，被尽数倾洒在火焰包查女友找人裹中的那具尸盗QQ身之上。 https://t.co/a9lXE6Iuhc",
+    "cleaned_at": "2026-04-09T08:46:46.754568"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042016413645451649"
+    ],
+    "id": "2042016413645451649",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "Phoenix_AlphaX",
+          "id": "1500636746719326209"
+        }
+      ]
+    },
+    "created_at": "2026-04-08T23:07:06.000Z",
+    "conversation_id": "2041905831697080777",
+    "author_id": "1599631018679742464",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 439
+    },
+    "text": "@Phoenix_AlphaX 老夫80后，今年四十有六\n00后太大了，已经盯上05后\n\n待完成三条可持续被动收入来源\n打算同时包养三、五个05后\n\n男人赚钱，就是给年轻女人花的\n向香港蔡澜学习\n临死前，包养8位美女24小时照顾",
+    "cleaned_at": "2026-04-09T08:46:46.754569"
+  },
+  {
+    "conversation_id": "2041933299220701431",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2042040052482498774",
+    "edit_history_tweet_ids": [
+      "2042040052482498774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "XRP_Avengers",
+          "id": "1486037614754996224"
+        }
+      ]
+    },
+    "text": "@XRP_Avengers Shit coin or rug pull one or the other suits it",
+    "author_id": "1593347838011854848",
+    "created_at": "2026-04-09T00:41:02.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754569"
+  },
+  {
+    "conversation_id": "2042038928778395784",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2042038928778395784",
+    "edit_history_tweet_ids": [
+      "2042038928778395784"
+    ],
+    "text": "10 SOL gone, all because of a rug pull. Time for a moment of sorrow.",
+    "author_id": "2039890057583058944",
+    "created_at": "2026-04-09T00:36:34.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754570"
+  },
+  {
+    "conversation_id": "2041606872516743489",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "id": "2042038491597439409",
+    "edit_history_tweet_ids": [
+      "2042038491597439409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "exploitxbt",
+          "id": "1775770120834691072"
+        }
+      ]
+    },
+    "text": "@exploitxbt Just another pos who makes multiple coins to rug pull on buyers.",
+    "author_id": "1597074557470375938",
+    "created_at": "2026-04-09T00:34:50.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754571"
+  },
+  {
+    "conversation_id": "2042034758281293902",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "id": "2042038402766327862",
+    "edit_history_tweet_ids": [
+      "2042038402766327862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "steve_hanke",
+          "id": "863527548"
+        }
+      ]
+    },
+    "text": "@steve_hanke whole worlds a damn rug pull waiting to happen",
+    "author_id": "2711980076",
+    "created_at": "2026-04-09T00:34:29.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754572"
+  },
+  {
+    "conversation_id": "2042036631801086142",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "id": "2042038256397844494",
+    "edit_history_tweet_ids": [
+      "2042038256397844494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "lxraa444",
+          "id": "1962474747582914560"
+        }
+      ]
+    },
+    "text": "@lxraa444 Don't rug pull my investment smh ..",
+    "author_id": "1996211815639052289",
+    "created_at": "2026-04-09T00:33:54.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754572"
+  },
+  {
+    "conversation_id": "2041864852075938157",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "id": "2042037713843712206",
+    "edit_history_tweet_ids": [
+      "2042037713843712206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "Gkay06_",
+          "id": "1808423746253832192"
+        },
+        {
+          "start": 9,
+          "end": 24,
+          "username": "NikeTechRanger",
+          "id": "858376371931840516"
+        }
+      ]
+    },
+    "text": "@Gkay06_ @NikeTechRanger I mean they started the story with you wanting to root for him and then the author did a rug pull and turned him into a loser school shooter type.",
+    "author_id": "3264738837",
+    "created_at": "2026-04-09T00:31:44.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754573"
+  },
+  {
+    "conversation_id": "2042037549099848036",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "id": "2042037549099848036",
+    "edit_history_tweet_ids": [
+      "2042037549099848036"
+    ],
+    "text": "In no way does Iran trust America\n\nWhy do they even bother calling a cease fire? They must make money off of it somehow, some sort of insider trading rug pull. If don doesn’t bring prices down he loses the midterm &amp; goes to Prison.\n\nhttps://t.co/RaNwOa6vjT",
+    "author_id": "2897956136",
+    "entities": {
+      "urls": [
+        {
+          "start": 237,
+          "end": 260,
+          "url": "https://t.co/RaNwOa6vjT",
+          "expanded_url": "https://www.theguardian.com/world/2026/apr/08/debates-arguments-iranians-react-two-week-ceasefire",
+          "display_url": "theguardian.com/world/2026/apr…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2041930320501489666/xxak4CWM?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2041930320501489666/xxak4CWM?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "‘In no way do we trust America’: Iranians react to two-week ceasefire",
+          "description": "Sudden pause in destructive war launched by US and Israel prompts mixed feelings in Tehran",
+          "unwound_url": "https://www.theguardian.com/world/2026/apr/08/debates-arguments-iranians-react-two-week-ceasefire"
+        }
+      ]
+    },
+    "created_at": "2026-04-09T00:31:05.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754574"
+  },
+  {
+    "conversation_id": "2042026114986733853",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "id": "2042035797571072427",
+    "edit_history_tweet_ids": [
+      "2042035797571072427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "barkmeta",
+          "id": "336348053"
+        }
+      ]
+    },
+    "text": "@barkmeta It may happen again after the biggest rug pull in crypto history is over. Soon to come.",
+    "author_id": "2038533050154221568",
+    "created_at": "2026-04-09T00:24:07.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754575"
+  },
+  {
+    "conversation_id": "2041985674845258018",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "id": "2042033643372343356",
+    "edit_history_tweet_ids": [
+      "2042033643372343356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "DisrespectedThe",
+          "id": "1186465203858231297"
+        }
+      ]
+    },
+    "text": "@DisrespectedThe Didn't Trump campaign on no digital coin? He did. I remember it. Just another rug pull. We're fucked.",
+    "author_id": "1594418735015763971",
+    "created_at": "2026-04-09T00:15:34.000Z",
+    "cleaned_at": "2026-04-09T08:46:46.754575"
+  },
+  {
+    "author_id": "1037100145748242432",
+    "created_at": "2026-04-09T00:06:51.000Z",
+    "id": "2042031451135181169",
+    "text": "Phishing scam costs Ottawa Valley business $3,000: OPP https://t.co/2VUhLceSpl",
+    "edit_history_tweet_ids": [
+      "2042031451135181169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 55,
+          "end": 78,
+          "url": "https://t.co/2VUhLceSpl",
+          "expanded_url": "https://share.google/SkuDKayuMfHvMrC7f",
+          "display_url": "share.google/SkuDKayuMfHvMr…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042031452632576000/WeRaD9_1?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042031452632576000/WeRaD9_1?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "OPP warns of scam affecting businesses after Ottawa Valley business defrauded",
+          "description": "Ontario Provincial Police are warning businesses in the Ottawa Valley about phishing scams after a local business reported being defrauded $3,000.",
+          "unwound_url": "https://www.ctvnews.ca/ottawa/article/opp-warns-of-scam-affecting-businesses-after-ottawa-valley-business-defrauded/"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "conversation_id": "2042031451135181169",
+    "cleaned_at": "2026-04-09T08:46:46.754576"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 196,
+          "end": 203,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/dPL4sND2ar",
+          "expanded_url": "https://urldna.io/scan/69d697c93b77500009232980",
+          "display_url": "urldna.io/scan/69d697c93…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042029750135226368/TZWIojD1?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042029750135226368/TZWIojD1?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d697c93b77500009232980"
+        },
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/EZZpSusebf",
+          "expanded_url": "https://x.com/urldna_bot/status/2042029741318828456/photo/1",
+          "display_url": "pic.x.com/EZZpSusebf",
+          "media_key": "3_2042029739376807937"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 139,
+          "end": 153,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 154,
+          "end": 163,
+          "tag": "phishing"
+        },
+        {
+          "start": 164,
+          "end": 172,
+          "tag": "infosec"
+        },
+        {
+          "start": 173,
+          "end": 180,
+          "tag": "urldna"
+        },
+        {
+          "start": 181,
+          "end": 186,
+          "tag": "scam"
+        },
+        {
+          "start": 187,
+          "end": 195,
+          "tag": "infosec"
+        }
+      ]
+    },
+    "author_id": "1641789500056535042",
+    "created_at": "2026-04-09T00:00:04.000Z",
+    "id": "2042029741318828456",
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//notifyhubss[.]net/d2606cf1c7a67543a7p9089942d23984dadb[.]html\n 🧬 Analysis at: https://t.co/dPL4sND2ar\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/EZZpSusebf",
+    "edit_history_tweet_ids": [
+      "2042029741318828456"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "conversation_id": "2042029741318828456",
+    "cleaned_at": "2026-04-09T08:46:46.754577"
+  },
+  {
+    "author_id": "2042021469866106880",
+    "created_at": "2026-04-08T23:42:59.000Z",
+    "id": "2042025442610442375",
+    "text": "I'm not multi ... I changed telegram and the wallet for safety reasons, because my telegram got scam and my wallet got drained a while ago , the wallet has Swap approved Token phishing  , please understand this , all host and admins  thanks 🙏",
+    "edit_history_tweet_ids": [
+      "2042025442610442375"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "2042025442610442375",
+    "cleaned_at": "2026-04-09T08:46:46.754578"
+  },
+  {
+    "author_id": "1124141000203444225",
+    "created_at": "2026-04-08T23:21:42.000Z",
+    "id": "2042020088421970368",
+    "text": "If you were sent a link from me in direct message. \n\nDon't click it. Nigerian hackers sent it.\n\nI received a phone call that one legislator's account has been hacked due to this phishing scam.",
+    "edit_history_tweet_ids": [
+      "2042020088421970368"
+    ],
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 93
+    },
+    "conversation_id": "2042020088421970368",
+    "cleaned_at": "2026-04-09T08:46:46.754578"
+  },
+  {
+    "author_id": "265308969",
+    "created_at": "2026-04-08T23:10:01.000Z",
+    "id": "2042017149406068929",
+    "text": "2026/04/09 #今朝の着弾状況 \n#フィッシングメール #Phishing #Scam \n#Amazon  \n#AppleID #AppleFitness \n#ANA #全日空\n#JAL #日本航空 \n#日本郵便 \n#ヨドバシカメラ \n#NintendoSwitchOnline #任天堂 \n#ETCカード \n#JACCS \n#eオリコ #オリコカード \n#MasterCard \n#VISA https://t.co/M78Od9orNl",
+    "edit_history_tweet_ids": [
+      "2042017149406068929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 201,
+          "end": 224,
+          "url": "https://t.co/M78Od9orNl",
+          "expanded_url": "https://x.com/catnap707/status/2042017149406068929/photo/1",
+          "display_url": "pic.x.com/M78Od9orNl",
+          "media_key": "3_2042016756764676096"
+        },
+        {
+          "start": 201,
+          "end": 224,
+          "url": "https://t.co/M78Od9orNl",
+          "expanded_url": "https://x.com/catnap707/status/2042017149406068929/photo/1",
+          "display_url": "pic.x.com/M78Od9orNl",
+          "media_key": "3_2042016840503996416"
+        },
+        {
+          "start": 201,
+          "end": 224,
+          "url": "https://t.co/M78Od9orNl",
+          "expanded_url": "https://x.com/catnap707/status/2042017149406068929/photo/1",
+          "display_url": "pic.x.com/M78Od9orNl",
+          "media_key": "3_2042016919050702848"
+        },
+        {
+          "start": 201,
+          "end": 224,
+          "url": "https://t.co/M78Od9orNl",
+          "expanded_url": "https://x.com/catnap707/status/2042017149406068929/photo/1",
+          "display_url": "pic.x.com/M78Od9orNl",
+          "media_key": "3_2042016988021846017"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 11,
+          "end": 19,
+          "tag": "今朝の着弾状況"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "tag": "フィッシングメール"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "tag": "Phishing"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "tag": "Scam"
+        },
+        {
+          "start": 49,
+          "end": 56,
+          "tag": "Amazon"
+        },
+        {
+          "start": 59,
+          "end": 67,
+          "tag": "AppleID"
+        },
+        {
+          "start": 68,
+          "end": 81,
+          "tag": "AppleFitness"
+        },
+        {
+          "start": 83,
+          "end": 87,
+          "tag": "ANA"
+        },
+        {
+          "start": 88,
+          "end": 92,
+          "tag": "全日空"
+        },
+        {
+          "start": 93,
+          "end": 97,
+          "tag": "JAL"
+        },
+        {
+          "start": 98,
+          "end": 103,
+          "tag": "日本航空"
+        },
+        {
+          "start": 105,
+          "end": 110,
+          "tag": "日本郵便"
+        },
+        {
+          "start": 112,
+          "end": 120,
+          "tag": "ヨドバシカメラ"
+        },
+        {
+          "start": 122,
+          "end": 143,
+          "tag": "NintendoSwitchOnline"
+        },
+        {
+          "start": 144,
+          "end": 148,
+          "tag": "任天堂"
+        },
+        {
+          "start": 150,
+          "end": 157,
+          "tag": "ETCカード"
+        },
+        {
+          "start": 159,
+          "end": 165,
+          "tag": "JACCS"
+        },
+        {
+          "start": 167,
+          "end": 172,
+          "tag": "eオリコ"
+        },
+        {
+          "start": 173,
+          "end": 180,
+          "tag": "オリコカード"
+        },
+        {
+          "start": 182,
+          "end": 193,
+          "tag": "MasterCard"
+        },
+        {
+          "start": 195,
+          "end": 200,
+          "tag": "VISA"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 78
+    },
+    "conversation_id": "1874224576147959884",
+    "cleaned_at": "2026-04-09T08:46:46.754579"
+  },
+  {
+    "author_id": "1349849432989212673",
+    "created_at": "2026-04-08T23:08:55.000Z",
+    "id": "2042016870929502583",
+    "text": "“Don’t trust Friend Helen”: Premier Roger Cook has issued a fresh scam warning after new figures revealed Western Australians lost more than $24 million to fraud in 2025.\n\n#Read_details 🔗👇\nhttps://t.co/xxCPSw4x7K\n\nFrom fake bank calls to phishing and romance scams, criminals https://t.co/4Rmpu7sCtJ",
+    "edit_history_tweet_ids": [
+      "2042016870929502583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/xxCPSw4x7K",
+          "expanded_url": "https://www.theaustraliatoday.com.au/premier-cook-warns-dont-trust-friend-helen-shes-scam-costing-victims-24-million-in-2025/",
+          "display_url": "theaustraliatoday.com.au/premier-cook-w…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042016884183515136/3QOKpmjE?format=jpg&name=orig",
+              "width": 1200,
+              "height": 675
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042016884183515136/3QOKpmjE?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Premier Cook warns: Don’t trust ‘Friend Helen,’ She’s scam costing victims $24 million in 2025 - The Australia Today",
+          "description": "One Perth resident lost $4,541 after a caller claiming to be from her bank’s fraud department urged her to take urgent action.",
+          "unwound_url": "https://www.theaustraliatoday.com.au/premier-cook-warns-dont-trust-friend-helen-shes-scam-costing-victims-24-million-in-2025/"
+        },
+        {
+          "start": 276,
+          "end": 299,
+          "url": "https://t.co/4Rmpu7sCtJ",
+          "expanded_url": "https://x.com/TheAusToday/status/2042016870929502583/photo/1",
+          "display_url": "pic.x.com/4Rmpu7sCtJ",
+          "media_key": "3_2042016442007351297"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 172,
+          "end": 185,
+          "tag": "Read_details"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 56
+    },
+    "conversation_id": "2042016870929502583",
+    "cleaned_at": "2026-04-09T08:46:46.754580"
+  },
+  {
+    "author_id": "973016014467272710",
+    "created_at": "2026-04-08T22:52:58.000Z",
+    "id": "2042012854858215521",
+    "text": "I may or may not have fell for a phishing scam at work",
+    "edit_history_tweet_ids": [
+      "2042012854858215521"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2042012854858215521",
+    "cleaned_at": "2026-04-09T08:46:46.754581"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "myronjclifton",
+          "id": "1483794432793010178"
+        }
+      ]
+    },
+    "author_id": "35902282",
+    "created_at": "2026-04-08T21:48:41.000Z",
+    "id": "2041996680636330175",
+    "text": "@myronjclifton Your DMs have been compromised by a phishing scam",
+    "edit_history_tweet_ids": [
+      "2041996680636330175"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "conversation_id": "2034045599625191648",
+    "cleaned_at": "2026-04-09T08:46:46.754581"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "ALASSAF_14",
+          "id": "3268270772"
+        }
+      ]
+    },
+    "author_id": "1433430784132534273",
+    "created_at": "2026-04-08T21:25:32.000Z",
+    "id": "2041990852675781059",
+    "text": "@ALASSAF_14 Can you clarify who \"he\" is? Who were you talking to?\n\nThe fact that you were accessing websites through the Pali wallet browser does not mean you were accessing Pali's services.\n\nInteracting with scam/phishing links is not something Pali controls. This is user's responsibility.",
+    "edit_history_tweet_ids": [
+      "2041990852675781059"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "conversation_id": "2041203464345174237",
+    "cleaned_at": "2026-04-09T08:46:46.754582"
+  },
+  {
+    "author_id": "1607141012509700096",
+    "created_at": "2026-04-08T21:20:58.000Z",
+    "id": "2041989703071899969",
+    "text": "3/ 🚨 Scam #2: Fake links &amp; apps\n\n📊 Phishing is behind a huge chunk of crypto thefts every year!\n\nYou get a message:\n👉 “Claim your rewards”\nLooks real… but it’s a clone.\n\nAlways double-check links. Never log in to unknown sites! https://t.co/bVCV1zffqL",
+    "edit_history_tweet_ids": [
+      "2041989703071899969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 232,
+          "end": 255,
+          "url": "https://t.co/bVCV1zffqL",
+          "expanded_url": "https://x.com/eagleclay1/status/2041989703071899969/photo/1",
+          "display_url": "pic.x.com/bVCV1zffqL",
+          "media_key": "3_2041988737354362881"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "conversation_id": "2041989693412405308",
+    "cleaned_at": "2026-04-09T08:46:46.754583"
+  }
+]
