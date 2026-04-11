@@ -1,0 +1,1043 @@
+[
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "text": "@tataqwq 这是个经典骗局了，骗子发个邮件自称是什么软件公司让你试用一下某个软件，下载安装打开之后电脑就会中病毒，所有账号被盗而且统一进行虚拟币引流。之前Linus Tech Tips就中过招。不知道塔塔是不是类似的情况",
+    "id": "2042758412287775024",
+    "author_id": "1329565196583518211",
+    "edit_history_tweet_ids": [
+      "2042758412287775024"
+    ],
+    "conversation_id": "2042635158667272538",
+    "created_at": "2026-04-11T00:15:32.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "tataqwq",
+          "id": "2039720325152206848"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266529"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 47
+    },
+    "text": "@BTC__Sunny 以太坊时候其实已经很听人关注了，因为有比特币前车之鉴，但以太坊最糟糕的是那次官方被大量盗币后选择直接回退记录耍赖，一部分官方决定承认被盗的币，导致eth内部分裂，当时我觉得这官方毫无信用根本不值得买",
+    "id": "2042704637879554155",
+    "author_id": "1268175209837654017",
+    "edit_history_tweet_ids": [
+      "2042704637879554155"
+    ],
+    "conversation_id": "2042591466284024217",
+    "created_at": "2026-04-10T20:41:51.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "BTC__Sunny",
+          "id": "1750451963765080064"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266533"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "text": "@jt588888 OKX的反欺诈系统实时监控异常交易，发现可疑行为立即拦截。用户的钱被盗了OKX会负责赔付，这种安全感币安给不了。",
+    "id": "2042643199550959687",
+    "author_id": "1735762254262423552",
+    "edit_history_tweet_ids": [
+      "2042643199550959687"
+    ],
+    "conversation_id": "2042575988585107475",
+    "created_at": "2026-04-10T16:37:43.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "jt588888",
+          "id": "1810820629136035841"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266534"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "text": "@binancezh 相信并联系“私信客服”：通过短信或私信添加了所谓的“客服”，没有走官方渠道验证身份。\n（币安官方客服绝不会主动私信用户，也不会在Telegram、微信等外部平台主动联系你。）\n随意泄露短信验证码：在与假客服沟通时，把收到的短信验证码告诉了对方，导致账户被接管或资金被盗。\n\r#币安安全月",
+    "id": "2042624802477998321",
+    "author_id": "1718479723788214272",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 148,
+          "end": 154,
+          "tag": "币安安全月"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "binancezh",
+          "id": "1451036242431262720"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042624802477998321"
+    ],
+    "conversation_id": "2042155980734279806",
+    "created_at": "2026-04-10T15:24:37.000Z",
+    "cleaned_at": "2026-04-11T09:04:26.266535"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "text": "Coinbase 与 Binance 牵头的一项跨境行动，联合美国特勤局与英国国家犯罪局，追回与超过20,000名受害者相关的价值$12M的被盗加密货币。\n\nhttps://t.co/lgdjJgcETx",
+    "id": "2042617661524263101",
+    "entities": {
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/lgdjJgcETx",
+          "expanded_url": "https://coinfubi.com/2026/04/10/%e8%b7%a8%e5%a2%83%e5%8a%a0%e5%af%86%e8%b4%a7%e5%b8%81%e6%89%a3%e6%8a%bc%ef%bc%9a12m-%e8%a2%ab%e7%9b%97%e8%b5%84%e9%87%91%e5%85%b3%e8%81%94%e5%88%b020000%e5%90%8d%e5%8f%97%e5%ae%b3%e8%80%85/",
+          "display_url": "coinfubi.com/2026/04/10/%e8…",
+          "status": 200,
+          "title": "当局冻结价值$12M的被盗加密货币，涉20,000名受害者 - CoinFubi",
+          "description": "Coinbase 与 Binance 牵头的一项跨境行动，联合美国特勤局与英国国家犯罪局，追回与超过20,000名受害者相关的价值$12M的被盗加密货币。",
+          "unwound_url": "https://coinfubi.com/2026/04/10/%E8%B7%A8%E5%A2%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%89%A3%E6%8A%BC%EF%BC%9A12m-%E8%A2%AB%E7%9B%97%E8%B5%84%E9%87%91%E5%85%B3%E8%81%94%E5%88%B020000%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85/"
+        }
+      ]
+    },
+    "author_id": "1995358510755045376",
+    "edit_history_tweet_ids": [
+      "2042617661524263101"
+    ],
+    "conversation_id": "2042617661524263101",
+    "created_at": "2026-04-10T14:56:15.000Z",
+    "cleaned_at": "2026-04-11T09:04:26.266536"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 26
+    },
+    "text": "@star_okx 徐总，别让我看不起你，你能处理我在欧易钱包被盗的币吗？",
+    "id": "2042611243916104073",
+    "author_id": "1150710939592749056",
+    "edit_history_tweet_ids": [
+      "2042611243916104073"
+    ],
+    "conversation_id": "2042389031955415448",
+    "created_at": "2026-04-10T14:30:45.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "star_okx",
+          "id": "2985599460"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266537"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 4,
+      "like_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 348
+    },
+    "text": "昨天我在呆猫的tg群问有没有人有好用的机场推荐，今天下午就有3只假呆猫，高防号来骗我买貔貅，于是我就配合他，笑死了，假呆猫一号暴露之后，自导自演说号被盗。马上换了个假呆猫二号，然后假呆猫二号就在忽悠我买，我就将计就计骗了她3块钱gas🤣，本想再骗个VPN的月费失败了。币圈就是黑暗森林 https://t.co/ULWU4v6liR",
+    "id": "2042593693593657618",
+    "entities": {
+      "urls": [
+        {
+          "start": 143,
+          "end": 166,
+          "url": "https://t.co/ULWU4v6liR",
+          "expanded_url": "https://x.com/m7716846642109/status/2042593693593657618/photo/1",
+          "display_url": "pic.x.com/ULWU4v6liR",
+          "media_key": "3_2042593629349515268"
+        },
+        {
+          "start": 143,
+          "end": 166,
+          "url": "https://t.co/ULWU4v6liR",
+          "expanded_url": "https://x.com/m7716846642109/status/2042593693593657618/photo/1",
+          "display_url": "pic.x.com/ULWU4v6liR",
+          "media_key": "3_2042593630062628864"
+        },
+        {
+          "start": 143,
+          "end": 166,
+          "url": "https://t.co/ULWU4v6liR",
+          "expanded_url": "https://x.com/m7716846642109/status/2042593693593657618/photo/1",
+          "display_url": "pic.x.com/ULWU4v6liR",
+          "media_key": "3_2042593630578446345"
+        },
+        {
+          "start": 143,
+          "end": 166,
+          "url": "https://t.co/ULWU4v6liR",
+          "expanded_url": "https://x.com/m7716846642109/status/2042593693593657618/photo/1",
+          "display_url": "pic.x.com/ULWU4v6liR",
+          "media_key": "3_2042593638044307458"
+        }
+      ]
+    },
+    "author_id": "1690526001330053120",
+    "edit_history_tweet_ids": [
+      "2042593693593657618"
+    ],
+    "conversation_id": "2042593693593657618",
+    "created_at": "2026-04-10T13:21:00.000Z",
+    "cleaned_at": "2026-04-11T09:04:26.266538"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 24
+    },
+    "text": "@binancezh X 上充斥着各种加密货币诈骗，尤其是伪造的空投/抽奖链接。它们以“领取奖励”为诱饵，但一旦点击就可能导致资金被盗。我收到过很多类似信息，但都会直接忽略并仔细核实。保持警惕，千万不要轻信陌生链接 🛡️ #币安安全月",
+    "id": "2042592548435173887",
+    "author_id": "1912242544563593216",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 111,
+          "end": 117,
+          "tag": "币安安全月"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "binancezh",
+          "id": "1451036242431262720"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042592548435173887"
+    ],
+    "conversation_id": "2039624878916346154",
+    "created_at": "2026-04-10T13:16:27.000Z",
+    "cleaned_at": "2026-04-11T09:04:26.266538"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 311
+    },
+    "text": "感谢兄弟，初衷打电话想找到bnbchain官方看如何协助，最后聊到对业现状的反思，像我这样被盗的应该不在少数，有可能是小白，也可能是老韭菜，也可能是外卖小哥，但是他们无处发声，而这群人都是社区的一份子，是加密货币的持有者，行业能壮大也得益于社区的力量，而个体难于与系统威胁抗衡，哪怕是og！ https://t.co/gQTNgcFB7r",
+    "id": "2042546656579850434",
+    "entities": {
+      "urls": [
+        {
+          "start": 146,
+          "end": 169,
+          "url": "https://t.co/gQTNgcFB7r",
+          "expanded_url": "https://twitter.com/kaylyn_0x/status/2042535802895503769",
+          "display_url": "x.com/kaylyn_0x/stat…"
+        }
+      ]
+    },
+    "author_id": "1875222503230201857",
+    "edit_history_tweet_ids": [
+      "2042546656579850434"
+    ],
+    "conversation_id": "2042546656579850434",
+    "created_at": "2026-04-10T10:14:06.000Z",
+    "cleaned_at": "2026-04-11T09:04:26.266539"
+  },
+  {
+    "created_at": "2026-04-11T00:30:54.000Z",
+    "edit_history_tweet_ids": [
+      "2042762280413335677"
+    ],
+    "text": "If you are still following my hacked account you might want to unfollow cuz I think they're going to start asking y'all for crypto investments or some other scam",
+    "author_id": "2040117090707714048",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "id": "2042762280413335677",
+    "conversation_id": "2042762280413335677",
+    "cleaned_at": "2026-04-11T09:04:26.266540"
+  },
+  {
+    "created_at": "2026-04-11T00:06:48.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 41,
+          "end": 50,
+          "username": "_ms_izzy",
+          "id": "1599911502"
+        },
+        {
+          "start": 170,
+          "end": 179,
+          "username": "elonmusk",
+          "id": "44196397"
+        },
+        {
+          "start": 180,
+          "end": 182,
+          "username": "X",
+          "id": "783214"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042756215055515714"
+    ],
+    "text": "My account was hacked by crypto scammers @_ms_izzy please repost to them from accessing information and hacking others, along with helping me regain access to my account @elonmusk @X",
+    "author_id": "1433967192844898308",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 7,
+      "like_count": 7,
+      "quote_count": 2,
+      "bookmark_count": 0,
+      "impression_count": 108
+    },
+    "id": "2042756215055515714",
+    "conversation_id": "2042756215055515714",
+    "cleaned_at": "2026-04-11T09:04:26.266541"
+  },
+  {
+    "created_at": "2026-04-10T23:44:20.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "Y_Soup",
+          "id": "28442415"
+        }
+      ],
+      "urls": [
+        {
+          "start": 84,
+          "end": 107,
+          "url": "https://t.co/zJhcSe1Zy9",
+          "expanded_url": "https://x.com/PPD4230/status/2042750560563269847/photo/1",
+          "display_url": "pic.x.com/zJhcSe1Zy9",
+          "media_key": "3_2042750552740962304"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042750560563269847"
+    ],
+    "text": "@Y_Soup got hacked with crypto scam! We ALL know Kyle wouldn’t buy a red truck! 😂😂😂 https://t.co/zJhcSe1Zy9",
+    "author_id": "1107447626436214784",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "id": "2042750560563269847",
+    "conversation_id": "2042750560563269847",
+    "cleaned_at": "2026-04-11T09:04:26.266541"
+  },
+  {
+    "created_at": "2026-04-10T23:22:42.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "johnreseda",
+          "id": "2040117090707714048"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042745116557816199"
+    ],
+    "text": "@johnreseda In 22 my IG account got hacked by crypto swindlers &amp; I never got it back. Then I went to a family party &amp; everyone told me to stop asking them for money. I told them that was not me and that I had been hacked. 🤣🤣🤣🤣🤣🤣🤣 They'll probably start recommending crypto gurus.",
+    "author_id": "2443666552",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 48
+    },
+    "id": "2042745116557816199",
+    "conversation_id": "2042741991952519448",
+    "cleaned_at": "2026-04-11T09:04:26.266542"
+  },
+  {
+    "id": "2042762706705391789",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 166,
+          "end": 189,
+          "url": "https://t.co/2qcOo27y7F",
+          "expanded_url": "https://techsnif.com/2026/04/11/white-house-hunts-for-ai-vulnerabilities-in-critical-infrastructure",
+          "display_url": "techsnif.com/2026/04/11/whi…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042762710803247104/QtEEueLl?format=jpg&name=orig",
+              "width": 1376,
+              "height": 768
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042762710803247104/QtEEueLl?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "White House Hunts for AI Vulnerabilities in Critical Infrastructure | TechSnif",
+          "description": "National Cyber Director leads preemptive effort to find infrastructure weak spots before AI models can exploit them.",
+          "unwound_url": "https://techsnif.com/2026/04/11/white-house-hunts-for-ai-vulnerabilities-in-critical-infrastructure"
+        },
+        {
+          "start": 213,
+          "end": 236,
+          "url": "https://t.co/UeQk92BdyA",
+          "expanded_url": "https://techsnif.com/agents",
+          "display_url": "techsnif.com/agents",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042075786329354241/waOXgoUN?format=png&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042075786329354241/waOXgoUN?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "AI Agents — Structured tech news for your AI | TechSnif",
+          "description": "TechSnif welcomes AI agents. Pull structured story data — sources, X posts, LinkedIn commentary, forum threads, and more — through MCP, CLI, API, and RSS. Free, no auth.",
+          "unwound_url": "https://techsnif.com/agents/"
+        },
+        {
+          "start": 246,
+          "end": 269,
+          "url": "https://t.co/LaQKBTzNjt",
+          "expanded_url": "https://www.wsj.com/tech/ai/white-house-races-to-head-off-threats-from-powerful-ai-tools-5c6f22e2?st=L6UcGt&reflink=desktopwebshare_permalink",
+          "display_url": "wsj.com/tech/ai/white-…",
+          "status": 200,
+          "title": "Exclusive | White House Races to Head Off Threats From Powerful AI Tools",
+          "description": "A group led by National Cyber Director Sean Cairncross aims to identify security vulnerabilities before models from Anthropic and OpenAI are released.",
+          "unwound_url": "https://www.wsj.com/tech/ai/white-house-races-to-head-off-threats-from-powerful-ai-tools-5c6f22e2?st=L6UcGt&reflink=desktopwebshare_permalink"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042762706705391789"
+    ],
+    "created_at": "2026-04-11T00:32:36.000Z",
+    "conversation_id": "2042762705614828031",
+    "author_id": "2019254135653347328",
+    "text": "US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit\n\ntechsnif take: https://t.co/2qcOo27y7F\n\n🦞 connect your agent: https://t.co/UeQk92BdyA\n\nsource: https://t.co/LaQKBTzNjt",
+    "cleaned_at": "2026-04-11T09:04:26.266543"
+  },
+  {
+    "id": "2042752201446297987",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 877
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 182,
+          "end": 205,
+          "url": "https://t.co/zDWQb7hkuW",
+          "expanded_url": "https://www.wsj.com/tech/ai/white-house-races-to-head-off-threats-from-powerful-ai-tools-5c6f22e2?st=L6UcGt&reflink=desktopwebshare_permalink",
+          "display_url": "wsj.com/tech/ai/white-…",
+          "status": 200,
+          "title": "Exclusive | White House Races to Head Off Threats From Powerful AI Tools",
+          "description": "A group led by National Cyber Director Sean Cairncross aims to identify security vulnerabilities before models from Anthropic and OpenAI are released.",
+          "unwound_url": "https://www.wsj.com/tech/ai/white-house-races-to-head-off-threats-from-powerful-ai-tools-5c6f22e2?st=L6UcGt&reflink=desktopwebshare_permalink"
+        },
+        {
+          "start": 207,
+          "end": 230,
+          "url": "https://t.co/gygYQqY1p1",
+          "expanded_url": "http://www.techmeme.com/260410/p31#a260410p31",
+          "display_url": "techmeme.com/260410/p31#a26…",
+          "status": 200,
+          "title": "Sources: US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit",
+          "description": "Wall Street Journal: Sources: US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit",
+          "unwound_url": "https://www.techmeme.com/260410/p31"
+        },
+        {
+          "start": 245,
+          "end": 268,
+          "url": "https://t.co/wlNZvXuhJs",
+          "expanded_url": "https://techmeme.com/contact",
+          "display_url": "techmeme.com/contact",
+          "status": 200,
+          "unwound_url": "https://techmeme.com/contact"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042752201446297987"
+    ],
+    "created_at": "2026-04-10T23:50:51.000Z",
+    "conversation_id": "2042752201446297987",
+    "author_id": "817386",
+    "text": "Sources: US National Cyber Director Sean Cairncross is leading an effort to identify security vulnerabilities in critical infrastructure that AI could exploit (Wall Street Journal)\n\nhttps://t.co/zDWQb7hkuW\n\nhttps://t.co/gygYQqY1p1\n\n📥 Send tips! https://t.co/wlNZvXuhJs",
+    "cleaned_at": "2026-04-11T09:04:26.266544"
+  },
+  {
+    "id": "2042743726896750929",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 65
+    },
+    "edit_history_tweet_ids": [
+      "2042743726896750929"
+    ],
+    "created_at": "2026-04-10T23:17:11.000Z",
+    "conversation_id": "2042743726896750929",
+    "author_id": "1448960101440757764",
+    "text": "JUST IN: Anthropic warns AI-powered cyberattacks could surge within 24 months as frontier AI models reportedly can identify and exploit vulnerabilities faster than humans. This underlines rising security and regulatory focus for crypto infrastructure. $BTC $ETH",
+    "entities": {
+      "cashtags": [
+        {
+          "start": 252,
+          "end": 256,
+          "tag": "BTC"
+        },
+        {
+          "start": 257,
+          "end": 261,
+          "tag": "ETH"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266545"
+  },
+  {
+    "id": "2042737015293198671",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "edit_history_tweet_ids": [
+      "2042737015293198671"
+    ],
+    "created_at": "2026-04-10T22:50:31.000Z",
+    "conversation_id": "2042445780766675250",
+    "author_id": "1898427306",
+    "text": "@pubity Even if frontier models improve offensive security, this reads more like risk framing than confirmed systemic threat. In practice, stronger “attack AI” usually accelerates investment in defense tools, not collapse incumbents. Market impact depends on real exploit data,",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "pubity",
+          "id": "904630459539312640"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266545"
+  },
+  {
+    "id": "2042733452487803264",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "edit_history_tweet_ids": [
+      "2042733452487803264"
+    ],
+    "created_at": "2026-04-10T22:36:21.000Z",
+    "conversation_id": "2042733452487803264",
+    "author_id": "1381257006955253764",
+    "text": "Props to Circle: security, accountability, rule of law. Freeze USDC only when the judge says so — after a $270M Drift exploit, that clarity matters. Also love when my permissionless money asks permission; decentralization with training wheels 🤡 #USDC #DeFi",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 245,
+          "end": 250,
+          "tag": "USDC"
+        },
+        {
+          "start": 251,
+          "end": 256,
+          "tag": "DeFi"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266546"
+  },
+  {
+    "id": "2042731652879880369",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "edit_history_tweet_ids": [
+      "2042731652879880369"
+    ],
+    "created_at": "2026-04-10T22:29:12.000Z",
+    "conversation_id": "2042594503748391035",
+    "author_id": "1283172940121612288",
+    "text": "@bmilanov Yes, we probably would be able to discover these without mythos, but because mythos can exploit them, it behooves us to improve security before everyone has access to a model that is significantly better at exploiting?",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "bmilanov",
+          "id": "1995388307380051968"
+        }
+      ]
+    },
+    "cleaned_at": "2026-04-11T09:04:26.266547"
+  },
+  {
+    "id": "2042729721151295899",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 97
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/coOLMrGmVZ",
+          "expanded_url": "https://twitter.com/polymarket/status/2042696412622680285",
+          "display_url": "x.com/polymarket/sta…"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042729721151295899"
+    ],
+    "created_at": "2026-04-10T22:21:32.000Z",
+    "conversation_id": "2042729721151295899",
+    "author_id": "1334751369291591682",
+    "text": "As much as I love hype, AI advancement and the cyber security risk that come with it, makes hype much riskier hold over a long time frame \n\nIt’s the best project in crypto, but can’t ignore it’s the first target in any scenario\n\nAll it takes is one exploit and dream over\n\nHope https://t.co/coOLMrGmVZ",
+    "cleaned_at": "2026-04-11T09:04:26.266548"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042761946622222344"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "created_at": "2026-04-11T00:29:35.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 145,
+          "end": 168,
+          "url": "https://t.co/5cXTreUjfz",
+          "expanded_url": "https://x.com/sileidyalexand2/status/2042761946622222344/photo/1",
+          "display_url": "pic.x.com/5cXTreUjfz",
+          "media_key": "3_2042761943862382592"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 117,
+          "end": 127,
+          "tag": "InterLink"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "tag": "ITLG"
+        },
+        {
+          "start": 134,
+          "end": 138,
+          "tag": "ITL"
+        },
+        {
+          "start": 139,
+          "end": 144,
+          "tag": "ITLX"
+        }
+      ]
+    },
+    "id": "2042761946622222344",
+    "author_id": "712618701527326722",
+    "conversation_id": "2042761946622222344",
+    "text": "🚀5.0.1版本即将上线，KYC效率全面提速。\n新版本不仅会大幅加快审核速度，还将新增2FA双验证功能，通过双重校验机制有效防范黑客攻击、钱包被盗以及恶意冒名地址等风险。安全与效率同步升级，让价值流通更放心，让生态发展更长久。\n \n #InterLink #ITLG #ITL #ITLX https://t.co/5cXTreUjfz",
+    "cleaned_at": "2026-04-11T09:04:26.266548"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042750924154900718"
+    ],
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 84
+    },
+    "created_at": "2026-04-10T23:45:47.000Z",
+    "id": "2042750924154900718",
+    "author_id": "1750745416877174784",
+    "conversation_id": "2042750924154900718",
+    "text": "唔~越想越气~我在这里在说明一下，我的图~无论在什么地方都是免费的，大家一起开心开心~不存在任何盈利行为，请大家小心辨别，守住自己的钱包！！！还是那句话，为了赚钱脸都不要了，什么礼义廉耻，都没有了，社会的败类，人类的蛀虫，无耻之徒 ，呸，多行不义，必自毙，祝天下所有的盗狗好自为之！！",
+    "cleaned_at": "2026-04-11T09:04:26.266549"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2042763514079764912",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "ChudTheBuilder",
+          "id": "1836005756346191872"
+        },
+        {
+          "start": 16,
+          "end": 30,
+          "username": "Countcristo44",
+          "id": "1583112462584500226"
+        }
+      ]
+    },
+    "conversation_id": "2042750024744866191",
+    "text": "@ChudTheBuilder @Countcristo44 :::Calls himself a builder, starts a memecoin rug pull while begging for donations :::\n\nYou are a joke, and anyone who tars you seriously is a faggøt. Good job on pied pipering an army of gay retards 🤣",
+    "created_at": "2026-04-11T00:35:49.000Z",
+    "author_id": "1768115558518779904",
+    "edit_history_tweet_ids": [
+      "2042763514079764912"
+    ],
+    "cleaned_at": "2026-04-11T09:04:26.266550"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042748484345041382"
+    ],
+    "text": "Viral WhatsApp claiming a free RM450 health subsidy from MOH? It's a phishing scam — never click links not ending in .gov.my ⚠️ https://t.co/DQRYF7ESus",
+    "author_id": "410335377",
+    "entities": {
+      "urls": [
+        {
+          "start": 128,
+          "end": 151,
+          "url": "https://t.co/DQRYF7ESus",
+          "expanded_url": "https://www.thestar.com.my/news/true-or-not/2026/04/10/quickcheck-is-the-health-ministry-giving-out-an-rm450-medical-subsidy",
+          "display_url": "thestar.com.my/news/true-or-n…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042483347402698752/IXc5mKgf?format=jpg&name=orig",
+              "width": 620,
+              "height": 413
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042483347402698752/IXc5mKgf?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "QuickCheck: Is the Health Ministry giving out an RM450 medical subsidy?",
+          "description": "FREE money from the government is always tempting, and scammers know it.",
+          "unwound_url": "https://www.thestar.com.my/news/true-or-not/2026/04/10/quickcheck-is-the-health-ministry-giving-out-an-rm450-medical-subsidy"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "created_at": "2026-04-10T23:36:05.000Z",
+    "conversation_id": "2042748484345041382",
+    "id": "2042748484345041382",
+    "cleaned_at": "2026-04-11T09:04:26.266551"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042747243565043948"
+    ],
+    "text": "He lives n Honolulu r surrounding cities. He is possibly part State of Hawaii suspected phishing scam networks on social media platforms.",
+    "author_id": "2202278042",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "created_at": "2026-04-10T23:31:09.000Z",
+    "conversation_id": "2042747241040121889",
+    "id": "2042747243565043948",
+    "cleaned_at": "2026-04-11T09:04:26.266551"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042746862466118095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "mfochaa",
+          "id": "1825122203748438016"
+        },
+        {
+          "start": 9,
+          "end": 18,
+          "username": "maozz4rt",
+          "id": "2034048754706485249"
+        }
+      ]
+    },
+    "text": "@mfochaa @maozz4rt They send phishing scams where you have to put your log in info, that's how they steal your account and then use it to either act as if they were you (they tried with me cause i'm verified) to scam clients or send those scam links to other artists",
+    "author_id": "1652917192931811330",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "created_at": "2026-04-10T23:29:39.000Z",
+    "conversation_id": "2042619361815634123",
+    "id": "2042746862466118095",
+    "cleaned_at": "2026-04-11T09:04:26.266552"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042742457436078306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "alexdog1_",
+          "id": "1972429083330891776"
+        }
+      ]
+    },
+    "text": "@alexdog1_ He is such a good dude. He just kind of shares what he loves with the world. It was that \"I'm going to be on a podcast\" phishing scam again.\n\nIf his recent uploads are any indication, he's at least in good spirits now.",
+    "author_id": "1714001964944547840",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "created_at": "2026-04-10T23:12:08.000Z",
+    "conversation_id": "2040261590545584228",
+    "id": "2042742457436078306",
+    "cleaned_at": "2026-04-11T09:04:26.266553"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2042724337543782733"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "start": 114,
+          "end": 128,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 129,
+          "end": 138,
+          "tag": "phishing"
+        },
+        {
+          "start": 139,
+          "end": 147,
+          "tag": "infosec"
+        },
+        {
+          "start": 148,
+          "end": 155,
+          "tag": "urldna"
+        },
+        {
+          "start": 156,
+          "end": 161,
+          "tag": "scam"
+        },
+        {
+          "start": 162,
+          "end": 170,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 171,
+          "end": 178,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ],
+      "urls": [
+        {
+          "start": 90,
+          "end": 113,
+          "url": "https://t.co/s0338WnbFm",
+          "expanded_url": "https://urldna.io/scan/69d8d8463b775000096daa85",
+          "display_url": "urldna.io/scan/69d8d8463…",
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d8d8463b775000096daa85"
+        },
+        {
+          "start": 179,
+          "end": 202,
+          "url": "https://t.co/wpumOlIyaW",
+          "expanded_url": "https://x.com/urldna_bot/status/2042724337543782733/photo/1",
+          "display_url": "pic.x.com/wpumOlIyaW",
+          "media_key": "3_2042724335169810432"
+        }
+      ]
+    },
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxp[:]//amazon-clone-wine-iota[.]vercel[.]app\n 🧬 Analysis at: https://t.co/s0338WnbFm\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/wpumOlIyaW",
+    "author_id": "1641789500056535042",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "created_at": "2026-04-10T22:00:08.000Z",
+    "conversation_id": "2042724337543782733",
+    "id": "2042724337543782733",
+    "cleaned_at": "2026-04-11T09:04:26.266554"
+  }
+]
