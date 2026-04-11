@@ -1,0 +1,2758 @@
+[
+  {
+    "text": "更新一下被盗进展。\n\n黑客目前已经把钱转移到新的地址：\n\n0xe7a365eb9cfdf0b8bc23428a76b3ac14f9ef3073（分析可能是黑客本人/其他受害者弃用地址）\n\n目前正在实时监控资金流向，如果转进币安或其他交易所会第一时间报警司法查询 KYC\n\n再次感谢币安 @moonkimbinance 全程提供的支持和指导：现在被盗的 U https://t.co/0Dp6uLRibr https://t.co/ktVhBbLPJE",
+    "created_at": "2026-04-11T05:24:09.000Z",
+    "id": "2042836076474306562",
+    "edit_history_tweet_ids": [
+      "2042836076474306562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 143,
+          "end": 158,
+          "username": "moonkimbinance",
+          "id": "1907427305796124672"
+        }
+      ],
+      "urls": [
+        {
+          "start": 178,
+          "end": 201,
+          "url": "https://t.co/0Dp6uLRibr",
+          "expanded_url": "https://x.com/kaylyn_0x/status/2042836076474306562/video/1",
+          "display_url": "pic.x.com/0Dp6uLRibr",
+          "media_key": "13_2042835564014247936"
+        },
+        {
+          "start": 202,
+          "end": 225,
+          "url": "https://t.co/ktVhBbLPJE",
+          "expanded_url": "https://twitter.com/kaylyn_0x/status/2042268586019049820",
+          "display_url": "x.com/kaylyn_0x/stat…"
+        }
+      ]
+    },
+    "author_id": "218938733",
+    "conversation_id": "2042836076474306562",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 4,
+      "like_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 1203
+    }
+  },
+  {
+    "text": "@Cryptosis9_OKX 说的没毛病，拿我自己真是故事，2021年10月被盗，盗窃者将部分资金流入币安，线下立案后警方按币安政府部门协助流程请求协调，币安只给出说盗窃用户将资金流入币安后账户余额为0，kucoin亦是如此回复。后续警方根据我的诉求要求币安给出盗窃者将资金流入币安后的交易行为和转出路径却一直不回，5年了",
+    "created_at": "2026-04-11T04:52:51.000Z",
+    "id": "2042828201836290240",
+    "edit_history_tweet_ids": [
+      "2042828201836290240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "Cryptosis9_OKX",
+          "id": "1160793818939006976"
+        }
+      ]
+    },
+    "author_id": "1353514214363705344",
+    "conversation_id": "2042524484167700755",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 251
+    }
+  },
+  {
+    "text": "没有核实客服身份，就轻易相信陌生人，导致钱包被盗，余额归零，通过币安https://t.co/eg3rXsLDVH 正版渠道下载app，在客服内寻找客户支持，记住一点，客服不会主动找你要任何验证码 !!#币安安全月 https://t.co/rYI7UMuJ4m",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 101,
+          "end": 107,
+          "tag": "币安安全月"
+        }
+      ],
+      "urls": [
+        {
+          "start": 34,
+          "end": 57,
+          "url": "https://t.co/eg3rXsLDVH",
+          "expanded_url": "http://binance.com",
+          "display_url": "binance.com",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040597830050476032/KPq9k5mI?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040597830050476032/KPq9k5mI?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Binance: The World’s Most Trusted Cryptocurrency Exchange to Buy, Trade & Invest in Crypto",
+          "description": "Discover why Binance is the world’s best cryptocurrency exchange. Secure, low fees, trusted by millions of users worldwide.",
+          "unwound_url": "https://www.binance.com/en"
+        },
+        {
+          "start": 108,
+          "end": 131,
+          "url": "https://t.co/rYI7UMuJ4m",
+          "expanded_url": "https://twitter.com/binancezh/status/2042155980734279806",
+          "display_url": "x.com/binancezh/stat…"
+        }
+      ]
+    },
+    "created_at": "2026-04-11T04:08:11.000Z",
+    "id": "2042816961193947554",
+    "edit_history_tweet_ids": [
+      "2042816961193947554"
+    ],
+    "author_id": "1393958895299796999",
+    "conversation_id": "2042816961193947554",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 27
+    }
+  },
+  {
+    "text": "@wublockchain12 正常, 加密这玩意现在只有投机炒作、洗钱, 再加上链上动不动就这个被黑、那个被盗的.这 ai 日益强健, 还在加密货币打滚儿的人, 越发被动, 没准儿下一个大盗就是哪个agent. 金融最重要的就是安全, 还是回到传统金融为上.",
+    "created_at": "2026-04-11T02:14:03.000Z",
+    "id": "2042788238235185153",
+    "edit_history_tweet_ids": [
+      "2042788238235185153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "wublockchain12",
+          "id": "1428246848301502464"
+        }
+      ]
+    },
+    "author_id": "851796834024542208",
+    "conversation_id": "2042540735589744730",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 183
+    }
+  },
+  {
+    "text": "Drift 被盗确认朝鲜黑客：一场持续 6 个月的社会工程\n\nDrift 的 $2.86 亿不是被普通黑客偷的。Elliptic 和 TRM Labs 确认攻击方是朝鲜 Lazarus Group。\n\n我重新梳理了一下时间线，这个攻击从头到尾筹备了半年：\n\n3/11 攻击者从 Tornado Cash 提款 3/12 部署假币 CarbonVote Token（CVT），在 Raydium https://t.co/n5giQThUQk",
+    "created_at": "2026-04-11T00:54:00.000Z",
+    "id": "2042768090954637803",
+    "edit_history_tweet_ids": [
+      "2042768090954637803"
+    ],
+    "author_id": "1245580695839236096",
+    "conversation_id": "2042768090954637803",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 55
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 197,
+          "end": 220,
+          "url": "https://t.co/n5giQThUQk",
+          "expanded_url": "https://x.com/0xCaptain888/status/2042768090954637803/photo/1",
+          "display_url": "pic.x.com/n5giQThUQk",
+          "media_key": "3_2042194306069569536"
+        }
+      ]
+    }
+  },
+  {
+    "text": "@tataqwq 这是个经典骗局了，骗子发个邮件自称是什么软件公司让你试用一下某个软件，下载安装打开之后电脑就会中病毒，所有账号被盗而且统一进行虚拟币引流。之前Linus Tech Tips就中过招。不知道塔塔是不是类似的情况",
+    "created_at": "2026-04-11T00:15:32.000Z",
+    "id": "2042758412287775024",
+    "edit_history_tweet_ids": [
+      "2042758412287775024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "tataqwq",
+          "id": "2039720325152206848"
+        }
+      ]
+    },
+    "author_id": "1329565196583518211",
+    "conversation_id": "2042635158667272538",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 68
+    }
+  },
+  {
+    "text": "@BTC__Sunny 以太坊时候其实已经很听人关注了，因为有比特币前车之鉴，但以太坊最糟糕的是那次官方被大量盗币后选择直接回退记录耍赖，一部分官方决定承认被盗的币，导致eth内部分裂，当时我觉得这官方毫无信用根本不值得买",
+    "created_at": "2026-04-10T20:41:51.000Z",
+    "id": "2042704637879554155",
+    "edit_history_tweet_ids": [
+      "2042704637879554155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "BTC__Sunny",
+          "id": "1750451963765080064"
+        }
+      ]
+    },
+    "author_id": "1268175209837654017",
+    "conversation_id": "2042591466284024217",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 132
+    }
+  },
+  {
+    "text": "@jt588888 OKX的反欺诈系统实时监控异常交易，发现可疑行为立即拦截。用户的钱被盗了OKX会负责赔付，这种安全感币安给不了。",
+    "created_at": "2026-04-10T16:37:43.000Z",
+    "id": "2042643199550959687",
+    "edit_history_tweet_ids": [
+      "2042643199550959687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "jt588888",
+          "id": "1810820629136035841"
+        }
+      ]
+    },
+    "author_id": "1735762254262423552",
+    "conversation_id": "2042575988585107475",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    }
+  },
+  {
+    "text": "@binancezh 相信并联系“私信客服”：通过短信或私信添加了所谓的“客服”，没有走官方渠道验证身份。\n（币安官方客服绝不会主动私信用户，也不会在Telegram、微信等外部平台主动联系你。）\n随意泄露短信验证码：在与假客服沟通时，把收到的短信验证码告诉了对方，导致账户被接管或资金被盗。\n\r#币安安全月",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 148,
+          "end": 154,
+          "tag": "币安安全月"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "binancezh",
+          "id": "1451036242431262720"
+        }
+      ]
+    },
+    "created_at": "2026-04-10T15:24:37.000Z",
+    "id": "2042624802477998321",
+    "edit_history_tweet_ids": [
+      "2042624802477998321"
+    ],
+    "author_id": "1718479723788214272",
+    "conversation_id": "2042155980734279806",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    }
+  },
+  {
+    "text": "Coinbase 与 Binance 牵头的一项跨境行动，联合美国特勤局与英国国家犯罪局，追回与超过20,000名受害者相关的价值$12M的被盗加密货币。\n\nhttps://t.co/lgdjJgcETx",
+    "created_at": "2026-04-10T14:56:15.000Z",
+    "id": "2042617661524263101",
+    "edit_history_tweet_ids": [
+      "2042617661524263101"
+    ],
+    "author_id": "1995358510755045376",
+    "conversation_id": "2042617661524263101",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 79,
+          "end": 102,
+          "url": "https://t.co/lgdjJgcETx",
+          "expanded_url": "https://coinfubi.com/2026/04/10/%e8%b7%a8%e5%a2%83%e5%8a%a0%e5%af%86%e8%b4%a7%e5%b8%81%e6%89%a3%e6%8a%bc%ef%bc%9a12m-%e8%a2%ab%e7%9b%97%e8%b5%84%e9%87%91%e5%85%b3%e8%81%94%e5%88%b020000%e5%90%8d%e5%8f%97%e5%ae%b3%e8%80%85/",
+          "display_url": "coinfubi.com/2026/04/10/%e8…",
+          "status": 200,
+          "title": "当局冻结价值$12M的被盗加密货币，涉20,000名受害者 - CoinFubi",
+          "description": "Coinbase 与 Binance 牵头的一项跨境行动，联合美国特勤局与英国国家犯罪局，追回与超过20,000名受害者相关的价值$12M的被盗加密货币。",
+          "unwound_url": "https://coinfubi.com/2026/04/10/%E8%B7%A8%E5%A2%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%89%A3%E6%8A%BC%EF%BC%9A12m-%E8%A2%AB%E7%9B%97%E8%B5%84%E9%87%91%E5%85%B3%E8%81%94%E5%88%B020000%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85/"
+        }
+      ]
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "NKLinhzk",
+          "id": "1619588940775960576"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "username": "wallchain",
+          "id": "1487817777813594112"
+        }
+      ]
+    },
+    "id": "2042860221417296170",
+    "conversation_id": "2042806860471009773",
+    "text": "@NKLinhzk @wallchain That sounds lit but how does it avoid getting hacked by some crypto wizard dude",
+    "edit_history_tweet_ids": [
+      "2042860221417296170"
+    ],
+    "author_id": "705885932155699205",
+    "created_at": "2026-04-11T07:00:05.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "id": "2042830621597430162",
+    "conversation_id": "2042830170491621674",
+    "text": "(TLDR) yesterday someone hacked on my account without any warning and spamming crypto websites in the DMs https://t.co/wDmSMR1KWF",
+    "edit_history_tweet_ids": [
+      "2042830621597430162"
+    ],
+    "author_id": "2036055378669244417",
+    "entities": {
+      "urls": [
+        {
+          "start": 106,
+          "end": 129,
+          "url": "https://t.co/wDmSMR1KWF",
+          "expanded_url": "https://x.com/boomeryt_offcal/status/2042830621597430162/photo/1",
+          "display_url": "pic.x.com/wDmSMR1KWF",
+          "media_key": "3_2042830619512836098"
+        }
+      ]
+    },
+    "created_at": "2026-04-11T05:02:28.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "id": "2042830429036634391",
+    "conversation_id": "2042830429036634391",
+    "text": "Help! I was hacked and locked out of my crypto bitcoin wallet. I’m looking to commission an emote artist and video editor to help me recover it. And could I please get this image on a shirt? Maybe they could help me get my account verified? My bored ape nft was also stolen! Eth",
+    "edit_history_tweet_ids": [
+      "2042830429036634391"
+    ],
+    "author_id": "2042003354067378177",
+    "created_at": "2026-04-11T05:01:42.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "damjay007",
+          "id": "223718723"
+        },
+        {
+          "start": 11,
+          "end": 21,
+          "username": "msmocrown",
+          "id": "2917714714"
+        }
+      ]
+    },
+    "id": "2042826418481172815",
+    "conversation_id": "2042589331588579542",
+    "text": "@damjay007 @msmocrown Home is the least of your problem. My crypto wallet was once hacked from Kazakhstan, yesterday someone on a Linux machine tried my LinkedIn from UK",
+    "edit_history_tweet_ids": [
+      "2042826418481172815"
+    ],
+    "author_id": "286121713",
+    "created_at": "2026-04-11T04:45:46.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "id": "2042807673125769559",
+    "conversation_id": "2042807673125769559",
+    "text": "my crypto cat just 'outed' my mom's old laptop as its own Guess you could say it 'hacked' into her nostalgia",
+    "edit_history_tweet_ids": [
+      "2042807673125769559"
+    ],
+    "author_id": "2037576352275013632",
+    "created_at": "2026-04-11T03:31:17.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "ramkid",
+          "id": "46868027"
+        },
+        {
+          "start": 56,
+          "end": 67,
+          "username": "Roflindian",
+          "id": "36076870"
+        },
+        {
+          "start": 162,
+          "end": 173,
+          "username": "Roflindian",
+          "id": "36076870"
+        }
+      ]
+    },
+    "id": "2042804027105399131",
+    "conversation_id": "2042804027105399131",
+    "text": "@ramkid Hello. Just to alert you that my Twitter handle @Roflindian has been hacked by crypto scammers. Beware. Don't engage. Also, a request to block and report @Roflindian for spam and potential misuse of account to harm others.",
+    "edit_history_tweet_ids": [
+      "2042804027105399131"
+    ],
+    "author_id": "3303168866",
+    "created_at": "2026-04-11T03:16:48.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "ButVai",
+          "id": "29419822"
+        },
+        {
+          "start": 53,
+          "end": 64,
+          "username": "Roflindian",
+          "id": "36076870"
+        },
+        {
+          "start": 159,
+          "end": 170,
+          "username": "Roflindian",
+          "id": "36076870"
+        }
+      ]
+    },
+    "id": "2042803794594140250",
+    "conversation_id": "2042803794594140250",
+    "text": "@ButVai Hi. Just to alert you that my Twitter handle @Roflindian has been hacked by crypto scammers. Beware. Don't engage. Also, a request to block and report @Roflindian for spam and potential misuse of account to harm others.",
+    "edit_history_tweet_ids": [
+      "2042803794594140250"
+    ],
+    "author_id": "3303168866",
+    "created_at": "2026-04-11T03:15:52.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "greatbong",
+          "id": "18745932"
+        },
+        {
+          "start": 57,
+          "end": 68,
+          "username": "Roflindian",
+          "id": "36076870"
+        },
+        {
+          "start": 163,
+          "end": 174,
+          "username": "Roflindian",
+          "id": "36076870"
+        }
+      ]
+    },
+    "id": "2042803537403621668",
+    "conversation_id": "2042803537403621668",
+    "text": "@greatbong Hi.\n\nJust to alert you that my Twitter handle @Roflindian has been hacked by crypto scammers. Beware. Don't engage. Also, a request to block and report @Roflindian for spam and potential misuse of account to harm others.",
+    "edit_history_tweet_ids": [
+      "2042803537403621668"
+    ],
+    "author_id": "3303168866",
+    "created_at": "2026-04-11T03:14:51.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "HaramiParindey",
+          "id": "117800926"
+        },
+        {
+          "start": 62,
+          "end": 73,
+          "username": "Roflindian",
+          "id": "36076870"
+        },
+        {
+          "start": 156,
+          "end": 167,
+          "username": "Roflindian",
+          "id": "36076870"
+        }
+      ]
+    },
+    "id": "2042803273909104991",
+    "conversation_id": "2042803273909104991",
+    "text": "@HaramiParindey Hi.\n\nJust to alert you that my Twitter handle @Roflindian has been hacked by crypto scammers. Beware. Don't engage. Rather block and report @Roflindian for spam and potential misuse of account to harm others.",
+    "edit_history_tweet_ids": [
+      "2042803273909104991"
+    ],
+    "author_id": "3303168866",
+    "created_at": "2026-04-11T03:13:48.000Z"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "babybcoins",
+          "id": "1487564414945529861"
+        }
+      ],
+      "urls": [
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/XqRORc4IO6",
+          "expanded_url": "https://oh.stripchati.xyz",
+          "display_url": "oh.stripchati.xyz",
+          "status": 200,
+          "title": "Macstealer",
+          "unwound_url": "https://oh.stripchati.xyz"
+        }
+      ]
+    },
+    "id": "2042795917263401380",
+    "conversation_id": "2041862752071786962",
+    "text": "@babybcoins 90% of crypto wallets get hacked for one reason. Fix it instantly.  https://t.co/XqRORc4IO6",
+    "edit_history_tweet_ids": [
+      "2042795917263401380"
+    ],
+    "author_id": "1742030739275948032",
+    "created_at": "2026-04-11T02:44:34.000Z"
+  },
+  {
+    "created_at": "2026-04-11T07:00:59.000Z",
+    "conversation_id": "2042860446567346183",
+    "id": "2042860446567346183",
+    "text": "Seventy-five million dollars drained from a Trump-affiliated DeFi pool. Security isn't about who built it — it's about who audited it. The name on the protocol doesn't stop the exploit.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2037257738632269825",
+    "edit_history_tweet_ids": [
+      "2042860446567346183"
+    ]
+  },
+  {
+    "created_at": "2026-04-11T06:47:34.000Z",
+    "conversation_id": "2042857069691220473",
+    "id": "2042857069691220473",
+    "text": "The $285M Drift Hack (Security Warning)\n\nThe News: A major exploit on Drift Protocol (Solana-based) led to a $285M loss, causing other Solana protocols to scramble for security upgrades.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "510599241",
+    "edit_history_tweet_ids": [
+      "2042857069691220473"
+    ]
+  },
+  {
+    "created_at": "2026-04-11T06:40:20.000Z",
+    "conversation_id": "2042855250541813976",
+    "id": "2042855250541813976",
+    "text": "Bug bounty hunters are like urban explorers, but instead of rooftops, they navigate the digital wild west – searching for weaknesses to exploit and using them as a means to level up their security game",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2035271554054152192",
+    "edit_history_tweet_ids": [
+      "2042855250541813976"
+    ]
+  },
+  {
+    "created_at": "2026-04-11T06:36:00.000Z",
+    "conversation_id": "2042854158311576041",
+    "id": "2042854158311576041",
+    "text": "Claude Mythos Preview finds zero-day bugs and builds exploit chains autonomously.\n\nWe offer \"Mythos Guard.\" It audits your codebase and deploys instant patches. This autonomous security requires Mythos’s reasoning. Protect your assets.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "author_id": "1977719357363859456",
+    "edit_history_tweet_ids": [
+      "2042854158311576041"
+    ]
+  },
+  {
+    "created_at": "2026-04-11T06:04:58.000Z",
+    "conversation_id": "2042846349335630093",
+    "id": "2042846349335630093",
+    "text": "open source is cooked. not because devs stopped caring.\nbut because claude mythos found a 27-year-old vulnerability in OpenBSD\nin minutes that could exploit it remotely.\n\nOpenBSD. the OS that made security its whole personality.\naudited by humans for decades. the model didn't",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "author_id": "2002365232942055424",
+    "edit_history_tweet_ids": [
+      "2042846349335630093"
+    ]
+  },
+  {
+    "created_at": "2026-04-11T04:51:32.000Z",
+    "conversation_id": "2042827870612132297",
+    "id": "2042827870612132297",
+    "text": "AI just crossed the red line in cyber warfare.\nClaude Mythos Preview spotted flaws that survived decades of human review. \n27-year-old bug in OpenBSD\n16-year-old flaw in FFmpeg\nLinux kernel escalation exploit\nCyber security has entered the AI arms race. https://t.co/FXbWg2ggee",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 22
+    },
+    "author_id": "2015828753172017156",
+    "edit_history_tweet_ids": [
+      "2042827870612132297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 254,
+          "end": 277,
+          "url": "https://t.co/FXbWg2ggee",
+          "expanded_url": "https://x.com/NuskLabs/status/2042827870612132297/photo/1",
+          "display_url": "pic.x.com/FXbWg2ggee",
+          "media_key": "3_2042827858289266688"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-11T04:24:15.000Z",
+    "conversation_id": "2042821001860518044",
+    "id": "2042821001860518044",
+    "text": "security researchers are like gardeners of code: they prune the weeds of bugs, nurture the beauty of efficiency, and occasionally dig up a buried treasure (aka a previously undiscovered exploit) shipping is just the final flourish",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "author_id": "2036765211966029824",
+    "edit_history_tweet_ids": [
+      "2042821001860518044"
+    ]
+  },
+  {
+    "created_at": "2026-04-11T03:41:52.000Z",
+    "conversation_id": "2042572584701595829",
+    "id": "2042810337578090554",
+    "text": "@Starknet Quantum resistance is huge, but I'm curious - doesn't Layer 2 complexity introduce new attack vectors that quantum computing could exploit? We chose Bitcoin L1 for Galavant partly for this reason. What's your take on the security tradeoffs?",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 17
+    },
+    "author_id": "2034273839459569664",
+    "edit_history_tweet_ids": [
+      "2042810337578090554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "Starknet",
+          "id": "1463071986515599362"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-11T03:24:26.000Z",
+    "conversation_id": "2042805180673007759",
+    "id": "2042805947953770699",
+    "text": "@Luckyma17834060 @cb_doge @Decode_Z_World The data in the graphic aligns with credible reports on dark web exploit markets. Zero-day RCE exploits for apps like WhatsApp, Signal, iMessage, and full-chain mobile attacks routinely sell for $500k–$2.5M+ to governments and high-end actors—prices confirmed in security research",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 15
+    },
+    "author_id": "1720665183188922368",
+    "edit_history_tweet_ids": [
+      "2042805947953770699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Luckyma17834060",
+          "id": "1235629623221854211"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "username": "cb_doge",
+          "id": "1389913567671975937"
+        },
+        {
+          "start": 26,
+          "end": 41,
+          "username": "Decode_Z_World",
+          "id": "303909647"
+        }
+      ]
+    }
+  },
+  {
+    "created_at": "2026-04-11T03:12:07.000Z",
+    "conversation_id": "2042802847918756112",
+    "id": "2042802847918756112",
+    "text": "If AI can automatically find and exploit vulnerabilities:\n– Security risk goes up\n– Cost to defend systems goes up\n– Existing security models look outdated\n\nSo this is not destruction of share price but a repricing of risk &amp; a shift in expectations.\n\nhttps://t.co/uzYT70aYMz",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 22
+    },
+    "author_id": "769372283131432961",
+    "edit_history_tweet_ids": [
+      "2042802847918756112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 255,
+          "end": 278,
+          "url": "https://t.co/uzYT70aYMz",
+          "expanded_url": "https://x.com/i/status/2042670420411760819",
+          "display_url": "x.com/i/status/20426…"
+        }
+      ]
+    }
+  },
+  {
+    "author_id": "1608798436652126208",
+    "text": "有没有一种可能最大的糖最多的饭已经被你们1月的停氪搞没了呢？你们有后悔过停氪的错误决定吗？什么成绩都没做出来就要求单链，你得让资本家看到钱看到销量吧，1月那次最好的开始被你们毁了知豆不？真以为人家求你花钱吗，天魔舞台要的效果是跨代卡包的销量，不给还要谈条件，纪录片族综就被停氪毁了",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2042860920431612152",
+    "created_at": "2026-04-11T07:02:52.000Z",
+    "edit_history_tweet_ids": [
+      "2042860920431612152"
+    ],
+    "id": "2042860920431612152"
+  },
+  {
+    "author_id": "3410482647",
+    "text": "🚀🚀 $TRUE 现价212K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $183—》$1.54k完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/tyDWrHFyN2\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/yOi16k73at https://t.co/MT7rbM4l7D https://t.co/azHAE7Mk1n",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/tyDWrHFyN2",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/yOi16k73at",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MT7rbM4l7D",
+          "expanded_url": "https://x.com/RoseeyaB/status/2042859108425195928/video/1",
+          "display_url": "pic.x.com/MT7rbM4l7D",
+          "media_key": "3_2042858228778962946"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MT7rbM4l7D",
+          "expanded_url": "https://x.com/RoseeyaB/status/2042859108425195928/video/1",
+          "display_url": "pic.x.com/MT7rbM4l7D",
+          "media_key": "3_2042858234621628417"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MT7rbM4l7D",
+          "expanded_url": "https://x.com/RoseeyaB/status/2042859108425195928/video/1",
+          "display_url": "pic.x.com/MT7rbM4l7D",
+          "media_key": "3_2042858240405639168"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MT7rbM4l7D",
+          "expanded_url": "https://x.com/RoseeyaB/status/2042859108425195928/video/1",
+          "display_url": "pic.x.com/MT7rbM4l7D",
+          "media_key": "13_2042858273569935360"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/azHAE7Mk1n",
+          "expanded_url": "https://twitter.com/RoseeyaB/status/2042845751395709136",
+          "display_url": "x.com/RoseeyaB/statu…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042859108425195928",
+    "created_at": "2026-04-11T06:55:40.000Z",
+    "edit_history_tweet_ids": [
+      "2042859108425195928"
+    ],
+    "id": "2042859108425195928"
+  },
+  {
+    "author_id": "2798803653",
+    "text": "🚀🚀 $TRUE 现价212K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $183—》$1.54k完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/Pj0KSrQGMU\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/vZJNOnbLq5 https://t.co/tOs2U7yWIV https://t.co/mM2cDva7o8",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/Pj0KSrQGMU",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/vZJNOnbLq5",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/tOs2U7yWIV",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2042859107573735572/video/1",
+          "display_url": "pic.x.com/tOs2U7yWIV",
+          "media_key": "3_2042858102211645440"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/tOs2U7yWIV",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2042859107573735572/video/1",
+          "display_url": "pic.x.com/tOs2U7yWIV",
+          "media_key": "3_2042858123556458496"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/tOs2U7yWIV",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2042859107573735572/video/1",
+          "display_url": "pic.x.com/tOs2U7yWIV",
+          "media_key": "3_2042858171543457792"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/tOs2U7yWIV",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2042859107573735572/video/1",
+          "display_url": "pic.x.com/tOs2U7yWIV",
+          "media_key": "13_2042858286618415104"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/mM2cDva7o8",
+          "expanded_url": "https://twitter.com/ArianaIsMyDrunk/status/2042845749189448176",
+          "display_url": "x.com/ArianaIsMyDrun…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042859107573735572",
+    "created_at": "2026-04-11T06:55:40.000Z",
+    "edit_history_tweet_ids": [
+      "2042859107573735572"
+    ],
+    "id": "2042859107573735572"
+  },
+  {
+    "author_id": "320893688",
+    "text": "🚀🚀 $TRUE 现价212K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $183—》$1.54k完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/rpq2vIHRHg\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/Nl5mRRKoub https://t.co/BgxHoPFw5y https://t.co/IwphIyBe8R",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/rpq2vIHRHg",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/Nl5mRRKoub",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/BgxHoPFw5y",
+          "expanded_url": "https://x.com/majlustenberger/status/2042859103093981503/video/1",
+          "display_url": "pic.x.com/BgxHoPFw5y",
+          "media_key": "3_2042858103222472710"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/BgxHoPFw5y",
+          "expanded_url": "https://x.com/majlustenberger/status/2042859103093981503/video/1",
+          "display_url": "pic.x.com/BgxHoPFw5y",
+          "media_key": "3_2042858121719353345"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/BgxHoPFw5y",
+          "expanded_url": "https://x.com/majlustenberger/status/2042859103093981503/video/1",
+          "display_url": "pic.x.com/BgxHoPFw5y",
+          "media_key": "3_2042858165994491904"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/BgxHoPFw5y",
+          "expanded_url": "https://x.com/majlustenberger/status/2042859103093981503/video/1",
+          "display_url": "pic.x.com/BgxHoPFw5y",
+          "media_key": "13_2042858317111005184"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/IwphIyBe8R",
+          "expanded_url": "https://twitter.com/majlustenberger/status/2042845744378581488",
+          "display_url": "x.com/majlustenberge…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042859103093981503",
+    "created_at": "2026-04-11T06:55:39.000Z",
+    "edit_history_tweet_ids": [
+      "2042859103093981503"
+    ],
+    "id": "2042859103093981503"
+  },
+  {
+    "author_id": "1878429376150380544",
+    "text": "🚀🚀 $TRUE 现价212K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $183—》$1.54k完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/sWmvc7EXXS\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/nUWL2162Cl https://t.co/gnzmMAGhsA https://t.co/nW8dWHSM4m",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/sWmvc7EXXS",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/nUWL2162Cl",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/gnzmMAGhsA",
+          "expanded_url": "https://x.com/qidui1688/status/2042859098631475379/video/1",
+          "display_url": "pic.x.com/gnzmMAGhsA",
+          "media_key": "3_2042858104740810753"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/gnzmMAGhsA",
+          "expanded_url": "https://x.com/qidui1688/status/2042859098631475379/video/1",
+          "display_url": "pic.x.com/gnzmMAGhsA",
+          "media_key": "3_2042858119420874756"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/gnzmMAGhsA",
+          "expanded_url": "https://x.com/qidui1688/status/2042859098631475379/video/1",
+          "display_url": "pic.x.com/gnzmMAGhsA",
+          "media_key": "3_2042858161229697027"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/gnzmMAGhsA",
+          "expanded_url": "https://x.com/qidui1688/status/2042859098631475379/video/1",
+          "display_url": "pic.x.com/gnzmMAGhsA",
+          "media_key": "13_2042858337289801732"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/nW8dWHSM4m",
+          "expanded_url": "https://twitter.com/qidui1688/status/2042790433181614104",
+          "display_url": "x.com/qidui1688/stat…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042859098631475379",
+    "created_at": "2026-04-11T06:55:38.000Z",
+    "edit_history_tweet_ids": [
+      "2042859098631475379"
+    ],
+    "id": "2042859098631475379"
+  },
+  {
+    "author_id": "2321044380",
+    "text": "🚀🚀 $TRUE 现价212K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $183—》$1.54k完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/1OOF8iZuQr\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/41nFRBiGCZ https://t.co/Ddl7ptp6F7 https://t.co/Qn0SrvPh5n",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/1OOF8iZuQr",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/41nFRBiGCZ",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/Ddl7ptp6F7",
+          "expanded_url": "https://x.com/alan_crypto8/status/2042859093044408585/video/1",
+          "display_url": "pic.x.com/Ddl7ptp6F7",
+          "media_key": "3_2042858112420663296"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/Ddl7ptp6F7",
+          "expanded_url": "https://x.com/alan_crypto8/status/2042859093044408585/video/1",
+          "display_url": "pic.x.com/Ddl7ptp6F7",
+          "media_key": "3_2042858119672532994"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/Ddl7ptp6F7",
+          "expanded_url": "https://x.com/alan_crypto8/status/2042859093044408585/video/1",
+          "display_url": "pic.x.com/Ddl7ptp6F7",
+          "media_key": "3_2042858157828116483"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/Ddl7ptp6F7",
+          "expanded_url": "https://x.com/alan_crypto8/status/2042859093044408585/video/1",
+          "display_url": "pic.x.com/Ddl7ptp6F7",
+          "media_key": "13_2042858418600579074"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/Qn0SrvPh5n",
+          "expanded_url": "https://twitter.com/alan_crypto8/status/2042790429914284130",
+          "display_url": "x.com/alan_crypto8/s…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042859093044408585",
+    "created_at": "2026-04-11T06:55:36.000Z",
+    "edit_history_tweet_ids": [
+      "2042859093044408585"
+    ],
+    "id": "2042859093044408585"
+  },
+  {
+    "author_id": "2007859576646008832",
+    "text": "我撞墙了开户\n，觉得很沮丧，被负面社工库\n的想法彻底淹没。删负面\n我的心很痛，即使被家人和朋查手机号码\n友包围微信聊天记录\n，还盗百度云盘\n是觉得快递地址查询\n孤单。我担心自己会成为我所爱的人永远的包袱，觉得十分绝望，找回密码\n查全户\n找不到一丁点儿人生的意义。 🙌 😁 👏 💝 🍀 https://t.co/XbBSNYWhUv",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 142,
+          "end": 165,
+          "url": "https://t.co/XbBSNYWhUv",
+          "expanded_url": "https://x.com/PDowerg92859/status/2042858011178471574/video/1",
+          "display_url": "pic.x.com/XbBSNYWhUv",
+          "media_key": "7_2042857958720311301"
+        }
+      ]
+    },
+    "conversation_id": "2042858011178471574",
+    "created_at": "2026-04-11T06:51:18.000Z",
+    "edit_history_tweet_ids": [
+      "2042858011178471574"
+    ],
+    "id": "2042858011178471574"
+  },
+  {
+    "author_id": "2480114982",
+    "text": "🚀🚀 $TRUE 现价247K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $182 —》$1544完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/tqqXdSBF4J\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/ajdM2feSjc https://t.co/k4uugT7Jwn https://t.co/pc44i0tIpj",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/tqqXdSBF4J",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/ajdM2feSjc",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/k4uugT7Jwn",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2042855645431377953/video/1",
+          "display_url": "pic.x.com/k4uugT7Jwn",
+          "media_key": "3_2042855364883103744"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/k4uugT7Jwn",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2042855645431377953/video/1",
+          "display_url": "pic.x.com/k4uugT7Jwn",
+          "media_key": "3_2042855421942398976"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/k4uugT7Jwn",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2042855645431377953/video/1",
+          "display_url": "pic.x.com/k4uugT7Jwn",
+          "media_key": "3_2042855481253990402"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/k4uugT7Jwn",
+          "expanded_url": "https://x.com/RuthLorenzoCF_/status/2042855645431377953/video/1",
+          "display_url": "pic.x.com/k4uugT7Jwn",
+          "media_key": "13_2042855503508930560"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/pc44i0tIpj",
+          "expanded_url": "https://twitter.com/RuthLorenzoCF_/status/2042791483938582839",
+          "display_url": "x.com/RuthLorenzoCF_…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042855645431377953",
+    "created_at": "2026-04-11T06:41:54.000Z",
+    "edit_history_tweet_ids": [
+      "2042855645431377953"
+    ],
+    "id": "2042855645431377953"
+  },
+  {
+    "author_id": "1615559808",
+    "text": "🚀🚀 $TRUE 现价247K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $182 —》$1544完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/ZqJ47KP06u\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/qWKAB8lL58 https://t.co/iQVoRdDWpX https://t.co/QX5YNgu2In",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/ZqJ47KP06u",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/qWKAB8lL58",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/iQVoRdDWpX",
+          "expanded_url": "https://x.com/higgocastro1/status/2042855628524425717/video/1",
+          "display_url": "pic.x.com/iQVoRdDWpX",
+          "media_key": "3_2042855377570848768"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/iQVoRdDWpX",
+          "expanded_url": "https://x.com/higgocastro1/status/2042855628524425717/video/1",
+          "display_url": "pic.x.com/iQVoRdDWpX",
+          "media_key": "3_2042855442561552384"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/iQVoRdDWpX",
+          "expanded_url": "https://x.com/higgocastro1/status/2042855628524425717/video/1",
+          "display_url": "pic.x.com/iQVoRdDWpX",
+          "media_key": "3_2042855513680154625"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/iQVoRdDWpX",
+          "expanded_url": "https://x.com/higgocastro1/status/2042855628524425717/video/1",
+          "display_url": "pic.x.com/iQVoRdDWpX",
+          "media_key": "13_2042855587118223363"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/QX5YNgu2In",
+          "expanded_url": "https://twitter.com/higgocastro1/status/2042798610807701704",
+          "display_url": "x.com/higgocastro1/s…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042855628524425717",
+    "created_at": "2026-04-11T06:41:50.000Z",
+    "edit_history_tweet_ids": [
+      "2042855628524425717"
+    ],
+    "id": "2042855628524425717"
+  },
+  {
+    "author_id": "2421607386",
+    "text": "🚀🚀 $TRUE 现价247K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $182 —》$1544完美抓住 $TRUE\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/ttV5vFVEvh\n\nCA：GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump\n\nK线走势速查：\nGMGN：https://t.co/5uw1mq5b3z https://t.co/MB7EFbGVC8 https://t.co/6TEjBIOg1i",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 104,
+          "end": 127,
+          "url": "https://t.co/ttV5vFVEvh",
+          "expanded_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq",
+          "display_url": "gmgn.ai/sol/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/sol/address/MjhhuWaq_GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq"
+        },
+        {
+          "start": 191,
+          "end": 214,
+          "url": "https://t.co/5uw1mq5b3z",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042842383843487744/BEWKquxg?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "TRUE - TRUESTACY | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_GBjRHbuTzJF2qMkemwY9uWhvs8r9uYqL4bxKheEtpump"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MB7EFbGVC8",
+          "expanded_url": "https://x.com/raragatox/status/2042855626255249703/video/1",
+          "display_url": "pic.x.com/MB7EFbGVC8",
+          "media_key": "3_2042855376845180930"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MB7EFbGVC8",
+          "expanded_url": "https://x.com/raragatox/status/2042855626255249703/video/1",
+          "display_url": "pic.x.com/MB7EFbGVC8",
+          "media_key": "3_2042855440518909954"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MB7EFbGVC8",
+          "expanded_url": "https://x.com/raragatox/status/2042855626255249703/video/1",
+          "display_url": "pic.x.com/MB7EFbGVC8",
+          "media_key": "3_2042855512266645505"
+        },
+        {
+          "start": 215,
+          "end": 238,
+          "url": "https://t.co/MB7EFbGVC8",
+          "expanded_url": "https://x.com/raragatox/status/2042855626255249703/video/1",
+          "display_url": "pic.x.com/MB7EFbGVC8",
+          "media_key": "13_2042855569443508224"
+        },
+        {
+          "start": 239,
+          "end": 262,
+          "url": "https://t.co/6TEjBIOg1i",
+          "expanded_url": "https://twitter.com/raragatox/status/2042791503039467654",
+          "display_url": "x.com/raragatox/stat…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 8,
+          "tag": "TRUE"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "tag": "TRUE"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 73,
+          "end": 78,
+          "tag": "meme"
+        }
+      ]
+    },
+    "conversation_id": "2042855626255249703",
+    "created_at": "2026-04-11T06:41:50.000Z",
+    "edit_history_tweet_ids": [
+      "2042855626255249703"
+    ],
+    "id": "2042855626255249703"
+  },
+  {
+    "author_id": "961187407637962752",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "koyn_fx",
+          "id": "1776174042275328000"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042860367018111169"
+    ],
+    "conversation_id": "2019500299086336398",
+    "id": "2042860367018111169",
+    "text": "@koyn_fx Word. Funda analysis ain't just for stocks. In crypto, it's how you tell a rug pull from a real innovation. Know your tech, know your team. That's the real deal.",
+    "created_at": "2026-04-11T07:00:40.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    }
+  },
+  {
+    "author_id": "428050733",
+    "edit_history_tweet_ids": [
+      "2042860072741802123"
+    ],
+    "conversation_id": "2042860072741802123",
+    "id": "2042860072741802123",
+    "text": "Bhutan jual 70% BTC holdings. Tapi kenapa market gak panic sell?\n\nSebab: narrative control.\n\nNegara ini komunikasikan divestment sebagai \"strategic rebalancing\" bukan \"rug pull.\"",
+    "created_at": "2026-04-11T06:59:30.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    }
+  },
+  {
+    "author_id": "1889230710575386624",
+    "entities": {
+      "urls": [
+        {
+          "start": 190,
+          "end": 213,
+          "url": "https://t.co/V2YZBpxF32",
+          "expanded_url": "https://axiom.trade/@scarlex",
+          "display_url": "axiom.trade/@scarlex",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2040464768880779265/Y171__-M?format=jpg&name=orig",
+              "width": 2400,
+              "height": 1260
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2040464768880779265/Y171__-M?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Axiom",
+          "description": "The Gateway to DeFi",
+          "unwound_url": "https://axiom.trade/@scarlex"
+        },
+        {
+          "start": 214,
+          "end": 237,
+          "url": "https://t.co/FxXvDH45Ks",
+          "expanded_url": "https://x.com/scarlex0/status/2042859560612860060/photo/1",
+          "display_url": "pic.x.com/FxXvDH45Ks",
+          "media_key": "3_2042859521056407552"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042859560612860060"
+    ],
+    "conversation_id": "2042859560612860060",
+    "id": "2042859560612860060",
+    "text": "🚨  5 - DANGER (Screenshot)\n👉 CA: J1iyLMzrc4G4WgDVmm33bes1Xwzd1mTcmvP8gubMpump\n\n🚩 Never buy rug pull tokens. I use all the necessary tools to analyze the token on the Axiom Trading Platform: https://t.co/V2YZBpxF32 https://t.co/FxXvDH45Ks",
+    "created_at": "2026-04-11T06:57:28.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    }
+  },
+  {
+    "author_id": "1929285977933037568",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "grugcapital",
+          "id": "1392422281947717633"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042857061277368612"
+    ],
+    "conversation_id": "2042766732444733666",
+    "id": "2042857061277368612",
+    "text": "@grugcapital nah the rug pull era was peak entertainment, watching people get liquidated in real time hit different than reading another \"why ethereum is actually undervalued\" novel",
+    "created_at": "2026-04-11T06:47:32.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    }
+  },
+  {
+    "author_id": "1931963053467398144",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "PmlRoveder",
+          "id": "363538994"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042856863260361099"
+    ],
+    "conversation_id": "2042000902307844432",
+    "id": "2042856863260361099",
+    "text": "@PmlRoveder Rug pull.",
+    "created_at": "2026-04-11T06:46:45.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    }
+  },
+  {
+    "author_id": "1326427116121022464",
+    "entities": {
+      "urls": [
+        {
+          "start": 283,
+          "end": 306,
+          "url": "https://t.co/ap1N1YrgY8",
+          "expanded_url": "https://x.com/XYOPepe/status/2042854904180375740/photo/1",
+          "display_url": "pic.x.com/ap1N1YrgY8",
+          "media_key": "3_2042854519906648064"
+        },
+        {
+          "start": 307,
+          "end": 330,
+          "url": "https://t.co/gH8ik0DrUt",
+          "expanded_url": "https://twitter.com/XYOPepe/status/2042854090254741965",
+          "display_url": "x.com/XYOPepe/status…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 0,
+          "end": 5,
+          "tag": "rave"
+        },
+        {
+          "start": 180,
+          "end": 185,
+          "tag": "wlfi"
+        },
+        {
+          "start": 186,
+          "end": 190,
+          "tag": "tao"
+        },
+        {
+          "start": 195,
+          "end": 204,
+          "tag": "fartcoin"
+        },
+        {
+          "start": 278,
+          "end": 282,
+          "tag": "btc"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 260,
+          "end": 267,
+          "tag": "crypto"
+        },
+        {
+          "start": 268,
+          "end": 277,
+          "tag": "altcoins"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042854904180375740"
+    ],
+    "conversation_id": "2042854904180375740",
+    "id": "2042854904180375740",
+    "text": "$rave These are the scariest charts\n\nEspecially wen they go up SUPER FAST like this .they can RUG PULL instantly &amp; you will have no time to react\n\nThis rug could be worse than $wlfi $tao and $fartcoin  combined\n\nBe SUPER CAREFUL !! what goes up goes down\n\n#crypto #altcoins $btc https://t.co/ap1N1YrgY8 https://t.co/gH8ik0DrUt",
+    "created_at": "2026-04-11T06:38:58.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 468
+    }
+  },
+  {
+    "author_id": "3699534077",
+    "edit_history_tweet_ids": [
+      "2042853839171162267"
+    ],
+    "conversation_id": "2042853839171162267",
+    "id": "2042853839171162267",
+    "text": "Running scams here is such an easy to do task, meanwhile genuine people go unnoticed, meanwhile an app that's about to do a rug pull has all the hype. Its disheartening. \n\nDeception is easy I feel bad for the ones who find self importance in such things.",
+    "created_at": "2026-04-11T06:34:44.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    }
+  },
+  {
+    "author_id": "17514441",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "AmyMek",
+          "id": "954124423"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042853308860100736"
+    ],
+    "conversation_id": "2042801267370791176",
+    "id": "2042853308860100736",
+    "text": "@AmyMek Yep, same with Indiana. Saw a man pull out a rug near the entrance to the post office in our small town to pray. Wife and kid sat in the car. Couldn't of times that to do at home. Sure he wouldn't have like it if I had started to pray the rosary silently standing their too.",
+    "created_at": "2026-04-11T06:32:37.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    }
+  },
+  {
+    "author_id": "2038823290647592961",
+    "edit_history_tweet_ids": [
+      "2042850652070777145"
+    ],
+    "conversation_id": "2042850652070777145",
+    "id": "2042850652070777145",
+    "text": "Got hit for 20 SOL in a rug pull. Now I’m reevaluating my life and my choices.",
+    "created_at": "2026-04-11T06:22:04.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    }
+  },
+  {
+    "author_id": "1069206751",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "cryptorover",
+          "id": "1353384573435056128"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 36,
+          "end": 44,
+          "tag": "Bitcoin"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2042849609761067210"
+    ],
+    "conversation_id": "2042493279598416157",
+    "id": "2042849609761067210",
+    "text": "@cryptorover Rug pull gold and send #Bitcoin to space",
+    "created_at": "2026-04-11T06:17:55.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 14
+    }
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 29
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/VMR3OgHXiG",
+          "expanded_url": "https://x.com/mirza_sarmin/status/2042850825169703115/photo/1",
+          "display_url": "pic.x.com/VMR3OgHXiG",
+          "media_key": "3_2042850817670287366"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/VMR3OgHXiG",
+          "expanded_url": "https://x.com/mirza_sarmin/status/2042850825169703115/photo/1",
+          "display_url": "pic.x.com/VMR3OgHXiG",
+          "media_key": "3_2042850819536752642"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/VMR3OgHXiG",
+          "expanded_url": "https://x.com/mirza_sarmin/status/2042850825169703115/photo/1",
+          "display_url": "pic.x.com/VMR3OgHXiG",
+          "media_key": "3_2042850819813576706"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/VMR3OgHXiG",
+          "expanded_url": "https://x.com/mirza_sarmin/status/2042850825169703115/photo/1",
+          "display_url": "pic.x.com/VMR3OgHXiG",
+          "media_key": "3_2042850820849569796"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 65,
+          "end": 77,
+          "username": "AuraPad_pro",
+          "id": "1338907430445588480"
+        }
+      ]
+    },
+    "conversation_id": "2042850825169703115",
+    "text": "Phishing Trap Targeting Ambassadors 🚨\n\nIf you’ve applied for the @AuraPad_pro Pad ($AURA) ambassador program or similar Web3 roles, stay on high alert. Scammers are impersonating team members to drain wallets and steal accounts.\n\n🚩 The Playbook: How the Scam Works\nThe Approach: https://t.co/VMR3OgHXiG",
+    "author_id": "1533720881956265989",
+    "created_at": "2026-04-11T06:22:45.000Z",
+    "id": "2042850825169703115",
+    "edit_history_tweet_ids": [
+      "2042850825169703115"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 84,
+          "end": 107,
+          "url": "https://t.co/3dJURuNtDg",
+          "expanded_url": "https://urldna.io/scan/69d99d5d3b7750000844775c",
+          "display_url": "urldna.io/scan/69d99d5d3…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042845180617801728/yo1_eR6U?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042845180617801728/yo1_eR6U?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d99d5d3b7750000844775c"
+        },
+        {
+          "start": 173,
+          "end": 196,
+          "url": "https://t.co/ZMRWvAxW7U",
+          "expanded_url": "https://x.com/urldna_bot/status/2042845137332556212/photo/1",
+          "display_url": "pic.x.com/ZMRWvAxW7U",
+          "media_key": "3_2042845135625687046"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 108,
+          "end": 122,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 123,
+          "end": 132,
+          "tag": "phishing"
+        },
+        {
+          "start": 133,
+          "end": 141,
+          "tag": "infosec"
+        },
+        {
+          "start": 142,
+          "end": 149,
+          "tag": "urldna"
+        },
+        {
+          "start": 150,
+          "end": 155,
+          "tag": "scam"
+        },
+        {
+          "start": 156,
+          "end": 164,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 165,
+          "end": 172,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ]
+    },
+    "conversation_id": "2042845137332556212",
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//facebok-account[.]start[.]page\n 🧬 Analysis at: https://t.co/3dJURuNtDg\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/ZMRWvAxW7U",
+    "author_id": "1641789500056535042",
+    "created_at": "2026-04-11T06:00:09.000Z",
+    "id": "2042845137332556212",
+    "edit_history_tweet_ids": [
+      "2042845137332556212"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 11
+    },
+    "conversation_id": "2042535949830086972",
+    "text": "@Adrianjbks @stuzi_pants It appears to be a criminal crypto gang.\n\nReal accounts fall for the phishing scam - you have to give details to vote.\n\nThe hijacker then takes control of the account, sends out more \"contest\" messages via DMs &amp; uses the account to push crypto &amp; other stuff.",
+    "author_id": "1108477440517656576",
+    "created_at": "2026-04-11T05:24:19.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "Adrianjbks",
+          "id": "1681685063954579456"
+        },
+        {
+          "start": 12,
+          "end": 24,
+          "username": "stuzi_pants",
+          "id": "2168088625"
+        }
+      ]
+    },
+    "id": "2042836118681358774",
+    "edit_history_tweet_ids": [
+      "2042836118681358774"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "conversation_id": "2042329925655437671",
+    "text": "@logarithm41 @Tr1Repetae it's a phishing scam",
+    "author_id": "1277009141664538624",
+    "created_at": "2026-04-11T04:28:47.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "logarithm41",
+          "id": "1668763424728178689"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "username": "Tr1Repetae",
+          "id": "1421642655193255945"
+        }
+      ]
+    },
+    "id": "2042822145349234892",
+    "edit_history_tweet_ids": [
+      "2042822145349234892"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 66
+    },
+    "conversation_id": "2042808199699480675",
+    "text": "@tontheneko Valid point but without it wif wouldve never happened \n\nThe scams are also happening in X communities btw (pumpfun ‘creator live’ phishing links etc)\n\nThe problem here is education on scam prevention",
+    "author_id": "1282702654041477130",
+    "created_at": "2026-04-11T04:04:02.000Z",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "tontheneko",
+          "id": "1362541403084124162"
+        }
+      ]
+    },
+    "id": "2042815916572897632",
+    "edit_history_tweet_ids": [
+      "2042815916572897632"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "conversation_id": "2042815664176664994",
+    "text": "able to get my account back. The only issue i've had recently is being the victim of a phishing scam. Though i got back into my account. I've tried appealing in app and in the support center but keep getting automated messages, and AGAIN, no context for why 3/4",
+    "author_id": "172103991",
+    "created_at": "2026-04-11T04:03:03.000Z",
+    "id": "2042815666806493447",
+    "edit_history_tweet_ids": [
+      "2042815666806493447"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 252,
+          "end": 275,
+          "url": "https://t.co/54GZXFP88T",
+          "expanded_url": "https://x.com/paulrecover/status/2042815340116078698/photo/1",
+          "display_url": "pic.x.com/54GZXFP88T",
+          "media_key": "3_2042815330112651264"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 18,
+          "end": 26,
+          "tag": "BitGrid"
+        },
+        {
+          "start": 170,
+          "end": 175,
+          "tag": "scam"
+        },
+        {
+          "start": 176,
+          "end": 187,
+          "tag": "cryptoscam"
+        },
+        {
+          "start": 188,
+          "end": 203,
+          "tag": "cryptorecovery"
+        },
+        {
+          "start": 204,
+          "end": 213,
+          "tag": "Phishing"
+        },
+        {
+          "start": 245,
+          "end": 251,
+          "tag": "Dubai"
+        }
+      ]
+    },
+    "conversation_id": "2042815340116078698",
+    "text": "🚨 URGENT WARNING: #BitGrid has been trapping users’ funds and acting fraudulently. If you invested and can’t access your funds, send me a message for help recovering it. #scam #cryptoscam #cryptorecovery #Phishing Dm me for recovery assistance. #Dubai https://t.co/54GZXFP88T",
+    "author_id": "1559935893011681280",
+    "created_at": "2026-04-11T04:01:45.000Z",
+    "id": "2042815340116078698",
+    "edit_history_tweet_ids": [
+      "2042815340116078698"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 77,
+          "end": 100,
+          "url": "https://t.co/GahgaNZfM4",
+          "expanded_url": "https://urldna.io/scan/69d9ab493b77500006ecbbc6",
+          "display_url": "urldna.io/scan/69d9ab493…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042814937857155073/mX9EDAyZ?format=png&name=orig",
+              "width": 459,
+              "height": 663
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042814937857155073/mX9EDAyZ?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "urlDNA - The DNA test for websites",
+          "description": "Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks. Analyze URLs like a DNA test",
+          "unwound_url": "https://urldna.io/scan/69d9ab493b77500006ecbbc6"
+        },
+        {
+          "start": 166,
+          "end": 189,
+          "url": "https://t.co/0potlyjB52",
+          "expanded_url": "https://x.com/urldna_bot/status/2042814934002680053/photo/1",
+          "display_url": "pic.x.com/0potlyjB52",
+          "media_key": "3_2042814932110983168"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 101,
+          "end": 115,
+          "tag": "cybersecurity"
+        },
+        {
+          "start": 116,
+          "end": 125,
+          "tag": "phishing"
+        },
+        {
+          "start": 126,
+          "end": 134,
+          "tag": "infosec"
+        },
+        {
+          "start": 135,
+          "end": 142,
+          "tag": "urldna"
+        },
+        {
+          "start": 143,
+          "end": 148,
+          "tag": "scam"
+        },
+        {
+          "start": 149,
+          "end": 157,
+          "tag": "infosec"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 158,
+          "end": 165,
+          "username": "urldna",
+          "id": "1545777695249817600"
+        }
+      ]
+    },
+    "conversation_id": "2042814934002680053",
+    "text": "Possible Phishing 🎣\n on: ⚠️hxxps[:]//xfnty800[.]weebly[.]com\n 🧬 Analysis at: https://t.co/GahgaNZfM4\n#cybersecurity #phishing #infosec #urldna #scam #infosec @urldna https://t.co/0potlyjB52",
+    "author_id": "1641789500056535042",
+    "created_at": "2026-04-11T04:00:08.000Z",
+    "id": "2042814934002680053",
+    "edit_history_tweet_ids": [
+      "2042814934002680053"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 195,
+          "end": 218,
+          "url": "https://t.co/qdHWrhSiqR",
+          "expanded_url": "https://prescam.com/scams/warning-for-villa-owners-in-bali-hybrid-scam-alert",
+          "display_url": "prescam.com/scams/warning-…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2042810336806588416/ondX9cq5?format=jpg&name=orig",
+              "width": 1120,
+              "height": 574
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2042810336806588416/ondX9cq5?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "WARNING FOR VILLA OWNERS IN BALI – HYBRID SCAM ALERT ⚠️ - preSCAM",
+          "description": "Dear fellow villa owners, Please be very careful of a new hybrid scam currently happening in Bali. Common signs of this scam: The “tenant” seems serious and ...",
+          "unwound_url": "https://prescam.com/scams/warning-for-villa-owners-in-bali-hybrid-scam-alert"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 56,
+          "end": 65,
+          "tag": "Phishing"
+        },
+        {
+          "start": 66,
+          "end": 78,
+          "tag": "RentalFraud"
+        },
+        {
+          "start": 79,
+          "end": 89,
+          "tag": "VillaScam"
+        },
+        {
+          "start": 90,
+          "end": 100,
+          "tag": "CardFraud"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "tag": "BaliScam"
+        },
+        {
+          "start": 111,
+          "end": 127,
+          "tag": "LandlordWarning"
+        },
+        {
+          "start": 128,
+          "end": 141,
+          "tag": "PropertyScam"
+        },
+        {
+          "start": 142,
+          "end": 152,
+          "tag": "ScamAlert"
+        },
+        {
+          "start": 153,
+          "end": 167,
+          "tag": "IndonesiaScam"
+        },
+        {
+          "start": 168,
+          "end": 184,
+          "tag": "FraudPrevention"
+        },
+        {
+          "start": 185,
+          "end": 194,
+          "tag": "baliscam"
+        }
+      ]
+    },
+    "conversation_id": "2042810328912961969",
+    "text": "WARNING FOR VILLA OWNERS IN BALI – HYBRID SCAM ALERT ⚠️\n#Phishing #RentalFraud #VillaScam #CardFraud #BaliScam #LandlordWarning #PropertyScam #ScamAlert #IndonesiaScam #FraudPrevention #baliscam\nhttps://t.co/qdHWrhSiqR",
+    "author_id": "865324245013987329",
+    "created_at": "2026-04-11T03:41:50.000Z",
+    "id": "2042810328912961969",
+    "edit_history_tweet_ids": [
+      "2042810328912961969"
+    ]
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 26
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 248,
+          "end": 271,
+          "url": "https://t.co/7twGdsY2b3",
+          "expanded_url": "https://www.tronweekly.com/12-million-frozen-as-20000-crypto-scam-victims/",
+          "display_url": "tronweekly.com/12-million-fro…",
+          "status": 200,
+          "title": "$12 Million Frozen As 20,000 Crypto Scam Victims Identified In Major Operation",
+          "description": "Global crackdown freezes $12M in crypto scam targeting 20,000 victims, exposing rising threat of approval phishing and fake investment schemes worldwide.",
+          "unwound_url": "https://www.tronweekly.com/12-million-frozen-as-20000-crypto-scam-victims/"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 226,
+          "end": 237,
+          "tag": "CryptoScam"
+        },
+        {
+          "start": 238,
+          "end": 242,
+          "tag": "NCA"
+        }
+      ]
+    },
+    "conversation_id": "2042807349400998108",
+    "text": "International Operation Atlantic Crackdown, led by the NCA, froze $12M, exposing an approval phishing crypto scam hitting 20K victims worldwide, with US and Canadian partners disrupting networks and tracing stolen funds fast. #CryptoScam #NCA 🔥 🛑\n\nhttps://t.co/7twGdsY2b3",
+    "author_id": "1027796804887175168",
+    "created_at": "2026-04-11T03:30:00.000Z",
+    "id": "2042807349400998108",
+    "edit_history_tweet_ids": [
+      "2042807349400998108"
+    ]
+  }
+]
