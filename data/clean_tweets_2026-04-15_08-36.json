@@ -1,0 +1,840 @@
+[
+  {
+    "text": "Circle 拒绝冻结被盗 $USDC ，引发关于稳定币安全与监管的新一轮讨论。\n\nCircle 强硬表态，拒冻结被盗 $USDC ，稳定币安全再成焦点",
+    "id": "2044100250584158520",
+    "edit_history_tweet_ids": [
+      "2044100250584158520"
+    ],
+    "conversation_id": "2044100250584158520",
+    "created_at": "2026-04-14T17:07:31.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7691
+    },
+    "entities": {
+      "cashtags": [
+        {
+          "start": 14,
+          "end": 19,
+          "tag": "USDC"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "tag": "USDC"
+        }
+      ]
+    },
+    "author_id": "746166804863684608",
+    "cleaned_at": "2026-04-15T09:19:33.733138"
+  },
+  {
+    "text": "这个 @Matt_Furie 99%的概率是推特被盗了，很着急的一直领取BAGS手续费，正常人不会这样，而且手续费转到了混币池\n注意风险吧\nEkJuyYyD3to61CHVPJn6wHb7xANxvqApnVJ4o2SdBAGS https://t.co/HwusNrtD7j",
+    "id": "2044090908480811096",
+    "edit_history_tweet_ids": [
+      "2044090908480811096"
+    ],
+    "conversation_id": "2044090908480811096",
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/HwusNrtD7j",
+          "expanded_url": "https://x.com/Researchcai/status/2044090908480811096/photo/1",
+          "display_url": "pic.x.com/HwusNrtD7j",
+          "media_key": "3_2044090427113123841"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Matt_Furie",
+          "id": "1370173798931066883"
+        }
+      ]
+    },
+    "created_at": "2026-04-14T16:30:24.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 473
+    },
+    "author_id": "1879234410459066368",
+    "cleaned_at": "2026-04-15T09:19:33.733143"
+  },
+  {
+    "text": "@heyibinance @Bqlsj2023 有时间精力关注一个外卖服是否是盗版，真不如花点心思处理下fourmeme龙台发貔貅的问题，注意力真的用错地方了，这也你们币安一直被诟病的最大问题，口口声声说着用户至上，事实却做着视用户为无物",
+    "id": "2044079502175998191",
+    "edit_history_tweet_ids": [
+      "2044079502175998191"
+    ],
+    "conversation_id": "2043918069098262730",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "heyibinance",
+          "id": "1003840309166366721"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "Bqlsj2023",
+          "id": "1405826789927182337"
+        }
+      ]
+    },
+    "created_at": "2026-04-14T15:45:05.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 924
+    },
+    "author_id": "1730833947532177408",
+    "cleaned_at": "2026-04-15T09:19:33.733145"
+  },
+  {
+    "text": "🔥假冒Ledger Live应用在苹果App Store窃取950万美元，ZachXBT揭露\n\n据链上侦探ZachXBT报告，苹果商店中的假冒Ledger Live应用与950万美元的加密货币盗窃案有关，超过50名受害者的资金被追踪至与KuCoin关联的混币器，引发对苹果责任的质疑。",
+    "id": "2044063359964983579",
+    "edit_history_tweet_ids": [
+      "2044063359964983579"
+    ],
+    "conversation_id": "2044063359964983579",
+    "created_at": "2026-04-14T14:40:56.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 118
+    },
+    "author_id": "1624286098737483778",
+    "cleaned_at": "2026-04-15T09:19:33.733145"
+  },
+  {
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 8
+    },
+    "id": "2044191360551420288",
+    "edit_history_tweet_ids": [
+      "2044191360551420288"
+    ],
+    "conversation_id": "2043610947252814233",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "JacobKnowsWeb3",
+          "id": "1796871503478181888"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "username": "multibank_io",
+          "id": "1331248869527654405"
+        }
+      ]
+    },
+    "text": "@JacobKnowsWeb3 @multibank_io “Can’t be hacked” is usually the top signal before disaster 😂\nThey fake a hack on April 1, post “Why Hyperbridge Can’t Be Hacked”, then tell security people “good luck” when they point out risks…\nCrypto always humbles arrogance.\nNothing is incorruptible.\nEspecially bridges ihih",
+    "created_at": "2026-04-14T23:09:34.000Z",
+    "author_id": "1903897598529818624",
+    "cleaned_at": "2026-04-15T09:19:33.733146"
+  },
+  {
+    "text": "@DefiLlama @KookCapitalLLC The Bybit incident ($1.5B Feb 2025) skews this chart heavily. What's more telling: hack-to-TVL ratio trends. If TVL grows faster than exploit size, security is improving relatively even as absolute numbers rise. Need the denominator in this analysis to see the real trend.",
+    "created_at": "2026-04-15T00:24:33.000Z",
+    "author_id": "2021106335841189888",
+    "edit_history_tweet_ids": [
+      "2044210230012325920"
+    ],
+    "id": "2044210230012325920",
+    "conversation_id": "2044140116428415133",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "DefiLlama",
+          "id": "1321585610654687241"
+        },
+        {
+          "start": 11,
+          "end": 26,
+          "username": "KookCapitalLLC",
+          "id": "864011281"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733165"
+  },
+  {
+    "text": "A senior US Space Force cyber official says AI tools are helping defenders find and fix the small security gaps — misconfigurations, failed updates, forgotten systems — that criminals and state hackers actually exploit to break into networks. Space Force claims AI has cut its",
+    "created_at": "2026-04-15T00:12:17.000Z",
+    "author_id": "937643472319688705",
+    "edit_history_tweet_ids": [
+      "2044207144908603673"
+    ],
+    "id": "2044207144908603673",
+    "conversation_id": "2044207144908603673",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733166"
+  },
+  {
+    "text": "Finally some good news! 🔥 The Ethereum Foundation just dropped a $1M fund to help devs afford proper security audits. This is exactly what we need to stop the next exploit before it happens #Ethereum #CryptoSecurity",
+    "created_at": "2026-04-15T00:06:23.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 190,
+          "end": 199,
+          "tag": "Ethereum"
+        },
+        {
+          "start": 200,
+          "end": 215,
+          "tag": "CryptoSecurity"
+        }
+      ]
+    },
+    "author_id": "291295398",
+    "edit_history_tweet_ids": [
+      "2044205659047211287"
+    ],
+    "id": "2044205659047211287",
+    "conversation_id": "2044205659047211287",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733167"
+  },
+  {
+    "text": "CoW Swap team advising users to avoid the platform while they patch a security exploit. Smart move being transparent, but this highlights ongoing risks in DeFi infrastructure. Wait for the all-clear. #DeFiSecurity",
+    "created_at": "2026-04-15T00:04:50.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 200,
+          "end": 213,
+          "tag": "DeFiSecurity"
+        }
+      ]
+    },
+    "author_id": "233456302",
+    "edit_history_tweet_ids": [
+      "2044205270138794100"
+    ],
+    "id": "2044205270138794100",
+    "conversation_id": "2044205270138794100",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733167"
+  },
+  {
+    "text": "Anthropic has released Mythos, an AI model designed to find and exploit security flaws in software at a level that surpasses most human security researchers. The company is restricting early access to a small group — primarily US technology giants like Apple, Microsoft, and",
+    "created_at": "2026-04-14T23:57:06.000Z",
+    "author_id": "937643472319688705",
+    "edit_history_tweet_ids": [
+      "2044203322576408839"
+    ],
+    "id": "2044203322576408839",
+    "conversation_id": "2044203322576408839",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 23
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733168"
+  },
+  {
+    "text": "𝐅𝐢𝐟𝐭𝐡 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞: 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲\n\nBoth take security seriously. \n\nBut their records differ.\n\n𝐁𝐢𝐭𝐠𝐞𝐭: $300M protection fund. No major hack on record. Strong KYC and proof of reserves.\n\n𝐁𝐲𝐛𝐢𝐭: $400M insurance fund. Suffered a $1.4B exploit in early 2025.",
+    "created_at": "2026-04-14T23:30:17.000Z",
+    "author_id": "1835753611948691456",
+    "edit_history_tweet_ids": [
+      "2044196576927916218"
+    ],
+    "id": "2044196576927916218",
+    "conversation_id": "2044192269486403888",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 5
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733169"
+  },
+  {
+    "text": "A leaked API key in 2026 isn't just an API key.\n\nIf it grants access to an AI agent — it's a remote control for an automated system with production permissions.\n\nMean time to exploit after a GitHub push: 4 minutes.\n\nYour incident response window is essentially zero.\n#Security",
+    "created_at": "2026-04-14T22:59:51.000Z",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 267,
+          "end": 276,
+          "tag": "Security"
+        }
+      ]
+    },
+    "author_id": "2023973445600727040",
+    "edit_history_tweet_ids": [
+      "2044188914613707251"
+    ],
+    "id": "2044188914613707251",
+    "conversation_id": "2044188914613707251",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733169"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/iYGmu4Nn7g",
+          "expanded_url": "https://siliconangle.com/2026/04/14/oligo-security-moves-beyond-cve-prioritization-real-time-application-layer-exploit-blocking/",
+          "display_url": "siliconangle.com/2026/04/14/oli…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044039931446616065/v8CQuU22?format=jpg&name=orig",
+              "width": 1312,
+              "height": 736
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044039931446616065/v8CQuU22?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Oligo Security moves beyond CVE prioritization with real-time application-layer exploit blocking",
+          "description": "Runtime security startup Oligo Security Ltd. today unveiled Runtime Exploit Blocking, a new capability that stops exploit attempts at the application layer in real time without killing containers or p",
+          "unwound_url": "https://siliconangle.com/2026/04/14/oligo-security-moves-beyond-cve-prioritization-real-time-application-layer-exploit-blocking/"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 125,
+          "end": 138,
+          "username": "SiliconANGLE",
+          "id": "19192943"
+        }
+      ]
+    },
+    "text": "Oligo Security moves beyond CVE prioritization with real-time application-layer exploit blocking https://t.co/iYGmu4Nn7g via @SiliconANGLE",
+    "created_at": "2026-04-14T22:35:49.000Z",
+    "author_id": "809866",
+    "edit_history_tweet_ids": [
+      "2044182869694951643"
+    ],
+    "id": "2044182869694951643",
+    "conversation_id": "2044182869694951643",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 12
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733170"
+  },
+  {
+    "text": "@thePalenimbus exploit culture highlights ongoing security gaps in crypto systems",
+    "created_at": "2026-04-14T22:23:23.000Z",
+    "author_id": "15076680",
+    "edit_history_tweet_ids": [
+      "2044179737333891577"
+    ],
+    "id": "2044179737333891577",
+    "conversation_id": "2044162532894499093",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "thePalenimbus",
+          "id": "1245854688915763200"
+        }
+      ]
+    },
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "cleaned_at": "2026-04-15T09:19:33.733171"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2044211626530750825"
+    ],
+    "author_id": "2043808806514126848",
+    "text": "Now let's talk about the 'rug pull'  accusations.\nUnlike real scams that drain liquidity in hours or days Tenup has maintained its liquidity very well for all these years and they are still doing it today. Also the Tenup Team cannot  simply print or generate tokens at their will",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2044211610600755507",
+    "id": "2044211626530750825",
+    "created_at": "2026-04-15T00:30:06.000Z",
+    "cleaned_at": "2026-04-15T09:19:33.733171"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2044211617538228264"
+    ],
+    "author_id": "2043808806514126848",
+    "text": "People spread hate and call it a 'scam' or a 'rug pull' , but calling it a scam does not make it.\nLet's not forget that Tenup is Pakistan's first major decentralized blockchain project. It has faced many hurdles, especially when crypto was banned and the State Bank Of Pakistan.",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "conversation_id": "2044211610600755507",
+    "id": "2044211617538228264",
+    "created_at": "2026-04-15T00:30:03.000Z",
+    "cleaned_at": "2026-04-15T09:19:33.733172"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2044211130105569559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 250,
+          "end": 273,
+          "url": "https://t.co/pKKR1383Hx",
+          "expanded_url": "https://x.com/Lucky13irteen/status/2044211130105569559/photo/1",
+          "display_url": "pic.x.com/pKKR1383Hx",
+          "media_key": "3_2044211126641238016"
+        }
+      ]
+    },
+    "author_id": "2008799079988686848",
+    "text": "Idk when it’s going to happen, but at some point, the rug is going to pull on this and some people are going to get filthy rich from shorting this thing wayyyyyy back down 😂\n\nNot financial advice.\n\nethereum:0x17205fab260a7a6383a81452ce6315a39370db97 https://t.co/pKKR1383Hx",
+    "public_metrics": {
+      "retweet_count": 3,
+      "reply_count": 2,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 33
+    },
+    "conversation_id": "2044211130105569559",
+    "id": "2044211130105569559",
+    "created_at": "2026-04-15T00:28:07.000Z",
+    "cleaned_at": "2026-04-15T09:19:33.733173"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2044208632297066954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 61,
+          "end": 84,
+          "url": "https://t.co/8xMUaAQJ8Q",
+          "expanded_url": "https://x.com/MartinSull34940/status/2044208632297066954/photo/1",
+          "display_url": "pic.x.com/8xMUaAQJ8Q",
+          "media_key": "3_2044208602362396672"
+        }
+      ]
+    },
+    "author_id": "2041247940002418688",
+    "text": "10 SOL lost, rug pull took it. Time to cry and process this. https://t.co/8xMUaAQJ8Q",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "conversation_id": "2044208632297066954",
+    "id": "2044208632297066954",
+    "created_at": "2026-04-15T00:18:12.000Z",
+    "cleaned_at": "2026-04-15T09:19:33.733173"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2044207484462592114"
+    ],
+    "author_id": "887135982",
+    "text": "@clintoptions Its a scam. Completely manipulated and the rug pull will come when everyone least expects it",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 4
+    },
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "clintoptions",
+          "id": "1530734534295138304"
+        }
+      ]
+    },
+    "conversation_id": "2044080553943806052",
+    "id": "2044207484462592114",
+    "created_at": "2026-04-15T00:13:38.000Z",
+    "cleaned_at": "2026-04-15T09:19:33.733174"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "2044207336462467571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 26,
+          "end": 49,
+          "url": "https://t.co/Bmjwj32fEZ",
+          "expanded_url": "https://x.com/GMEMOONBOUND/status/2044207336462467571/photo/1",
+          "display_url": "pic.x.com/Bmjwj32fEZ",
+          "media_key": "16_2044207330514915329"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 7,
+          "username": "ragz_j",
+          "id": "985674048"
+        }
+      ]
+    },
+    "author_id": "1374350366695944193",
+    "text": "@ragz_j Rug pull coming 🔜 https://t.co/Bmjwj32fEZ",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 13
+    },
+    "conversation_id": "2044202039308177742",
+    "id": "2044207336462467571",
+    "created_at": "2026-04-15T00:13:03.000Z",
+    "cleaned_at": "2026-04-15T09:19:33.733199"
+  },
+  {
+    "created_at": "2026-04-15T00:18:07.000Z",
+    "conversation_id": "2044208610956259436",
+    "author_id": "1820615682926477312",
+    "edit_history_tweet_ids": [
+      "2044208610956259436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 172,
+          "end": 195,
+          "url": "https://t.co/wERCTZugev",
+          "expanded_url": "https://x.com/lsydneyb/status/2044208610956259436/photo/1",
+          "display_url": "pic.x.com/wERCTZugev",
+          "media_key": "3_2044208608184020992"
+        }
+      ]
+    },
+    "id": "2044208610956259436",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "text": "Don’t forget that the AI is creating a model of you: what triggers you, what makes you happy, what works best to get you to talk and share your data. It’s a phishing scam. https://t.co/wERCTZugev",
+    "cleaned_at": "2026-04-15T09:19:33.733200"
+  },
+  {
+    "created_at": "2026-04-15T00:13:36.000Z",
+    "conversation_id": "2044207475587723650",
+    "author_id": "2024687272940167168",
+    "edit_history_tweet_ids": [
+      "2044207475587723650"
+    ],
+    "id": "2044207475587723650",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 3
+    },
+    "text": "**Your bank will NEVER ask you to verify your password via email or text — here's why scammers use this trick:**\n\nWhen a message claims to be from your bank asking you to \"verify\" or \"confirm\" your account, it's almost always a phishing scam. Here's how to verify it's fake in 3",
+    "cleaned_at": "2026-04-15T09:19:33.733201"
+  },
+  {
+    "created_at": "2026-04-14T23:44:38.000Z",
+    "conversation_id": "2044200185971257360",
+    "author_id": "33311555",
+    "edit_history_tweet_ids": [
+      "2044200185971257360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 119,
+          "end": 142,
+          "url": "https://t.co/vMSMpg4Vv7",
+          "expanded_url": "https://x.com/SikkSoToo/status/2044200185971257360/photo/1",
+          "display_url": "pic.x.com/vMSMpg4Vv7",
+          "media_key": "3_2044200130187014144"
+        }
+      ]
+    },
+    "id": "2044200185971257360",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 14
+    },
+    "text": "Looks like another person got hacked. Beware of DMs that look like this from him or anyone else. It's a phishing scam. https://t.co/vMSMpg4Vv7",
+    "cleaned_at": "2026-04-15T09:19:33.733201"
+  },
+  {
+    "created_at": "2026-04-14T23:19:25.000Z",
+    "conversation_id": "2044193840647811094",
+    "author_id": "1485566394876203010",
+    "edit_history_tweet_ids": [
+      "2044193840647811094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 156,
+          "end": 179,
+          "url": "https://t.co/wNUjFg3lLD",
+          "expanded_url": "https://x.com/VoteLewko/status/2044193840647811094/photo/1",
+          "display_url": "pic.x.com/wNUjFg3lLD",
+          "media_key": "3_2044193352518893568"
+        }
+      ]
+    },
+    "id": "2044193840647811094",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 208
+    },
+    "text": "PSA: If you receive one of these messages in your DMs it is a phishing scam. The person who sent it to you, who you may know, has had their account hacked. https://t.co/wNUjFg3lLD",
+    "cleaned_at": "2026-04-15T09:19:33.733202"
+  },
+  {
+    "created_at": "2026-04-14T23:15:09.000Z",
+    "conversation_id": "2027011030883377251",
+    "author_id": "1418857999586766855",
+    "edit_history_tweet_ids": [
+      "2044192767006449958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "Starlink",
+          "id": "1330170106501079041"
+        }
+      ]
+    },
+    "id": "2044192767006449958",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "text": "@Starlink If I had not been dealing with a phishing scam I would’ve tried starlink",
+    "cleaned_at": "2026-04-15T09:19:33.733203"
+  },
+  {
+    "created_at": "2026-04-14T22:50:57.000Z",
+    "conversation_id": "2043687917801861525",
+    "author_id": "1865054612",
+    "edit_history_tweet_ids": [
+      "2044186677875183647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "start": 315,
+          "end": 338,
+          "url": "https://t.co/XkfsvqBjPV",
+          "expanded_url": "https://x.com/a_5t_n/status/2044186677875183647/photo/1",
+          "display_url": "pic.x.com/XkfsvqBjPV",
+          "media_key": "3_2044186675362848768"
+        },
+        {
+          "start": 315,
+          "end": 338,
+          "url": "https://t.co/XkfsvqBjPV",
+          "expanded_url": "https://x.com/a_5t_n/status/2044186677875183647/photo/1",
+          "display_url": "pic.x.com/XkfsvqBjPV",
+          "media_key": "3_2044186675056701440"
+        },
+        {
+          "start": 315,
+          "end": 338,
+          "url": "https://t.co/XkfsvqBjPV",
+          "expanded_url": "https://x.com/a_5t_n/status/2044186677875183647/photo/1",
+          "display_url": "pic.x.com/XkfsvqBjPV",
+          "media_key": "3_2044186675186708480"
+        },
+        {
+          "start": 315,
+          "end": 338,
+          "url": "https://t.co/XkfsvqBjPV",
+          "expanded_url": "https://x.com/a_5t_n/status/2044186677875183647/photo/1",
+          "display_url": "pic.x.com/XkfsvqBjPV",
+          "media_key": "3_2044186675186630657"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 6,
+          "username": "ajrgd",
+          "id": "54499843"
+        },
+        {
+          "start": 7,
+          "end": 21,
+          "username": "cambridgemike",
+          "id": "22107793"
+        },
+        {
+          "start": 22,
+          "end": 33,
+          "username": "nikitabier",
+          "id": "636513296"
+        }
+      ]
+    },
+    "id": "2044186677875183647",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "text": "@ajrgd @cambridgemike @nikitabier This phishing scam at \nh××ps://artsverttice[.]vercel[.]app/ pretends to be the Virginia Arts Festival People's Choice Awards 2026.\n\nIt shows nice art, then pops up \"Cast Your Vote\" and forces you to sign in with spoofed login pages for **Instagram, Facebook, X, and Microsoft** to https://t.co/XkfsvqBjPV",
+    "cleaned_at": "2026-04-15T09:19:33.733203"
+  },
+  {
+    "created_at": "2026-04-14T22:44:36.000Z",
+    "conversation_id": "2044173933109489905",
+    "author_id": "832148438745640961",
+    "edit_history_tweet_ids": [
+      "2044185079237464303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "beerboy182",
+          "id": "308706937"
+        }
+      ]
+    },
+    "id": "2044185079237464303",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 32
+    },
+    "text": "@beerboy182 Yeah. It’s a phishing scam and your account gets bricked if you click the link.",
+    "cleaned_at": "2026-04-15T09:19:33.733226"
+  }
+]
