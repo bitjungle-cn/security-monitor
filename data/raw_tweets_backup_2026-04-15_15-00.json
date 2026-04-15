@@ -1,0 +1,1244 @@
+[
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 164,
+          "end": 187,
+          "url": "https://t.co/Q2ZL9sqWIf",
+          "expanded_url": "https://x.com/VIP8888883/status/2044292132794708061/photo/1",
+          "display_url": "pic.x.com/Q2ZL9sqWIf",
+          "media_key": "3_2044230489058447360"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 63,
+          "end": 67,
+          "tag": "BTC"
+        }
+      ]
+    },
+    "conversation_id": "2044292132794708061",
+    "author_id": "994471473929572352",
+    "id": "2044292132794708061",
+    "created_at": "2026-04-15T05:50:00.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 700
+    },
+    "text": "什么？？？在苹果App Store下载的Ledger Live是钓鱼应用？\n\n已超 50 人，总涉案金额达 950 万美元的 $BTC 被盗？还有什么是安全的？\n\n突发安全事件：App Store 惊现假冒 Ledger Live，美国音乐家因此损失 5.9 枚比特币\n\n据链上数据显示，一款伪装成官方 Ledger Live https://t.co/Q2ZL9sqWIf",
+    "edit_history_tweet_ids": [
+      "2044292132794708061"
+    ]
+  },
+  {
+    "conversation_id": "2044234273138299185",
+    "author_id": "1248061192335003648",
+    "id": "2044234273138299185",
+    "created_at": "2026-04-15T02:00:05.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 1538
+    },
+    "text": "【每日简报 - 2026-04-15】\n\n1️⃣ Farcaster澄清：不会发行代币，相关“代币讨论”实为分叉项目Hypersnap\n\n2️⃣ Coinbase、币安等加密公司正寻求接入Anthropic的Mythos AI模型，并强化防御体系\n\n3️⃣ 俄罗斯央行拟要求所有加密交易者完成身份验证\n\n4️⃣ 某用户签署恶意Permit2交易致31.6万美元USDC被盗\n\n5️⃣",
+    "edit_history_tweet_ids": [
+      "2044234273138299185"
+    ]
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 177,
+          "end": 200,
+          "url": "https://t.co/eXBwMu76F5",
+          "expanded_url": "https://x.com/gudemaoning0520/status/2044222326288593007/video/1",
+          "display_url": "pic.x.com/eXBwMu76F5",
+          "media_key": "13_2044222230708801536"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 130,
+          "end": 139,
+          "tag": "RIVERPTS"
+        },
+        {
+          "start": 167,
+          "end": 171,
+          "tag": "ACU"
+        }
+      ]
+    },
+    "conversation_id": "2044222326288593007",
+    "author_id": "1651450002772987907",
+    "id": "2044222326288593007",
+    "created_at": "2026-04-15T01:12:37.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 101
+    },
+    "text": "从入圈到现在，经历了两次钱包被盗，真的有点离谱了…😓\n\n📅 2025年7月27日 — 第一次被盗\n一个质押项目中招，被修改剪切板😭\n💸 损失 131.7U\n\n📅 前两天 — 第二次被盗（更严重）\n这次直接是“全面沦陷”级别：\n\n🔻 钱包被盗\n•31274 枚 $RIVERPTS 被转走\n💸 按当时币价约 700U\n•21741 枚 $ACU 被转移😭 https://t.co/eXBwMu76F5",
+    "edit_history_tweet_ids": [
+      "2044222326288593007"
+    ]
+  },
+  {
+    "conversation_id": "2044139393771028869",
+    "author_id": "930034888148840448",
+    "id": "2044139393771028869",
+    "created_at": "2026-04-14T19:43:04.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "text": "Tether要做钱包？\n\n笑死，一个靠USDT暴雷传闻吃饭的公司，现在说要做“自托管”钱包。\n\n这比喻都想不出来：\n\n让纵火犯帮你装修消防通道\n\n我不是说一定不行啊\n\n但一个发稳定币的公司做钱包\n\n请问和交易所帮你保管私钥有什么区别？\n\n哦对了区别是：\n以后被盗了你能获得一张写着“这是你的私钥”的截图😐",
+    "edit_history_tweet_ids": [
+      "2044139393771028869"
+    ]
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/CY6MOwIbJ8",
+          "expanded_url": "http://binance.com/join?ref=6666F",
+          "display_url": "binance.com/join?ref=6666F",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2043716270923661312/LNndW3XU?format=jpg&name=orig",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2043716270923661312/LNndW3XU?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Join Binance | Bitcoin & Ethereum Cryptocurrency Trading Platform",
+          "description": "Join the world’s largest cryptocurrency trading platform and start your crypto journey.",
+          "unwound_url": "https://www.binance.com/en/join?ref=6666F"
+        },
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/cWAjgVYX3S",
+          "expanded_url": "https://x.com/cjmiao/status/2044113709589532775/video/1",
+          "display_url": "pic.x.com/cWAjgVYX3S",
+          "media_key": "7_2044113685623222272"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 92,
+          "end": 95,
+          "tag": "币安"
+        },
+        {
+          "start": 96,
+          "end": 101,
+          "tag": "加密货币"
+        },
+        {
+          "start": 102,
+          "end": 110,
+          "tag": "BTCUSDT"
+        }
+      ]
+    },
+    "conversation_id": "2044113709589532775",
+    "author_id": "522321183",
+    "id": "2044113709589532775",
+    "created_at": "2026-04-14T18:01:00.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "text": "🔥 币安新手课堂上线\n🎓 本课主题：通行密钥怎么建\n通行密钥可大幅提升账户防护等级，减少被盗风险。\n另外再次强调，币安注册一定要填写邀请码，注册完成后无法再补\n可享手续费永久8折优惠\n#币安 #加密货币 #BTCUSDT\n专属注册链接https://t.co/CY6MOwIbJ8 https://t.co/cWAjgVYX3S",
+    "edit_history_tweet_ids": [
+      "2044113709589532775"
+    ]
+  },
+  {
+    "conversation_id": "2044100250584158520",
+    "entities": {
+      "cashtags": [
+        {
+          "start": 14,
+          "end": 19,
+          "tag": "USDC"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "tag": "USDC"
+        }
+      ]
+    },
+    "author_id": "746166804863684608",
+    "id": "2044100250584158520",
+    "created_at": "2026-04-14T17:07:31.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 14415
+    },
+    "text": "Circle 拒绝冻结被盗 $USDC ，引发关于稳定币安全与监管的新一轮讨论。\n\nCircle 强硬表态，拒冻结被盗 $USDC ，稳定币安全再成焦点",
+    "edit_history_tweet_ids": [
+      "2044100250584158520"
+    ]
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 142,
+          "end": 165,
+          "url": "https://t.co/0RGeFfzIfp",
+          "expanded_url": "https://twitter.com/TokenPocket_TP/status/2043631192512287050",
+          "display_url": "x.com/TokenPocket_TP…"
+        }
+      ]
+    },
+    "conversation_id": "2044093731801010245",
+    "author_id": "1411333078610440193",
+    "id": "2044093731801010245",
+    "created_at": "2026-04-14T16:41:37.000Z",
+    "public_metrics": {
+      "retweet_count": 6,
+      "reply_count": 60,
+      "like_count": 62,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9226
+    },
+    "text": "刚入币圈那会踩过不少坑，钱包被盗、授权被坑、转账翻车，亏过钱也慌过神，慢慢才懂：在圈里稳，比猛赚更重要📈\n \n一晃在行业摸爬这么多年，但是TokenPocket依旧坚挺着。币圈一年一轮回，八年相当于好几个时代，多少项目昙花一现，TP却一直稳稳在这。\n \n它最戳我的就是实在不整虚的🔥 https://t.co/0RGeFfzIfp",
+    "edit_history_tweet_ids": [
+      "2044093731801010245"
+    ]
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/HwusNrtD7j",
+          "expanded_url": "https://x.com/Researchcai/status/2044090908480811096/photo/1",
+          "display_url": "pic.x.com/HwusNrtD7j",
+          "media_key": "3_2044090427113123841"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Matt_Furie",
+          "id": "1370173798931066883"
+        }
+      ]
+    },
+    "conversation_id": "2044090908480811096",
+    "author_id": "1879234410459066368",
+    "id": "2044090908480811096",
+    "created_at": "2026-04-14T16:30:24.000Z",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 560
+    },
+    "text": "这个 @Matt_Furie 99%的概率是推特被盗了，很着急的一直领取BAGS手续费，正常人不会这样，而且手续费转到了混币池\n注意风险吧\nEkJuyYyD3to61CHVPJn6wHb7xANxvqApnVJ4o2SdBAGS https://t.co/HwusNrtD7j",
+    "edit_history_tweet_ids": [
+      "2044090908480811096"
+    ]
+  },
+  {
+    "conversation_id": "2043918069098262730",
+    "author_id": "1730833947532177408",
+    "id": "2044079502175998191",
+    "created_at": "2026-04-14T15:45:05.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1029
+    },
+    "text": "@heyibinance @Bqlsj2023 有时间精力关注一个外卖服是否是盗版，真不如花点心思处理下fourmeme龙台发貔貅的问题，注意力真的用错地方了，这也你们币安一直被诟病的最大问题，口口声声说着用户至上，事实却做着视用户为无物",
+    "edit_history_tweet_ids": [
+      "2044079502175998191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "heyibinance",
+          "id": "1003840309166366721"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "username": "Bqlsj2023",
+          "id": "1405826789927182337"
+        }
+      ]
+    }
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 142,
+          "end": 165,
+          "url": "https://t.co/2bLIbzeBMD",
+          "expanded_url": "https://x.com/weixiao07796779/status/2044070509449707869/photo/1",
+          "display_url": "pic.x.com/2bLIbzeBMD",
+          "media_key": "3_2044070500872400904"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 0,
+          "end": 10,
+          "tag": "Mubarakah"
+        }
+      ]
+    },
+    "conversation_id": "2044070509449707869",
+    "author_id": "1467693709852479494",
+    "id": "2044070509449707869",
+    "created_at": "2026-04-14T15:09:21.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "text": "$Mubarakah 币安阿尔法，涨幅第3，当前阿尔法板块最有潜力的一个代币，何一代言，当年微信被盗事件，炒作的就是这个币，所以叙事拉满！合约地址！已经上了币安阿尔法，下一步就是上币安，百倍潜力！\n0x3199a64bc8aabdfd9a3937a346cc59c3d81d8a9a https://t.co/2bLIbzeBMD",
+    "edit_history_tweet_ids": [
+      "2044070509449707869"
+    ]
+  },
+  {
+    "text": "一个真实案例：有人只为老年人做了一套简单表情包，单靠打赏就收入数万。这背后，是长期被忽视的银发需求。他们不缺钱，缺的是真正用心的服务。击中痛点，普通项目也能收获超高黏性与回报。\n链接：https://t.co/hNjY4BAzwf https://t.co/WlFK2MF0BI",
+    "created_at": "2026-04-15T06:59:47.000Z",
+    "id": "2044309694529916946",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 92,
+          "end": 115,
+          "url": "https://t.co/hNjY4BAzwf",
+          "expanded_url": "https://pan.quark.cn/s/e791d3b9f278",
+          "display_url": "pan.quark.cn/s/e791d3b9f278",
+          "status": 200,
+          "title": "夸克网盘分享",
+          "description": "夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。",
+          "unwound_url": "https://pan.quark.cn/s/e791d3b9f278"
+        },
+        {
+          "start": 116,
+          "end": 139,
+          "url": "https://t.co/WlFK2MF0BI",
+          "expanded_url": "https://x.com/Xianyunc6/status/2044309694529916946/photo/1",
+          "display_url": "pic.x.com/WlFK2MF0BI",
+          "media_key": "3_2044309624053215234"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044309694529916946"
+    ],
+    "author_id": "2025437650027708416",
+    "conversation_id": "2044309694529916946"
+  },
+  {
+    "text": "在给兄弟俩设计周边，不仅图要画双份，连周边都要做两份，我精力和钱包彻底被吸干了🫨",
+    "created_at": "2026-04-15T06:59:31.000Z",
+    "id": "2044309626888319387",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "edit_history_tweet_ids": [
+      "2044309626888319387"
+    ],
+    "author_id": "769416000261484548",
+    "conversation_id": "2044309626888319387"
+  },
+  {
+    "text": "🌙 $SERIOUS 现价705K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！\n\n📊 $3460→ $30.6k， $SERIOUS  完美捕获！\n\nCA：H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk\n\n代币K线查看👇\ngmgn：https://t.co/OjSjfGCKDs\n\nOKX钱包：https://t.co/4aT2Dx5pJR https://t.co/SD8MKqeLAE https://t.co/ivqdjcznd1",
+    "created_at": "2026-04-15T06:58:24.000Z",
+    "id": "2044309347300463016",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/OjSjfGCKDs",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "SERIOUS - Serious Coin | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/4aT2Dx5pJR",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "SERIOUS $0.00070164 (Serious Coin) | Solana 的交易与价格图表",
+          "description": "SERIOUS (Serious Coin) 的实时价格为 $0.00070164，市值为 $701.63K。获取 Solana 上 SERIOUS H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/SD8MKqeLAE",
+          "expanded_url": "https://x.com/jjjkkkunb666/status/2044309347300463016/video/1",
+          "display_url": "pic.x.com/SD8MKqeLAE",
+          "media_key": "3_2044309068534427649"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/SD8MKqeLAE",
+          "expanded_url": "https://x.com/jjjkkkunb666/status/2044309347300463016/video/1",
+          "display_url": "pic.x.com/SD8MKqeLAE",
+          "media_key": "3_2044309068551204865"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/SD8MKqeLAE",
+          "expanded_url": "https://x.com/jjjkkkunb666/status/2044309347300463016/video/1",
+          "display_url": "pic.x.com/SD8MKqeLAE",
+          "media_key": "13_2044309070371553280"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/ivqdjcznd1",
+          "expanded_url": "https://twitter.com/jjjkkkunb666/status/2044240517454799071",
+          "display_url": "x.com/jjjkkkunb666/s…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 2,
+          "end": 10,
+          "tag": "SERIOUS"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "tag": "SERIOUS"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044309347300463016"
+    ],
+    "author_id": "1942138169451044865",
+    "conversation_id": "2044309347300463016"
+  },
+  {
+    "text": "🌙 $SERIOUS 现价705K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！\n\n📊 $3460→ $30.6k， $SERIOUS  完美捕获！\n\nCA：H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk\n\n代币K线查看👇\ngmgn：https://t.co/ttbNsrODKT\n\nOKX钱包：https://t.co/920vfMOF2N https://t.co/L8wSBBBbQ0 https://t.co/1JjhbFiTYR",
+    "created_at": "2026-04-15T06:58:16.000Z",
+    "id": "2044309315688042681",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/ttbNsrODKT",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "SERIOUS - Serious Coin | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/920vfMOF2N",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "SERIOUS $0.00070164 (Serious Coin) | Solana 的交易与价格图表",
+          "description": "SERIOUS (Serious Coin) 的实时价格为 $0.00070164，市值为 $701.63K。获取 Solana 上 SERIOUS H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/L8wSBBBbQ0",
+          "expanded_url": "https://x.com/MeganNicoleee__/status/2044309315688042681/video/1",
+          "display_url": "pic.x.com/L8wSBBBbQ0",
+          "media_key": "3_2044309118794838016"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/L8wSBBBbQ0",
+          "expanded_url": "https://x.com/MeganNicoleee__/status/2044309315688042681/video/1",
+          "display_url": "pic.x.com/L8wSBBBbQ0",
+          "media_key": "3_2044309118769606661"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/L8wSBBBbQ0",
+          "expanded_url": "https://x.com/MeganNicoleee__/status/2044309315688042681/video/1",
+          "display_url": "pic.x.com/L8wSBBBbQ0",
+          "media_key": "13_2044309118811598848"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/1JjhbFiTYR",
+          "expanded_url": "https://twitter.com/MeganNicoleee__/status/2044240538770256189",
+          "display_url": "x.com/MeganNicoleee_…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 2,
+          "end": 10,
+          "tag": "SERIOUS"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "tag": "SERIOUS"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044309315688042681"
+    ],
+    "author_id": "2316240830",
+    "conversation_id": "2044309315688042681"
+  },
+  {
+    "text": "🌙 $SERIOUS 现价705K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！\n\n📊 $3460→ $30.6k， $SERIOUS  完美捕获！\n\nCA：H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk\n\n代币K线查看👇\ngmgn：https://t.co/pah54yEdPP\n\nOKX钱包：https://t.co/ofbLb8kDLv https://t.co/YtaxWZFMDt https://t.co/zG3Kcbzkvf",
+    "created_at": "2026-04-15T06:58:12.000Z",
+    "id": "2044309297887359193",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/pah54yEdPP",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "SERIOUS - Serious Coin | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/ofbLb8kDLv",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "SERIOUS $0.00070164 (Serious Coin) | Solana 的交易与价格图表",
+          "description": "SERIOUS (Serious Coin) 的实时价格为 $0.00070164，市值为 $701.63K。获取 Solana 上 SERIOUS H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/YtaxWZFMDt",
+          "expanded_url": "https://x.com/BrunoMarques150/status/2044309297887359193/video/1",
+          "display_url": "pic.x.com/YtaxWZFMDt",
+          "media_key": "3_2044309150356946944"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/YtaxWZFMDt",
+          "expanded_url": "https://x.com/BrunoMarques150/status/2044309297887359193/video/1",
+          "display_url": "pic.x.com/YtaxWZFMDt",
+          "media_key": "3_2044309150365298688"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/YtaxWZFMDt",
+          "expanded_url": "https://x.com/BrunoMarques150/status/2044309297887359193/video/1",
+          "display_url": "pic.x.com/YtaxWZFMDt",
+          "media_key": "13_2044309150386257920"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/zG3Kcbzkvf",
+          "expanded_url": "https://twitter.com/BrunoMarques150/status/2044262679892897821",
+          "display_url": "x.com/BrunoMarques15…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 2,
+          "end": 10,
+          "tag": "SERIOUS"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "tag": "SERIOUS"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044309297887359193"
+    ],
+    "author_id": "2507951096",
+    "conversation_id": "2044309297887359193"
+  },
+  {
+    "text": "🌙 $SERIOUS 现价705K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！\n\n📊 $3460→ $30.6k， $SERIOUS  完美捕获！\n\nCA：H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk\n\n代币K线查看👇\ngmgn：https://t.co/BCg5WPTLMY\n\nOKX钱包：https://t.co/sKO2cFVxQ2 https://t.co/XtSghQTxDr https://t.co/I0cYNsE6ab",
+    "created_at": "2026-04-15T06:58:09.000Z",
+    "id": "2044309282854973738",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 157,
+          "end": 180,
+          "url": "https://t.co/BCg5WPTLMY",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "SERIOUS - Serious Coin | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "url": "https://t.co/sKO2cFVxQ2",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "SERIOUS $0.00070164 (Serious Coin) | Solana 的交易与价格图表",
+          "description": "SERIOUS (Serious Coin) 的实时价格为 $0.00070164，市值为 $701.63K。获取 Solana 上 SERIOUS H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/XtSghQTxDr",
+          "expanded_url": "https://x.com/Riiskarhyu/status/2044309282854973738/video/1",
+          "display_url": "pic.x.com/XtSghQTxDr",
+          "media_key": "3_2044309177104060416"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/XtSghQTxDr",
+          "expanded_url": "https://x.com/Riiskarhyu/status/2044309282854973738/video/1",
+          "display_url": "pic.x.com/XtSghQTxDr",
+          "media_key": "3_2044309177091403776"
+        },
+        {
+          "start": 212,
+          "end": 235,
+          "url": "https://t.co/XtSghQTxDr",
+          "expanded_url": "https://x.com/Riiskarhyu/status/2044309282854973738/video/1",
+          "display_url": "pic.x.com/XtSghQTxDr",
+          "media_key": "13_2044309186511810562"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "url": "https://t.co/I0cYNsE6ab",
+          "expanded_url": "https://twitter.com/Riiskarhyu/status/2044262698247176278",
+          "display_url": "x.com/Riiskarhyu/sta…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 2,
+          "end": 10,
+          "tag": "SERIOUS"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "tag": "SERIOUS"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044309282854973738"
+    ],
+    "author_id": "556861639",
+    "conversation_id": "2044309282854973738"
+  },
+  {
+    "text": "🌙  $SERIOUS 现价705K DYOR\n\n被AI选币系统精准命中🎯\n\nMeme 币猎手集合！AI 助你精准出击！  \n\n📊 $3460→ $30.6k， $SERIOUS  完美捕获！  \n\n CA：H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk\n\n代币K线查看👇\ngmgn：https://t.co/D7DxDONHdr\n\nOKX钱包：https://t.co/dnWOGubn1P https://t.co/RcbDVZRiwh https://t.co/5jdHrBT1Bo",
+    "created_at": "2026-04-15T06:58:04.000Z",
+    "id": "2044309262844002373",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 163,
+          "end": 186,
+          "url": "https://t.co/D7DxDONHdr",
+          "expanded_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk",
+          "display_url": "gmgn.ai/sol/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044309307492311040/k055ozhD?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "SERIOUS - Serious Coin | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/sol/token/MjhhuWaq_H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk"
+        },
+        {
+          "start": 194,
+          "end": 217,
+          "url": "https://t.co/dnWOGubn1P",
+          "expanded_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888",
+          "display_url": "web3.okx.com/zh-hans/token/…",
+          "status": 200,
+          "title": "SERIOUS $0.00070164 (Serious Coin) | Solana 的交易与价格图表",
+          "description": "SERIOUS (Serious Coin) 的实时价格为 $0.00070164，市值为 $701.63K。获取 Solana 上 SERIOUS H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk 的代币数据，包括流动性洞察、持仓地址、狙击活动以及交易量。",
+          "unwound_url": "https://web3.okx.com/zh-hans/token/solana/H6qnGp5anYgMJYAaPXKSqKVYa6mKDrn1ruAeK5Dmbonk?shortCode=yCHAVzM&from_module=market_token&shareFrom=token_info&ref=YINGGE888"
+        },
+        {
+          "start": 218,
+          "end": 241,
+          "url": "https://t.co/RcbDVZRiwh",
+          "expanded_url": "https://x.com/kamila85513280/status/2044309262844002373/video/1",
+          "display_url": "pic.x.com/RcbDVZRiwh",
+          "media_key": "3_2044308987089387520"
+        },
+        {
+          "start": 218,
+          "end": 241,
+          "url": "https://t.co/RcbDVZRiwh",
+          "expanded_url": "https://x.com/kamila85513280/status/2044309262844002373/video/1",
+          "display_url": "pic.x.com/RcbDVZRiwh",
+          "media_key": "3_2044308987135569920"
+        },
+        {
+          "start": 218,
+          "end": 241,
+          "url": "https://t.co/RcbDVZRiwh",
+          "expanded_url": "https://x.com/kamila85513280/status/2044309262844002373/video/1",
+          "display_url": "pic.x.com/RcbDVZRiwh",
+          "media_key": "13_2044309012985065473"
+        },
+        {
+          "start": 242,
+          "end": 265,
+          "url": "https://t.co/5jdHrBT1Bo",
+          "expanded_url": "https://twitter.com/kamila85513280/status/2044262595075645545",
+          "display_url": "x.com/kamila85513280…"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 3,
+          "end": 11,
+          "tag": "SERIOUS"
+        },
+        {
+          "start": 81,
+          "end": 89,
+          "tag": "SERIOUS"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044309262844002373"
+    ],
+    "author_id": "1086706889910566914",
+    "conversation_id": "2044309262844002373"
+  },
+  {
+    "text": "🚀🚀 #拉哪 现价147K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $304—》$1.68k完美抓住 #拉哪\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/ogeWyvvdVB\n\nCA：0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444\n\nK线走势速查：\nGMGN：https://t.co/LsPksE1WZc https://t.co/8J39RuDW1j https://t.co/RzlzE92sJm",
+    "created_at": "2026-04-15T06:55:55.000Z",
+    "id": "2044308722852467130",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/ogeWyvvdVB",
+          "expanded_url": "https://gmgn.ai/bsc/address/MjhhuWaq_0x9e1725daec4560d92a583b3d7c7be288a52b3aab",
+          "display_url": "gmgn.ai/bsc/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/bsc/address/MjhhuWaq_0x9e1725daec4560d92a583b3d7c7be288a52b3aab"
+        },
+        {
+          "start": 185,
+          "end": 208,
+          "url": "https://t.co/LsPksE1WZc",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044289226641190912/vqEy01a5?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044289226641190912/vqEy01a5?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "拉哪 - lana爆火交易bot | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/8J39RuDW1j",
+          "expanded_url": "https://x.com/alan_crypto8/status/2044308722852467130/video/1",
+          "display_url": "pic.x.com/8J39RuDW1j",
+          "media_key": "3_2044307241864704001"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/8J39RuDW1j",
+          "expanded_url": "https://x.com/alan_crypto8/status/2044308722852467130/video/1",
+          "display_url": "pic.x.com/8J39RuDW1j",
+          "media_key": "3_2044307255173230592"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/8J39RuDW1j",
+          "expanded_url": "https://x.com/alan_crypto8/status/2044308722852467130/video/1",
+          "display_url": "pic.x.com/8J39RuDW1j",
+          "media_key": "3_2044308004661776384"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/8J39RuDW1j",
+          "expanded_url": "https://x.com/alan_crypto8/status/2044308722852467130/video/1",
+          "display_url": "pic.x.com/8J39RuDW1j",
+          "media_key": "13_2044308074807365633"
+        },
+        {
+          "start": 233,
+          "end": 256,
+          "url": "https://t.co/RzlzE92sJm",
+          "expanded_url": "https://twitter.com/alan_crypto8/status/2044295950131442131",
+          "display_url": "x.com/alan_crypto8/s…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 3,
+          "end": 6,
+          "tag": "拉哪"
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "tag": "拉哪"
+        },
+        {
+          "start": 69,
+          "end": 74,
+          "tag": "meme"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044308368135991805",
+      "2044308722852467130"
+    ],
+    "author_id": "2321044380",
+    "conversation_id": "2044308722852467130"
+  },
+  {
+    "text": "🚀🚀 #拉哪 现价147K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $304—》$1.68k完美抓住 #拉哪\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/3sWqdTzegd\n\nCA：0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444\n\nK线走势速查：\nGMGN：https://t.co/BVH5qsm953 https://t.co/FRgEiaqKYZ https://t.co/MNKijWPZLY",
+    "created_at": "2026-04-15T06:55:52.000Z",
+    "id": "2044308710617690257",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/3sWqdTzegd",
+          "expanded_url": "https://gmgn.ai/bsc/address/MjhhuWaq_0x9e1725daec4560d92a583b3d7c7be288a52b3aab",
+          "display_url": "gmgn.ai/bsc/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/bsc/address/MjhhuWaq_0x9e1725daec4560d92a583b3d7c7be288a52b3aab"
+        },
+        {
+          "start": 185,
+          "end": 208,
+          "url": "https://t.co/BVH5qsm953",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044289226641190912/vqEy01a5?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044289226641190912/vqEy01a5?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "拉哪 - lana爆火交易bot | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/FRgEiaqKYZ",
+          "expanded_url": "https://x.com/RoseeyaB/status/2044308710617690257/video/1",
+          "display_url": "pic.x.com/FRgEiaqKYZ",
+          "media_key": "3_2044308034500079616"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/FRgEiaqKYZ",
+          "expanded_url": "https://x.com/RoseeyaB/status/2044308710617690257/video/1",
+          "display_url": "pic.x.com/FRgEiaqKYZ",
+          "media_key": "3_2044308043870154752"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/FRgEiaqKYZ",
+          "expanded_url": "https://x.com/RoseeyaB/status/2044308710617690257/video/1",
+          "display_url": "pic.x.com/FRgEiaqKYZ",
+          "media_key": "3_2044308041726865409"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/FRgEiaqKYZ",
+          "expanded_url": "https://x.com/RoseeyaB/status/2044308710617690257/video/1",
+          "display_url": "pic.x.com/FRgEiaqKYZ",
+          "media_key": "13_2044308058713776128"
+        },
+        {
+          "start": 233,
+          "end": 256,
+          "url": "https://t.co/MNKijWPZLY",
+          "expanded_url": "https://twitter.com/RoseeyaB/status/2044237727575748691",
+          "display_url": "x.com/RoseeyaB/statu…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 3,
+          "end": 6,
+          "tag": "拉哪"
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "tag": "拉哪"
+        },
+        {
+          "start": 69,
+          "end": 74,
+          "tag": "meme"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044308197562015991",
+      "2044308710617690257"
+    ],
+    "author_id": "3410482647",
+    "conversation_id": "2044308710617690257"
+  },
+  {
+    "text": "🚀🚀 #拉哪 现价147K DYOR\n\n被群里高手通过 GMGN 扫链工具精准捕获，从 $304—》$1.68k完美抓住 #拉哪\n\n解锁 #meme 币暴涨密码：情报工具双管齐下\n\n一键跟单高手钱包：https://t.co/cfv6KwBVlu\n\nCA：0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444\n\nK线走势速查：\nGMGN：https://t.co/JzGmZnp1F2 https://t.co/vlBMCfdKje https://t.co/4OZrJblUKi",
+    "created_at": "2026-04-15T06:55:52.000Z",
+    "id": "2044308709292290522",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "entities": {
+      "urls": [
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/cfv6KwBVlu",
+          "expanded_url": "https://gmgn.ai/bsc/address/MjhhuWaq_0x9e1725daec4560d92a583b3d7c7be288a52b3aab",
+          "display_url": "gmgn.ai/bsc/address/Mj…",
+          "status": 404,
+          "unwound_url": "https://gmgn.ai/bsc/address/MjhhuWaq_0x9e1725daec4560d92a583b3d7c7be288a52b3aab"
+        },
+        {
+          "start": 185,
+          "end": 208,
+          "url": "https://t.co/JzGmZnp1F2",
+          "expanded_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444",
+          "display_url": "gmgn.ai/bsc/token/Mjhh…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/2044289226641190912/vqEy01a5?format=jpg&name=orig",
+              "width": 1200,
+              "height": 630
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/2044289226641190912/vqEy01a5?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "拉哪 - lana爆火交易bot | GMGN.AI",
+          "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+          "unwound_url": "https://gmgn.ai/bsc/token/MjhhuWaq_0x0bb85346534b55c90fb4d6fb6cf0ac8f50764444"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/vlBMCfdKje",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2044308709292290522/video/1",
+          "display_url": "pic.x.com/vlBMCfdKje",
+          "media_key": "3_2044307221044178948"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/vlBMCfdKje",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2044308709292290522/video/1",
+          "display_url": "pic.x.com/vlBMCfdKje",
+          "media_key": "3_2044307279399583744"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/vlBMCfdKje",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2044308709292290522/video/1",
+          "display_url": "pic.x.com/vlBMCfdKje",
+          "media_key": "3_2044307288891240450"
+        },
+        {
+          "start": 209,
+          "end": 232,
+          "url": "https://t.co/vlBMCfdKje",
+          "expanded_url": "https://x.com/ArianaIsMyDrunk/status/2044308709292290522/video/1",
+          "display_url": "pic.x.com/vlBMCfdKje",
+          "media_key": "13_2044308133460533248"
+        },
+        {
+          "start": 233,
+          "end": 256,
+          "url": "https://t.co/4OZrJblUKi",
+          "expanded_url": "https://twitter.com/ArianaIsMyDrunk/status/2044295959623151822",
+          "display_url": "x.com/ArianaIsMyDrun…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 3,
+          "end": 6,
+          "tag": "拉哪"
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "tag": "拉哪"
+        },
+        {
+          "start": 69,
+          "end": 74,
+          "tag": "meme"
+        }
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "2044308270945579504",
+      "2044308709292290522"
+    ],
+    "author_id": "2798803653",
+    "conversation_id": "2044308709292290522"
+  }
+]

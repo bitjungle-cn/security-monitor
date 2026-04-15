@@ -1,0 +1,174 @@
+[
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 164,
+          "end": 187,
+          "url": "https://t.co/Q2ZL9sqWIf",
+          "expanded_url": "https://x.com/VIP8888883/status/2044292132794708061/photo/1",
+          "display_url": "pic.x.com/Q2ZL9sqWIf",
+          "media_key": "3_2044230489058447360"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 63,
+          "end": 67,
+          "tag": "BTC"
+        }
+      ]
+    },
+    "conversation_id": "2044292132794708061",
+    "author_id": "994471473929572352",
+    "id": "2044292132794708061",
+    "created_at": "2026-04-15T05:50:00.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 700
+    },
+    "text": "什么？？？在苹果App Store下载的Ledger Live是钓鱼应用？\n\n已超 50 人，总涉案金额达 950 万美元的 $BTC 被盗？还有什么是安全的？\n\n突发安全事件：App Store 惊现假冒 Ledger Live，美国音乐家因此损失 5.9 枚比特币\n\n据链上数据显示，一款伪装成官方 Ledger Live https://t.co/Q2ZL9sqWIf",
+    "edit_history_tweet_ids": [
+      "2044292132794708061"
+    ],
+    "cleaned_at": "2026-04-15T15:02:51.927171"
+  },
+  {
+    "conversation_id": "2044234273138299185",
+    "author_id": "1248061192335003648",
+    "id": "2044234273138299185",
+    "created_at": "2026-04-15T02:00:05.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "impression_count": 1538
+    },
+    "text": "【每日简报 - 2026-04-15】\n\n1️⃣ Farcaster澄清：不会发行代币，相关“代币讨论”实为分叉项目Hypersnap\n\n2️⃣ Coinbase、币安等加密公司正寻求接入Anthropic的Mythos AI模型，并强化防御体系\n\n3️⃣ 俄罗斯央行拟要求所有加密交易者完成身份验证\n\n4️⃣ 某用户签署恶意Permit2交易致31.6万美元USDC被盗\n\n5️⃣",
+    "edit_history_tweet_ids": [
+      "2044234273138299185"
+    ],
+    "cleaned_at": "2026-04-15T15:02:51.927175"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 177,
+          "end": 200,
+          "url": "https://t.co/eXBwMu76F5",
+          "expanded_url": "https://x.com/gudemaoning0520/status/2044222326288593007/video/1",
+          "display_url": "pic.x.com/eXBwMu76F5",
+          "media_key": "13_2044222230708801536"
+        }
+      ],
+      "cashtags": [
+        {
+          "start": 130,
+          "end": 139,
+          "tag": "RIVERPTS"
+        },
+        {
+          "start": 167,
+          "end": 171,
+          "tag": "ACU"
+        }
+      ]
+    },
+    "conversation_id": "2044222326288593007",
+    "author_id": "1651450002772987907",
+    "id": "2044222326288593007",
+    "created_at": "2026-04-15T01:12:37.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 101
+    },
+    "text": "从入圈到现在，经历了两次钱包被盗，真的有点离谱了…😓\n\n📅 2025年7月27日 — 第一次被盗\n一个质押项目中招，被修改剪切板😭\n💸 损失 131.7U\n\n📅 前两天 — 第二次被盗（更严重）\n这次直接是“全面沦陷”级别：\n\n🔻 钱包被盗\n•31274 枚 $RIVERPTS 被转走\n💸 按当时币价约 700U\n•21741 枚 $ACU 被转移😭 https://t.co/eXBwMu76F5",
+    "edit_history_tweet_ids": [
+      "2044222326288593007"
+    ],
+    "cleaned_at": "2026-04-15T15:02:51.927176"
+  },
+  {
+    "conversation_id": "2044100250584158520",
+    "entities": {
+      "cashtags": [
+        {
+          "start": 14,
+          "end": 19,
+          "tag": "USDC"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "tag": "USDC"
+        }
+      ]
+    },
+    "author_id": "746166804863684608",
+    "id": "2044100250584158520",
+    "created_at": "2026-04-14T17:07:31.000Z",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 5,
+      "like_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 14415
+    },
+    "text": "Circle 拒绝冻结被盗 $USDC ，引发关于稳定币安全与监管的新一轮讨论。\n\nCircle 强硬表态，拒冻结被盗 $USDC ，稳定币安全再成焦点",
+    "edit_history_tweet_ids": [
+      "2044100250584158520"
+    ],
+    "cleaned_at": "2026-04-15T15:02:51.927177"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/HwusNrtD7j",
+          "expanded_url": "https://x.com/Researchcai/status/2044090908480811096/photo/1",
+          "display_url": "pic.x.com/HwusNrtD7j",
+          "media_key": "3_2044090427113123841"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "Matt_Furie",
+          "id": "1370173798931066883"
+        }
+      ]
+    },
+    "conversation_id": "2044090908480811096",
+    "author_id": "1879234410459066368",
+    "id": "2044090908480811096",
+    "created_at": "2026-04-14T16:30:24.000Z",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 560
+    },
+    "text": "这个 @Matt_Furie 99%的概率是推特被盗了，很着急的一直领取BAGS手续费，正常人不会这样，而且手续费转到了混币池\n注意风险吧\nEkJuyYyD3to61CHVPJn6wHb7xANxvqApnVJ4o2SdBAGS https://t.co/HwusNrtD7j",
+    "edit_history_tweet_ids": [
+      "2044090908480811096"
+    ],
+    "cleaned_at": "2026-04-15T15:02:51.927177"
+  }
+]

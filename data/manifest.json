@@ -23,8 +23,8 @@
     "tweets_2026-03-30_08-35.json",
     "tweets_2026-03-30_15-02.json"
   ],
-  "last_updated": "2026-04-15T08:36:25.239864",
-  "latest_batch": "2026-04-15_08-36",
+  "last_updated": "2026-04-15T15:00:51.180894",
+  "latest_batch": "2026-04-15_15-00",
   "batches": {
     "2026-03-30_17-05": {
       "indexed_texts": "indexed_texts_2026-03-30_17-05.json",
@@ -277,6 +277,14 @@
       "total_tweets": 60,
       "clean_tweets_file": "clean_tweets_2026-04-15_08-36.json",
       "clean_count": 27
+    },
+    "2026-04-15_15-00": {
+      "indexed_texts": "indexed_texts_2026-04-15_15-00.json",
+      "raw_backup": "raw_tweets_backup_2026-04-15_15-00.json",
+      "status": "cleaned",
+      "total_tweets": 20,
+      "clean_tweets_file": "clean_tweets_2026-04-15_15-00.json",
+      "clean_count": 5
     }
   }
 }
