@@ -69,8 +69,10 @@
     "2026-04-02_08-34": {
       "indexed_texts": "indexed_texts_2026-04-02_08-34.json",
       "raw_backup": "raw_tweets_backup_2026-04-02_08-34.json",
-      "status": "pending_analysis",
-      "total_tweets": 58
+      "status": "cleaned",
+      "total_tweets": 58,
+      "clean_tweets_file": "clean_tweets_2026-04-02_08-34.json",
+      "clean_count": 58
     },
     "2026-04-02_15-06": {
       "indexed_texts": "indexed_texts_2026-04-02_15-06.json",
@@ -251,8 +253,10 @@
     "2026-04-14_08-36": {
       "indexed_texts": "indexed_texts_2026-04-14_08-36.json",
       "raw_backup": "raw_tweets_backup_2026-04-14_08-36.json",
-      "status": "pending_analysis",
-      "total_tweets": 60
+      "status": "cleaned",
+      "total_tweets": 60,
+      "clean_tweets_file": "clean_tweets_2026-04-14_08-36.json",
+      "clean_count": 60
     },
     "2026-04-14_10-06": {
       "indexed_texts": "indexed_texts_2026-04-14_10-06.json",
