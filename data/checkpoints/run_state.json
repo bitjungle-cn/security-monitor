@@ -5,13 +5,24 @@
       "batch_id": "2026-04-25_08-35",
       "step": "clean",
       "status": "done",
-      "updated_at": "2026-04-25T09:03:21.425282",
+      "updated_at": "2026-04-25T09:03:50.271693",
       "total_tweets": 58,
       "indices_to_remove_count": 20,
       "raw_count": 58,
-      "removed_count": 0,
-      "clean_count": 58
+      "removed_count": 17,
+      "clean_count": 41
+    },
+    "2026-04-25_15-45": {
+      "batch_id": "2026-04-25_15-45",
+      "step": "clean",
+      "status": "done",
+      "updated_at": "2026-04-25T16:10:22.395861",
+      "total_tweets": 60,
+      "indices_to_remove_count": 22,
+      "raw_count": 60,
+      "removed_count": 22,
+      "clean_count": 38
     }
   },
-  "updated_at": "2026-04-25T09:03:21.425287"
+  "updated_at": "2026-04-25T16:10:22.395868"
 }
