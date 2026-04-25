@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "batches": {
+    "2026-04-25_08-35": {
+      "batch_id": "2026-04-25_08-35",
+      "step": "clean",
+      "status": "done",
+      "updated_at": "2026-04-25T09:03:21.425282",
+      "total_tweets": 58,
+      "indices_to_remove_count": 20,
+      "raw_count": 58,
+      "removed_count": 0,
+      "clean_count": 58
+    }
+  },
+  "updated_at": "2026-04-25T09:03:21.425287"
+}
