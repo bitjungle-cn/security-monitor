@@ -22,7 +22,25 @@
       "raw_count": 60,
       "removed_count": 22,
       "clean_count": 38
+    },
+    "2026-04-26_15-58": {
+      "batch_id": "2026-04-26_15-58",
+      "step": "collect",
+      "status": "done",
+      "updated_at": "2026-04-26T15:58:27.669154",
+      "total_tweets": 60
+    },
+    "2026-04-27_08-34": {
+      "batch_id": "2026-04-27_08-34",
+      "step": "clean",
+      "status": "done",
+      "updated_at": "2026-04-27T08:51:57.624064",
+      "total_tweets": 58,
+      "indices_to_remove_count": 21,
+      "raw_count": 58,
+      "removed_count": 21,
+      "clean_count": 37
     }
   },
-  "updated_at": "2026-04-26T10:03:41.578645"
+  "updated_at": "2026-04-27T08:51:57.624066"
 }
