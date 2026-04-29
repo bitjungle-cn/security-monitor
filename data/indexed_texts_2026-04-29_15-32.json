@@ -1,0 +1,889 @@
+{
+  "batch_id": "2026-04-29_15-32",
+  "generated_at": "2026-04-29T15:32:51.357014",
+  "total_count": 126,
+  "texts": [
+    {
+      "index": 0,
+      "id": "2049369246581522806",
+      "text": "@parknewroad 我看恁才是昏头了，医公教金币早爆晚爆都一样，但多一个无业哥就有可能多一起电缆/井盖/水管/铁轨盗窃案。三和当年就一堆偷电瓶的蹲哥，卖一个电瓶网吧里躺一周。这帮人你抓看守所对他们而言也无所谓反正管吃住，但是长此以往治安就被败坏掉了，最后直接重回严打时期💧",
+      "author_id": "1429306904656760834",
+      "created_at": "2026-04-29T06:04:38.000Z"
+    },
+    {
+      "index": 1,
+      "id": "2049367626401648959",
+      "text": "@okxchinese 答案选A C D F G I J✅\n原因：陌生进程、莫名钱包插件大概率是木马盗号；鼠标漂移可能被远程操控；地址只看一眼不核对、看不懂就盲目签名极易转错账或被授权盗资产；不明网络连接、摄像头灯莫名亮起都是入侵风控信号，全是币圈交易高危隐患！\n#OKX安全小剧场",
+      "author_id": "199717368",
+      "created_at": "2026-04-29T05:58:12.000Z"
+    },
+    {
+      "index": 2,
+      "id": "2049349133605982421",
+      "text": "为什么硬编码架构对「稳定币」是天然加分项\n \n稳定币的核心诉求不是「复杂Defi玩法」，而是\n安全、不被盗、不宕机、转账快、兑换稳、无后门\n \n 智能合约 = 灵活，但漏洞多、风险高\n​\n硬编码协议 = 功能固定，但极致安全、极致稳定\n \n所以\nWART 的硬编码DEX 是为稳定币流通、现货兑换量身定做的底层架构",
+      "author_id": "1574962840129376261",
+      "created_at": "2026-04-29T04:44:43.000Z"
+    },
+    {
+      "index": 3,
+      "id": "2049347596267762102",
+      "text": "WART 硬编码DEX 上的稳定币，对比其他公链（ETH/TRX/BSC/KAS）技术优势\n \n1. 安全优势：告别智能合约漏洞风险\n \n- 其他公链：USDT/稳定币、DEX 全部是图灵完备智能合约\n历史上90%的DeFi被盗、脱锚、跑路，全是合约漏洞、权限漏洞、后门。\n​\n- WART：DEX 撮合、流动性、兑换逻辑 链底层硬编码\n代码极",
+      "author_id": "1574962840129376261",
+      "created_at": "2026-04-29T04:38:36.000Z"
+    },
+    {
+      "index": 4,
+      "id": "2049347056020357527",
+      "text": "WART 硬编码 DEX 到底适不适合上 USDT？\n \n结论：极度适合，甚至比普通智能合约 DEX 更适合稳定币\n \n1. 硬编码 DEX = 协议层内置AMM，不是后天写的智能合约\n稳定币核心需求：转账稳、兑换稳、不宕机、不被合约漏洞盗币\n硬编码直接写在链底层，没有合约调用风险，天生适配稳定币。",
+      "author_id": "1574962840129376261",
+      "created_at": "2026-04-29T04:36:27.000Z"
+    },
+    {
+      "index": 5,
+      "id": "2049345200427077923",
+      "text": "@okxchinese #OKX安全小剧场\n- A. 后台陌生进程：可能是盗号/远控木马，窃取密码或操控交易。\n- C. 仿冒钱包插件：篡改地址、窃取信息，实施钓鱼攻击。\n- D. 鼠标漂移失控：大概率是设备被远程操控，存在盗币风险。\n- F. 地址只扫一眼：易遭剪贴板篡改攻击，资产会转入错误地址。\n- G.",
+      "author_id": "1862867222936666112",
+      "created_at": "2026-04-29T04:29:05.000Z"
+    },
+    {
+      "index": 6,
+      "id": "2049333139475222742",
+      "text": "解除老火币 欧意 币安 火必 芝麻开门  抹茶  账户提币限制·司法冻结和账户登陆不了，被黑被盗被骗退回，账户掉Kyc https://t.co/936Tq3CoBn",
+      "author_id": "1680951801993121797",
+      "created_at": "2026-04-29T03:41:09.000Z"
+    },
+    {
+      "index": 7,
+      "id": "2049327981244653896",
+      "text": "@UnicornBitcoin 确有其事，\n2025 年 Bybit 14 亿刀被盗后，Lazarus Group（朝鲜关联黑客）就被多方链上分析师（包括 ZachXBT）追踪到通过 https://t.co/kpEKZ9FA06 发射 “QinShihuang” 等 meme 币：先桥接资金到 Solana，用平台流量吸引真实流动性混入，然后 dump 套现、分拆",
+      "author_id": "1744277683746619393",
+      "created_at": "2026-04-29T03:20:40.000Z"
+    },
+    {
+      "index": 8,
+      "id": "2049323173880193230",
+      "text": "@niwojie_bnb 发币地址被盗了吗，怎么一直发垃圾盘呀？",
+      "author_id": "1584799849450377217",
+      "created_at": "2026-04-29T03:01:33.000Z"
+    },
+    {
+      "index": 9,
+      "id": "2049300241707684133",
+      "text": "据《每日邮报》报道，在线零售巨头 ASOS 联合创始人 Quentin Griffiths 在泰国坠楼身亡后，其比特币钱包中约 400 万美元（约 270 万英镑）的资产疑似被盗。58 岁的 Griffiths 于今年 2 月 9 日从泰国芭提雅 17 层公寓阳台坠落身亡，此前他曾因涉嫌 50 万英镑的欺诈案接受调查。调查显示，在 Griffiths",
+      "author_id": "1428246848301502464",
+      "created_at": "2026-04-29T01:30:26.000Z"
+    },
+    {
+      "index": 10,
+      "id": "2049391367084806453",
+      "text": "“这个小家伙..人肉.灵魂力量，似乎比先前强大了很多啊.盗QQ..”高查信息台上查工作单位，法犸惊诧手机定位的望着全身被通话记录包裹在火焰中的萧炎，欣慰的声音中略微有些艳查定位羡：“他选择了手机号定位正确的渠道，在压力中，获得了查个人资料突破，这种雄浑的灵魂力... https://t.co/Cexe2ijZN5",
+      "author_id": "2048505650875965440",
+      "created_at": "2026-04-29T07:32:32.000Z"
+    },
+    {
+      "index": 11,
+      "id": "2049391200696959150",
+      "text": "他借钱就是为了让大家去他的证券交易所买股，叫他好玩弄手段叫人倾家荡产。就算不借钱，凡是被他盯上的，西安他也要用手段整垮收@barton56834购掉，议会和市政厅也都在包庇他，从来丝足不管的！",
+      "author_id": "2025119570332450817",
+      "created_at": "2026-04-29T07:31:52.000Z"
+    },
+    {
+      "index": 12,
+      "id": "2049391083746918522",
+      "text": "望着查快递地址那些被血光包裹着暴查资料掠而来的人影，查老赖紫研银牙一咬，飞快查户籍的掠上，玉掌快若闪电般的在三查档人身上一拍，金光 涌动，将那些诡异的血芒震散查女友，然后一查学籍股暗查信息劲推出，将三人对着化个人资料龙魔阵之外送了出盗QQ去。 https://t.co/dZxYxaSzks",
+      "author_id": "2038108167016497152",
+      "created_at": "2026-04-29T07:31:24.000Z"
+    },
+    {
+      "index": 13,
+      "id": "2049390931112014270",
+      "text": "在路道被堵间，周围的盗QQ丛林中又是传来阵阵的悉悉人肉搜索索索声音，旋查开房记录即无数条大小，色泽皆是不暗网同的查微信聊天记录毒蛇查学籍，密密麻麻的钻查个人信息出，最后查全家资料前前后后，将车队尽数包围。 https://t.co/3vwg0Uhzi5",
+      "author_id": "2048261981279289344",
+      "created_at": "2026-04-29T07:30:48.000Z"
+    },
+    {
+      "index": 14,
+      "id": "2049390800367223229",
+      "text": "人肉搜索女子蓝宝石般的眸子查个人资料，查外卖地址有查聊天记录些失神的注视着湖中粼粼波光，一张查学籍典型的瓜子美盗号人脸，社工库妩媚查女友动人，那被颇为奢侈的锦袍包裹的娇躯，也是显手机号定位得凹凸有致，散发着一股成熟的味道。 https://t.co/6X5r6rOAED",
+      "author_id": "2048261385453260800",
+      "created_at": "2026-04-29T07:30:17.000Z"
+    },
+    {
+      "index": 15,
+      "id": "2049390708344463427",
+      "text": "无论你追回被骗的钱\n是想让生命好上黑客\n加好，或外卖记录\n者你的人生糟到你只微信收款码反查\n想赖在床上什么都不做，从这一刻之后，所发生的一切都社工库\n取决于你和那位造物主。是的，你无法控制哔哩哔哩开户\n微盗抖音号\n信支付宝收款码反查\n监控软件\n一切，有时好人也会遇上坏事，出 😋 ✨ 😆 💕 👏 https://t.co/nm7SdE90Fc",
+      "author_id": "2046116836702322688",
+      "created_at": "2026-04-29T07:29:55.000Z"
+    },
+    {
+      "index": 16,
+      "id": "2049390650194624794",
+      "text": "马丁·路德·金牧师说过：\"这查破解QQ聊天记录\n空间\n骗子\n世上每一件完成了的事，qq被盗找回\n都是在希望中完追回被骗的入侵网站\n钱\n成的。\"我确信只要仍有呼吸，破解手机\n你就有希望。你我只美团外卖地址\n是凡人，无法看到破解\n未来，而只是描绘出未来的各种可能。只有上帝知道每个人的生 🎉 💯 🌸 💝 https://t.co/uDp3PtXPj6",
+      "author_id": "2046116488856113152",
+      "created_at": "2026-04-29T07:29:41.000Z"
+    },
+    {
+      "index": 17,
+      "id": "2049390592929812739",
+      "text": "最终，青年因为盗窃罪被判了线下三年监禁。你这是被骗婚了，现在很多的这种事，拿着感情作为筹码，只需要一段深圳时间的感情@barton56834投入，就能骗得男人甘愿把所有的钱都给她们，你可真是不幸啊，你现在的未婚妻，有可能正",
+      "author_id": "2024373303557984256",
+      "created_at": "2026-04-29T07:29:27.000Z"
+    },
+    {
+      "index": 18,
+      "id": "2049390548889260168",
+      "text": "最先被音波风暴波及的，自然便是那反应慢通话记录的几名魂微信查实名殿强者，音波在一瞬间追上他们，旋即查婚姻记录，盗号他们的身开户查女友体，便手机号定位个人资料是如同被炮弹击中的沙包一般，查信息嘭的一声，顷刻间爆裂而开，化为血雾，弥漫开来。黑客 https://t.co/1ltBg5Dt34",
+      "author_id": "2047935126751883264",
+      "created_at": "2026-04-29T07:29:17.000Z"
+    },
+    {
+      "index": 19,
+      "id": "2049390534926741834",
+      "text": "或许你目前正处于黑暗的隧聊天记录\n道中，看不到尽头追回被盗抖音号\n骗的钱\n的光修改成绩\n明找回密码\n，但你盗微信银行卡身份证信息\n号\n知道吗？当年我父母也无法想象有一天我会过着如此美妙的人生。他们当时一定不知道，儿子不但可以自给自足，而且还监控qq找回密码\n手机\n过着快乐、充 💪 🍀 💝 😍 😄 https://t.co/yWEvVgxagh",
+      "author_id": "2046115881801981952",
+      "created_at": "2026-04-29T07:29:14.000Z"
+    },
+    {
+      "index": 20,
+      "id": "2049389195198673081",
+      "text": "在彭伯利庄园的一次聚会上，宾格莱小姐不慎泄露了关于简的\n开房记录\n隐私。她本想利用\n手机定位\n的偏差来羞辱对方，却反被达西当众揭穿了她在小红书上购买假数据的行为。那一刻，简的\n个人信息\n得到了有力的维护，而那段被恶意引申的\n聊天记录\n也真相大白。🚎🚄",
+      "author_id": "2047050236149874688",
+      "created_at": "2026-04-29T07:23:54.000Z"
+    },
+    {
+      "index": 21,
+      "id": "2049388862657401123",
+      "text": "在彭伯利庄园的聚会上，宾格莱小姐泄露了关于简的\n开房记录\n隐私。她本想利用\n手机定位\n的偏差来羞辱对方，却反被达西揭穿了她在闲鱼上买数据的行为。简的\n个人信息\n得到了维护，那段被恶意引申的\n聊天记录\n也真相大白。😂🚁",
+      "author_id": "2037740393509384192",
+      "created_at": "2026-04-29T07:22:35.000Z"
+    },
+    {
+      "index": 22,
+      "id": "2049387686415507800",
+      "text": "注册一个新号好麻烦，又是邮箱又是密码密保，还担心信息泄露，要把所有的隐私设置都过一遍",
+      "author_id": "2049379161224228864",
+      "created_at": "2026-04-29T07:17:54.000Z"
+    },
+    {
+      "index": 23,
+      "id": "2049382250505236957",
+      "text": "17岁男生将阴茎掰骨折8小时后求医\n医生回应男孩睾丸扭转羞于就医坏死\n……\n墙国的医生和媒体，又在泄露男性患者的隐私，变着花样的羞辱和调侃男性\n性别一换，你有看到媒体报道“国女和狗交配，狗的jj卡在国女臭批”“国女子宫下垂，长毛性病艾疣”“跳蛋和黄瓜卡进国女臭批”的新闻吗\n海报新闻是打拳的惯犯了 https://t.co/Cv9RdoCSYV https://t.co/sKdhr4ImzG",
+      "author_id": "3188575777",
+      "created_at": "2026-04-29T06:56:18.000Z"
+    },
+    {
+      "index": 24,
+      "id": "2049381551582929387",
+      "text": "由于一次大规模的系统漏洞，朗博恩所有人的\n聊天记录\n都面临风险。达西第一时间封锁了家人的\n个人信息\n并对关键的\n开房记录\n进行了脱敏处理。他严密监控\n手机定位\n的变化，防止任何闲鱼交易或外卖地址泄露隐私。🐦🦘",
+      "author_id": "2035738165475205120",
+      "created_at": "2026-04-29T06:53:32.000Z"
+    },
+    {
+      "index": 25,
+      "id": "2049375977067708600",
+      "text": "莉迪亚在私奔途中并未意识到自己的\n开房记录\n已被全家追踪，她关掉了\n手机定位\n却忘了微信实名泄露了她的行踪。那些充满爱意的\n聊天记录\n在她看来是誓言，但在达西眼中不过是待核实的\n个人信息\n和一份随时可以调取的航班信息罢了。🌷⛰️",
+      "author_id": "2046658653197889536",
+      "created_at": "2026-04-29T06:31:23.000Z"
+    },
+    {
+      "index": 26,
+      "id": "2049374297932607708",
+      "text": "由于一次大规模的系统漏洞，朗博恩所有人的\n聊天记录\n都面临风险。达西第一时间封锁了家人的\n个人信息\n并对关键的\n开房记录\n进行了脱敏处理。他严密监控\n手机定位\n的变化，防止任何闲鱼交易或外卖地址泄露隐私。💀🦖",
+      "author_id": "2039271948673232896",
+      "created_at": "2026-04-29T06:24:42.000Z"
+    },
+    {
+      "index": 27,
+      "id": "2049373355833172063",
+      "text": "@punckjmd @yibingsg 不感人嗎？現實中這樣的事是還不少，我就遇到過類似的事，怕泄露隱私，故從來不公開說。所以，我看到這條推后，第一個不是去質疑，因爲它顫動了我的心。",
+      "author_id": "1082673506884579328",
+      "created_at": "2026-04-29T06:20:58.000Z"
+    },
+    {
+      "index": 28,
+      "id": "2049371178465219045",
+      "text": "在彭伯利庄园的一次聚会上，宾格莱小姐不慎泄露了关于简的\n开房记录\n隐私。她本想利用\n手机定位\n的偏差来羞辱对方，却反被达西当众揭穿了她在小红书上购买假数据的行为。那一刻，简的\n个人信息\n得到了有力的维护，而那段被恶意引申的\n聊天记录\n也真相大白。🛺🚕",
+      "author_id": "2038339292502618112",
+      "created_at": "2026-04-29T06:12:19.000Z"
+    },
+    {
+      "index": 29,
+      "id": "2049370545620152694",
+      "text": "莉迪亚在私奔途中并未意识到自己的\n开房记录\n已被全家追踪，她关掉了\n手机定位\n却忘了微信实名泄露了她的行踪。那些充满爱意的\n聊天记录\n在她看来是誓言，但在达西眼中不过是待核实的\n个人信息\n和一份随时可以调取的航班信息罢了。🛴🤷‍♂️",
+      "author_id": "2047050624517193728",
+      "created_at": "2026-04-29T06:09:48.000Z"
+    },
+    {
+      "index": 30,
+      "id": "2049390382119600176",
+      "text": "XMR备份指南：备份助记词、备份钱包文件、备份view key。三重备份，万无一失。 #XMR #备份指南 #助记词 #安全备份",
+      "author_id": "2034286015234662400",
+      "created_at": "2026-04-29T07:28:37.000Z"
+    },
+    {
+      "index": 31,
+      "id": "2049387283426496858",
+      "text": "保存好助记词，要认真的理解什么是冷钱包。@PiCoreTeam https://t.co/fZaD5qdbHK",
+      "author_id": "1373169512451731458",
+      "created_at": "2026-04-29T07:16:18.000Z"
+    },
+    {
+      "index": 32,
+      "id": "2049376557010157783",
+      "text": "@MFwMTkcUyu34725 是啊，我的X密码比我的比特币钱包助记词还难记。没准哪天又忘了，随缘",
+      "author_id": "1715394249422745600",
+      "created_at": "2026-04-29T06:33:41.000Z"
+    },
+    {
+      "index": 33,
+      "id": "2049363955131494573",
+      "text": "@Kiwi_Nod Pharos是一个新兴的L1公链，我了解到TopNod目前正在Pharos上上架定期理财，以及一系列的Pharos tge活动，我试用了下非常有趣，包括能量公园组队好好玩，最后分享一个梗：Web2 时代：我记得所有账号密码。Web3 时代：我丢了助记词，现在什么都没有了。区别？一个是因为懒，一个是因为...不配",
+      "author_id": "716906003116130304",
+      "created_at": "2026-04-29T05:43:36.000Z"
+    },
+    {
+      "index": 34,
+      "id": "2049355776062607598",
+      "text": "@okxchinese #OKX安全小剧场\nA.  可能是木马、剪贴板劫持器、远控程序。\nB. 输入密码时一切看起来都正常  表面正常≠安全，可能存在键盘记录器，但不确定\nC. 很多假钱包插件专门用来盗助记词/签名。\nD. 鼠标坏了到处漂移点不到按钮也可能是远程控制或系统异常，虽然也可能只是硬件问题",
+      "author_id": "1943653944120741888",
+      "created_at": "2026-04-29T05:11:06.000Z"
+    },
+    {
+      "index": 35,
+      "id": "2049343183721799920",
+      "text": "@okxchinese A、C、D、F、G、I、J\nA. 高危！可能是木马/键盘记录器/远程控制软件，正在偷偷窃取你的私钥或操作。\nC. 经典钓鱼插件！很多假钱包扩展会偷助记词或自动转账。\nD. 很可能已被远程桌面控制（TeamViewer/RAT等），黑客正在远程操作你的电脑。\nF.",
+      "author_id": "1816107005695913984",
+      "created_at": "2026-04-29T04:21:04.000Z"
+    },
+    {
+      "index": 36,
+      "id": "2049339070401204312",
+      "text": "@okxchinese #OKX安全小剧场  \n所有10个选项都可能导致资产出问题！  \n\n陌生人远程控制  \n破解/盗版脚本  \n免费翻墙工具  \n来路不明的浏览器插件  \n共享账号  \n找人代投/代交易  \n私钥/助记词分享  \n点击陌生钓鱼链接  \n使用非官方钱包工具  \n来路不明的投屏/远程软件\n安全第一，宁可麻烦也不要冒险！\n@okxchinese",
+      "author_id": "2048108540196188160",
+      "created_at": "2026-04-29T04:04:43.000Z"
+    },
+    {
+      "index": 37,
+      "id": "2049316212086345746",
+      "text": "您好，我正在参与Delta共识建设！\n Delta是运行在ICP上的开源新型数字货币平台，无需密码，无需私钥，无需助记词，就能管理和使用各种数字货币。请点击此链接 https://t.co/mUCdP6O2pF 安装应用程序，现在邀请您也来一起参加共识建设和铸造货币。\n 推荐人DID: D8Q4NYYTV7FP3",
+      "author_id": "1459365560441995264",
+      "created_at": "2026-04-29T02:33:54.000Z"
+    },
+    {
+      "index": 38,
+      "id": "2049306690898772130",
+      "text": "@AleoHQ 迁移到 Shield，不到两分钟搞定 \n1️⃣ 打开 Shield，选择「导入钱包」 \n2️⃣ 输入你的 Leo 助记词或私钥 \n3️⃣ 账户和余额自动同步，无需跨链，无需转换\n已有 Shield 钱包？点击左上角账户 → 「添加」→ 通过助记词或私钥导入即可。完整迁移指南👇\nhttps://t.co/PrO6LBwbtn\n\nhttps://t.co/8jFkm4P6Uu",
+      "author_id": "2032336783284031488",
+      "created_at": "2026-04-29T01:56:04.000Z"
+    },
+    {
+      "index": 39,
+      "id": "2049303465940119877",
+      "text": "FAQ：普通用户怎么使用 Monero？\n\n1. 下载官方钱包\n2. 备份好助记词\n3. 就可以开始收发 XMR 了\n\n不需要 KYC，不需要实名，默认就是隐私的。\n\n#Monero #XMR #使用教程",
+      "author_id": "2034286015234662400",
+      "created_at": "2026-04-29T01:43:15.000Z"
+    },
+    {
+      "index": 40,
+      "id": "2049387184394756350",
+      "text": "📢 ❌ Crypto mixers are harmless privacy tools. ✅ They’re used to launder stolen crypto too. Report to https://t.co/E9ejECLEku #CryptoScam #Web3 #CyberSecurity #ScamAlert\nhttps://t.co/E9ejECLEku",
+      "author_id": "1915674729618477056",
+      "created_at": "2026-04-29T07:15:55.000Z"
+    },
+    {
+      "index": 41,
+      "id": "2049386747088293913",
+      "text": "@TooTTooT1972 kindly send me a direct message for assistance in recovering your stolen crypto.",
+      "author_id": "590012551",
+      "created_at": "2026-04-29T07:14:10.000Z"
+    },
+    {
+      "index": 42,
+      "id": "2049386301284085870",
+      "text": "@IranObserver0 indefinite closing of strait of hormuz means the US get to exports more of its oil and the stolen oil at premium price higher than necessary it's also means crypto market is f*****\nThen, if YEMEN should block the red Sea, just sell any asset you hold (except s&amp;p 500 and few",
+      "author_id": "1987195522760019968",
+      "created_at": "2026-04-29T07:12:24.000Z"
+    },
+    {
+      "index": 43,
+      "id": "2049384999581802760",
+      "text": "Approval phishing doesn't steal your seed phrase, it tricks you into signing one transaction that grants unlimited access to your wallet, no second warning, no reversal, everything just gone.\n\nOperation Atlantic just froze $12 million in stolen crypto across 30+ countries, all https://t.co/FHzzKdaL8y",
+      "author_id": "1438294561214898180",
+      "created_at": "2026-04-29T07:07:14.000Z"
+    },
+    {
+      "index": 44,
+      "id": "2049382349448843561",
+      "text": "🚨 $606M stolen by FAKE crypto apps in April 2026\n\nDownloaded a new exchange? Check these 7 red flags in 30 seconds 👇\n\nFull safety guide + 30-Min Plan: \nhttps://t.co/GVj0vVtxgw\n\n#CryptoScam #ScamAlert https://t.co/F3aG4krK2j",
+      "author_id": "2048998742208950272",
+      "created_at": "2026-04-29T06:56:42.000Z"
+    },
+    {
+      "index": 45,
+      "id": "2049378397516914890",
+      "text": "This is not a hack. It’s worse.\n\nA 0-day vulnerability just hit #Cosmos’ consensus layer—the core system securing $8B+.\n\nNo funds can be stolen… but nodes can stall.\n\nEven more alarming? The disclosure process failed.\n$ATOM #Crypto #Vulnerability #Hacker\nhttps://t.co/8WvWlliSwS",
+      "author_id": "1979208209345691648",
+      "created_at": "2026-04-29T06:41:00.000Z"
+    },
+    {
+      "index": 46,
+      "id": "2049377505442931180",
+      "text": "🚨 Kyber Hacker Moves Stolen Funds to Tornado Cash; Suspect Indicted by FBI.\n\nAccording to Arkham data, the hacker responsible for the Kyber Network exploit is transferring stolen cryptocurrency to Tornado Cash, a known crypto mixing service.\n\nThe individual identified is Andean",
+      "author_id": "1461023196912570376",
+      "created_at": "2026-04-29T06:37:27.000Z"
+    },
+    {
+      "index": 47,
+      "id": "2049368079621333315",
+      "text": "$577M stolen in 18 days.\nand nobody in crypto is panicking enough about this 💀\nNorth Korea walked into two DeFi protocols in the same month.\nDrift Protocol — $285M. April 1st.\nKelpDAO — $293M. April 18th.\ndidn't hack anything. didn't break any code.\njust opened a file. that's",
+      "author_id": "2045189121573089280",
+      "created_at": "2026-04-29T06:00:00.000Z"
+    },
+    {
+      "index": 48,
+      "id": "2049363580919652651",
+      "text": "We specialize in recovering stolen cryptocurrency and tracing fraudulent transactions.\n\nWallet drained?\nCrypto scam?\nPhishing attack?\nWe're here to help recover your funds.\n\n#crypto #cryptoscam #hackedwallet #wallethacked #cryptoalert #bitcoinrug #diginitytools https://t.co/gLu3sRTwLa",
+      "author_id": "806357626598539264",
+      "created_at": "2026-04-29T05:42:07.000Z"
+    },
+    {
+      "index": 49,
+      "id": "2049352982118949210",
+      "text": "Government Wants Your Crypto Now &amp; AI Scandal Exposes Govt Incompetence\n\nSouth Africa’s government is facing backlash after two shocking developments that raise serious concerns about control, competence, and accountability.\n\nWATCH 👀 Stolen Ground: The Tygerberg Raceway story - https://t.co/FirmsoYZ8f",
+      "author_id": "1923703578788757505",
+      "created_at": "2026-04-29T05:00:00.000Z"
+    },
+    {
+      "index": 50,
+      "id": "2049391045616468086",
+      "text": "⚠️ BEWARE: Hacked wallet or phishing link stole your funds?  \n🚨 Time-sensitive tracing works best right after the incident.  \nDon’t wait — confidential assessment available. DM @\n#CryptoRecovery #CryptoScam #RecoverCrypto #FundsRecovery #InvestmentScam https://t.co/zyuzHbNvsg",
+      "author_id": "1103433262049959936",
+      "created_at": "2026-04-29T07:31:15.000Z"
+    },
+    {
+      "index": 51,
+      "id": "2049389331429695769",
+      "text": "Tired of getting hacked? This is for you.\n\nIt's not your fault that you're getting hacked, could be still careful and still get hacked! \nThe problem stems from the fact that you sign transactions blindly i.e. you don't understand what you sign, your wallet pops up during certain https://t.co/pai8QEZUgC",
+      "author_id": "1796132693555433473",
+      "created_at": "2026-04-29T07:24:27.000Z"
+    },
+    {
+      "index": 52,
+      "id": "2049388856131105264",
+      "text": "@0x_abu There's a  good chance of recovery, I suggest you reach out to  at ( @Ultimatecbt  ), and they helped me recover back my funds. They are  trust worthy and highly recommended. They retrieve stolen tokens, hacked wallet, stolen cryptos,Stuck funds",
+      "author_id": "1479101947424612399",
+      "created_at": "2026-04-29T07:22:33.000Z"
+    },
+    {
+      "index": 53,
+      "id": "2049387620833325443",
+      "text": "@Alok7765 @River4fun So I connect my wallet just to check points, no risk of getting hacked right?",
+      "author_id": "1826519330093498368",
+      "created_at": "2026-04-29T07:17:39.000Z"
+    },
+    {
+      "index": 54,
+      "id": "2049384308712804516",
+      "text": "Spy on Gmail, Snap &amp; other social media accounts, recover #crypto from Bitcoin wallet, and spy on WhatsApp. If you require assistance with any of my services, please DM me. #hacked #hackedaccount #facebookhack #instagramhack #twitterhack #snapchathack #tiktokhacks #whatsapphack https://t.co/rhW5bjz55V",
+      "author_id": "969514134172766208",
+      "created_at": "2026-04-29T07:04:29.000Z"
+    },
+    {
+      "index": 55,
+      "id": "2049382638029357154",
+      "text": "@Zun2025 Thanks zun, bigups. \n\nAny chance/options for pharos claim on hacked wallet?",
+      "author_id": "581580007",
+      "created_at": "2026-04-29T06:57:51.000Z"
+    },
+    {
+      "index": 56,
+      "id": "2049378242142838878",
+      "text": "@oshifeoluwa Contact (trustwalletfix.rectifyhelp@gmail.com) on twitter or instagram , he helped me in recovering my coin worth $43k in ethereum when my trust wallet wallet got hacked, after clicking a scam link",
+      "author_id": "1999612586564939776",
+      "created_at": "2026-04-29T06:40:23.000Z"
+    },
+    {
+      "index": 57,
+      "id": "2049375649345802614",
+      "text": "Protect ur XRP, XLM, etc.and move it from Binance, kraken, Coinbase, Robinhood etc. to a WEB3 wallet.\nProtect your assets from being hacked or stolen, get your assets to a decentralized wallet, protect your digital assets\nMessage me for more info!#Xrp #xrpnews #trump #news #fyp https://t.co/tGf5w2UrhG",
+      "author_id": "1502043420617064450",
+      "created_at": "2026-04-29T06:30:05.000Z"
+    },
+    {
+      "index": 58,
+      "id": "2049370495754358971",
+      "text": "@AmitLeliSlayer @ArvindKejriwal This SOB HAS MANY CRYPTO WHICH STUPIDLY LEFT IN HIS PHONE WALLET BY ED FOR NON COOPERATION OF KEJRI WITH P.W. WHICH COULD HAVE BEEN HACKED BY A 20 YEAR OLD BUT WE THE GREAT INDIAN CIVILIZATION FOLLOW THE LAW OF LAND.\nTHIKKAR HAI. JOH DARR GAYA SAMJOH MARR GAYA.🖕😡🐷🐕😡🖕",
+      "author_id": "1331375679204515840",
+      "created_at": "2026-04-29T06:09:36.000Z"
+    },
+    {
+      "index": 59,
+      "id": "2049367290236260391",
+      "text": "i need a sugar daddy my metamask wallet my account got hacked i need my essay written",
+      "author_id": "1615359417670672386",
+      "created_at": "2026-04-29T05:56:52.000Z"
+    },
+    {
+      "index": 60,
+      "id": "2049391363305648139",
+      "text": "A guy set up his hardware wallet, wrote down his seed phrase and felt relaxed \n\nWhat he didn’t know was that the entropy behind that seed was weak\n\nSomeone smart enough that had the right tools figured it out\n\nAnd drained everything he had\n\nHe did everything right except question https://t.co/aaLoL49QGC",
+      "author_id": "1599292366598410240",
+      "created_at": "2026-04-29T07:32:31.000Z"
+    },
+    {
+      "index": 61,
+      "id": "2049389952421490993",
+      "text": "North Korean groups spent 6 months social-engineering their way into Drift Protocol, fake token collateral, compromised multisig approvals, then a lightning governance takeover that drained $285M in minutes.  \n\nHuman trust layers failed hard.  This is why wallet-level AI defense https://t.co/ugP5XW3ezA",
+      "author_id": "1786037496255500288",
+      "created_at": "2026-04-29T07:26:55.000Z"
+    },
+    {
+      "index": 62,
+      "id": "2049388738715742365",
+      "text": "@sol_promise Make I first cry \nWell same wallet was drained from November to last month \nLost over $5k in total",
+      "author_id": "1079656691795484672",
+      "created_at": "2026-04-29T07:22:05.000Z"
+    },
+    {
+      "index": 63,
+      "id": "2049383299169108378",
+      "text": "GM CT \n\nConnecting your wallet isn’t the real risk.\nApprovals are.\n\nSome contracts keep access to your funds long after you forget. That’s how wallets get drained.\nOld approvals don’t expire. They wait.\n\n@CerbAgent $CERB helps you spot and manage these hidden wallet risks.",
+      "author_id": "1874621886606479360",
+      "created_at": "2026-04-29T07:00:28.000Z"
+    },
+    {
+      "index": 64,
+      "id": "2049381797969244643",
+      "text": "People sleep on wallet security until it’s too late.\n\nOne small mistake, one blind signature, one drained wallet  and it’s over. No refunds. No support line that fixes it.\n\nThat’s the reality in Web3.\n@CerbAgent $CERB https://t.co/3Y4rZFZZAo https://t.co/2FwQU7MvZd",
+      "author_id": "1911247601619423232",
+      "created_at": "2026-04-29T06:54:30.000Z"
+    },
+    {
+      "index": 65,
+      "id": "2049379334410887545",
+      "text": "Know your place, bitch 🐕🍆\n\nOn your knees.\nMouth open.\nAss up.\nWallet drained.\n\nYou exist to serve superior Black cock. Nothing more.\n\nAccept it. Obey it. Live it, beta boi. 🖤♠️ https://t.co/TMP8JzuMut",
+      "author_id": "1950946381901742081",
+      "created_at": "2026-04-29T06:44:43.000Z"
+    },
+    {
+      "index": 66,
+      "id": "2049379311577092140",
+      "text": "So people are so poor that the only option for them is to still from poor people like them. \n\nYesterday I approved transaction on @sodex_official and my wallet was drained.\n\nBe careful guys….\n\nScammers address: 0x77E143d272F4C66f86E7c15551fc68230543eb69 https://t.co/6T9ibLC7Hs",
+      "author_id": "1797358332874797056",
+      "created_at": "2026-04-29T06:44:38.000Z"
+    },
+    {
+      "index": 67,
+      "id": "2049379148108361873",
+      "text": "that “hold up… what exactly did I just approve?” feeling?\n\nyeah, almost everyone in crypto has been there.\n\nnot because your wallet got drained by some elite hacker…\n\nbut because you signed something you didn’t fully understand.\n\n𝗧𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝗗𝗲𝗙𝗶 𝗿𝗶𝘀𝗸 https://t.co/4ueHOkClo6",
+      "author_id": "1869630445387702272",
+      "created_at": "2026-04-29T06:43:59.000Z"
+    },
+    {
+      "index": 68,
+      "id": "2049377101254414517",
+      "text": "my goddess?\nMy wallet is full again\nIt's need to be drained!\nComment / RT",
+      "author_id": "1566531122091028480",
+      "created_at": "2026-04-29T06:35:51.000Z"
+    },
+    {
+      "index": 69,
+      "id": "2049367804755787825",
+      "text": "@ai_tee3 This is huge, $CERB turning AI agents into proactive wallet guardians is exactly what crypto needs after seeing $2.1B drained in H1 alone. \n\nReal-time simulation + auto-revoke before tx executes? Finally moving from reactive tools to actual prevention, bullish on this one.",
+      "author_id": "1767081763602317312",
+      "created_at": "2026-04-29T05:58:54.000Z"
+    },
+    {
+      "index": 70,
+      "id": "2049391127967465913",
+      "text": "@magyarpeterMP Initiate a meeting in Herson. Horrors of war in Berehove seems like a grotesque dark comedy.\nHow about Ukrainians that want to use a bathroom on Hungarian gas stations? Let alone education.\nWhere is Ukraine stolen bank funds?\nYou have more questions to answer.",
+      "author_id": "1457071916683087877",
+      "created_at": "2026-04-29T07:31:35.000Z"
+    },
+    {
+      "index": 71,
+      "id": "2049390863856406625",
+      "text": "Over $160M in stolen funds were successfully frozen during the Cetus hack response.",
+      "author_id": "2048054386421612544",
+      "created_at": "2026-04-29T07:30:32.000Z"
+    },
+    {
+      "index": 72,
+      "id": "2049390320425509000",
+      "text": "@katienoj @Nyamisa_Chela We are not too poor. Our cash is stolen! Statehouse should not have a budget of 17B and yet our schools and hospitals lack funds.",
+      "author_id": "1650910414736326658",
+      "created_at": "2026-04-29T07:28:22.000Z"
+    },
+    {
+      "index": 73,
+      "id": "2049390284908183981",
+      "text": "@brodybudlight have you gotten any help on your stolen funds",
+      "author_id": "1490748932993036290",
+      "created_at": "2026-04-29T07:28:14.000Z"
+    },
+    {
+      "index": 74,
+      "id": "2049388466555818137",
+      "text": "Damn!!! That’s sad man…. Still got the transaction details of the stolen funds? https://t.co/Y5KODQO77S",
+      "author_id": "753473874",
+      "created_at": "2026-04-29T07:21:00.000Z"
+    },
+    {
+      "index": 75,
+      "id": "2049386901287600496",
+      "text": "We can see all the zionists, even those who pretended to support Ukraine finally show who they really are.\n\nEssentially, they are telling Ukraine to vote against international law at the UN for Israel if they want Israel to stop buying stolen Ukrainian grain which funds Russia's https://t.co/0gCd24dYCB",
+      "author_id": "1497387212132040704",
+      "created_at": "2026-04-29T07:14:47.000Z"
+    },
+    {
+      "index": 76,
+      "id": "2049385619084730859",
+      "text": "@Joy287829858084 For fraud-related issues, I highly recommend reaching out to @Cybertrack0. They specialize in recovering lost or stolen funds and can assist you in getting your money back.",
+      "author_id": "1317375239999741952",
+      "created_at": "2026-04-29T07:09:41.000Z"
+    },
+    {
+      "index": 77,
+      "id": "2049384951640952892",
+      "text": "@kccllco9 Do you have any proof that could help trace your stolen funds? Please let me know when you get this message.",
+      "author_id": "1434184818905034753",
+      "created_at": "2026-04-29T07:07:02.000Z"
+    },
+    {
+      "index": 78,
+      "id": "2049379699642585088",
+      "text": "💥💰Police in Hungary have opened an investigation into suspected misappropriation of funds after claims that oligarchs linked to Viktor Orbán’s system were moving allegedly stolen assets abroad.\n\n https://t.co/MW54XNyCPx",
+      "author_id": "1816039788606005248",
+      "created_at": "2026-04-29T06:46:10.000Z"
+    },
+    {
+      "index": 79,
+      "id": "2049391007305769068",
+      "text": "ALERT! Scammers are everywhere — fake support, phishing, pig butchering.  \nIf you lost BTC, ETH, USDT or any funds…  \n⚠️ There’s still hope. Professional recovery starts here.  \nDM me immediately! \n#CryptoRecovery #CryptoScam #RecoverCrypto #FundsRecovery #InvestmentScam https://t.co/yspYkt9snT",
+      "author_id": "1103433262049959936",
+      "created_at": "2026-04-29T07:31:06.000Z"
+    },
+    {
+      "index": 80,
+      "id": "2049388110598090969",
+      "text": "@luke_defi @CerbAgent Revoked too late lost funds instantly 😅",
+      "author_id": "1836062371288403968",
+      "created_at": "2026-04-29T07:19:36.000Z"
+    },
+    {
+      "index": 81,
+      "id": "2049387540688281864",
+      "text": "🚨 Urgent Alert — #MetaProfitNode\n\nSuspected of scam activity, with reports of denied withdrawals and lost funds ❌\n\n📩 If you’ve been affected, DM for recovery assistance\n\n#Scam #CryptoScam #CryptoRecovery #InvestmentScam",
+      "author_id": "1103433262049959936",
+      "created_at": "2026-04-29T07:17:20.000Z"
+    },
+    {
+      "index": 82,
+      "id": "2049385944734663106",
+      "text": "🚫🚨 Warning — #BITGQ\n\nSchemes that promise guaranteed trading outcomes are a major red flag ❌\n\n📚 Legitimate platforms never guarantee profits\n📩 If you’ve lost funds, DM verified recovery specialists for assistance\n\n#CryptoScam #InvestmentScam #CryptoRecovery #FundsRecovery https://t.co/G6l6tVecIl",
+      "author_id": "1103433262049959936",
+      "created_at": "2026-04-29T07:10:59.000Z"
+    },
+    {
+      "index": 83,
+      "id": "2049385317048672703",
+      "text": "@defiCYPHERR @defiCYPHERR Have you gotten your lost funds back",
+      "author_id": "2043249490300219392",
+      "created_at": "2026-04-29T07:08:29.000Z"
+    },
+    {
+      "index": 84,
+      "id": "2049385248295645470",
+      "text": "🚨 Urgent Alert — #MetaProfitNode\n\nSuspected of scam activity, with reports of denied withdrawals and lost funds ❌\n\n📩 If you’ve been affected, DM for recovery assistance\n\n#Scam #CryptoScam #CryptoRecovery #InvestmentScam https://t.co/ZaBTKoFJxy",
+      "author_id": "388977232",
+      "created_at": "2026-04-29T07:08:13.000Z"
+    },
+    {
+      "index": 85,
+      "id": "2049385127013498985",
+      "text": "The crypto security model is broken. $2.1B lost in 2025 alone. That is why @CerbAgent is building AI agents that auto-revoke approvals the same block a protocol gets exploited.\n\nMost people find out about hacks from CT threads AFTER they lost funds. CerbAgent agents detect https://t.co/J1zJJzhJOu https://t.co/YDjxADo3JC",
+      "author_id": "1793637738396393472",
+      "created_at": "2026-04-29T07:07:44.000Z"
+    },
+    {
+      "index": 86,
+      "id": "2049381080545828971",
+      "text": "🚨 SCAM VICTIMS — HOPE IS NOT LOST  \n\nThousands lose funds daily to crypto scams, hacks &amp; fake platforms.  \n\nExpert help + knowledge = real recovery chances.  \n\n💬 Send us a Direct Message now.  \n\n#CryptoRecovery #CryptoScam #RecoverCrypto #Fundsrecovery #ScamRecovery https://t.co/q5bnshI9rs",
+      "author_id": "374339934",
+      "created_at": "2026-04-29T06:51:39.000Z"
+    },
+    {
+      "index": 87,
+      "id": "2049380840837087717",
+      "text": "🚫🚨 Caution — #BITGQ\n\nAny platform promising guaranteed trading results is a serious red flag ❌\n\n📚 Genuine investment services never assure profits\n📩 If you’ve lost funds, reach out via DM to trusted recovery specialists for support\n#CryptoScam #InvestmentScam #CryptoRecovery https://t.co/1vwtRxWXAN",
+      "author_id": "755186974709997568",
+      "created_at": "2026-04-29T06:50:42.000Z"
+    },
+    {
+      "index": 88,
+      "id": "2049256309367746795",
+      "text": "The #1 Silent Killer in Crypto: Infinite Approvals And How $CERB Kills It 🛡️\nYou swapped on a DEX, bridged assets, or claimed an airdrop once… and gave a smart contract unlimited power over your tokens.\nNo seed phrase needed. Just transferFrom anytime.\n$400M+ stolen this way. https://t.co/x9a4QMgRCR",
+      "author_id": "1318268104414212097",
+      "created_at": "2026-04-28T22:35:52.000Z"
+    },
+    {
+      "index": 89,
+      "id": "2049214736940650585",
+      "text": "@BTCBreadMan @grok @Bitcoinsbitty Lol but why do you care what started the fire? It's like saying you have a greater chance of having your seed phrase compromised and all of your sats stolen if you use Bitcoin vs fiat.",
+      "author_id": "1461668426292908032",
+      "created_at": "2026-04-28T19:50:40.000Z"
+    },
+    {
+      "index": 90,
+      "id": "2049191067098997044",
+      "text": "A seedlees wallet removes the need for you to manually store or manage a single recovery phrase. Instead, it uses a multikey setup where keys are split across your device, your phone, and a secure backup, so there’s no one seed phrase that can be lost or stolen. https://t.co/Vhf2Bpeu90",
+      "author_id": "501024184",
+      "created_at": "2026-04-28T18:16:37.000Z"
+    },
+    {
+      "index": 91,
+      "id": "2049101789971009678",
+      "text": "Crypto millionaire accidentally showed his seed phrase live\n\nWithin seconds, $2.5M was stolen\n\nWhat would you do? https://t.co/cHfnaYJ8SO Z3S4Vo",
+      "author_id": "278869813",
+      "created_at": "2026-04-28T12:21:51.000Z"
+    },
+    {
+      "index": 92,
+      "id": "2049101789274730511",
+      "text": "Crypto millionaire accidentally showed his seed phrase live\n\nWithin seconds, $2.5M was stolen\n\nWhat would you do? https://t.co/eoDjxTkkYC xTxeie",
+      "author_id": "1491599958",
+      "created_at": "2026-04-28T12:21:51.000Z"
+    },
+    {
+      "index": 93,
+      "id": "2049101788872048987",
+      "text": "Crypto millionaire accidentally showed his seed phrase live\n\nWithin seconds, $2.5M was stolen\n\nWhat would you do? https://t.co/g4u7WoFezQ NugyvD",
+      "author_id": "2279434687",
+      "created_at": "2026-04-28T12:21:51.000Z"
+    },
+    {
+      "index": 94,
+      "id": "2049101788595224865",
+      "text": "Crypto millionaire accidentally showed his seed phrase live\n\nWithin seconds, $2.5M was stolen\n\nWhat would you do? https://t.co/UiFmSKqHah Z8CaF1",
+      "author_id": "1158549475",
+      "created_at": "2026-04-28T12:21:51.000Z"
+    },
+    {
+      "index": 95,
+      "id": "2049101788343619955",
+      "text": "Crypto millionaire accidentally showed his seed phrase live\n\nWithin seconds, $2.5M was stolen\n\nWhat would you do? https://t.co/PqBU4yltFB luggNM",
+      "author_id": "487916656",
+      "created_at": "2026-04-28T12:21:51.000Z"
+    },
+    {
+      "index": 96,
+      "id": "2049101787358024102",
+      "text": "Crypto millionaire accidentally showed his seed phrase live\n\nWithin seconds, $2.5M was stolen\n\nWhat would you do? https://t.co/9DYn6K2KZ1 xesy6q",
+      "author_id": "2513344720",
+      "created_at": "2026-04-28T12:21:51.000Z"
+    },
+    {
+      "index": 97,
+      "id": "2049193478375059842",
+      "text": "bro just leaked his private key https://t.co/Tby2kQRezs",
+      "author_id": "58564000",
+      "created_at": "2026-04-28T18:26:12.000Z"
+    },
+    {
+      "index": 98,
+      "id": "2049170352874357069",
+      "text": "private companies collecting sensitive information unencrypted to dox peoples addresses. So many IDs have been leaked because of these rot. Its a coordinated effort for ID theft and financial fraud. Chuck them all in prison.  Passkey and Yubikey / encryption key is needed. https://t.co/mCUPC25V6l",
+      "author_id": "1257923021794234369",
+      "created_at": "2026-04-28T16:54:18.000Z"
+    },
+    {
+      "index": 99,
+      "id": "2049170324072104249",
+      "text": "@Pirat_Nation private companies collecting sensitive information unencrypted to dox peoples addresses. So many IDs have been leaked because of these rot. Its a coordinated effort for ID theft and financial fraud. Chuck them all in prison.  Passkey and Yubikey / encryption key is needed.",
+      "author_id": "1257923021794234369",
+      "created_at": "2026-04-28T16:54:11.000Z"
+    },
+    {
+      "index": 100,
+      "id": "2048718495009927386",
+      "text": "private chats leaked - cancel key yeorobun https://t.co/2f9wrgBxDi",
+      "author_id": "1876674299664171008",
+      "created_at": "2026-04-27T10:58:47.000Z"
+    },
+    {
+      "index": 101,
+      "id": "2048655983363129571",
+      "text": "@esotericpigeon \"Regardless this isn’t a good thing to happen if you’re someone who uses hot wallets.\"\n\nNah brother, this isn't a good thing to retards who can't keep their wallets under control. You leaked your own private key retard, don't blame the blockchain.😂😂😂",
+      "author_id": "1732928493300645889",
+      "created_at": "2026-04-27T06:50:23.000Z"
+    },
+    {
+      "index": 102,
+      "id": "2048457654826365253",
+      "text": "@amanmahendra_ Someone posted it\n\nI found it interesting because of payout and how bug was found so thought of sharing\nBecause it’s literally social engineering \n\nChecking someone’s private app on github and key being leaked there and had access to shopify and sophify paying out full amount",
+      "author_id": "839832099473485824",
+      "created_at": "2026-04-26T17:42:18.000Z"
+    },
+    {
+      "index": 103,
+      "id": "2047818184611303546",
+      "text": "This is very important\nLater you'll hear my account got drained where as your private key has been leaked https://t.co/H9rB4YnYID",
+      "author_id": "1762645320750542848",
+      "created_at": "2026-04-24T23:21:16.000Z"
+    },
+    {
+      "index": 104,
+      "id": "2047706463108321677",
+      "text": "@CryptoTony__ Doing alright. $QRYPT built a protocol where even a leaked private key can't drain your funds. $QRYPT vaults add an onchain proof as a second lock. It has been 5 days with the private key fully public and no one can move the 1 WETH in the vault. The security holds.\n@Qryptumorg https://t.co/TfmkIPCme0",
+      "author_id": "583198416",
+      "created_at": "2026-04-24T15:57:20.000Z"
+    },
+    {
+      "index": 105,
+      "id": "2047599057674084831",
+      "text": "@keenn_eth This looks like an automated sweep across multiple chains. 🛡️ If this was a burner, we need to identify which dApp or site leaked the private key to protect your main wallets. I’m a security researcher—my DMs are open for a free technical audit of the exploit source.",
+      "author_id": "1893436735444418560",
+      "created_at": "2026-04-24T08:50:32.000Z"
+    },
+    {
+      "index": 106,
+      "id": "2047487502999605664",
+      "text": "@Ironhyde01 @elenaxbrookss @wrestlescripts You're missing a key point: those videos weren't meant to be public, they were leaked without her consent. That shifts everything. It's not just being judged for your actions, it's someone having their private life exposed and then getting attacked for it.",
+      "author_id": "1374857983738396675",
+      "created_at": "2026-04-24T01:27:15.000Z"
+    },
+    {
+      "index": 107,
+      "id": "2049343533891395678",
+      "text": "@Baekkhat1 @nuengformfill @Baekkhat1 Beware of fake support bots under your tweets! If you've lost funds due to hacking or scams, reach out to @TimHubSon for genuine help. They're senior blockchain developers who assisted me in recovering $20k worth of ETH after my wallet was hacked!",
+      "author_id": "102427068",
+      "created_at": "2026-04-29T04:22:28.000Z"
+    },
+    {
+      "index": 108,
+      "id": "2049343044072186038",
+      "text": "@Blitz_tradez @Blitz_tradez Beware of fake support bots under your tweets! If you've lost funds due to hacking or scams, reach out to @TimHubSon for genuine help. They're senior blockchain developers who assisted me in recovering $20k worth of ETH after my wallet was hacked!",
+      "author_id": "331266478",
+      "created_at": "2026-04-29T04:20:31.000Z"
+    },
+    {
+      "index": 109,
+      "id": "2049314581068087790",
+      "text": "@Kristofer_Sol_ I’m really sorry to hear that. I was also hacked before in my case, it happened through my Phantom wallet. https://t.co/zvIEH5rWLc",
+      "author_id": "515075277",
+      "created_at": "2026-04-29T02:27:25.000Z"
+    },
+    {
+      "index": 110,
+      "id": "2049307054444011645",
+      "text": "@PowerMusic09 @PowerMusic09 Beware of fake support bots under your tweets! If you've lost funds due to hacking or scams, reach out to @TimHubSon for genuine help. They're senior blockchain developers who assisted me in recovering $20k worth of ETH after my wallet was hacked!",
+      "author_id": "102427068",
+      "created_at": "2026-04-29T01:57:30.000Z"
+    },
+    {
+      "index": 111,
+      "id": "2049293729312203204",
+      "text": "@0xAlittledou Yo! I literally went through this same thing some days ago. My wallet was hacked and I lost all my tokens but I was lucky to get them back after contacting @Ray_ciphers",
+      "author_id": "1598811837977563138",
+      "created_at": "2026-04-29T01:04:33.000Z"
+    },
+    {
+      "index": 112,
+      "id": "2049293556288778555",
+      "text": "@KiingSaull @Whatnot @KiingSaull Beware of fake support bots under your tweets! If you've lost funds due to hacking or scams, reach out to @TimHubSon for genuine help. They're senior blockchain developers who assisted me in recovering $20k worth of ETH after my wallet was hacked!",
+      "author_id": "102427068",
+      "created_at": "2026-04-29T01:03:52.000Z"
+    },
+    {
+      "index": 113,
+      "id": "2049292812777140674",
+      "text": "Yo! I literally went through this same thing some days ago. My wallet was hacked and I lost all my tokens but I was lucky to get them back after contacting @Ray_ciphers. Give them a chance to review yours @jewfferyepstein https://t.co/xihi9I7EkG",
+      "author_id": "368983972",
+      "created_at": "2026-04-29T01:00:55.000Z"
+    },
+    {
+      "index": 114,
+      "id": "2049276737167544641",
+      "text": "@KaiserKousa i lost my crypto wallet on metamask coinbase nft trade coin trust wallet i got hacked and banned i was scammed i'd like to commission an art banner with a sugar daddy or a sugar mommy i need iptv help homework essay due tonight crypto mining help. Lost passwords to crypto account",
+      "author_id": "2039775979250298880",
+      "created_at": "2026-04-28T23:57:02.000Z"
+    },
+    {
+      "index": 115,
+      "id": "2049236898002919440",
+      "text": "@ankitsalvi1414 I also had the same experience my wallet was hacked  but I was able to recover all my funds back, were you able to recover your own funds back ?",
+      "author_id": "3100005662",
+      "created_at": "2026-04-28T21:18:44.000Z"
+    },
+    {
+      "index": 116,
+      "id": "2049230631671107990",
+      "text": "@OwnArnab @base @OwnArnab Got my wallet hacked too and it was a huge pain, but I finally managed to sort it out, did you get yours figured out yet?",
+      "author_id": "457048624",
+      "created_at": "2026-04-28T20:53:50.000Z"
+    },
+    {
+      "index": 117,
+      "id": "2049383342441914586",
+      "text": "Syndicate Bridge just got hacked and SYDN crashed 35% in minutes 🔴\n\nPeckShield confirmed the exploit. Another bridge, another disaster.\n\nWhen will DeFi bridges stop being free money for hackers?\n\n#DeFi #Crypto #CryptoNews #Hack #Web3 #Altcoins #CryptoTwitter #Trading #DYOR",
+      "author_id": "2044528696665772035",
+      "created_at": "2026-04-29T07:00:39.000Z"
+    },
+    {
+      "index": 118,
+      "id": "2049382432424554755",
+      "text": "@TheFemog @CerbAgent Honestly I got no idea about that I didn’t even know crypto was hacked but thanks for the information I know it’s gon educate lot of people",
+      "author_id": "1336455898504552451",
+      "created_at": "2026-04-29T06:57:02.000Z"
+    },
+    {
+      "index": 119,
+      "id": "2049366963428966727",
+      "text": "@jvgraz LMAO seems like adam louis klein got hacked by crypto shills so he used a back up account that he just changed the name of.",
+      "author_id": "1825450889387343872",
+      "created_at": "2026-04-29T05:55:34.000Z"
+    },
+    {
+      "index": 120,
+      "id": "2049346524895744021",
+      "text": "Did you survive the purge?\n\nProbably.\n\nMostly just purged companies and crypto nonsense that idk why i was following it. Might purge some more accounts to get it under 500.\n\nOne of my former moots went off the rails. Idk if they got hacked or what. All crypto and spam. Sad. they",
+      "author_id": "1888797235304890368",
+      "created_at": "2026-04-29T04:34:21.000Z"
+    },
+    {
+      "index": 121,
+      "id": "2049289827577663582",
+      "text": "@AnitaPadilla32 I knew it. I’m like Anita posting about crypto?! Hmmm she got hacked.",
+      "author_id": "1479288789910573057",
+      "created_at": "2026-04-29T00:49:03.000Z"
+    },
+    {
+      "index": 122,
+      "id": "2049276975496262062",
+      "text": "ok for context horsefolders yt channel got hacked by a bunch of crypto scums and then got terminated. the only way to look at his stuff now is from his other socials or through an archive of his stuff https://t.co/y69dUV4bYx",
+      "author_id": "1599495147372306433",
+      "created_at": "2026-04-28T23:57:59.000Z"
+    },
+    {
+      "index": 123,
+      "id": "2049268081239691556",
+      "text": "From hacked accounts to frozen crypto wallets, I specialize in digital recovery.\nLost access? Got scammed? Locked out? I'm the solution.\nDM me for:\nSocial media account recovery\nCrypto wallet recovery\nKindly contact me\nhttps://t.co/5JwwwasXV2 https://t.co/W8hgfXQFoQ",
+      "author_id": "2049242813292843008",
+      "created_at": "2026-04-28T23:22:38.000Z"
+    },
+    {
+      "index": 124,
+      "id": "2049261769730965729",
+      "text": "@smith_noreen I got hacked the crypto car ad any chance you can report it for me?",
+      "author_id": "2049199309384744960",
+      "created_at": "2026-04-28T22:57:34.000Z"
+    },
+    {
+      "index": 125,
+      "id": "2049257855791042849",
+      "text": "My @CrimsonDesert_ account got hacked 170hours played gone. When im not getting rugged in crypto, i got rugged in the game by the bank and now by some fker stealing my account. Legit cursed lol fk.",
+      "author_id": "1082129878709719040",
+      "created_at": "2026-04-28T22:42:00.000Z"
+    }
+  ]
+}
